@@ -276,48 +276,4 @@
       <news:title>Marokko wordt grootste industriële economie van Afrika</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/baccalaureaat-2026-in-marokko-slaagpercentage-stijgt-naar-81-6</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T15:05:35.424Z</news:publication_date>
-      <news:title>Baccalaureaat 2026 in Marokko: slaagpercentage stijgt naar 81,6%</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bouwt-negen-nieuwe-stations-voor-regionaal-spoornet-casablanca</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T15:01:29.896Z</news:publication_date>
-      <news:title>Marokko bouwt negen nieuwe stations voor regionaal spoornet Casablanca</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verlaagt-kosten-voor-elektronisch-betalen-vanaf-oktober-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T14:45:34.161Z</news:publication_date>
-      <news:title>Marokko verlaagt kosten voor elektronisch betalen vanaf oktober 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-na-wk-exit-tegen-frankrijk-streng-beoordeeld-door-internationale-pers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T13:25:58.037Z</news:publication_date>
-      <news:title>Marokko na WK-exit tegen Frankrijk streng beoordeeld door internationale pers</news:title>
-    </news:news>
-  </url>
 </urlset>
