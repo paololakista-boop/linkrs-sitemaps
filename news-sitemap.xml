@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/infantino-prijst-de-atlas-leeuwen-na-sterk-wk-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T11:18:28.881Z</news:publication_date>
+      <news:title>Infantino prijst de Atlas Leeuwen na sterk WK 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/twee-derde-van-de-marokkaanse-regio-s-groeit-sneller-dan-het-landelijke-gemiddel</loc>
     <news:news>
       <news:publication>
