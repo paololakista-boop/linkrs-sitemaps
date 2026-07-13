@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalbond-plant-heenwedstrijden-barrages-op-17-en-18-juli</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T20:34:01.278Z</news:publication_date>
+      <news:title>Marokkaanse voetbalbond plant heenwedstrijden barrages op 17 en 18 juli</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/reizen-met-weeen-zwangere-vrouwen-in-rhamna-70-kilometer-van-huis-om-te-bevallen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T20:13:59.067Z</news:publication_date>
+      <news:title>Reizen met weeën: zwangere vrouwen in Rhamna 70 kilometer van huis om te bevallen</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wereldbank-trekt-15-miljard-dollar-uit-voor-marokko-tot-2035</loc>
     <news:news>
       <news:publication>
@@ -263,50 +285,6 @@
       </news:publication>
       <news:publication_date>2026-07-11T22:54:01.496Z</news:publication_date>
       <news:title>Europese topclubs azen op Marokkaans talent Ayyoub Bouaddi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-krant-casablanca-favoriet-om-wk-finale-2030-te-organiseren</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T20:56:46.446Z</news:publication_date>
-      <news:title>Spaanse krant: Casablanca favoriet om WK-finale 2030 te organiseren</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/chinese-automerken-in-marokko-m-automotiv-lanceert-gac-en-kondigt-hyptec-aan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T20:47:14.871Z</news:publication_date>
-      <news:title>Chinese automerken in Marokko: M-AUTOMOTIV lanceert GAC en kondigt Hyptec aan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ajax-aast-op-marokkaanse-international-azzedine-ounahi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T20:27:14.081Z</news:publication_date>
-      <news:title>Ajax aast op Marokkaanse international Azzedine Ounahi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-vervangt-asfalt-door-waterdoorlatende-straten-tegen-de-hitte</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-11T20:07:12.331Z</news:publication_date>
-      <news:title>Marokko vervangt asfalt door waterdoorlatende straten tegen de hitte</news:title>
     </news:news>
   </url>
 </urlset>
