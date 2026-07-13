@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/na-jaren-droogte-keert-de-irrigatie-geleidelijk-terug-op-de-marokkaanse-velden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T16:26:03.231Z</news:publication_date>
+      <news:title>Na jaren droogte keert de irrigatie geleidelijk terug op de Marokkaanse velden</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/herve-renard-in-beeld-als-nieuwe-bondscoach-van-senegal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T16:06:02.357Z</news:publication_date>
+      <news:title>Hervé Renard in beeld als nieuwe bondscoach van Senegal</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/de-marokkaanse-sahara-als-klein-koeweit-spaanse-experts-heropenen-het-debat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T15:46:01.484Z</news:publication_date>
+      <news:title>De Marokkaanse Sahara als &apos;klein Koeweit&apos;: Spaanse experts heropenen het debat</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/infantino-prijst-de-atlas-leeuwen-na-sterk-wk-2026</loc>
     <news:news>
       <news:publication>
