@@ -298,26 +298,4 @@
       <news:title>Toerisme steekt diaspora voorbij als grootste inkomstenbron voor Marokko</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/azzedine-ounahi-herleeft-europese-clubs-azen-op-wk-uitblinker</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T09:10:56.110Z</news:publication_date>
-      <news:title>Azzedine Ounahi herleeft: Europese clubs azen op WK-uitblinker</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/buitenlandse-investeringen-in-marokko-schieten-met-91-omhoog-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T09:10:29.603Z</news:publication_date>
-      <news:title>Buitenlandse investeringen in Marokko schieten met 91% omhoog in 2025</news:title>
-    </news:news>
-  </url>
 </urlset>
