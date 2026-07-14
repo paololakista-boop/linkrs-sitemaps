@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-aquacultuur-groeit-244-projecten-en-bijna-90-000-ton-per-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T15:09:55.644Z</news:publication_date>
+      <news:title>Marokkaanse aquacultuur groeit: 244 projecten en bijna 90.000 ton per jaar</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wael-mohya-kiest-voor-de-atlasleeuwen-en-keert-duitsland-de-rug-toe</loc>
     <news:news>
       <news:publication>
@@ -252,28 +263,6 @@
       </news:publication>
       <news:publication_date>2026-07-12T19:24:41.915Z</news:publication_date>
       <news:title>Marokkaanse olijfolie verovert de VS en zet Spanje onder druk</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-krijgt-eigen-voedingstabel-couscous-en-harira-eindelijk-lokaal-doorgerek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T15:10:31.036Z</news:publication_date>
-      <news:title>Marokko krijgt eigen voedingstabel: couscous en harira eindelijk lokaal doorgerekend</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-versnelt-stroomverbindingen-met-europa-en-richting-het-zuiden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T15:04:27.276Z</news:publication_date>
-      <news:title>Marokko versnelt stroomverbindingen met Europa én richting het zuiden</news:title>
     </news:news>
   </url>
 </urlset>
