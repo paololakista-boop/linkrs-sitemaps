@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/economische-geografie-van-marokko-verschuiven-de-kaarten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T10:35:34.808Z</news:publication_date>
+      <news:title>Economische geografie van Marokko: verschuiven de kaarten?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/twee-marokkaanse-talenten-bij-100-finalisten-golden-boy-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T09:55:21.702Z</news:publication_date>
+      <news:title>Twee Marokkaanse talenten bij 100 finalisten Golden Boy 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-mikt-op-grafiet-voor-batterijen-van-elektrische-auto-s</loc>
     <news:news>
       <news:publication>
@@ -263,39 +285,6 @@
       </news:publication>
       <news:publication_date>2026-07-12T11:18:12.282Z</news:publication_date>
       <news:title>Belgisch pensioen meenemen naar Marokko: dit zijn de regels</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/turks-fenerbahce-toont-interesse-in-marokkaanse-keeper-yassine-bounou</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T10:31:06.907Z</news:publication_date>
-      <news:title>Turks Fenerbahçe toont interesse in Marokkaanse keeper Yassine Bounou</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bundelt-weersalarmen-en-klimaatdata-in-nieuw-nationaal-agentschap</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T10:11:05.981Z</news:publication_date>
-      <news:title>Marokko bundelt weersalarmen en klimaatdata in nieuw nationaal agentschap</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/toerisme-steekt-diaspora-voorbij-als-grootste-inkomstenbron-voor-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T09:51:05.034Z</news:publication_date>
-      <news:title>Toerisme steekt diaspora voorbij als grootste inkomstenbron voor Marokko</news:title>
     </news:news>
   </url>
 </urlset>
