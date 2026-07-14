@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-haalt-meer-dan-56-miljoen-dollar-uit-twee-wk-campagnes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:02:00.724Z</news:publication_date>
+      <news:title>Marokko haalt meer dan 56 miljoen dollar uit twee WK-campagnes</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalbond-plant-heenwedstrijden-barrages-op-17-en-18-juli</loc>
     <news:news>
       <news:publication>
