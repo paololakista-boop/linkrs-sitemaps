@@ -276,15 +276,4 @@
       <news:title>Chaos aan de Europese grens: Marokkaanse reizigers uren in de wachtrij</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-olijfolie-verovert-de-vs-en-zet-spanje-onder-druk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T19:24:41.915Z</news:publication_date>
-      <news:title>Marokkaanse olijfolie verovert de VS en zet Spanje onder druk</news:title>
-    </news:news>
-  </url>
 </urlset>
