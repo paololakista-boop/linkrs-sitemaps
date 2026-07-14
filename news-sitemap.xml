@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/van-sale-tot-boston-atlasleeuwen-sluiten-wk-2026-af-met-opgeheven-hoofd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T02:49:08.541Z</news:publication_date>
+      <news:title>Van Salé tot Boston: Atlasleeuwen sluiten WK 2026 af met opgeheven hoofd</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/chinese-automerken-verdubbelen-marktaandeel-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T00:22:01.965Z</news:publication_date>
+      <news:title>Chinese automerken verdubbelen marktaandeel in Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-haalt-meer-dan-56-miljoen-dollar-uit-twee-wk-campagnes</loc>
     <news:news>
       <news:publication>
