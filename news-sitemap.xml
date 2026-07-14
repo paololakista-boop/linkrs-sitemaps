@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-klimt-op-in-wereldvredesindex-2026-en-bevestigt-reputatie-als-stabiel-la</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T20:32:35.152Z</news:publication_date>
+      <news:title>Marokko klimt op in Wereldvredesindex 2026 en bevestigt reputatie als stabiel land</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ouahbi-ontkent-vertrek-sacramento-en-reageert-op-kritiek-amrabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T20:12:33.899Z</news:publication_date>
+      <news:title>Ouahbi ontkent vertrek Sacramento en reageert op kritiek Amrabat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wydad-casablanca-voor-lastige-keuze-over-toekomst-hakim-ziyech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T20:09:32.906Z</news:publication_date>
+      <news:title>Wydad Casablanca voor lastige keuze over toekomst Hakim Ziyech</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-met-64-landen-extra-druk-op-stadions-en-infrastructuur-in-marokko</loc>
     <news:news>
       <news:publication>
@@ -252,28 +285,6 @@
       </news:publication>
       <news:publication_date>2026-07-13T03:36:29.651Z</news:publication_date>
       <news:title>Pinpas gebruiken in Marokko? Let op deze verborgen kosten</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nepnieuws-ontkracht-tas-heeft-marokko-niet-de-afrika-cup-titel-2025-afgenomen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T20:09:37.556Z</news:publication_date>
-      <news:title>Nepnieuws ontkracht: TAS heeft Marokko níét de Afrika Cup-titel 2025 afgenomen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/chaos-aan-de-europese-grens-marokkaanse-reizigers-uren-in-de-wachtrij</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T20:06:34.356Z</news:publication_date>
-      <news:title>Chaos aan de Europese grens: Marokkaanse reizigers uren in de wachtrij</news:title>
     </news:news>
   </url>
 </urlset>
