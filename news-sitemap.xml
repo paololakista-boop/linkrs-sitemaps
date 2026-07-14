@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-mikt-op-grafiet-voor-batterijen-van-elektrische-auto-s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T05:38:39.897Z</news:publication_date>
+      <news:title>Marokko mikt op grafiet voor batterijen van elektrische auto&apos;s</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/van-sale-tot-boston-atlasleeuwen-sluiten-wk-2026-af-met-opgeheven-hoofd</loc>
     <news:news>
       <news:publication>
