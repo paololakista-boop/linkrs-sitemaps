@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wael-mohya-kiest-voor-de-atlasleeuwen-en-keert-duitsland-de-rug-toe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T14:49:54.713Z</news:publication_date>
+      <news:title>Wael Mohya kiest voor de Atlasleeuwen en keert Duitsland de rug toe</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fifa-wijst-scheidsrechter-van-marokkaanse-afkomst-aan-voor-wk-halve-finale-argen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T14:46:52.400Z</news:publication_date>
+      <news:title>FIFA wijst scheidsrechter van Marokkaanse afkomst aan voor WK-halve finale Argentinië-Engeland</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belgische-marokkanen-zonder-formulier-bm111-wordt-medische-zorg-in-marokko-peper</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-14T12:41:41.126Z</news:publication_date>
+      <news:title>Belgische Marokkanen: zonder formulier BM111 wordt medische zorg in Marokko peperduur</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/economische-geografie-van-marokko-verschuiven-de-kaarten</loc>
     <news:news>
       <news:publication>
@@ -241,28 +274,6 @@
       </news:publication>
       <news:publication_date>2026-07-12T15:04:27.276Z</news:publication_date>
       <news:title>Marokko versnelt stroomverbindingen met Europa én richting het zuiden</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/infantino-houdt-deur-open-voor-wk-met-64-landen-richting-marokko-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T14:50:29.742Z</news:publication_date>
-      <news:title>Infantino houdt deur open voor WK met 64 landen richting Marokko 2030</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nederland-investeert-in-groene-waterstof-uit-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T14:30:23.464Z</news:publication_date>
-      <news:title>Nederland investeert in groene waterstof uit Marokko</news:title>
     </news:news>
   </url>
 </urlset>
