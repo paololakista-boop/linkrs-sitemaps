@@ -265,26 +265,4 @@
       <news:title>Nederland investeert in groene waterstof uit Marokko</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/haven-dakhla-atlantique-moet-de-afrikaanse-draaischijf-van-marokko-worden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T11:38:14.318Z</news:publication_date>
-      <news:title>Haven Dakhla Atlantique moet dé Afrikaanse draaischijf van Marokko worden</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgisch-pensioen-meenemen-naar-marokko-dit-zijn-de-regels</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-12T11:18:12.282Z</news:publication_date>
-      <news:title>Belgisch pensioen meenemen naar Marokko: dit zijn de regels</news:title>
-    </news:news>
-  </url>
 </urlset>
