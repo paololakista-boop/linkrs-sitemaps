@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toekomst-van-meerdere-atlasleeuwen-wordt-nu-beslist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T17:25:41.940Z</news:publication_date>
+      <news:title>Toekomst van meerdere Atlasleeuwen wordt nu beslist</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/jorge-vilda-maakt-selectie-atlas-leeuwinnen-voor-afrika-cup-2026-bekend</loc>
     <news:news>
       <news:publication>
@@ -307,28 +318,6 @@
       </news:publication>
       <news:publication_date>2026-07-13T18:50:32.660Z</news:publication_date>
       <news:title>Wereldbank trekt 15 miljard dollar uit voor Marokko tot 2035</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/na-jaren-droogte-keert-de-irrigatie-geleidelijk-terug-op-de-marokkaanse-velden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T16:26:03.231Z</news:publication_date>
-      <news:title>Na jaren droogte keert de irrigatie geleidelijk terug op de Marokkaanse velden</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/herve-renard-in-beeld-als-nieuwe-bondscoach-van-senegal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T16:06:02.357Z</news:publication_date>
-      <news:title>Hervé Renard in beeld als nieuwe bondscoach van Senegal</news:title>
     </news:news>
   </url>
 </urlset>
