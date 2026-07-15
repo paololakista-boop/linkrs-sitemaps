@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-grootste-niet-eu-leverancier-van-groenten-en-fruit-aan-spanje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T11:43:38.753Z</news:publication_date>
+      <news:title>Marokko blijft grootste niet-EU-leverancier van groenten en fruit aan Spanje</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diaspora-marokko-bereidt-zich-voor-op-recorddrukte-deze-zomer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T11:40:37.712Z</news:publication_date>
+      <news:title>Marokkaanse diaspora: Marokko bereidt zich voor op recorddrukte deze zomer</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vertrouwen-marokkaanse-gezinnen-stijgt-licht-in-tweede-kwartaal-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T10:39:08.303Z</news:publication_date>
+      <news:title>Vertrouwen Marokkaanse gezinnen stijgt licht in tweede kwartaal 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vleesprijzen-in-marokko-blijven-hoog-na-offerfeest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T10:19:07.312Z</news:publication_date>
+      <news:title>Vleesprijzen in Marokko blijven hoog na Offerfeest</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/peru-schaart-zich-achter-marokko-in-sahara-kwestie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T09:59:05.937Z</news:publication_date>
+      <news:title>Peru schaart zich achter Marokko in Sahara-kwestie</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-zijn-verloren-maritieme-macht-heroveren-met-eigen-vloot</loc>
     <news:news>
       <news:publication>
@@ -241,39 +296,6 @@
       </news:publication>
       <news:publication_date>2026-07-13T15:46:01.484Z</news:publication_date>
       <news:title>De Marokkaanse Sahara als &apos;klein Koeweit&apos;: Spaanse experts heropenen het debat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/infantino-prijst-de-atlas-leeuwen-na-sterk-wk-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T11:18:28.881Z</news:publication_date>
-      <news:title>Infantino prijst de Atlas Leeuwen na sterk WK 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/twee-derde-van-de-marokkaanse-regio-s-groeit-sneller-dan-het-landelijke-gemiddel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T10:58:27.698Z</news:publication_date>
-      <news:title>Twee derde van de Marokkaanse regio&apos;s groeit sneller dan het landelijke gemiddelde</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-evalueert-green-plan-na-vijf-jaar-droogte</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T10:34:54.983Z</news:publication_date>
-      <news:title>Marokko evalueert Green Plan na vijf jaar droogte</news:title>
     </news:news>
   </url>
 </urlset>
