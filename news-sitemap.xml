@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/waarom-marokkaanse-vrouwen-wegblijven-van-de-arbeidsmarkt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T12:21:51.693Z</news:publication_date>
+      <news:title>Waarom Marokkaanse vrouwen wegblijven van de arbeidsmarkt</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-grootste-niet-eu-leverancier-van-groenten-en-fruit-aan-spanje</loc>
     <news:news>
       <news:publication>
