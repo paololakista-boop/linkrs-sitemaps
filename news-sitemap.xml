@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-zijn-verloren-maritieme-macht-heroveren-met-eigen-vloot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T06:22:36.081Z</news:publication_date>
+      <news:title>Marokko wil zijn verloren maritieme macht heroveren met eigen vloot</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-klimt-op-in-wereldvredesindex-2026-en-bevestigt-reputatie-als-stabiel-la</loc>
     <news:news>
       <news:publication>
