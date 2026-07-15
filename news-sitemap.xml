@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/jorge-vilda-maakt-selectie-atlas-leeuwinnen-voor-afrika-cup-2026-bekend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T15:28:54.694Z</news:publication_date>
+      <news:title>Jorge Vilda maakt selectie Atlas Leeuwinnen voor Afrika Cup 2026 bekend</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-luchthavens-verwerken-bijna-19-miljoen-passagiers-in-eerste-halfjaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T15:08:53.828Z</news:publication_date>
+      <news:title>Marokkaanse luchthavens verwerken bijna 19 miljoen passagiers in eerste halfjaar</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fifa-maakt-speelschema-wk-vrouwen-onder-17-in-marokko-bekend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T14:48:52.813Z</news:publication_date>
+      <news:title>FIFA maakt speelschema WK vrouwen onder 17 in Marokko bekend</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/waarom-marokkaanse-vrouwen-wegblijven-van-de-arbeidsmarkt</loc>
     <news:news>
       <news:publication>
@@ -296,17 +329,6 @@
       </news:publication>
       <news:publication_date>2026-07-13T16:06:02.357Z</news:publication_date>
       <news:title>Hervé Renard in beeld als nieuwe bondscoach van Senegal</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-marokkaanse-sahara-als-klein-koeweit-spaanse-experts-heropenen-het-debat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T15:46:01.484Z</news:publication_date>
-      <news:title>De Marokkaanse Sahara als &apos;klein Koeweit&apos;: Spaanse experts heropenen het debat</news:title>
     </news:news>
   </url>
 </urlset>
