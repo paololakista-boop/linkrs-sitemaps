@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-behandelt-jaarlijks-meer-dan-110-000-kankerpatienten-in-openbare-centra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T20:49:53.325Z</news:publication_date>
+      <news:title>Marokko behandelt jaarlijks meer dan 110.000 kankerpatiënten in openbare centra</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hakimi-na-wk-uitschakeling-marokko-blijft-geschiedenis-schrijven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T20:29:52.566Z</news:publication_date>
+      <news:title>Hakimi na WK-uitschakeling: Marokko blijft geschiedenis schrijven</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gaspijpleiding-marokko-nigeria-nieuwe-details-over-het-marokkaanse-traject</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-15T20:09:51.203Z</news:publication_date>
+      <news:title>Gaspijpleiding Marokko-Nigeria: nieuwe details over het Marokkaanse traject</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/toekomst-van-meerdere-atlasleeuwen-wordt-nu-beslist</loc>
     <news:news>
       <news:publication>
@@ -285,28 +318,6 @@
       </news:publication>
       <news:publication_date>2026-07-14T00:02:00.724Z</news:publication_date>
       <news:title>Marokko haalt meer dan 56 miljoen dollar uit twee WK-campagnes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalbond-plant-heenwedstrijden-barrages-op-17-en-18-juli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T20:34:01.278Z</news:publication_date>
-      <news:title>Marokkaanse voetbalbond plant heenwedstrijden barrages op 17 en 18 juli</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/reizen-met-weeen-zwangere-vrouwen-in-rhamna-70-kilometer-van-huis-om-te-bevallen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-13T20:13:59.067Z</news:publication_date>
-      <news:title>Reizen met weeën: zwangere vrouwen in Rhamna 70 kilometer van huis om te bevallen</news:title>
     </news:news>
   </url>
 </urlset>
