@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-premier-lecornu-in-rabat-voor-15e-marokkaans-franse-top</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T10:45:29.981Z</news:publication_date>
+      <news:title>Franse premier Lecornu in Rabat voor 15e Marokkaans-Franse top</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/akhannouch-en-franse-premier-voeren-bilateraal-overleg-in-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T10:25:28.857Z</news:publication_date>
+      <news:title>Akhannouch en Franse premier voeren bilateraal overleg in Rabat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mohamed-ouahbi-blijft-kalm-na-wk-uitschakeling-marokko-tegen-frankrijk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T10:05:27.726Z</news:publication_date>
+      <news:title>Mohamed Ouahbi blijft kalm na WK-uitschakeling Marokko tegen Frankrijk</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/de-grote-mijnen-van-marokko-hoe-de-sector-koerst-richting-2030</loc>
     <news:news>
       <news:publication>
@@ -274,28 +307,6 @@
       </news:publication>
       <news:publication_date>2026-07-14T12:41:41.126Z</news:publication_date>
       <news:title>Belgische Marokkanen: zonder formulier BM111 wordt medische zorg in Marokko peperduur</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/economische-geografie-van-marokko-verschuiven-de-kaarten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T10:35:34.808Z</news:publication_date>
-      <news:title>Economische geografie van Marokko: verschuiven de kaarten?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/twee-marokkaanse-talenten-bij-100-finalisten-golden-boy-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T09:55:21.702Z</news:publication_date>
-      <news:title>Twee Marokkaanse talenten bij 100 finalisten Golden Boy 2026</news:title>
     </news:news>
   </url>
 </urlset>
