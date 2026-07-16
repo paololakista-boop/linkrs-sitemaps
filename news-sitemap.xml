@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-topkandidaat-om-europa-te-bevoorraden-met-groene-waterstof-en-groene-str</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T23:04:02.488Z</news:publication_date>
+      <news:title>Marokko topkandidaat om Europa te bevoorraden met groene waterstof en groene stroom</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-export-naar-de-eu-stijgt-naar-2-5-miljard-euro-in-mei</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T21:27:53.564Z</news:publication_date>
+      <news:title>Marokkaanse export naar de EU stijgt naar 2,5 miljard euro in mei</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-fouzi-lekjaa-roept-op-tot-collectieve-mobilisatie-in-marokko</loc>
     <news:news>
       <news:publication>
