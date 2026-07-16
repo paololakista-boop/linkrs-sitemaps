@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-fouzi-lekjaa-roept-op-tot-collectieve-mobilisatie-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T21:07:52.367Z</news:publication_date>
+      <news:title>WK 2030: Fouzi Lekjaa roept op tot collectieve mobilisatie in Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/haven-jorf-lasfar-wordt-met-green-basin-knooppunt-voor-groene-batterijen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T20:44:03.819Z</news:publication_date>
+      <news:title>Haven Jorf Lasfar wordt met Green Basin knooppunt voor groene batterijen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toeristische-sector-in-noord-marokko-wacht-op-zomerse-opleving</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T20:24:02.993Z</news:publication_date>
+      <news:title>Toeristische sector in Noord-Marokko wacht op zomerse opleving</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-banken-volgen-de-diaspora-tot-op-het-strand</loc>
     <news:news>
       <news:publication>
@@ -285,17 +318,6 @@
       </news:publication>
       <news:publication_date>2026-07-15T06:22:36.081Z</news:publication_date>
       <news:title>Marokko wil zijn verloren maritieme macht heroveren met eigen vloot</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-klimt-op-in-wereldvredesindex-2026-en-bevestigt-reputatie-als-stabiel-la</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T20:32:35.152Z</news:publication_date>
-      <news:title>Marokko klimt op in Wereldvredesindex 2026 en bevestigt reputatie als stabiel land</news:title>
     </news:news>
   </url>
 </urlset>
