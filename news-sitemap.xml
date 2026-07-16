@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-banken-volgen-de-diaspora-tot-op-het-strand</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T20:04:02.155Z</news:publication_date>
+      <news:title>Marokkaanse banken volgen de diaspora tot op het strand</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-ontkent-akkoord-over-wk-finale-2030-in-spanje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T19:16:40.074Z</news:publication_date>
+      <news:title>Marokko ontkent akkoord over WK-finale 2030 in Spanje</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-versnelt-hcp-verwacht-groei-van-5-4-in-derde-kwartaal</loc>
     <news:news>
       <news:publication>
@@ -274,28 +296,6 @@
       </news:publication>
       <news:publication_date>2026-07-14T20:32:35.152Z</news:publication_date>
       <news:title>Marokko klimt op in Wereldvredesindex 2026 en bevestigt reputatie als stabiel land</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ouahbi-ontkent-vertrek-sacramento-en-reageert-op-kritiek-amrabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T20:12:33.899Z</news:publication_date>
-      <news:title>Ouahbi ontkent vertrek Sacramento en reageert op kritiek Amrabat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wydad-casablanca-voor-lastige-keuze-over-toekomst-hakim-ziyech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T20:09:32.906Z</news:publication_date>
-      <news:title>Wydad Casablanca voor lastige keuze over toekomst Hakim Ziyech</news:title>
     </news:news>
   </url>
 </urlset>
