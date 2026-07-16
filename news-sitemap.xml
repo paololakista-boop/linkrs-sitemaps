@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-versnelt-hcp-verwacht-groei-van-5-4-in-derde-kwartaal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T17:24:46.926Z</news:publication_date>
+      <news:title>Marokkaanse economie versnelt: HCP verwacht groei van 5,4% in derde kwartaal</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/stellantis-start-productie-van-smart-car-platform-in-kenitra</loc>
     <news:news>
       <news:publication>
@@ -285,28 +296,6 @@
       </news:publication>
       <news:publication_date>2026-07-14T20:09:32.906Z</news:publication_date>
       <news:title>Wydad Casablanca voor lastige keuze over toekomst Hakim Ziyech</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-met-64-landen-extra-druk-op-stadions-en-infrastructuur-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T17:42:56.847Z</news:publication_date>
-      <news:title>WK 2030 met 64 landen: extra druk op stadions en infrastructuur in Marokko</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ontziltingsinstallatie-casablanca-vanaf-februari-2027-operationeel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T17:22:55.882Z</news:publication_date>
-      <news:title>Ontziltingsinstallatie Casablanca vanaf februari 2027 operationeel</news:title>
     </news:news>
   </url>
 </urlset>
