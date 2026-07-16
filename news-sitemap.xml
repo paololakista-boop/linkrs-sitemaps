@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-groeit-4-8-procent-in-tweede-kwartaal-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T14:02:08.298Z</news:publication_date>
+      <news:title>Marokkaanse economie groeit 4,8 procent in tweede kwartaal 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/franse-premier-lecornu-in-rabat-voor-15e-marokkaans-franse-top</loc>
     <news:news>
       <news:publication>
@@ -296,17 +307,6 @@
       </news:publication>
       <news:publication_date>2026-07-14T14:46:52.400Z</news:publication_date>
       <news:title>FIFA wijst scheidsrechter van Marokkaanse afkomst aan voor WK-halve finale Argentinië-Engeland</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgische-marokkanen-zonder-formulier-bm111-wordt-medische-zorg-in-marokko-peper</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T12:41:41.126Z</news:publication_date>
-      <news:title>Belgische Marokkanen: zonder formulier BM111 wordt medische zorg in Marokko peperduur</news:title>
     </news:news>
   </url>
 </urlset>
