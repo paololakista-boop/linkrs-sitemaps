@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/stellantis-start-productie-van-smart-car-platform-in-kenitra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T15:39:52.527Z</news:publication_date>
+      <news:title>Stellantis start productie van Smart Car-platform in Kénitra</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-en-frankrijk-versterken-partnerschap-met-veertien-nieuwe-akkoorden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T15:19:51.486Z</news:publication_date>
+      <news:title>Marokko en Frankrijk versterken partnerschap met veertien nieuwe akkoorden</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gelekte-sms-berichten-marokko-al-sinds-2018-in-beeld-voor-wk-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-16T14:59:50.055Z</news:publication_date>
+      <news:title>Gelekte sms-berichten: Marokko al sinds 2018 in beeld voor WK 2030</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-groeit-4-8-procent-in-tweede-kwartaal-2026</loc>
     <news:news>
       <news:publication>
@@ -274,39 +307,6 @@
       </news:publication>
       <news:publication_date>2026-07-14T17:22:55.882Z</news:publication_date>
       <news:title>Ontziltingsinstallatie Casablanca vanaf februari 2027 operationeel</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-aquacultuur-groeit-244-projecten-en-bijna-90-000-ton-per-jaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T15:09:55.644Z</news:publication_date>
-      <news:title>Marokkaanse aquacultuur groeit: 244 projecten en bijna 90.000 ton per jaar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wael-mohya-kiest-voor-de-atlasleeuwen-en-keert-duitsland-de-rug-toe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T14:49:54.713Z</news:publication_date>
-      <news:title>Wael Mohya kiest voor de Atlasleeuwen en keert Duitsland de rug toe</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fifa-wijst-scheidsrechter-van-marokkaanse-afkomst-aan-voor-wk-halve-finale-argen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-14T14:46:52.400Z</news:publication_date>
-      <news:title>FIFA wijst scheidsrechter van Marokkaanse afkomst aan voor WK-halve finale Argentinië-Engeland</news:title>
     </news:news>
   </url>
 </urlset>
