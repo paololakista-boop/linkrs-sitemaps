@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/engie-en-ocp-bereiden-gezamenlijke-onderneming-voor-rond-energietransitie-in-mar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T12:37:03.114Z</news:publication_date>
+      <news:title>Engie en OCP bereiden gezamenlijke onderneming voor rond energietransitie in Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-van-wk-2030-een-historisch-succes-maken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T12:17:01.635Z</news:publication_date>
+      <news:title>Marokko wil van WK 2030 een historisch succes maken</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nieuw-marokkaans-wetboek-van-burgerlijke-rechtsvordering-treedt-op-24-augustus-i</loc>
     <news:news>
       <news:publication>
@@ -351,28 +373,6 @@
       </news:publication>
       <news:publication_date>2026-07-15T14:48:52.813Z</news:publication_date>
       <news:title>FIFA maakt speelschema WK vrouwen onder 17 in Marokko bekend</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/waarom-marokkaanse-vrouwen-wegblijven-van-de-arbeidsmarkt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T12:21:51.693Z</news:publication_date>
-      <news:title>Waarom Marokkaanse vrouwen wegblijven van de arbeidsmarkt</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-grootste-niet-eu-leverancier-van-groenten-en-fruit-aan-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T11:43:38.753Z</news:publication_date>
-      <news:title>Marokko blijft grootste niet-EU-leverancier van groenten en fruit aan Spanje</news:title>
     </news:news>
   </url>
 </urlset>
