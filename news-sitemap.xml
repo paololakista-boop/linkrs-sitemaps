@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouwen-can-in-marokko-vilda-selecteert-26-leeuwinnen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T15:18:38.211Z</news:publication_date>
+      <news:title>Vrouwen-CAN in Marokko: Vilda selecteert 26 Leeuwinnen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verlaagt-kosten-voor-kaartbetalingen-maar-cash-blijft-koning</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T15:13:16.352Z</news:publication_date>
+      <news:title>Marokko verlaagt kosten voor kaartbetalingen, maar cash blijft koning</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/meer-flitspalen-in-marokko-maar-verkeersdoden-blijven-schrikbarend-hoog</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T14:53:15.378Z</news:publication_date>
+      <news:title>Meer flitspalen in Marokko, maar verkeersdoden blijven schrikbarend hoog</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belgische-marokkanen-let-op-voor-peperdure-priveklinieken-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T14:33:12.928Z</news:publication_date>
+      <news:title>Belgische Marokkanen: let op voor peperdure privéklinieken in Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/engie-en-ocp-bereiden-gezamenlijke-onderneming-voor-rond-energietransitie-in-mar</loc>
     <news:news>
       <news:publication>
@@ -340,39 +384,6 @@
       </news:publication>
       <news:publication_date>2026-07-15T17:25:41.940Z</news:publication_date>
       <news:title>Toekomst van meerdere Atlasleeuwen wordt nu beslist</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/jorge-vilda-maakt-selectie-atlas-leeuwinnen-voor-afrika-cup-2026-bekend</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T15:28:54.694Z</news:publication_date>
-      <news:title>Jorge Vilda maakt selectie Atlas Leeuwinnen voor Afrika Cup 2026 bekend</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-luchthavens-verwerken-bijna-19-miljoen-passagiers-in-eerste-halfjaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T15:08:53.828Z</news:publication_date>
-      <news:title>Marokkaanse luchthavens verwerken bijna 19 miljoen passagiers in eerste halfjaar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fifa-maakt-speelschema-wk-vrouwen-onder-17-in-marokko-bekend</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T14:48:52.813Z</news:publication_date>
-      <news:title>FIFA maakt speelschema WK vrouwen onder 17 in Marokko bekend</news:title>
     </news:news>
   </url>
 </urlset>
