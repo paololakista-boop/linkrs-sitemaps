@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/frankrijk-zet-stap-vooruit-in-elektriciteitsverbinding-met-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T00:12:12.956Z</news:publication_date>
+      <news:title>Frankrijk zet stap vooruit in elektriciteitsverbinding met Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-topkandidaat-om-europa-te-bevoorraden-met-groene-waterstof-en-groene-str</loc>
     <news:news>
       <news:publication>
