@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wereldbank-belooft-marokko-15-miljard-dollar-voor-tien-jaar-samenwerking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T07:24:17.078Z</news:publication_date>
+      <news:title>Wereldbank belooft Marokko 15 miljard dollar voor tien jaar samenwerking</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ifc-investeert-recordbedrag-van-2-7-miljard-dollar-in-marokko</loc>
     <news:news>
       <news:publication>
