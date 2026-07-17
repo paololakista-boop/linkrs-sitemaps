@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-lanceert-nieuw-biometrisch-paspoort-met-extra-beveiliging</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T19:15:33.104Z</news:publication_date>
+      <news:title>Marokko lanceert nieuw biometrisch paspoort met extra beveiliging</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vrouwen-can-in-marokko-vilda-selecteert-26-leeuwinnen</loc>
     <news:news>
       <news:publication>
