@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/27-jaar-troonsbestijging-hoe-marokko-uitgroeide-tot-investeringsmagneet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T20:46:33.333Z</news:publication_date>
+      <news:title>27 jaar troonsbestijging: hoe Marokko uitgroeide tot investeringsmagneet</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ryanair-verbindt-agadir-vanaf-winter-2026-rechtstreeks-met-gdansk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T20:26:32.347Z</news:publication_date>
+      <news:title>Ryanair verbindt Agadir vanaf winter 2026 rechtstreeks met Gdansk</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-haalt-negen-zeldzame-dinosaurustanden-terug-uit-frankrijk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-17T20:06:31.450Z</news:publication_date>
+      <news:title>Marokko haalt negen zeldzame dinosaurustanden terug uit Frankrijk</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-lanceert-nieuw-biometrisch-paspoort-met-extra-beveiliging</loc>
     <news:news>
       <news:publication>
@@ -351,39 +384,6 @@
       </news:publication>
       <news:publication_date>2026-07-16T04:12:52.540Z</news:publication_date>
       <news:title>Tanger Med waarschuwt reizigers voor &apos;zwarte dagen&apos; deze zomer</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-behandelt-jaarlijks-meer-dan-110-000-kankerpatienten-in-openbare-centra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T20:49:53.325Z</news:publication_date>
-      <news:title>Marokko behandelt jaarlijks meer dan 110.000 kankerpatiënten in openbare centra</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hakimi-na-wk-uitschakeling-marokko-blijft-geschiedenis-schrijven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T20:29:52.566Z</news:publication_date>
-      <news:title>Hakimi na WK-uitschakeling: Marokko blijft geschiedenis schrijven</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/gaspijpleiding-marokko-nigeria-nieuwe-details-over-het-marokkaanse-traject</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T20:09:51.203Z</news:publication_date>
-      <news:title>Gaspijpleiding Marokko-Nigeria: nieuwe details over het Marokkaanse traject</news:title>
     </news:news>
   </url>
 </urlset>
