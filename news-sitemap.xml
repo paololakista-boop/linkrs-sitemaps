@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-droom-spat-uiteen-300-gezinnen-wachten-al-17-jaar-op-hun-woning</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T04:01:55.863Z</news:publication_date>
+      <news:title>Marokkaanse droom spat uiteen: 300 gezinnen wachten al 17 jaar op hun woning</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/27-jaar-troonsbestijging-hoe-marokko-uitgroeide-tot-investeringsmagneet</loc>
     <news:news>
       <news:publication>
@@ -362,28 +373,6 @@
       </news:publication>
       <news:publication_date>2026-07-16T10:05:27.726Z</news:publication_date>
       <news:title>Mohamed Ouahbi blijft kalm na WK-uitschakeling Marokko tegen Frankrijk</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-grote-mijnen-van-marokko-hoe-de-sector-koerst-richting-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T04:15:53.715Z</news:publication_date>
-      <news:title>De grote mijnen van Marokko: hoe de sector koerst richting 2030</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tanger-med-waarschuwt-reizigers-voor-zwarte-dagen-deze-zomer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T04:12:52.540Z</news:publication_date>
-      <news:title>Tanger Med waarschuwt reizigers voor &apos;zwarte dagen&apos; deze zomer</news:title>
     </news:news>
   </url>
 </urlset>
