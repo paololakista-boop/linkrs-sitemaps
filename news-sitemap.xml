@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belgische-kinderbijslag-voor-kinderen-in-marokko-dit-zijn-de-voorwaarden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T12:00:15.896Z</news:publication_date>
+      <news:title>Belgische kinderbijslag voor kinderen in Marokko: dit zijn de voorwaarden</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-domineert-de-digitale-wk-discussies-van-2026</loc>
     <news:news>
       <news:publication>
@@ -373,17 +384,6 @@
       </news:publication>
       <news:publication_date>2026-07-16T14:02:08.298Z</news:publication_date>
       <news:title>Marokkaanse economie groeit 4,8 procent in tweede kwartaal 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/franse-premier-lecornu-in-rabat-voor-15e-marokkaans-franse-top</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T10:45:29.981Z</news:publication_date>
-      <news:title>Franse premier Lecornu in Rabat voor 15e Marokkaans-Franse top</news:title>
     </news:news>
   </url>
 </urlset>
