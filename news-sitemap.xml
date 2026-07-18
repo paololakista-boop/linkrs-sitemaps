@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-domineert-de-digitale-wk-discussies-van-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T10:26:13.743Z</news:publication_date>
+      <news:title>Marokko domineert de digitale WK-discussies van 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-voert-toeristische-campagne-in-hongkong-op-om-meer-chinese-bezoekers-te-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T09:43:03.491Z</news:publication_date>
+      <news:title>Marokko voert toeristische campagne in Hongkong op om meer Chinese bezoekers te lokken</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-knoflooktelers-luiden-noodklok-over-goedkope-import</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-18T09:23:01.846Z</news:publication_date>
+      <news:title>Marokkaanse knoflooktelers luiden noodklok over goedkope import</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-droom-spat-uiteen-300-gezinnen-wachten-al-17-jaar-op-hun-woning</loc>
     <news:news>
       <news:publication>
@@ -351,28 +384,6 @@
       </news:publication>
       <news:publication_date>2026-07-16T10:45:29.981Z</news:publication_date>
       <news:title>Franse premier Lecornu in Rabat voor 15e Marokkaans-Franse top</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/akhannouch-en-franse-premier-voeren-bilateraal-overleg-in-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T10:25:28.857Z</news:publication_date>
-      <news:title>Akhannouch en Franse premier voeren bilateraal overleg in Rabat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mohamed-ouahbi-blijft-kalm-na-wk-uitschakeling-marokko-tegen-frankrijk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-16T10:05:27.726Z</news:publication_date>
-      <news:title>Mohamed Ouahbi blijft kalm na WK-uitschakeling Marokko tegen Frankrijk</news:title>
     </news:news>
   </url>
 </urlset>
