@@ -2,6 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-s-energieafhankelijkheid-de-prijzen-aan-de-pomp-swingen-de-pan-uit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T14:43:14.290Z</news:publication_date>
+      <news:title>Marokko&apos;s energieafhankelijkheid: de prijzen aan de pomp swingen de pan uit</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-voert-elektronisch-stemmen-in-bij-verkiezing-van-afdelingshoofden-aan-un</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T14:27:06.503Z</news:publication_date>
+      <news:title>Marokko voert elektronisch stemmen in bij verkiezing van afdelingshoofden aan universiteiten</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/iea-marokko-goed-voor-slechts-5-van-gezuiverd-fosforzuur-in-2035-ondanks-grootst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T14:23:12.276Z</news:publication_date>
+      <news:title>IEA: Marokko goed voor slechts 5% van gezuiverd fosforzuur in 2035 ondanks grootste fosfaatreserves</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-bij-ouanaine-na-vijf-dagen-omsingeld-blusploegen-blijven-ter-plaatse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T14:20:15.259Z</news:publication_date>
+      <news:title>Bosbrand bij Ouanaïne na vijf dagen omsingeld, blusploegen blijven ter plaatse</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verkiezingsstrijd-in-de-zuidelijke-provincies-laait-op-voor-stembusgang-van-23-s</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T14:05:28.624Z</news:publication_date>
+      <news:title>Verkiezingsstrijd in de zuidelijke provincies laait op voor stembusgang van 23 september</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/van-radicalisering-naar-herstel-hoe-het-moussalaha-programma-het-leven-van-een-e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T14:03:03.228Z</news:publication_date>
+      <news:title>Van radicalisering naar herstel: hoe het Moussalaha-programma het leven van een ex-gedetineerde veranderde</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/dirham-wint-terrein-tegenover-de-euro-in-juni</loc>
     <news:news>
       <news:publication>
@@ -2331,39 +2397,6 @@
       </news:publication>
       <news:publication_date>2026-07-17T15:18:38.211Z</news:publication_date>
       <news:title>Vrouwen-CAN in Marokko: Vilda selecteert 26 Leeuwinnen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verlaagt-kosten-voor-kaartbetalingen-maar-cash-blijft-koning</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T15:13:16.352Z</news:publication_date>
-      <news:title>Marokko verlaagt kosten voor kaartbetalingen, maar cash blijft koning</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/meer-flitspalen-in-marokko-maar-verkeersdoden-blijven-schrikbarend-hoog</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T14:53:15.378Z</news:publication_date>
-      <news:title>Meer flitspalen in Marokko, maar verkeersdoden blijven schrikbarend hoog</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgische-marokkanen-let-op-voor-peperdure-priveklinieken-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-17T14:33:12.928Z</news:publication_date>
-      <news:title>Belgische Marokkanen: let op voor peperdure privéklinieken in Marokko</news:title>
     </news:news>
   </url>
 </urlset>
