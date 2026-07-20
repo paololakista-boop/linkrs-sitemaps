@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/algerijn-in-nikab-tegengehouden-in-fnideq-op-weg-naar-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T00:02:36.036Z</news:publication_date>
+      <news:title>Algerijn in nikab tegengehouden in Fnideq op weg naar Ceuta</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bloedig-familiedrama-in-el-brouj-vrouw-overleden-na-messteken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-19T23:42:35.166Z</news:publication_date>
+      <news:title>Bloedig familiedrama in El Brouj: vrouw overleden na messteken</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/atlas-leeuwinnen-mikken-op-eindzege-bij-vrouwen-afrika-cup-in-eigen-land</loc>
     <news:news>
       <news:publication>
