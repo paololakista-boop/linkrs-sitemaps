@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/waarom-keren-de-mediacampagnes-tegen-marokko-terug-bij-elk-succes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T04:33:02.030Z</news:publication_date>
+      <news:title>Waarom keren de mediacampagnes tegen Marokko terug bij elk succes?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nolans-epos-the-odyssey-draait-in-marokkaanse-bioscopen-deels-opgenomen-in-het-l</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-20T04:18:30.785Z</news:publication_date>
+      <news:title>Nolans epos &apos;The Odyssey&apos; draait in Marokkaanse bioscopen, deels opgenomen in het land</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/casablanca-mobiliseert-diensten-om-groenzones-te-beschermen-tegen-hittegolf</loc>
     <news:news>
       <news:publication>
