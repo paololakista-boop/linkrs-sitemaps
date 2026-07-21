@@ -2,6 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hcp-verwacht-groei-van-4-8-procent-voor-marokkaanse-economie-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T16:37:31.540Z</news:publication_date>
+      <news:title>HCP verwacht groei van 4,8 procent voor Marokkaanse economie in 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-slaat-zonne-energie-op-in-reusachtige-waterbatterij-bij-chefchaouen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T15:45:20.431Z</news:publication_date>
+      <news:title>Marokko slaat zonne-energie op in reusachtige waterbatterij bij Chefchaouen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/oplichting-met-vakantiewoningen-bederft-zomervakantie-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T15:38:21.994Z</news:publication_date>
+      <news:title>Oplichting met vakantiewoningen bederft zomervakantie in Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bouwt-60-000-extra-hotelbedden-voor-wk-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T15:25:19.046Z</news:publication_date>
+      <news:title>Marokko bouwt 60.000 extra hotelbedden voor WK 2030</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalbond-nadert-de-wereldtop-met-inkomsten-tot-110-miljoen-dollar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T15:05:15.308Z</news:publication_date>
+      <news:title>Marokkaanse voetbalbond nadert de wereldtop met inkomsten tot 110 miljoen dollar</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dood-van-marokkaan-abderrahim-fakir-zet-bologna-in-vuur-en-vlam</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T15:02:17.257Z</news:publication_date>
+      <news:title>Dood van Marokkaan Abderrahim Fakir zet Bologna in vuur en vlam</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/kaartverkoop-afrika-cup-vrouwen-2026-in-marokko-van-start</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T14:39:35.498Z</news:publication_date>
+      <news:title>Kaartverkoop Afrika Cup vrouwen 2026 in Marokko van start</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/waarom-keren-de-mediacampagnes-tegen-marokko-terug-bij-elk-succes</loc>
     <news:news>
       <news:publication>
@@ -780,226 +857,6 @@
       </news:publication>
       <news:publication_date>2026-07-19T16:52:53.579Z</news:publication_date>
       <news:title>Atlasleeuwinnen klaar voor Afrika Cup op eigen bodem</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/strenge-controle-op-zieke-belgische-marokkanen-die-naar-marokko-reizen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:43:18.206Z</news:publication_date>
-      <news:title>Strenge controle op zieke Belgische Marokkanen die naar Marokko reizen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mas-fez-bevestigt-vertrek-van-soufiane-benjdida-naar-al-ahly</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:32:28.367Z</news:publication_date>
-      <news:title>MAS Fez bevestigt vertrek van Soufiane Benjdida naar Al Ahly</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/daam-sakane-bemoedigende-eerste-resultaten-maar-structurele-uitdagingen-blijven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:29:45.007Z</news:publication_date>
-      <news:title>Daam Sakane: bemoedigende eerste resultaten, maar structurele uitdagingen blijven</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/boeren-in-de-gharb-luiden-de-noodklok-overstromingen-hitte-en-lage-prijzen-bedre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:23:17.113Z</news:publication_date>
-      <news:title>Boeren in de Gharb luiden de noodklok: overstromingen, hitte en lage prijzen bedreigen oogst</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dakhla-ondergaat-grootschalige-stadsvernieuwing-voor-haven-en-ontziltingsinstall</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:17:41.985Z</news:publication_date>
-      <news:title>Dakhla ondergaat grootschalige stadsvernieuwing voor haven en ontziltingsinstallatie</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/al-ahly-haalt-marokkaanse-topscorer-soufiane-bengueddida-binnen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:12:27.357Z</news:publication_date>
-      <news:title>Al Ahly haalt Marokkaanse topscorer Soufiane Bengueddida binnen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-conservenindustrie-in-nood-door-marokkaanse-exportstop-op-sardines</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:11:05.691Z</news:publication_date>
-      <news:title>Spaanse conservenindustrie in nood door Marokkaanse exportstop op sardines</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-franse-betrekkingen-op-weg-naar-akkoord-over-veiligheidssamenwerking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:09:43.944Z</news:publication_date>
-      <news:title>Marokkaans-Franse betrekkingen op weg naar akkoord over veiligheidssamenwerking</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/lamine-yamal-de-spaanse-ster-met-marokkaanse-roots-voor-wk-finale-tegen-messi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:06:42.930Z</news:publication_date>
-      <news:title>Lamine Yamal, de Spaanse ster met Marokkaanse roots, voor WK-finale tegen Messi</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-wil-finale-wk-2030-organiseren-ondanks-discussie-met-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:04:15.714Z</news:publication_date>
-      <news:title>Spanje wil finale WK 2030 organiseren, ondanks discussie met Marokko</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/trainerscarrousel-in-marokkaanse-botola-portugese-school-aan-de-macht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T16:02:42.725Z</news:publication_date>
-      <news:title>Trainerscarrousel in Marokkaanse Botola: portugese school aan de macht</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-stuwmeren-nog-voor-ruim-72-procent-gevuld-ondanks-zomerverbruik</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:57:41.094Z</news:publication_date>
-      <news:title>Marokkaanse stuwmeren nog voor ruim 72 procent gevuld ondanks zomerverbruik</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amir-richardson-keert-terug-naar-frankrijk-met-huurdeal-bij-le-havre-ac</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:52:26.260Z</news:publication_date>
-      <news:title>Amir Richardson keert terug naar Frankrijk met huurdeal bij Le Havre AC</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-franse-rappers-mayes-en-elgrande-toto-brengen-samen-casanegra-uit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:48:29.930Z</news:publication_date>
-      <news:title>Marokkaans-Franse rappers Mayes en ElGrande Toto brengen samen Casanegra uit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/regularisatie-in-spanje-marokko-zet-uitzonderlijk-consulair-plan-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:42:41.729Z</news:publication_date>
-      <news:title>Regularisatie in Spanje: Marokko zet uitzonderlijk consulair plan op</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/washington-verwacht-goedkopere-kunstmest-door-invoer-marokkaans-fosfaat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:37:40.089Z</news:publication_date>
-      <news:title>Washington verwacht goedkopere kunstmest door invoer Marokkaans fosfaat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dodelijke-migratieroute-algerije-balearen-eist-steeds-meer-levens-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:28:29.035Z</news:publication_date>
-      <news:title>Dodelijke migratieroute Algerije-Balearen eist steeds meer levens in 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/geneesmiddelenprijzen-in-marokko-waarom-de-nieuwe-regeling-plots-werd-uitgesteld</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T15:22:39.829Z</news:publication_date>
-      <news:title>Geneesmiddelenprijzen in Marokko: waarom de nieuwe regeling plots werd uitgesteld</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-s-energieafhankelijkheid-de-prijzen-aan-de-pomp-swingen-de-pan-uit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T14:43:14.290Z</news:publication_date>
-      <news:title>Marokko&apos;s energieafhankelijkheid: de prijzen aan de pomp swingen de pan uit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-voert-elektronisch-stemmen-in-bij-verkiezing-van-afdelingshoofden-aan-un</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T14:27:06.503Z</news:publication_date>
-      <news:title>Marokko voert elektronisch stemmen in bij verkiezing van afdelingshoofden aan universiteiten</news:title>
     </news:news>
   </url>
 </urlset>
