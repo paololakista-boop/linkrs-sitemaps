@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amal-tiznit-promoveert-historisch-targa-behoudt-zijn-plaats-in-de-eliteklasse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T20:36:11.737Z</news:publication_date>
+      <news:title>Amal Tiznit promoveert historisch, Targa behoudt zijn plaats in de eliteklasse</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nepgids-in-marrakech-gearresteerd-na-virale-video-van-afpersing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T20:20:03.797Z</news:publication_date>
+      <news:title>Nepgids in Marrakech gearresteerd na virale video van afpersing</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-ontwikkelt-hitte-en-droogtebestendige-tarwe-na-zeven-jaar-onderzoek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T19:32:05.428Z</news:publication_date>
+      <news:title>Marokko ontwikkelt hitte- en droogtebestendige tarwe na zeven jaar onderzoek</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marhaba-2026-ruim-31-000-reizigers-op-drukste-dag-naar-noord-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-21T19:29:06.571Z</news:publication_date>
+      <news:title>Marhaba 2026: ruim 31.000 reizigers op drukste dag naar Noord-Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/rubiales-spanje-had-wk-2030-nooit-binnengehaald-zonder-marokko</loc>
     <news:news>
       <news:publication>
@@ -450,204 +494,6 @@
       </news:publication>
       <news:publication_date>2026-07-19T20:43:23.718Z</news:publication_date>
       <news:title>Nieuwe memoires van Jamal Aghmani: het Marokko van vandaag is niet dat van gisteren</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ecowas-ondertekent-akkoord-voor-gaspijpleiding-nigeria-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T20:33:55.507Z</news:publication_date>
-      <news:title>ECOWAS ondertekent akkoord voor gaspijpleiding Nigeria-Marokko</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-controleert-elke-lading-ingevoerd-vlees-streng-op-voedselveiligheid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T20:27:51.458Z</news:publication_date>
-      <news:title>Marokko controleert elke lading ingevoerd vlees streng op voedselveiligheid</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/sofiane-benjdida-verlaat-maghreb-de-fes-voor-al-ahly</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T20:23:22.672Z</news:publication_date>
-      <news:title>Sofiane Benjdida verlaat Maghreb de Fès voor Al Ahly</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-lanceert-eerste-nationale-campagne-tegen-geweld-op-kinderen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T20:12:32.671Z</news:publication_date>
-      <news:title>Marokko lanceert eerste nationale campagne tegen geweld op kinderen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/brand-op-mediatheek-in-mohammedia-wakkert-vragen-aan-over-beveiliging-openbare-g</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T20:07:50.439Z</news:publication_date>
-      <news:title>Brand op mediatheek in Mohammedia wakkert vragen aan over beveiliging openbare gebouwen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-advocaten-neigen-naar-opschorting-van-hun-staking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T20:07:26.810Z</news:publication_date>
-      <news:title>Marokkaanse advocaten neigen naar opschorting van hun staking</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/twee-vrienden-van-in-marokko-opgepakte-rapper-maes-geliquideerd-in-frankrijk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T20:04:49.096Z</news:publication_date>
-      <news:title>Twee vrienden van in Marokko opgepakte rapper Maes geliquideerd in Frankrijk</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-mannen-pakken-arabische-beachvolleybaltitel-in-martil</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T19:49:30.951Z</news:publication_date>
-      <news:title>Marokkaanse mannen pakken Arabische beachvolleybaltitel in Martil</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ruiter-ouadar-wint-grote-prijs-van-koning-mohammed-vi-in-het-springen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T19:42:39.021Z</news:publication_date>
-      <news:title>Ruiter Ouadar wint Grote Prijs van koning Mohammed VI in het springen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hittegolf-in-marokko-tot-46-graden-verwacht-van-zaterdag-tot-maandag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T19:33:56.774Z</news:publication_date>
-      <news:title>Hittegolf in Marokko: tot 46 graden verwacht van zaterdag tot maandag</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-leeuwinnen-bereiden-zich-voor-op-afrika-cup-2026-op-eigen-bodem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T19:22:36.255Z</news:publication_date>
-      <news:title>Marokkaanse leeuwinnen bereiden zich voor op Afrika Cup 2026 op eigen bodem</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-badou-zaki-wordt-de-nieuwe-bondscoach-van-jordanie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T19:19:37.932Z</news:publication_date>
-      <news:title>Marokkaan Badou Zaki wordt de nieuwe bondscoach van Jordanië</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mohammed-ben-arafa-de-sultan-die-van-hassan-ii-niet-in-marokko-begraven-mocht-wo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T19:07:58.998Z</news:publication_date>
-      <news:title>Mohammed Ben Arafa: de sultan die van Hassan II niet in Marokko begraven mocht worden</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ryanair-schrapt-luchthaven-tetouan-na-oktober-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T19:04:57.565Z</news:publication_date>
-      <news:title>Ryanair schrapt luchthaven Tetouan na oktober 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-filmcentrum-steunt-20-nieuwe-filmprojecten-met-ruim-24-miljoen-dirham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T18:58:34.636Z</news:publication_date>
-      <news:title>Marokkaans filmcentrum steunt 20 nieuwe filmprojecten met ruim 24 miljoen dirham</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bosbranden-verwoesten-in-drie-dagen-bijna-600-hectare-natuur-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T18:57:43.446Z</news:publication_date>
-      <news:title>Bosbranden verwoesten in drie dagen bijna 600 hectare natuur in Marokko</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/diamantine-lanceert-neo-beldi-een-nieuwe-kijk-op-marokkaanse-elegantie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T18:52:41.724Z</news:publication_date>
-      <news:title>Diamantine lanceert Néo Beldi: een nieuwe kijk op Marokkaanse elegantie</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-bij-taroudant-onder-controle-na-vijf-dagen-blussen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T18:49:42.716Z</news:publication_date>
-      <news:title>Bosbrand bij Taroudant onder controle na vijf dagen blussen</news:title>
     </news:news>
   </url>
 </urlset>
