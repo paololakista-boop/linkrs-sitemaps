@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanjaard-vindt-na-29-jaar-zijn-marokkaanse-vader-terug-dankzij-foodtruck-in-new</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T01:37:40.439Z</news:publication_date>
+      <news:title>Spanjaard vindt na 29 jaar zijn Marokkaanse vader terug dankzij foodtruck in New York</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-in-anfek-bij-azilal-grotendeels-onder-controle</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T01:34:42.079Z</news:publication_date>
+      <news:title>Bosbrand in Anfek bij Azilal grotendeels onder controle</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wint-eerste-gouden-medaille-ooit-op-de-dance-world-cup-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:42:40.266Z</news:publication_date>
+      <news:title>Marokko wint eerste gouden medaille ooit op de Dance World Cup 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/petitie-eist-vrijlating-van-marokkaanse-rapper-mehdi-el-youbi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:34:39.285Z</news:publication_date>
+      <news:title>Petitie eist vrijlating van Marokkaanse rapper Mehdi El Youbi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vastgoedprijzen-in-marokko-stijgen-in-2025-rabat-koploper-marrakech-trekt-de-tra</loc>
     <news:news>
       <news:publication>
@@ -296,94 +340,6 @@
       </news:publication>
       <news:publication_date>2026-07-20T03:52:59.862Z</news:publication_date>
       <news:title>Bosbranden verwoesten bijna 600 hectare bos in drie Marokkaanse provincies</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/liga-voor-divers-voetbal-prijst-prestatie-atlasleeuwen-op-wk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:42:46.393Z</news:publication_date>
-      <news:title>Liga voor divers voetbal prijst prestatie Atlasleeuwen op WK</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/expositie-in-oujda-eert-de-pioniers-van-de-raimuziek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:38:28.671Z</news:publication_date>
-      <news:title>Expositie in Oujda eert de pioniers van de raïmuziek</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/van-marrakech-tot-granada-de-vergeten-rol-van-marokkaanse-geleerden-in-al-andalu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:25:49.042Z</news:publication_date>
-      <news:title>Van Marrakech tot Granada: de vergeten rol van Marokkaanse geleerden in al-Andalus</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-en-marokko-blijven-strijden-om-wk-finale-van-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:23:44.255Z</news:publication_date>
-      <news:title>Spanje en Marokko blijven strijden om WK-finale van 2030</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/geen-voorschot-voor-het-offerfeest-marokkaanse-werkgever-mag-weigeren</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:22:44.861Z</news:publication_date>
-      <news:title>Geen voorschot voor het Offerfeest: Marokkaanse werkgever mag weigeren</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/minister-van-sierra-leone-prijst-afrikaanse-atlantische-gaspijpleiding-als-motor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:05:47.513Z</news:publication_date>
-      <news:title>Minister van Sierra Leone prijst Afrikaanse Atlantische gaspijpleiding als motor voor West-Afrika</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/casablanca-ontvangt-in-oktober-2026-afrikaanse-top-over-transport-en-logistiek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:03:43.248Z</news:publication_date>
-      <news:title>Casablanca ontvangt in oktober 2026 Afrikaanse top over transport en logistiek</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/concert-van-saint-levant-in-casablanca-zorgt-voor-ophef-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T03:00:46.020Z</news:publication_date>
-      <news:title>Concert van Saint Levant in Casablanca zorgt voor ophef in Marokko</news:title>
     </news:news>
   </url>
 </urlset>
