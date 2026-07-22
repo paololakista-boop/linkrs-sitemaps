@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vastgoedprijzen-in-marokko-stijgen-in-2025-rabat-koploper-marrakech-trekt-de-tra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:07:22.509Z</news:publication_date>
+      <news:title>Vastgoedprijzen in Marokko stijgen in 2025: Rabat koploper, Marrakech trekt de transacties</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouw-doodgestoken-in-ait-amira-verdachte-snel-opgepakt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T00:04:23.707Z</news:publication_date>
+      <news:title>Vrouw doodgestoken in Aït Amira, verdachte snel opgepakt</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/fc-barcelona-volgt-situatie-van-marokkaan-ezzalzouli-op-de-voet</loc>
     <news:news>
       <news:publication>
@@ -362,28 +384,6 @@
       </news:publication>
       <news:publication_date>2026-07-20T03:00:46.020Z</news:publication_date>
       <news:title>Concert van Saint Levant in Casablanca zorgt voor ophef in Marokko</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/algerijn-in-nikab-tegengehouden-in-fnideq-op-weg-naar-ceuta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-20T00:02:36.036Z</news:publication_date>
-      <news:title>Algerijn in nikab tegengehouden in Fnideq op weg naar Ceuta</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bloedig-familiedrama-in-el-brouj-vrouw-overleden-na-messteken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-19T23:42:35.166Z</news:publication_date>
-      <news:title>Bloedig familiedrama in El Brouj: vrouw overleden na messteken</news:title>
     </news:news>
   </url>
 </urlset>
