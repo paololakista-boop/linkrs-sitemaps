@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diplomatie-bezorgd-om-dood-van-landgenoot-in-italie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T08:34:26.088Z</news:publication_date>
+      <news:title>Marokkaanse diplomatie bezorgd om dood van landgenoot in Italië</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/weersverwachting-marokko-warm-tot-plaatselijk-zeer-heet-op-woensdag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T07:42:53.271Z</news:publication_date>
+      <news:title>Weersverwachting Marokko: warm tot plaatselijk zeer heet op woensdag</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/weersverwachting-marokko-dit-zijn-de-temperaturen-voor-woensdag-22-juli-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T07:34:51.966Z</news:publication_date>
+      <news:title>Weersverwachting Marokko: dit zijn de temperaturen voor woensdag 22 juli 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/de-kasbah-van-amridil-een-amazigh-erfstuk-dat-de-eeuwen-trotseert</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-22T06:48:33.660Z</news:publication_date>
+      <news:title>De kasbah van Amridil: een Amazigh-erfstuk dat de eeuwen trotseert</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/drugssmokkel-verijdeld-aan-grensovergang-sebta-2-3-kilo-hasj-onderschept</loc>
     <news:news>
       <news:publication>
