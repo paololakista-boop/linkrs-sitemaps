@@ -353,37 +353,4 @@
       <news:title>Vrouw doodgestoken in Aït Amira, verdachte snel opgepakt</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fc-barcelona-volgt-situatie-van-marokkaan-ezzalzouli-op-de-voet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T22:42:48.998Z</news:publication_date>
-      <news:title>FC Barcelona volgt situatie van Marokkaan Ezzalzouli op de voet</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fouzi-lekjaa-kandidaat-bij-verkiezingen-van-2026-een-nieuwe-redder</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T22:34:47.925Z</news:publication_date>
-      <news:title>Fouzi Lekjaa kandidaat bij verkiezingen van 2026: een nieuwe redder?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ittihad-touarga-blijft-in-hoogste-marokkaanse-voetbalklasse-na-barragezege</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T22:20:56.832Z</news:publication_date>
-      <news:title>Ittihad Touarga blijft in hoogste Marokkaanse voetbalklasse na barragezege</news:title>
-    </news:news>
-  </url>
 </urlset>
