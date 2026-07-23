@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ruim-2-miljoen-euro-verstopt-in-koekjesdozen-op-luchthaven-casablanca</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T06:34:30.909Z</news:publication_date>
+      <news:title>Ruim 2 miljoen euro verstopt in koekjesdozen op luchthaven Casablanca</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bilal-nadir-ruilt-olympique-marseille-in-voor-hamburger-sv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T06:22:45.940Z</news:publication_date>
+      <news:title>Bilal Nadir ruilt Olympique Marseille in voor Hamburger SV</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ayyoub-bouaddi-akkoord-met-manchester-city-lille-wacht-op-bod-van-100-miljoen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T06:02:45.023Z</news:publication_date>
+      <news:title>Ayyoub Bouaddi akkoord met Manchester City, Lille wacht op bod van 100 miljoen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diaspora-scoort-op-aantallen-maar-niet-op-uitgaven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T05:36:54.259Z</news:publication_date>
+      <news:title>Marokkaanse diaspora scoort op aantallen, maar niet op uitgaven</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-subsidies-van-18-miljard-dirham-komen-vooral-bij-rijken-terecht</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T03:57:06.042Z</news:publication_date>
+      <news:title>Marokkaanse subsidies van 18 miljard dirham komen vooral bij rijken terecht</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/recordbedrag-kwart-van-geld-in-marokkaanse-banken-komt-van-diaspora</loc>
     <news:news>
       <news:publication>
