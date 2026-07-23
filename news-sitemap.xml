@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalsters-onder-17-winnen-unaf-toernooi-in-tunesie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T09:33:54.901Z</news:publication_date>
+      <news:title>Marokkaanse voetbalsters onder 17 winnen UNAF-toernooi in Tunesië</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/caf-voorzitter-wk-parcours-van-marokko-is-een-bron-van-trots-voor-het-afrikaanse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T08:36:37.672Z</news:publication_date>
+      <news:title>CAF-voorzitter: WK-parcours van Marokko is een bron van trots voor het Afrikaanse voetbal</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-opent-onderzoek-naar-vermeend-lek-bij-toelatingsexamen-geneeskunde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-23T06:42:32.229Z</news:publication_date>
+      <news:title>Marokko opent onderzoek naar vermeend lek bij toelatingsexamen geneeskunde</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ruim-2-miljoen-euro-verstopt-in-koekjesdozen-op-luchthaven-casablanca</loc>
     <news:news>
       <news:publication>
