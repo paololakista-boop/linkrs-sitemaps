@@ -452,26 +452,4 @@
       <news:title>Marhaba 2026: ruim 31.000 reizigers op drukste dag naar Noord-Marokko</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rubiales-spanje-had-wk-2030-nooit-binnengehaald-zonder-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T18:36:59.698Z</news:publication_date>
-      <news:title>Rubiales: Spanje had WK 2030 nooit binnengehaald zonder Marokko</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-verrast-menigte-en-stapt-uit-auto-in-tetouan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T17:25:10.192Z</news:publication_date>
-      <news:title>Koning Mohammed VI verrast menigte en stapt uit auto in Tétouan</news:title>
-    </news:news>
-  </url>
 </urlset>
