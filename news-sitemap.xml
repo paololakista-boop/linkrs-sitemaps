@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-samen-65-miljoen-euro-meer-waard-na-wk-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T09:36:42.611Z</news:publication_date>
+      <news:title>Atlasleeuwen samen 65 miljoen euro meer waard na WK 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/akchour-het-groene-juweel-van-het-westelijke-rifgebergte-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T07:57:29.000Z</news:publication_date>
+      <news:title>Akchour: het groene juweel van het westelijke Rifgebergte in Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schrapt-jaar-wachttijd-voor-sociale-steun-na-baanverlies</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T07:37:27.811Z</news:publication_date>
+      <news:title>Marokko schrapt jaar wachttijd voor sociale steun na baanverlies</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-man-veroordeeld-tot-vijftien-maanden-cel-voor-racisme-tegen-marokkaanse-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T06:47:41.697Z</news:publication_date>
+      <news:title>Spaanse man veroordeeld tot vijftien maanden cel voor racisme tegen Marokkaanse ober</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-verkoopt-spanje-minder-groenten-en-fruit-maar-verdient-meer</loc>
     <news:news>
       <news:publication>
@@ -252,61 +296,6 @@
       </news:publication>
       <news:publication_date>2026-07-23T00:36:44.509Z</news:publication_date>
       <news:title>Marokkaanse beachvolleyballers verdwenen uit hotel vlak voor WK in Den Haag</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diplomatie-bezorgd-om-dood-van-landgenoot-in-italie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T08:34:26.088Z</news:publication_date>
-      <news:title>Marokkaanse diplomatie bezorgd om dood van landgenoot in Italië</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/weersverwachting-marokko-warm-tot-plaatselijk-zeer-heet-op-woensdag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T07:42:53.271Z</news:publication_date>
-      <news:title>Weersverwachting Marokko: warm tot plaatselijk zeer heet op woensdag</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/weersverwachting-marokko-dit-zijn-de-temperaturen-voor-woensdag-22-juli-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T07:34:51.966Z</news:publication_date>
-      <news:title>Weersverwachting Marokko: dit zijn de temperaturen voor woensdag 22 juli 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-kasbah-van-amridil-een-amazigh-erfstuk-dat-de-eeuwen-trotseert</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T06:48:33.660Z</news:publication_date>
-      <news:title>De kasbah van Amridil: een Amazigh-erfstuk dat de eeuwen trotseert</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/drugssmokkel-verijdeld-aan-grensovergang-sebta-2-3-kilo-hasj-onderschept</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T06:42:45.519Z</news:publication_date>
-      <news:title>Drugssmokkel verijdeld aan grensovergang Sebta: 2,3 kilo hasj onderschept</news:title>
     </news:news>
   </url>
 </urlset>
