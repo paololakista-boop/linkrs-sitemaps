@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-lobby-zet-spaanse-wk-droom-onder-druk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T03:37:41.124Z</news:publication_date>
+      <news:title>Marokkaanse lobby zet Spaanse WK-droom onder druk</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-fqih-verklaart-salaris-van-buschauffeurs-haram-door-gokreclames</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T02:37:06.874Z</news:publication_date>
+      <news:title>Marokkaanse fqih verklaart salaris van buschauffeurs &apos;haram&apos; door gokreclames</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marhaba-2026-al-meer-dan-1-86-miljoen-marokkanen-keerden-terug</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T01:37:02.320Z</news:publication_date>
+      <news:title>Marhaba 2026: al meer dan 1,86 miljoen Marokkanen keerden terug</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schrapt-invoerrechten-om-vleesprijzen-te-drukken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-24T00:57:24.648Z</news:publication_date>
+      <news:title>Marokko schrapt invoerrechten om vleesprijzen te drukken</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ophef-in-marokko-baby-overleden-en-moeder-in-coma-na-bevalling-in-guelmim</loc>
     <news:news>
       <news:publication>
@@ -285,50 +329,6 @@
       </news:publication>
       <news:publication_date>2026-07-22T04:24:02.266Z</news:publication_date>
       <news:title>Drijvende drone moet water in Marokkaanse stuwmeren beschermen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanjaard-vindt-na-29-jaar-zijn-marokkaanse-vader-terug-dankzij-foodtruck-in-new</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T01:37:40.439Z</news:publication_date>
-      <news:title>Spanjaard vindt na 29 jaar zijn Marokkaanse vader terug dankzij foodtruck in New York</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-in-anfek-bij-azilal-grotendeels-onder-controle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T01:34:42.079Z</news:publication_date>
-      <news:title>Bosbrand in Anfek bij Azilal grotendeels onder controle</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wint-eerste-gouden-medaille-ooit-op-de-dance-world-cup-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T00:42:40.266Z</news:publication_date>
-      <news:title>Marokko wint eerste gouden medaille ooit op de Dance World Cup 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/petitie-eist-vrijlating-van-marokkaanse-rapper-mehdi-el-youbi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-22T00:34:39.285Z</news:publication_date>
-      <news:title>Petitie eist vrijlating van Marokkaanse rapper Mehdi El Youbi</news:title>
     </news:news>
   </url>
 </urlset>
