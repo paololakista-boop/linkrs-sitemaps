@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ajax-en-al-ittihad-azen-op-marokkaan-azzedine-ounahi-na-sterk-wk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T08:15:01.755Z</news:publication_date>
+      <news:title>Ajax en Al-Ittihad azen op Marokkaan Azzedine Ounahi na sterk WK</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-riskeert-vliegverbod-in-nigeria-na-klachten-over-passagiersrecht</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T08:12:02.946Z</news:publication_date>
+      <news:title>Royal Air Maroc riskeert vliegverbod in Nigeria na klachten over passagiersrechten</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diaspora-ontdekt-dat-betaalde-boottickets-verdwenen-zijn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T07:36:53.510Z</news:publication_date>
+      <news:title>Marokkaanse diaspora ontdekt dat betaalde boottickets &quot;verdwenen&quot; zijn</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/cas-behandelt-senegalees-beroep-over-afcon-finale-tegen-marokko-op-8-oktober</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T06:47:33.328Z</news:publication_date>
+      <news:title>CAS behandelt Senegalees beroep over AFCON-finale tegen Marokko op 8 oktober</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/de-onstuitbare-opmars-van-het-marokkaanse-vrouwenvoetbal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T06:37:39.086Z</news:publication_date>
+      <news:title>De onstuitbare opmars van het Marokkaanse vrouwenvoetbal</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-paspoort-staat-67e-wereldwijd-en-is-sterkste-in-de-maghreb</loc>
     <news:news>
       <news:publication>
@@ -274,39 +329,6 @@
       </news:publication>
       <news:publication_date>2026-07-23T09:33:54.901Z</news:publication_date>
       <news:title>Marokkaanse voetbalsters onder 17 winnen UNAF-toernooi in Tunesië</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/caf-voorzitter-wk-parcours-van-marokko-is-een-bron-van-trots-voor-het-afrikaanse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T08:36:37.672Z</news:publication_date>
-      <news:title>CAF-voorzitter: WK-parcours van Marokko is een bron van trots voor het Afrikaanse voetbal</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-opent-onderzoek-naar-vermeend-lek-bij-toelatingsexamen-geneeskunde</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T06:42:32.229Z</news:publication_date>
-      <news:title>Marokko opent onderzoek naar vermeend lek bij toelatingsexamen geneeskunde</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ruim-2-miljoen-euro-verstopt-in-koekjesdozen-op-luchthaven-casablanca</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-23T06:34:30.909Z</news:publication_date>
-      <news:title>Ruim 2 miljoen euro verstopt in koekjesdozen op luchthaven Casablanca</news:title>
     </news:news>
   </url>
 </urlset>
