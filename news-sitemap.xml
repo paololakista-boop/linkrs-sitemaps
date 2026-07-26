@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-opent-thuis-wafcon-tegen-kenia-in-jacht-op-eerste-titel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T09:54:31.049Z</news:publication_date>
+      <news:title>Marokko opent thuis-WAFCON tegen Kenia in jacht op eerste titel</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nigeriaanse-voetbalsters-melden-diefstal-in-hotel-in-casablanca</loc>
     <news:news>
       <news:publication>
@@ -307,39 +318,6 @@
       </news:publication>
       <news:publication_date>2026-07-24T16:34:01.613Z</news:publication_date>
       <news:title>VS overwegen invoerheffing van 12,5 procent op Marokkaanse producten</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/negen-jonge-marokkanen-vermist-na-poging-ceuta-zwemmend-te-bereiken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T11:07:56.939Z</news:publication_date>
-      <news:title>Negen jonge Marokkanen vermist na poging Ceuta zwemmend te bereiken</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/voorlopige-autopsie-wijst-op-mogelijke-verstikking-bij-dood-marokkaanse-man-in-i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T10:33:51.767Z</news:publication_date>
-      <news:title>Voorlopige autopsie wijst op mogelijke verstikking bij dood Marokkaanse man in Italië</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-samen-65-miljoen-euro-meer-waard-na-wk-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T09:36:42.611Z</news:publication_date>
-      <news:title>Atlasleeuwen samen 65 miljoen euro meer waard na WK 2026</news:title>
     </news:news>
   </url>
 </urlset>
