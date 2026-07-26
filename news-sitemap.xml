@@ -309,15 +309,4 @@
       <news:title>Marokko verwelkomt 9,4 miljoen toeristen in eerste helft van 2026</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vs-overwegen-invoerheffing-van-12-5-procent-op-marokkaanse-producten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T16:34:01.613Z</news:publication_date>
-      <news:title>VS overwegen invoerheffing van 12,5 procent op Marokkaanse producten</news:title>
-    </news:news>
-  </url>
 </urlset>
