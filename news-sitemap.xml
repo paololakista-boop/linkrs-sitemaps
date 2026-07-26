@@ -342,26 +342,4 @@
       <news:title>Atlasleeuwen samen 65 miljoen euro meer waard na WK 2026</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/akchour-het-groene-juweel-van-het-westelijke-rifgebergte-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T07:57:29.000Z</news:publication_date>
-      <news:title>Akchour: het groene juweel van het westelijke Rifgebergte in Marokko</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schrapt-jaar-wachttijd-voor-sociale-steun-na-baanverlies</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T07:37:27.811Z</news:publication_date>
-      <news:title>Marokko schrapt jaar wachttijd voor sociale steun na baanverlies</news:title>
-    </news:news>
-  </url>
 </urlset>
