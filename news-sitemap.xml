@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nigeriaanse-voetbalsters-melden-diefstal-in-hotel-in-casablanca</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T05:57:33.466Z</news:publication_date>
+      <news:title>Nigeriaanse voetbalsters melden diefstal in hotel in Casablanca</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tanger-med-als-chinese-springplank-europa-vreest-achterdeur-naar-zijn-markt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T05:37:32.496Z</news:publication_date>
+      <news:title>Tanger Med als Chinese springplank: Europa vreest achterdeur naar zijn markt</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-marokko-daagt-madrid-uit-voor-de-finale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T04:57:37.546Z</news:publication_date>
+      <news:title>WK 2030: Marokko daagt Madrid uit voor de finale</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belastingen-in-marokko-wie-moet-aangifte-doen-en-betalen-voor-31-juli</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-26T04:37:36.359Z</news:publication_date>
+      <news:title>Belastingen in Marokko: wie moet aangifte doen en betalen voor 31 juli?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nep-agent-in-tanger-licht-tientallen-mensen-op-met-valse-functies-en-nepwapens</loc>
     <news:news>
       <news:publication>
@@ -318,50 +362,6 @@
       </news:publication>
       <news:publication_date>2026-07-24T07:37:27.811Z</news:publication_date>
       <news:title>Marokko schrapt jaar wachttijd voor sociale steun na baanverlies</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-man-veroordeeld-tot-vijftien-maanden-cel-voor-racisme-tegen-marokkaanse-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T06:47:41.697Z</news:publication_date>
-      <news:title>Spaanse man veroordeeld tot vijftien maanden cel voor racisme tegen Marokkaanse ober</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verkoopt-spanje-minder-groenten-en-fruit-maar-verdient-meer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T06:37:40.678Z</news:publication_date>
-      <news:title>Marokko verkoopt Spanje minder groenten en fruit, maar verdient meer</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amerikaans-handelsbeleid-zet-marokkaanse-fosfaatexport-onder-druk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T06:27:40.856Z</news:publication_date>
-      <news:title>Amerikaans handelsbeleid zet Marokkaanse fosfaatexport onder druk</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-weigert-enkel-batterij-van-duitsland-te-zijn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-24T06:07:39.827Z</news:publication_date>
-      <news:title>Marokko weigert enkel &apos;batterij van Duitsland&apos; te zijn</news:title>
     </news:news>
   </url>
 </urlset>
