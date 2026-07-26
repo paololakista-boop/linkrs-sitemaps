@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gevangene-overleden-in-isoleercel-van-larache-in-onduidelijke-omstandigheden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-25T23:33:34.978Z</news:publication_date>
+      <news:title>Gevangene overleden in isoleercel van Larache in onduidelijke omstandigheden</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/hevige-bosbrand-woedt-in-bos-bij-tetouan</loc>
     <news:news>
       <news:publication>
