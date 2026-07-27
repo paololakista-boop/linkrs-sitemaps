@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalvrouwen-openen-afrika-cup-tegen-kenia-in-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T03:57:23.752Z</news:publication_date>
+      <news:title>Marokkaanse voetbalvrouwen openen Afrika Cup tegen Kenia in Rabat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/studeren-in-het-buitenland-hoe-de-diaspora-dit-vanuit-marokko-kan-financieren</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T03:37:22.293Z</news:publication_date>
+      <news:title>Studeren in het buitenland: hoe de diaspora dit vanuit Marokko kan financieren</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-kwalificatie-nee-algerije-wint-op-afrika-cup-vrouwen-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T02:56:59.347Z</news:publication_date>
+      <news:title>WK-kwalificatie? Nee: Algerije wint op Afrika Cup vrouwen in Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-leeuwinnen-openen-afrika-cup-2026-met-ruime-zege-tegen-kenia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T02:36:57.936Z</news:publication_date>
+      <news:title>Marokkaanse Leeuwinnen openen Afrika Cup 2026 met ruime zege tegen Kenia</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/grote-brand-op-beruchte-markt-souk-al-qriaa-in-casablanca</loc>
     <news:news>
       <news:publication>
@@ -263,61 +307,6 @@
       </news:publication>
       <news:publication_date>2026-07-25T06:07:30.801Z</news:publication_date>
       <news:title>Marokkaanse industrie krimpt terwijl rest van Afrika groeit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-grens-van-40-graden-bepaalt-het-lot-van-de-marokkaanse-avocado</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T03:36:36.224Z</news:publication_date>
-      <news:title>De grens van 40 graden bepaalt het lot van de Marokkaanse avocado</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/22-jarige-ouadoud-rabbaj-uit-zeist-vermist-in-tanger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T01:42:39.902Z</news:publication_date>
-      <news:title>22-jarige Ouadoud Rabbaj uit Zeist vermist in Tanger</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/waterproblemen-in-nador-bederven-zomervakantie-van-marokkaanse-diaspora</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T01:34:38.936Z</news:publication_date>
-      <news:title>Waterproblemen in Nador bederven zomervakantie van Marokkaanse diaspora</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/toerisme-bloeit-in-marrakech-maar-bewoners-betalen-de-prijs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T00:57:47.535Z</news:publication_date>
-      <news:title>Toerisme bloeit in Marrakech, maar bewoners betalen de prijs</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verwelkomt-9-4-miljoen-toeristen-in-eerste-helft-van-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T00:37:46.270Z</news:publication_date>
-      <news:title>Marokko verwelkomt 9,4 miljoen toeristen in eerste helft van 2026</news:title>
     </news:news>
   </url>
 </urlset>
