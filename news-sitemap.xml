@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-treft-algerije-op-donderdag-30-juli-in-afrika-cup-vrouwen-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T11:17:23.094Z</news:publication_date>
+      <news:title>Marokko treft Algerije op donderdag 30 juli in Afrika Cup vrouwen 2026</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wereldbank-marokkaanse-economie-boekt-beste-prestatie-in-tien-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T10:37:43.177Z</news:publication_date>
+      <news:title>Wereldbank: Marokkaanse economie boekt beste prestatie in tien jaar</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koninklijke-visie-effende-weg-voor-marokko-richting-wk-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T09:36:52.099Z</news:publication_date>
+      <news:title>Koninklijke visie effende weg voor Marokko richting WK 2030</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/golf-van-haat-tegen-lamine-yamal-na-spaanse-wk-titel</loc>
     <news:news>
       <news:publication>
@@ -274,39 +307,6 @@
       </news:publication>
       <news:publication_date>2026-07-25T22:33:29.801Z</news:publication_date>
       <news:title>Hevige bosbrand woedt in bos bij Tétouan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-gendarmerie-onderschept-meer-dan-drie-ton-cocaine-voor-kust-van-tarf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T09:32:22.484Z</news:publication_date>
-      <news:title>Marokkaanse gendarmerie onderschept meer dan drie ton cocaïne voor kust van Tarfaya</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ajax-en-al-ittihad-azen-op-marokkaan-azzedine-ounahi-na-sterk-wk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T08:15:01.755Z</news:publication_date>
-      <news:title>Ajax en Al-Ittihad azen op Marokkaan Azzedine Ounahi na sterk WK</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-riskeert-vliegverbod-in-nigeria-na-klachten-over-passagiersrecht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T08:12:02.946Z</news:publication_date>
-      <news:title>Royal Air Maroc riskeert vliegverbod in Nigeria na klachten over passagiersrechten</news:title>
     </news:news>
   </url>
 </urlset>
