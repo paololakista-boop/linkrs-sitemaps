@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/golf-van-haat-tegen-lamine-yamal-na-spaanse-wk-titel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T06:48:23.273Z</news:publication_date>
+      <news:title>Golf van haat tegen Lamine Yamal na Spaanse WK-titel</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hotelmedewerker-in-casablanca-opgepakt-voor-diefstal-bij-afrikaanse-voetbalsters</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T06:28:22.100Z</news:publication_date>
+      <news:title>Hotelmedewerker in Casablanca opgepakt voor diefstal bij Afrikaanse voetbalsters</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bouwt-gigafabriek-voor-batterijen-en-versterkt-greep-op-elektrische-mobi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T06:08:20.925Z</news:publication_date>
+      <news:title>Marokko bouwt gigafabriek voor batterijen en versterkt greep op elektrische mobiliteit</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/man-ontdekt-bij-hypotheekaanvraag-grootschalige-fraude-door-eigen-familie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T05:57:02.334Z</news:publication_date>
+      <news:title>Man ontdekt bij hypotheekaanvraag grootschalige fraude door eigen familie</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/medische-kosten-in-het-buitenland-kunnen-vanuit-marokko-worden-vergoed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T05:37:01.015Z</news:publication_date>
+      <news:title>Medische kosten in het buitenland kunnen vanuit Marokko worden vergoed</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalvrouwen-openen-afrika-cup-tegen-kenia-in-rabat</loc>
     <news:news>
       <news:publication>
@@ -252,61 +307,6 @@
       </news:publication>
       <news:publication_date>2026-07-25T08:12:02.946Z</news:publication_date>
       <news:title>Royal Air Maroc riskeert vliegverbod in Nigeria na klachten over passagiersrechten</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diaspora-ontdekt-dat-betaalde-boottickets-verdwenen-zijn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T07:36:53.510Z</news:publication_date>
-      <news:title>Marokkaanse diaspora ontdekt dat betaalde boottickets &quot;verdwenen&quot; zijn</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/cas-behandelt-senegalees-beroep-over-afcon-finale-tegen-marokko-op-8-oktober</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T06:47:33.328Z</news:publication_date>
-      <news:title>CAS behandelt Senegalees beroep over AFCON-finale tegen Marokko op 8 oktober</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-onstuitbare-opmars-van-het-marokkaanse-vrouwenvoetbal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T06:37:39.086Z</news:publication_date>
-      <news:title>De onstuitbare opmars van het Marokkaanse vrouwenvoetbal</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-paspoort-staat-67e-wereldwijd-en-is-sterkste-in-de-maghreb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T06:27:32.071Z</news:publication_date>
-      <news:title>Marokkaans paspoort staat 67e wereldwijd en is sterkste in de Maghreb</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-industrie-krimpt-terwijl-rest-van-afrika-groeit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T06:07:30.801Z</news:publication_date>
-      <news:title>Marokkaanse industrie krimpt terwijl rest van Afrika groeit</news:title>
     </news:news>
   </url>
 </urlset>
