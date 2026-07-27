@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-nederlandse-familie-zoekt-vermiste-zoon-in-tanger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-27T17:33:57.051Z</news:publication_date>
+      <news:title>Marokkaans-Nederlandse familie zoekt vermiste zoon in Tanger</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/dolle-hond-zaait-paniek-bij-nador-drie-gewonden-in-arekmane</loc>
     <news:news>
       <news:publication>
