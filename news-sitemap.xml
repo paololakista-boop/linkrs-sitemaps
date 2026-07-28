@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/luchthaven-charleroi-maanden-dicht-marokko-reizigers-moeten-uitwijken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T06:37:42.254Z</news:publication_date>
+      <news:title>Luchthaven Charleroi maanden dicht: Marokko-reizigers moeten uitwijken</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-merkkleding-komt-als-hulpgoederen-marokko-binnen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T06:28:15.463Z</news:publication_date>
+      <news:title>Nieuwe merkkleding komt als &apos;hulpgoederen&apos; Marokko binnen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zonder-ticket-geen-toegang-algeciras-weert-marokko-gangers-uit-de-terminal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T06:08:14.037Z</news:publication_date>
+      <news:title>Zonder ticket geen toegang: Algeciras weert Marokko-gangers uit de terminal</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-groeit-fors-maar-burger-merkt-er-weinig-van</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T05:36:42.116Z</news:publication_date>
+      <news:title>Marokkaanse economie groeit fors, maar burger merkt er weinig van</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/peru-schrapt-visumplicht-voor-marokkanen-onder-voorwaarden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T03:57:37.609Z</news:publication_date>
+      <news:title>Peru schrapt visumplicht voor Marokkanen onder voorwaarden</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vrouwen-can-2026-in-marokko-ivoorkust-klopt-burkina-faso-met-4-1</loc>
     <news:news>
       <news:publication>
@@ -230,61 +285,6 @@
       </news:publication>
       <news:publication_date>2026-07-26T09:54:31.049Z</news:publication_date>
       <news:title>Marokko opent thuis-WAFCON tegen Kenia in jacht op eerste titel</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nigeriaanse-voetbalsters-melden-diefstal-in-hotel-in-casablanca</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T05:57:33.466Z</news:publication_date>
-      <news:title>Nigeriaanse voetbalsters melden diefstal in hotel in Casablanca</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tanger-med-als-chinese-springplank-europa-vreest-achterdeur-naar-zijn-markt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T05:37:32.496Z</news:publication_date>
-      <news:title>Tanger Med als Chinese springplank: Europa vreest achterdeur naar zijn markt</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-marokko-daagt-madrid-uit-voor-de-finale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T04:57:37.546Z</news:publication_date>
-      <news:title>WK 2030: Marokko daagt Madrid uit voor de finale</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belastingen-in-marokko-wie-moet-aangifte-doen-en-betalen-voor-31-juli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T04:37:36.359Z</news:publication_date>
-      <news:title>Belastingen in Marokko: wie moet aangifte doen en betalen voor 31 juli?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nep-agent-in-tanger-licht-tientallen-mensen-op-met-valse-functies-en-nepwapens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T03:57:26.520Z</news:publication_date>
-      <news:title>Nep-agent in Tanger licht tientallen mensen op met valse functies en nepwapens</news:title>
     </news:news>
   </url>
 </urlset>
