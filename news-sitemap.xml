@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/drama-bij-ceuta-vier-lichamen-geborgen-dodental-stijgt-naar-27</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T13:42:36.233Z</news:publication_date>
+      <news:title>Drama bij Ceuta: vier lichamen geborgen, dodental stijgt naar 27</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/onderzoek-naar-netwerk-van-kinderuitbuiting-in-noorden-marokko-breidt-uit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T13:34:34.727Z</news:publication_date>
+      <news:title>Onderzoek naar netwerk van kinderuitbuiting in noorden Marokko breidt uit</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/burgemeester-van-bologna-onder-politiebescherming-na-dood-van-marokkaan-abderrah</loc>
     <news:news>
       <news:publication>
