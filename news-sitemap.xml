@@ -320,26 +320,4 @@
       <news:title>Marokko hervormt medicijnprijzen om behandelingen betaalbaarder te maken</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/gevangene-overleden-in-isoleercel-van-larache-in-onduidelijke-omstandigheden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T23:33:34.978Z</news:publication_date>
-      <news:title>Gevangene overleden in isoleercel van Larache in onduidelijke omstandigheden</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hevige-bosbrand-woedt-in-bos-bij-tetouan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-25T22:33:29.801Z</news:publication_date>
-      <news:title>Hevige bosbrand woedt in bos bij Tétouan</news:title>
-    </news:news>
-  </url>
 </urlset>
