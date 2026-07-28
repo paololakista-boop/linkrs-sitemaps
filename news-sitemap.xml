@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouwen-can-2026-in-marokko-ivoorkust-klopt-burkina-faso-met-4-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T03:37:36.256Z</news:publication_date>
+      <news:title>Vrouwen-CAN 2026 in Marokko: Ivoorkust klopt Burkina Faso met 4-1</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wafcon-2026-van-start-in-marokko-alles-wat-je-moet-weten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T01:57:25.960Z</news:publication_date>
+      <news:title>WAFCON 2026 van start in Marokko: alles wat je moet weten</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wint-terrein-op-de-braziliaanse-toeristenmarkt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T01:37:24.811Z</news:publication_date>
+      <news:title>Marokko wint terrein op de Braziliaanse toeristenmarkt</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-hoe-ver-staat-marokko-met-zijn-grote-bouwprojecten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-28T00:37:13.745Z</news:publication_date>
+      <news:title>WK 2030: hoe ver staat Marokko met zijn grote bouwprojecten?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-nederlandse-familie-zoekt-vermiste-zoon-in-tanger</loc>
     <news:news>
       <news:publication>
@@ -241,83 +285,6 @@
       </news:publication>
       <news:publication_date>2026-07-26T03:57:26.520Z</news:publication_date>
       <news:title>Nep-agent in Tanger licht tientallen mensen op met valse functies en nepwapens</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/casablanca-gezinnen-op-straat-na-sloop-vervangende-woning-blijft-uit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T03:37:25.137Z</news:publication_date>
-      <news:title>Casablanca: gezinnen op straat na sloop, vervangende woning blijft uit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/grot-van-friouato-bij-taza-na-tien-jaar-opnieuw-open-voor-bezoekers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T02:57:49.762Z</news:publication_date>
-      <news:title>Grot van Friouato bij Taza na tien jaar opnieuw open voor bezoekers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/van-surfen-tot-zusterschap-hoe-vrouwen-soloreizen-in-marokko-opnieuw-vormgeven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T02:37:48.845Z</news:publication_date>
-      <news:title>Van surfen tot zusterschap: hoe vrouwen soloreizen in Marokko opnieuw vormgeven</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/women-s-afcon-2026-in-marokko-atlas-leeuwinnen-jagen-thuis-op-de-titel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T01:57:51.847Z</news:publication_date>
-      <news:title>Women&apos;s AFCON 2026 in Marokko: Atlas Leeuwinnen jagen thuis op de titel</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/renault-verschuift-productie-van-nieuwe-dacia-s-naar-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T01:37:50.484Z</news:publication_date>
-      <news:title>Renault verschuift productie van nieuwe Dacia&apos;s naar Marokko</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/noord-marokko-wordt-onbetaalbaar-tot-2000-dirham-per-nacht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T00:57:25.407Z</news:publication_date>
-      <news:title>Noord-Marokko wordt onbetaalbaar: tot 2000 dirham per nacht</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-hervormt-medicijnprijzen-om-behandelingen-betaalbaarder-te-maken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T00:37:24.001Z</news:publication_date>
-      <news:title>Marokko hervormt medicijnprijzen om behandelingen betaalbaarder te maken</news:title>
     </news:news>
   </url>
 </urlset>
