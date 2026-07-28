@@ -331,15 +331,4 @@
       <news:title>Marokkaanse Leeuwinnen openen Afrika Cup 2026 met ruime zege tegen Kenia</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/grote-brand-op-beruchte-markt-souk-al-qriaa-in-casablanca</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-26T20:33:56.914Z</news:publication_date>
-      <news:title>Grote brand op beruchte markt Souk Al Qriaa in Casablanca</news:title>
-    </news:news>
-  </url>
 </urlset>
