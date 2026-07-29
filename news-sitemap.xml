@@ -2,6 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-steun-van-5-7-miljoen-dollar-voor-groene-waterstof-in-laayoune</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T06:28:10.324Z</news:publication_date>
+      <news:title>Amerikaanse steun van 5,7 miljoen dollar voor groene waterstof in Laâyoune</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouwen-can-2026-zambia-vernedert-egypte-met-6-0-in-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T06:20:39.408Z</news:publication_date>
+      <news:title>Vrouwen-CAN 2026: Zambia vernedert Egypte met 6-0 in Rabat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-bedrijven-behouden-toegang-tot-europese-aanbestedingen-maar-een-valk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T06:08:08.905Z</news:publication_date>
+      <news:title>Marokkaanse bedrijven behouden toegang tot Europese aanbestedingen, maar een valkuil dreigt</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/afrika-cup-vrouwen-2026-in-marokko-malawi-verslaat-nigeria-met-3-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T06:00:38.458Z</news:publication_date>
+      <news:title>Afrika Cup vrouwen 2026 in Marokko: Malawi verslaat Nigeria met 3-2</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-raast-met-320-km-u-terwijl-californie-nog-altijd-wacht</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T05:37:28.325Z</news:publication_date>
+      <news:title>Marokko raast met 320 km/u terwijl Californië nog altijd wacht</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/werkloosheid-in-marokko-daalt-op-papier-maar-niet-op-straat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T04:37:25.883Z</news:publication_date>
+      <news:title>Werkloosheid in Marokko daalt op papier, maar niet op straat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-boekt-nieuw-historisch-record-in-elektriciteitsverbruik</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T04:34:27.154Z</news:publication_date>
+      <news:title>Marokko boekt nieuw historisch record in elektriciteitsverbruik</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/driss-atounane-overleden-na-heldendaad-in-brusselse-tram</loc>
     <news:news>
       <news:publication>
@@ -285,61 +362,6 @@
       </news:publication>
       <news:publication_date>2026-07-27T06:48:23.273Z</news:publication_date>
       <news:title>Golf van haat tegen Lamine Yamal na Spaanse WK-titel</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hotelmedewerker-in-casablanca-opgepakt-voor-diefstal-bij-afrikaanse-voetbalsters</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T06:28:22.100Z</news:publication_date>
-      <news:title>Hotelmedewerker in Casablanca opgepakt voor diefstal bij Afrikaanse voetbalsters</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bouwt-gigafabriek-voor-batterijen-en-versterkt-greep-op-elektrische-mobi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T06:08:20.925Z</news:publication_date>
-      <news:title>Marokko bouwt gigafabriek voor batterijen en versterkt greep op elektrische mobiliteit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/man-ontdekt-bij-hypotheekaanvraag-grootschalige-fraude-door-eigen-familie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T05:57:02.334Z</news:publication_date>
-      <news:title>Man ontdekt bij hypotheekaanvraag grootschalige fraude door eigen familie</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/medische-kosten-in-het-buitenland-kunnen-vanuit-marokko-worden-vergoed</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T05:37:01.015Z</news:publication_date>
-      <news:title>Medische kosten in het buitenland kunnen vanuit Marokko worden vergoed</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalvrouwen-openen-afrika-cup-tegen-kenia-in-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T03:57:23.752Z</news:publication_date>
-      <news:title>Marokkaanse voetbalvrouwen openen Afrika Cup tegen Kenia in Rabat</news:title>
     </news:news>
   </url>
 </urlset>
