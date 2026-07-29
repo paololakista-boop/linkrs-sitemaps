@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/massale-oversteek-naar-ceuta-eindigt-in-drama-vier-doden-en-vermisten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T16:26:16.870Z</news:publication_date>
+      <news:title>Massale oversteek naar Ceuta eindigt in drama: vier doden en vermisten</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/uitzonderlijke-nacht-bij-ceuta-honderden-migranten-proberen-massaal-over-te-stek</loc>
     <news:news>
       <news:publication>
@@ -318,17 +329,6 @@
       </news:publication>
       <news:publication_date>2026-07-28T00:37:13.745Z</news:publication_date>
       <news:title>WK 2030: hoe ver staat Marokko met zijn grote bouwprojecten?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-nederlandse-familie-zoekt-vermiste-zoon-in-tanger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T17:33:57.051Z</news:publication_date>
-      <news:title>Marokkaans-Nederlandse familie zoekt vermiste zoon in Tanger</news:title>
     </news:news>
   </url>
 </urlset>
