@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/uitzonderlijke-nacht-bij-ceuta-honderden-migranten-proberen-massaal-over-te-stek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T14:04:39.775Z</news:publication_date>
+      <news:title>Uitzonderlijke nacht bij Ceuta: honderden migranten proberen massaal over te steken</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-treft-algerije-in-de-tweede-speeldag-van-het-afrikaans-kampioenschap-voo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T13:34:03.075Z</news:publication_date>
+      <news:title>Marokko treft Algerije in de tweede speeldag van het Afrikaans kampioenschap voor vrouwen</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-fabrikant-gentex-kiest-marokko-boven-oost-europa</loc>
     <news:news>
       <news:publication>
@@ -307,28 +329,6 @@
       </news:publication>
       <news:publication_date>2026-07-27T17:33:57.051Z</news:publication_date>
       <news:title>Marokkaans-Nederlandse familie zoekt vermiste zoon in Tanger</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dolle-hond-zaait-paniek-bij-nador-drie-gewonden-in-arekmane</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T12:36:35.772Z</news:publication_date>
-      <news:title>Dolle hond zaait paniek bij Nador: drie gewonden in Arekmane</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vier-migranten-verdronken-en-twintig-vermist-bij-zwemtocht-naar-ceuta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T12:28:33.765Z</news:publication_date>
-      <news:title>Vier migranten verdronken en twintig vermist bij zwemtocht naar Ceuta</news:title>
     </news:news>
   </url>
 </urlset>
