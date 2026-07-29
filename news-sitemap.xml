@@ -331,26 +331,4 @@
       <news:title>Vier migranten verdronken en twintig vermist bij zwemtocht naar Ceuta</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-treft-algerije-op-donderdag-30-juli-in-afrika-cup-vrouwen-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T11:17:23.094Z</news:publication_date>
-      <news:title>Marokko treft Algerije op donderdag 30 juli in Afrika Cup vrouwen 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wereldbank-marokkaanse-economie-boekt-beste-prestatie-in-tien-jaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T10:37:43.177Z</news:publication_date>
-      <news:title>Wereldbank: Marokkaanse economie boekt beste prestatie in tien jaar</news:title>
-    </news:news>
-  </url>
 </urlset>
