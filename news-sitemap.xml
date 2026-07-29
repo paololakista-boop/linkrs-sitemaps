@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-fabrikant-gentex-kiest-marokko-boven-oost-europa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T09:37:17.569Z</news:publication_date>
+      <news:title>Amerikaanse fabrikant Gentex kiest Marokko boven Oost-Europa</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-steun-van-5-7-miljoen-dollar-voor-groene-waterstof-in-laayoune</loc>
     <news:news>
       <news:publication>
@@ -340,28 +351,6 @@
       </news:publication>
       <news:publication_date>2026-07-27T10:37:43.177Z</news:publication_date>
       <news:title>Wereldbank: Marokkaanse economie boekt beste prestatie in tien jaar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koninklijke-visie-effende-weg-voor-marokko-richting-wk-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T09:36:52.099Z</news:publication_date>
-      <news:title>Koninklijke visie effende weg voor Marokko richting WK 2030</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/golf-van-haat-tegen-lamine-yamal-na-spaanse-wk-titel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T06:48:23.273Z</news:publication_date>
-      <news:title>Golf van haat tegen Lamine Yamal na Spaanse WK-titel</news:title>
     </news:news>
   </url>
 </urlset>
