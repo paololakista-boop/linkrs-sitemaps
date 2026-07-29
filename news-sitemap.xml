@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/driss-atounane-overleden-na-heldendaad-in-brusselse-tram</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T02:57:26.730Z</news:publication_date>
+      <news:title>Driss Atounane overleden na heldendaad in Brusselse tram</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/pijnlijke-vergissing-in-tanger-overledene-per-abuis-door-verkeerde-familie-begra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T02:37:25.668Z</news:publication_date>
+      <news:title>Pijnlijke vergissing in Tanger: overledene per abuis door verkeerde familie begraven</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/can-vrouwen-2026-kunnen-de-marokkaanse-leeuwinnen-eindelijk-hun-eerste-titel-pak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T01:57:20.472Z</news:publication_date>
+      <news:title>CAN vrouwen 2026: kunnen de Marokkaanse Leeuwinnen eindelijk hun eerste titel pakken?</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-universiteiten-voeren-collegegeld-tot-20-000-dirham-in-voor-werkende</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T01:37:19.302Z</news:publication_date>
+      <news:title>Marokkaanse universiteiten voeren collegegeld tot 20.000 dirham in voor werkenden</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-spreekt-land-toe-voor-troonfeest</loc>
     <news:news>
       <news:publication>
@@ -296,39 +340,6 @@
       </news:publication>
       <news:publication_date>2026-07-27T03:57:23.752Z</news:publication_date>
       <news:title>Marokkaanse voetbalvrouwen openen Afrika Cup tegen Kenia in Rabat</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/studeren-in-het-buitenland-hoe-de-diaspora-dit-vanuit-marokko-kan-financieren</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T03:37:22.293Z</news:publication_date>
-      <news:title>Studeren in het buitenland: hoe de diaspora dit vanuit Marokko kan financieren</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-kwalificatie-nee-algerije-wint-op-afrika-cup-vrouwen-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T02:56:59.347Z</news:publication_date>
-      <news:title>WK-kwalificatie? Nee: Algerije wint op Afrika Cup vrouwen in Marokko</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-leeuwinnen-openen-afrika-cup-2026-met-ruime-zege-tegen-kenia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-27T02:36:57.936Z</news:publication_date>
-      <news:title>Marokkaanse Leeuwinnen openen Afrika Cup 2026 met ruime zege tegen Kenia</news:title>
     </news:news>
   </url>
 </urlset>
