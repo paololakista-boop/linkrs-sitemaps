@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/auto-s-blijven-exportkampioen-van-marokko-met-15-miljard-euro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T09:37:28.340Z</news:publication_date>
+      <news:title>Auto&apos;s blijven exportkampioen van Marokko met 15 miljard euro</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/afrika-cup-vrouwen-beladen-duel-tussen-marokko-en-algerije-in-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T09:34:26.848Z</news:publication_date>
+      <news:title>Afrika Cup vrouwen: beladen duel tussen Marokko en Algerije in Rabat</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toen-algerije-bij-de-vn-voorstelde-de-sahara-te-verdelen-tussen-marokko-en-polis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T06:48:40.859Z</news:publication_date>
+      <news:title>Toen Algerije bij de VN voorstelde de Sahara te verdelen tussen Marokko en Polisario</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/amerikaans-marokkaans-militair-trainingscentrum-in-tan-tan-wekt-onrust-in-spanje</loc>
     <news:news>
       <news:publication>
@@ -329,17 +362,6 @@
       </news:publication>
       <news:publication_date>2026-07-28T10:32:18.931Z</news:publication_date>
       <news:title>Marokkaans gasproject van 26 miljard dollar hangt af van Washington</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/manchester-city-aast-op-marokkaans-toptalent-ayoub-bouaddi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T06:48:16.234Z</news:publication_date>
-      <news:title>Manchester City aast op Marokkaans toptalent Ayoub Bouaddi</news:title>
     </news:news>
   </url>
 </urlset>
