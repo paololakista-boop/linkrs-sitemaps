@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ceuta-roept-noodtoestand-uit-na-aankomst-honderden-migranten-uit-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T02:34:09.023Z</news:publication_date>
+      <news:title>Ceuta roept noodtoestand uit na aankomst honderden migranten uit Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wafcon-vilda-ziet-atlasleeuwinnen-klaar-voor-cruciaal-duel-met-algerije</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T01:37:36.700Z</news:publication_date>
+      <news:title>WAFCON: Vilda ziet Atlasleeuwinnen klaar voor cruciaal duel met Algerije</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/video-van-twee-zwemmende-meisjes-die-ceuta-bereiken-gaat-viraal-met-miljoenen-vi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:58:07.060Z</news:publication_date>
+      <news:title>Video van twee zwemmende meisjes die Ceuta bereiken gaat viraal met miljoenen views</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-agrovoedingsexport-bereikt-ruim-86-miljard-dirham-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:38:05.606Z</news:publication_date>
+      <news:title>Marokkaanse agrovoedingsexport bereikt ruim 86 miljard dirham in 2025</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/recordaantal-migranten-zwemt-vanuit-marokko-naar-spaanse-exclave-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:28:01.338Z</news:publication_date>
+      <news:title>Recordaantal migranten zwemt vanuit Marokko naar Spaanse exclave Ceuta</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-talent-abdellah-ouazane-groeit-bij-ajax-uit-tot-wk-hoop-voor-2030</loc>
     <news:news>
       <news:publication>
@@ -307,39 +362,6 @@
       </news:publication>
       <news:publication_date>2026-07-28T03:37:36.256Z</news:publication_date>
       <news:title>Vrouwen-CAN 2026 in Marokko: Ivoorkust klopt Burkina Faso met 4-1</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wafcon-2026-van-start-in-marokko-alles-wat-je-moet-weten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T01:57:25.960Z</news:publication_date>
-      <news:title>WAFCON 2026 van start in Marokko: alles wat je moet weten</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wint-terrein-op-de-braziliaanse-toeristenmarkt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T01:37:24.811Z</news:publication_date>
-      <news:title>Marokko wint terrein op de Braziliaanse toeristenmarkt</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-hoe-ver-staat-marokko-met-zijn-grote-bouwprojecten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T00:37:13.745Z</news:publication_date>
-      <news:title>WK 2030: hoe ver staat Marokko met zijn grote bouwprojecten?</news:title>
     </news:news>
   </url>
 </urlset>
