@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/autoriteiten-ceuta-vragen-leger-na-massale-grensoversteek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T13:34:16.609Z</news:publication_date>
+      <news:title>Autoriteiten Ceuta vragen leger na massale grensoversteek</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vrouwen-can-2026-marokko-en-algerije-treffen-elkaar-in-beslissende-derby</loc>
     <news:news>
       <news:publication>
@@ -318,39 +329,6 @@
       </news:publication>
       <news:publication_date>2026-07-29T01:37:19.302Z</news:publication_date>
       <news:title>Marokkaanse universiteiten voeren collegegeld tot 20.000 dirham in voor werkenden</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-spreekt-land-toe-voor-troonfeest</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T18:18:06.149Z</news:publication_date>
-      <news:title>Koning Mohammed VI spreekt land toe voor Troonfeest</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/drama-bij-ceuta-vier-lichamen-geborgen-dodental-stijgt-naar-27</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T13:42:36.233Z</news:publication_date>
-      <news:title>Drama bij Ceuta: vier lichamen geborgen, dodental stijgt naar 27</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/onderzoek-naar-netwerk-van-kinderuitbuiting-in-noorden-marokko-breidt-uit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T13:34:34.727Z</news:publication_date>
-      <news:title>Onderzoek naar netwerk van kinderuitbuiting in noorden Marokko breidt uit</news:title>
     </news:news>
   </url>
 </urlset>
