@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouwen-can-2026-marokko-en-algerije-treffen-elkaar-in-beslissende-derby</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T11:34:06.325Z</news:publication_date>
+      <news:title>Vrouwen-CAN 2026: Marokko en Algerije treffen elkaar in beslissende derby</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/auto-s-blijven-exportkampioen-van-marokko-met-15-miljard-euro</loc>
     <news:news>
       <news:publication>
@@ -340,28 +351,6 @@
       </news:publication>
       <news:publication_date>2026-07-28T13:34:34.727Z</news:publication_date>
       <news:title>Onderzoek naar netwerk van kinderuitbuiting in noorden Marokko breidt uit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/burgemeester-van-bologna-onder-politiebescherming-na-dood-van-marokkaan-abderrah</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T10:52:19.957Z</news:publication_date>
-      <news:title>Burgemeester van Bologna onder politiebescherming na dood van Marokkaan Abderrahim Fakir</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-gasproject-van-26-miljard-dollar-hangt-af-van-washington</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-28T10:32:18.931Z</news:publication_date>
-      <news:title>Marokkaans gasproject van 26 miljard dollar hangt af van Washington</news:title>
     </news:news>
   </url>
 </urlset>
