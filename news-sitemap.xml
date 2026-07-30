@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-talent-abdellah-ouazane-groeit-bij-ajax-uit-tot-wk-hoop-voor-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-30T00:08:00.135Z</news:publication_date>
+      <news:title>Marokkaans talent Abdellah Ouazane groeit bij Ajax uit tot WK-hoop voor 2030</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/massale-oversteek-naar-ceuta-eindigt-in-drama-vier-doden-en-vermisten</loc>
     <news:news>
       <news:publication>
