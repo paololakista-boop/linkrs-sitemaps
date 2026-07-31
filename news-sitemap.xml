@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/italie-en-finland-willen-spanje-uit-schengenzone-na-migratiegolf-via-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T11:33:48.048Z</news:publication_date>
+      <news:title>Italië en Finland willen Spanje uit Schengenzone na migratiegolf via Ceuta</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-autoriteiten-zetten-waterkanonnen-in-bij-grens-met-sebta</loc>
     <news:news>
       <news:publication>
