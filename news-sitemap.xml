@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/taiwan-schort-visumaanvragen-voor-marokkanen-met-onmiddellijke-ingang-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T12:33:48.312Z</news:publication_date>
+      <news:title>Taiwan schort visumaanvragen voor Marokkanen met onmiddellijke ingang op</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/italie-en-finland-willen-spanje-uit-schengenzone-na-migratiegolf-via-ceuta</loc>
     <news:news>
       <news:publication>
@@ -307,28 +318,6 @@
       </news:publication>
       <news:publication_date>2026-07-29T16:26:16.870Z</news:publication_date>
       <news:title>Massale oversteek naar Ceuta eindigt in drama: vier doden en vermisten</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/uitzonderlijke-nacht-bij-ceuta-honderden-migranten-proberen-massaal-over-te-stek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T14:04:39.775Z</news:publication_date>
-      <news:title>Uitzonderlijke nacht bij Ceuta: honderden migranten proberen massaal over te steken</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-treft-algerije-in-de-tweede-speeldag-van-het-afrikaans-kampioenschap-voo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T13:34:03.075Z</news:publication_date>
-      <news:title>Marokko treft Algerije in de tweede speeldag van het Afrikaans kampioenschap voor vrouwen</news:title>
     </news:news>
   </url>
 </urlset>
