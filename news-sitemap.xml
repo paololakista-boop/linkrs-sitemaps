@@ -2,6 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rouw-in-blerick-na-dood-van-14-jarige-marokkaanse-nour</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T03:37:07.577Z</news:publication_date>
+      <news:title>Rouw in Blerick na dood van 14-jarige Marokkaanse Nour</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zeker-18-doden-bij-massale-bestorming-van-spaanse-exclave-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T03:34:06.696Z</news:publication_date>
+      <news:title>Zeker 18 doden bij massale bestorming van Spaanse exclave Ceuta</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/minderjarige-meisjes-op-weg-naar-ceuta-droom-van-oversteek-gaat-naar-school-voor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T03:02:53.259Z</news:publication_date>
+      <news:title>Minderjarige meisjes op weg naar Ceuta: droom van oversteek gaat naar school voor</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tien-lichamen-geborgen-voor-de-kust-van-ceuta-in-24-uur</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T02:59:55.051Z</news:publication_date>
+      <news:title>Tien lichamen geborgen voor de kust van Ceuta in 24 uur</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-premier-bezoekt-ceuta-na-sterke-toename-migratie-vanuit-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T02:34:39.124Z</news:publication_date>
+      <news:title>Spaanse premier bezoekt Ceuta na sterke toename migratie vanuit Marokko</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nepvideo-lokt-honderden-naar-wonderbron-in-taounate-water-blijkt-vol-bacterien</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T01:37:26.087Z</news:publication_date>
+      <news:title>Nepvideo lokt honderden naar &apos;wonderbron&apos; in Taounate, water blijkt vol bacteriën</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalvrouwen-verslaan-algerije-en-bereiken-kwartfinale-afrika-cup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T01:34:21.681Z</news:publication_date>
+      <news:title>Marokkaanse voetbalvrouwen verslaan Algerije en bereiken kwartfinale Afrika Cup</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalvrouwen-verslaan-algerije-en-naderen-kwartfinale-afrika-cup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:37:39.900Z</news:publication_date>
+      <news:title>Marokkaanse voetbalvrouwen verslaan Algerije en naderen kwartfinale Afrika Cup</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwinnen-na-winst-tegen-algerije-overwinning-was-verdiend-nu-focussen-we-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-31T00:34:38.744Z</news:publication_date>
+      <news:title>Atlasleeuwinnen na winst tegen Algerije: &apos;Overwinning was verdiend, nu focussen we op Senegal&apos;</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/autoriteiten-ceuta-vragen-leger-na-massale-grensoversteek</loc>
     <news:news>
       <news:publication>
@@ -285,50 +384,6 @@
       </news:publication>
       <news:publication_date>2026-07-29T04:34:27.154Z</news:publication_date>
       <news:title>Marokko boekt nieuw historisch record in elektriciteitsverbruik</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/driss-atounane-overleden-na-heldendaad-in-brusselse-tram</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T02:57:26.730Z</news:publication_date>
-      <news:title>Driss Atounane overleden na heldendaad in Brusselse tram</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/pijnlijke-vergissing-in-tanger-overledene-per-abuis-door-verkeerde-familie-begra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T02:37:25.668Z</news:publication_date>
-      <news:title>Pijnlijke vergissing in Tanger: overledene per abuis door verkeerde familie begraven</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/can-vrouwen-2026-kunnen-de-marokkaanse-leeuwinnen-eindelijk-hun-eerste-titel-pak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T01:57:20.472Z</news:publication_date>
-      <news:title>CAN vrouwen 2026: kunnen de Marokkaanse Leeuwinnen eindelijk hun eerste titel pakken?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-universiteiten-voeren-collegegeld-tot-20-000-dirham-in-voor-werkende</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T01:37:19.302Z</news:publication_date>
-      <news:title>Marokkaanse universiteiten voeren collegegeld tot 20.000 dirham in voor werkenden</news:title>
     </news:news>
   </url>
 </urlset>
