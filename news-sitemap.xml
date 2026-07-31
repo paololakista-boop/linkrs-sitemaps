@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/taiwan-schort-visumaanvragen-voor-marokkanen-met-onmiddellijke-ingang-op</loc>
     <news:news>
@@ -11,6 +12,7 @@
       <news:publication_date>2026-07-31T12:33:48.312Z</news:publication_date>
       <news:title>Taiwan schort visumaanvragen voor Marokkanen met onmiddellijke ingang op</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/taiwan-schort-visumaanvragen-voor-marokkanen-met-onmiddellijke-ingang-op-1785501106936.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/italie-en-finland-willen-spanje-uit-schengenzone-na-migratiegolf-via-ceuta</loc>
@@ -22,6 +24,7 @@
       <news:publication_date>2026-07-31T11:33:48.048Z</news:publication_date>
       <news:title>Italië en Finland willen Spanje uit Schengenzone na migratiegolf via Ceuta</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italie-en-finland-willen-spanje-uit-schengenzone-na-migratiegolf-via-ceuta-1785497502006.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-autoriteiten-zetten-waterkanonnen-in-bij-grens-met-sebta</loc>
@@ -33,6 +36,7 @@
       <news:publication_date>2026-07-31T05:42:31.451Z</news:publication_date>
       <news:title>Marokkaanse autoriteiten zetten waterkanonnen in bij grens met Sebta</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-autoriteiten-zetten-waterkanonnen-in-bij-grens-met-sebta-1785475949272.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/zonder-diaspora-zou-de-energiecrisis-marokko-fors-meer-kosten</loc>
@@ -44,6 +48,7 @@
       <news:publication_date>2026-07-31T04:37:20.334Z</news:publication_date>
       <news:title>Zonder diaspora zou de energiecrisis Marokko fors meer kosten</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zonder-diaspora-zou-de-energiecrisis-marokko-fors-meer-kosten-1785472323251.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/negen-migranten-omgekomen-bij-poging-sebta-zwemmend-te-bereiken</loc>
@@ -55,6 +60,7 @@
       <news:publication_date>2026-07-31T04:34:21.303Z</news:publication_date>
       <news:title>Negen migranten omgekomen bij poging Sebta zwemmend te bereiken</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/negen-migranten-omgekomen-bij-poging-sebta-zwemmend-te-bereiken-1785472338927.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/rouw-in-blerick-na-dood-van-14-jarige-marokkaanse-nour</loc>
@@ -66,6 +72,7 @@
       <news:publication_date>2026-07-31T03:37:07.577Z</news:publication_date>
       <news:title>Rouw in Blerick na dood van 14-jarige Marokkaanse Nour</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rouw-in-blerick-na-dood-van-14-jarige-marokkaanse-nour-1785468725751.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/zeker-18-doden-bij-massale-bestorming-van-spaanse-exclave-ceuta</loc>
@@ -77,6 +84,7 @@
       <news:publication_date>2026-07-31T03:34:06.696Z</news:publication_date>
       <news:title>Zeker 18 doden bij massale bestorming van Spaanse exclave Ceuta</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zeker-18-doden-bij-massale-bestorming-van-spaanse-exclave-ceuta-1785468703113.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/minderjarige-meisjes-op-weg-naar-ceuta-droom-van-oversteek-gaat-naar-school-voor</loc>
@@ -88,6 +96,7 @@
       <news:publication_date>2026-07-31T03:02:53.259Z</news:publication_date>
       <news:title>Minderjarige meisjes op weg naar Ceuta: droom van oversteek gaat naar school voor</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/minderjarige-meisjes-op-weg-naar-ceuta-droom-van-oversteek-gaat-naar-school-voor-1785466646523.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/tien-lichamen-geborgen-voor-de-kust-van-ceuta-in-24-uur</loc>
@@ -99,6 +108,7 @@
       <news:publication_date>2026-07-31T02:59:55.051Z</news:publication_date>
       <news:title>Tien lichamen geborgen voor de kust van Ceuta in 24 uur</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tien-lichamen-geborgen-voor-de-kust-van-ceuta-in-24-uur-1785466671410.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spaanse-premier-bezoekt-ceuta-na-sterke-toename-migratie-vanuit-marokko</loc>
@@ -110,6 +120,7 @@
       <news:publication_date>2026-07-31T02:34:39.124Z</news:publication_date>
       <news:title>Spaanse premier bezoekt Ceuta na sterke toename migratie vanuit Marokko</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-premier-bezoekt-ceuta-na-sterke-toename-migratie-vanuit-marokko-1785465126743.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nepvideo-lokt-honderden-naar-wonderbron-in-taounate-water-blijkt-vol-bacterien</loc>
@@ -121,6 +132,7 @@
       <news:publication_date>2026-07-31T01:37:26.087Z</news:publication_date>
       <news:title>Nepvideo lokt honderden naar &apos;wonderbron&apos; in Taounate, water blijkt vol bacteriën</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nepvideo-lokt-honderden-naar-wonderbron-in-taounate-water-blijkt-vol-bacterien-1785461540330.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalvrouwen-verslaan-algerije-en-naderen-kwartfinale-afrika-cup</loc>
@@ -132,6 +144,7 @@
       <news:publication_date>2026-07-31T00:37:39.900Z</news:publication_date>
       <news:title>Marokkaanse voetbalvrouwen verslaan Algerije en naderen kwartfinale Afrika Cup</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-voetbalvrouwen-verslaan-algerije-en-naderen-kwartfinale-afrika-cup-1785457956280.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwinnen-na-winst-tegen-algerije-overwinning-was-verdiend-nu-focussen-we-</loc>
@@ -143,6 +156,7 @@
       <news:publication_date>2026-07-31T00:34:38.744Z</news:publication_date>
       <news:title>Atlasleeuwinnen na winst tegen Algerije: &apos;Overwinning was verdiend, nu focussen we op Senegal&apos;</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwinnen-na-winst-tegen-algerije-overwinning-was-verdiend-nu-focussen-we--1785457923041.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/autoriteiten-ceuta-vragen-leger-na-massale-grensoversteek</loc>
@@ -154,6 +168,7 @@
       <news:publication_date>2026-07-30T13:34:16.609Z</news:publication_date>
       <news:title>Autoriteiten Ceuta vragen leger na massale grensoversteek</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/autoriteiten-ceuta-vragen-leger-na-massale-grensoversteek-1785418334218.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vrouwen-can-2026-marokko-en-algerije-treffen-elkaar-in-beslissende-derby</loc>
@@ -165,6 +180,7 @@
       <news:publication_date>2026-07-30T11:34:06.325Z</news:publication_date>
       <news:title>Vrouwen-CAN 2026: Marokko en Algerije treffen elkaar in beslissende derby</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouwen-can-2026-marokko-en-algerije-treffen-elkaar-in-beslissende-derby-1785411124897.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/auto-s-blijven-exportkampioen-van-marokko-met-15-miljard-euro</loc>
@@ -176,6 +192,7 @@
       <news:publication_date>2026-07-30T09:37:28.340Z</news:publication_date>
       <news:title>Auto&apos;s blijven exportkampioen van Marokko met 15 miljard euro</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/auto-s-blijven-exportkampioen-van-marokko-met-15-miljard-euro-1785403944570.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/afrika-cup-vrouwen-beladen-duel-tussen-marokko-en-algerije-in-rabat</loc>
@@ -187,6 +204,7 @@
       <news:publication_date>2026-07-30T09:34:26.848Z</news:publication_date>
       <news:title>Afrika Cup vrouwen: beladen duel tussen Marokko en Algerije in Rabat</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/afrika-cup-vrouwen-beladen-duel-tussen-marokko-en-algerije-in-rabat-1785403918404.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/toen-algerije-bij-de-vn-voorstelde-de-sahara-te-verdelen-tussen-marokko-en-polis</loc>
@@ -198,6 +216,7 @@
       <news:publication_date>2026-07-30T06:48:40.859Z</news:publication_date>
       <news:title>Toen Algerije bij de VN voorstelde de Sahara te verdelen tussen Marokko en Polisario</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toen-algerije-bij-de-vn-voorstelde-de-sahara-te-verdelen-tussen-marokko-en-polis-1785391415637.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/amerikaans-marokkaans-militair-trainingscentrum-in-tan-tan-wekt-onrust-in-spanje</loc>
@@ -209,6 +228,7 @@
       <news:publication_date>2026-07-30T06:28:39.327Z</news:publication_date>
       <news:title>Amerikaans-Marokkaans militair trainingscentrum in Tan-Tan wekt onrust in Spanje</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaans-marokkaans-militair-trainingscentrum-in-tan-tan-wekt-onrust-in-spanje-1785391389808.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/203-miljard-dirham-marokko-produceert-meer-maar-blijft-massaal-importeren</loc>
@@ -220,6 +240,7 @@
       <news:publication_date>2026-07-30T06:08:37.399Z</news:publication_date>
       <news:title>203 miljard dirham: Marokko produceert meer, maar blijft massaal importeren</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/203-miljard-dirham-marokko-produceert-meer-maar-blijft-massaal-importeren-1785391360068.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ontbrekende-handtekening-kan-leiden-tot-gemiste-vlucht-voor-minderjarigen-in-mar</loc>
@@ -231,6 +252,7 @@
       <news:publication_date>2026-07-30T04:37:18.418Z</news:publication_date>
       <news:title>Ontbrekende handtekening kan leiden tot gemiste vlucht voor minderjarigen in Marokko</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ontbrekende-handtekening-kan-leiden-tot-gemiste-vlucht-voor-minderjarigen-in-mar-1785385937120.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-schuldenberg-groeit-sneller-dan-ooit</loc>
@@ -242,6 +264,7 @@
       <news:publication_date>2026-07-30T04:24:49.182Z</news:publication_date>
       <news:title>Marokkaanse schuldenberg groeit sneller dan ooit</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-schuldenberg-groeit-sneller-dan-ooit-1785383982550.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ceuta-roept-noodtoestand-uit-na-aankomst-honderden-migranten-uit-marokko</loc>
@@ -253,6 +276,7 @@
       <news:publication_date>2026-07-30T02:34:09.023Z</news:publication_date>
       <news:title>Ceuta roept noodtoestand uit na aankomst honderden migranten uit Marokko</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ceuta-roept-noodtoestand-uit-na-aankomst-honderden-migranten-uit-marokko-1785378727454.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wafcon-vilda-ziet-atlasleeuwinnen-klaar-voor-cruciaal-duel-met-algerije</loc>
@@ -264,6 +288,7 @@
       <news:publication_date>2026-07-30T01:37:36.700Z</news:publication_date>
       <news:title>WAFCON: Vilda ziet Atlasleeuwinnen klaar voor cruciaal duel met Algerije</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wafcon-vilda-ziet-atlasleeuwinnen-klaar-voor-cruciaal-duel-met-algerije-1785375155015.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/video-van-twee-zwemmende-meisjes-die-ceuta-bereiken-gaat-viraal-met-miljoenen-vi</loc>
@@ -275,6 +300,7 @@
       <news:publication_date>2026-07-30T00:58:07.060Z</news:publication_date>
       <news:title>Video van twee zwemmende meisjes die Ceuta bereiken gaat viraal met miljoenen views</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/video-van-twee-zwemmende-meisjes-die-ceuta-bereiken-gaat-viraal-met-miljoenen-vi-1785371583887.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-agrovoedingsexport-bereikt-ruim-86-miljard-dirham-in-2025</loc>
@@ -286,6 +312,7 @@
       <news:publication_date>2026-07-30T00:38:05.606Z</news:publication_date>
       <news:title>Marokkaanse agrovoedingsexport bereikt ruim 86 miljard dirham in 2025</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-agrovoedingsexport-bereikt-ruim-86-miljard-dirham-in-2025-1785371552624.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/recordaantal-migranten-zwemt-vanuit-marokko-naar-spaanse-exclave-ceuta</loc>
@@ -297,6 +324,7 @@
       <news:publication_date>2026-07-30T00:28:01.338Z</news:publication_date>
       <news:title>Recordaantal migranten zwemt vanuit Marokko naar Spaanse exclave Ceuta</news:title>
     </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/recordaantal-migranten-zwemt-vanuit-marokko-naar-spaanse-exclave-ceuta-1785369778488.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-talent-abdellah-ouazane-groeit-bij-ajax-uit-tot-wk-hoop-voor-2030</loc>
@@ -308,16 +336,6 @@
       <news:publication_date>2026-07-30T00:08:00.135Z</news:publication_date>
       <news:title>Marokkaans talent Abdellah Ouazane groeit bij Ajax uit tot WK-hoop voor 2030</news:title>
     </news:news>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/massale-oversteek-naar-ceuta-eindigt-in-drama-vier-doden-en-vermisten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T16:26:16.870Z</news:publication_date>
-      <news:title>Massale oversteek naar Ceuta eindigt in drama: vier doden en vermisten</news:title>
-    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-talent-abdellah-ouazane-groeit-bij-ajax-uit-tot-wk-hoop-voor-2030-1785369752696.jpg</image:loc></image:image>
   </url>
 </urlset>
