@@ -320,15 +320,4 @@
       <news:title>Marokko treft Algerije in de tweede speeldag van het Afrikaans kampioenschap voor vrouwen</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-fabrikant-gentex-kiest-marokko-boven-oost-europa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-29T09:37:17.569Z</news:publication_date>
-      <news:title>Amerikaanse fabrikant Gentex kiest Marokko boven Oost-Europa</news:title>
-    </news:news>
-  </url>
 </urlset>
