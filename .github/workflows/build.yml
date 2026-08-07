@@ -1,8 +1,16 @@
 name: Build sitemaps
 
+# SLAPEND sinds 07-08-2026. De site serveert nu zelf verse sitemaps op
+# linkrsmarokko.com/sitemap.xml en /news-sitemap.xml, beide opgenomen in
+# robots.txt en zonder fouten opgehaald door Search Console. Deze repo was de
+# noodoplossing voor de periode waarin de sitemap van de site stilstond op
+# 25-06-2026; die reden is vervallen.
+#
+# Twee sitemaps met dezelfde URL's naast elkaar draaien voegt niets toe, dus de
+# uurlijkse cron staat uit. Handmatig starten kan nog, en het DNS-record plus
+# GitHub Pages blijven staan zodat dit binnen een minuut weer aan kan als de
+# sitemap van de site ooit opnieuw stilvalt.
 on:
-  schedule:
-    - cron: "20 * * * *" # elk uur; Pages serveert daarna de verse sitemap
   workflow_dispatch:
 
 permissions:
