@@ -138,10 +138,10 @@ const shortCode = (sectie, slug) => createHash("md5").update(`${sectie}/${slug}`
 rmSync("s", { recursive: true, force: true });
 const SHORT_NEWS_DAYS = 45;
 const shortItems = [
-  ...liveBlogs.map((a) => ({ sectie: "blogs", slug: a.slug })),
+  ...liveBlogs.map((a) => ({ sectie: "blogs", ...a })),
   ...liveNews
     .filter((a) => Date.now() - dateOf(a).getTime() < SHORT_NEWS_DAYS * 864e5)
-    .map((a) => ({ sectie: "nieuws", slug: a.slug })),
+    .map((a) => ({ sectie: "nieuws", ...a })),
 ];
 const codesGezien = new Set();
 let kortGeschreven = 0;
@@ -153,13 +153,23 @@ for (const it of shortItems) {
   }
   codesGezien.add(code);
   const doel = `${SITE}/${it.sectie}/${it.slug}`;
+  // OG-tags van het ARTIKEL op de doorstuurpagina: WhatsApp's preview-crawler
+  // volgt geen JavaScript, dus zonder deze tags zou de korte link een kale kaart
+  // tonen. Met titel, omschrijving en foto ziet het voorbeeld eruit als het
+  // artikel zelf.
+  const omschrijving = (it.excerpt || it.metaDescription || "").slice(0, 200);
   mkdirSync(`s/${code}`, { recursive: true });
   writeFileSync(
     `s/${code}/index.html`,
-    `<!doctype html><meta charset="utf-8"><title>Linkrs Marokko</title>
+    `<!doctype html><html lang="nl"><head><meta charset="utf-8">
+<title>${esc(it.title)}</title>
+<meta property="og:site_name" content="Linkrs Marokko">
+<meta property="og:type" content="article">
+<meta property="og:title" content="${esc(it.title)}">${omschrijving ? `\n<meta property="og:description" content="${esc(omschrijving)}">` : ""}${it.imageUrl ? `\n<meta property="og:image" content="${esc(it.imageUrl)}">` : ""}
+<meta property="og:url" content="${doel}">
 <script>var p=new URLSearchParams(location.search);location.replace(${JSON.stringify(doel)}+"?utm_source=whatsapp&utm_medium=social&utm_campaign="+encodeURIComponent(p.get("c")||"nieuws")+"&utm_content="+encodeURIComponent(p.get("d")||"status"));</script>
 <meta http-equiv="refresh" content="1;url=${doel}">
-<p><a href="${doel}">Doorgaan naar linkrsmarokko.com</a></p>`
+</head><body><p><a href="${doel}">Doorgaan naar linkrsmarokko.com</a></p></body></html>`
   );
   kortGeschreven += 1;
 }

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ocp-hervat-export-van-marokkaanse-meststoffen-naar-de-vs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T14:08:42.626Z</news:publication_date>
+      <news:title>OCP hervat export van Marokkaanse meststoffen naar de VS</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ocp-hervat-export-van-marokkaanse-meststoffen-naar-de-vs-1786975338347.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-eu-bankregels-zetten-geldtransfers-van-marokkanen-onder-druk</loc>
     <news:news>
       <news:publication>
@@ -289,17 +301,5 @@
       <news:title>Auto van premier Akhannouch botst op verkeersdrempel bij Agadir, drempels meteen weggehaald</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/auto-van-premier-akhannouch-botst-op-verkeersdrempel-bij-agadir-drempels-meteen--1786800388511.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fnideq-marokkaanse-autoriteiten-houden-148-mensen-tegen-die-naar-ceuta-wilden-ov</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T14:09:25.007Z</news:publication_date>
-      <news:title>Fnideq: Marokkaanse autoriteiten houden 148 mensen tegen die naar Ceuta wilden oversteken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fnideq-marokkaanse-autoriteiten-houden-148-mensen-tegen-die-naar-ceuta-wilden-ov-1786802573898.jpg</image:loc></image:image>
   </url>
 </urlset>
