@@ -175,6 +175,38 @@ for (const it of shortItems) {
 }
 console.log(`s/: ${kortGeschreven} korte deel-links (blogs + nieuws laatste ${SHORT_NEWS_DAYS}d).`);
 
+// --- 4. Pinterest-feed: nieuwste blogs als RSS ------------------------------
+// Pinterests "Auto-publish Pins from your RSS feed" maakt zelf pins van nieuwe
+// feed-items (geen API en dus geen Standard Access-aanvraag nodig). Bewust
+// alleen de 5 NIEUWSTE blogs: bij het koppelen pint Pinterest wat er in de
+// feed staat, en 124 pins in één burst oogt als spam. De links dragen
+// UTM-parameters zodat Pinterest-verkeer meetbaar is in Analytics.
+const feedItems = liveBlogs.slice(0, 5).map((b) => {
+  const utm = "utm_source=pinterest&utm_medium=social&utm_campaign=blog&utm_content=pin";
+  return `  <item>
+    <title>${esc(b.title)}</title>
+    <link>${esc(`${SITE}/blogs/${b.slug}?${utm}`)}</link>
+    <guid isPermaLink="false">${esc(b.slug)}</guid>
+    <description>${esc((b.excerpt || b.metaDescription || "").slice(0, 300))}</description>
+    <pubDate>${dateOf(b).toUTCString()}</pubDate>${b.imageUrl ? `\n    <enclosure url="${esc(b.imageUrl)}" type="image/jpeg" length="0"/>` : ""}
+  </item>`;
+});
+writeFileSync(
+  "pinterest-feed.xml",
+  `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Linkrs Marokko — Gidsen</title>
+  <link>${SITE}/blogs</link>
+  <description>Praktische Nederlandstalige gidsen over wonen, werken en ondernemen in Marokko.</description>
+  <language>nl</language>
+${feedItems.join("\n")}
+</channel>
+</rss>
+`
+);
+console.log(`pinterest-feed.xml: ${feedItems.length} nieuwste blogs.`);
+
 writeFileSync(
   "index.html",
   `<!doctype html><meta charset="utf-8"><title>Linkrs Marokko sitemaps</title>

@@ -39,7 +39,7 @@ jobs:
           # changes". Gevolg: zeven dagen lang geen enkele push, terwijl de runs
           # zelf gewoon leken te draaien.
           # -A ook over s/ zodat verwijderde korte links als deletie meegaan.
-          git add -A news-sitemap.xml sitemap.xml index.html s
+          git add -A news-sitemap.xml sitemap.xml pinterest-feed.xml index.html s
           git diff --staged --quiet || git commit -m "sitemap verversen [skip ci]"
           # Autostash zodat een onverwacht extra uitvoerbestand de rebase niet
           # opnieuw kan blokkeren.
