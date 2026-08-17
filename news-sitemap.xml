@@ -290,16 +290,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-marokkaanse-wet-over-zwerfdieren-is-van-kracht-dit-moet-je-weten-1786821446954.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/auto-van-premier-akhannouch-botst-op-verkeersdrempel-bij-agadir-drempels-meteen-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T14:11:31.614Z</news:publication_date>
-      <news:title>Auto van premier Akhannouch botst op verkeersdrempel bij Agadir, drempels meteen weggehaald</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/auto-van-premier-akhannouch-botst-op-verkeersdrempel-bij-agadir-drempels-meteen--1786800388511.jpg</image:loc></image:image>
-  </url>
 </urlset>
