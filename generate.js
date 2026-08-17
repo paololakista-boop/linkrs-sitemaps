@@ -165,7 +165,7 @@ for (const it of shortItems) {
 <title>${esc(it.title)}</title>
 <meta property="og:site_name" content="Linkrs Marokko">
 <meta property="og:type" content="article">
-<meta property="og:title" content="${esc(it.title)}">${omschrijving ? `\n<meta property="og:description" content="${esc(omschrijving)}">` : ""}${it.imageUrl ? `\n<meta property="og:image" content="${esc(it.imageUrl)}">` : ""}
+<meta property="og:title" content="${esc(it.title)}">${omschrijving ? `\n<meta property="og:description" content="${esc(omschrijving)}">` : ""}${it.imageUrl ? `\n<meta property="og:image" content="${esc(it.imageUrl)}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">` : ""}
 <meta property="og:url" content="${doel}">
 <script>var p=new URLSearchParams(location.search);location.replace(${JSON.stringify(doel)}+"?utm_source=whatsapp&utm_medium=social&utm_campaign="+encodeURIComponent(p.get("c")||"nieuws")+"&utm_content="+encodeURIComponent(p.get("d")||"status"));</script>
 <meta http-equiv="refresh" content="1;url=${doel}">
