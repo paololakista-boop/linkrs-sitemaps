@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/onderwijsbond-dreigt-met-nationale-staking-op-eerste-schooldag-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T19:30:15.780Z</news:publication_date>
+      <news:title>Onderwijsbond dreigt met nationale staking op eerste schooldag in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onderwijsbond-dreigt-met-nationale-staking-op-eerste-schooldag-in-marokko-1786994587518.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-stuwmeren-voor-68-6-procent-gevuld-na-overvloedige-regen</loc>
     <news:news>
       <news:publication>
@@ -349,17 +361,5 @@
       <news:title>Zomerdrukte in Tanger: files leggen het verkeer lam</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zomerdrukte-in-tanger-files-leggen-het-verkeer-lam-1786821482410.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-marokkaanse-wet-over-zwerfdieren-is-van-kracht-dit-moet-je-weten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T19:43:08.194Z</news:publication_date>
-      <news:title>Nieuwe Marokkaanse wet over zwerfdieren is van kracht: dit moet je weten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-marokkaanse-wet-over-zwerfdieren-is-van-kracht-dit-moet-je-weten-1786821446954.jpg</image:loc></image:image>
   </url>
 </urlset>
