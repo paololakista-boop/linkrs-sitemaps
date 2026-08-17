@@ -12,7 +12,8 @@
 // via JavaScript. Zonder deze sitemap heeft Google dus geen betrouwbare manier
 // om nieuwe artikelen te vinden. Los daarvan blijft het advies staan dat de
 // frontend zijn eigen sitemap weer vers maakt.
-import { writeFileSync } from "node:fs";
+import { writeFileSync, rmSync, mkdirSync } from "node:fs";
+import { createHash } from "node:crypto";
 
 const BASE = "https://linkrsmarokko-webapp-backend-nwvh3.ondigitalocean.app/api";
 // De site draait op www (apex geeft 307 naar www) — sitemaps moeten de
@@ -120,6 +121,49 @@ ${allUrls}
 </urlset>
 `
 );
+
+// --- 3. Korte deel-links: s/<code> ------------------------------------------
+// WhatsApp-links krijgen UTM-parameters (~70 tekens extra); op een status duwt
+// zo'n lange URL de link achter de "lees meer"-vouw. Openbare verkorters
+// (is.gd, TinyURL) worden door WhatsApp sneller als spam aangemerkt — een
+// subdomein van het eigen domein niet. Daarom serveert dit repo per artikel een
+// mini-doorstuurpagina. De code is een DETERMINISTISCHE hash van sectie+slug:
+// de nieuws-bot berekent dezelfde code zelfstandig (src/utm.js in dat repo),
+// zonder dat de twee repo's met elkaar hoeven te praten. De UTM-waarden komen
+// uit de query (?d=bestemming&c=campagne) zodat één pagina alle kanalen dekt.
+const shortCode = (sectie, slug) => createHash("md5").update(`${sectie}/${slug}`).digest("hex").slice(0, 8);
+
+// Vers opbouwen zodat verouderde links vanzelf verdwijnen. Alleen de STATUS
+// gebruikt korte links en die leeft 24 uur, dus 45 dagen nieuws is ruim.
+rmSync("s", { recursive: true, force: true });
+const SHORT_NEWS_DAYS = 45;
+const shortItems = [
+  ...liveBlogs.map((a) => ({ sectie: "blogs", slug: a.slug })),
+  ...liveNews
+    .filter((a) => Date.now() - dateOf(a).getTime() < SHORT_NEWS_DAYS * 864e5)
+    .map((a) => ({ sectie: "nieuws", slug: a.slug })),
+];
+const codesGezien = new Set();
+let kortGeschreven = 0;
+for (const it of shortItems) {
+  const code = shortCode(it.sectie, it.slug);
+  if (codesGezien.has(code)) {
+    console.warn(`[short] hash-botsing op ${code} (${it.sectie}/${it.slug}) — overgeslagen.`);
+    continue;
+  }
+  codesGezien.add(code);
+  const doel = `${SITE}/${it.sectie}/${it.slug}`;
+  mkdirSync(`s/${code}`, { recursive: true });
+  writeFileSync(
+    `s/${code}/index.html`,
+    `<!doctype html><meta charset="utf-8"><title>Linkrs Marokko</title>
+<script>var p=new URLSearchParams(location.search);location.replace(${JSON.stringify(doel)}+"?utm_source=whatsapp&utm_medium=social&utm_campaign="+encodeURIComponent(p.get("c")||"nieuws")+"&utm_content="+encodeURIComponent(p.get("d")||"status"));</script>
+<meta http-equiv="refresh" content="1;url=${doel}">
+<p><a href="${doel}">Doorgaan naar linkrsmarokko.com</a></p>`
+  );
+  kortGeschreven += 1;
+}
+console.log(`s/: ${kortGeschreven} korte deel-links (blogs + nieuws laatste ${SHORT_NEWS_DAYS}d).`);
 
 writeFileSync(
   "index.html",

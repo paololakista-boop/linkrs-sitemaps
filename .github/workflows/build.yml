@@ -1,17 +1,14 @@
 name: Build sitemaps
 
-# SLAPEND sinds 07-08-2026. De site serveert nu zelf verse sitemaps op
-# linkrsmarokko.com/sitemap.xml en /news-sitemap.xml, beide opgenomen in
-# robots.txt en zonder fouten opgehaald door Search Console. Deze repo was de
-# noodoplossing voor de periode waarin de sitemap van de site stilstond op
-# 25-06-2026; die reden is vervallen.
-#
-# Twee sitemaps met dezelfde URL's naast elkaar draaien voegt niets toe, dus de
-# uurlijkse cron staat uit. Handmatig starten kan nog, en het DNS-record plus
-# GitHub Pages blijven staan zodat dit binnen een minuut weer aan kan als de
-# sitemap van de site ooit opnieuw stilvalt.
+# WEER WAKKER sinds 17-08-2026, met een nieuwe hoofdtaak: korte deel-links op
+# eigen domein (s/<code> → artikel met UTM-parameters) voor de WhatsApp-promotie
+# van de nieuws-bot. Openbare verkorters worden door WhatsApp sneller als spam
+# gezien; het eigen subdomein niet. De sitemaps draaien als bijvangst gewoon mee
+# (de site serveert zelf ook verse sitemaps sinds 07-08; dubbel schaadt niet).
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "20 * * * *"
 
 permissions:
   contents: write
@@ -41,7 +38,8 @@ jobs:
           # `git pull --rebase` met "cannot pull with rebase: You have unstaged
           # changes". Gevolg: zeven dagen lang geen enkele push, terwijl de runs
           # zelf gewoon leken te draaien.
-          git add news-sitemap.xml sitemap.xml index.html
+          # -A ook over s/ zodat verwijderde korte links als deletie meegaan.
+          git add -A news-sitemap.xml sitemap.xml index.html s
           git diff --staged --quiet || git commit -m "sitemap verversen [skip ci]"
           # Autostash zodat een onverwacht extra uitvoerbestand de rebase niet
           # opnieuw kan blokkeren.
