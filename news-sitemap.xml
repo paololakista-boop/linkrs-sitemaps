@@ -350,16 +350,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaans-rapport-ziet-marokkaanse-havens-als-schakel-in-chinese-handelsomweg-1786860143506.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/digitaal-geweld-bedreigt-vrouwelijke-kandidaten-voor-de-marokkaanse-verkiezingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T22:48:56.773Z</news:publication_date>
-      <news:title>Digitaal geweld bedreigt vrouwelijke kandidaten voor de Marokkaanse verkiezingen van 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/digitaal-geweld-bedreigt-vrouwelijke-kandidaten-voor-de-marokkaanse-verkiezingen-1786831433391.jpg</image:loc></image:image>
-  </url>
 </urlset>
