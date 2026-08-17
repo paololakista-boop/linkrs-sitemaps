@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/canadees-bedrijf-krijgt-licentie-voor-titaniumproject-aan-de-marokkaanse-kust</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T20:10:18.060Z</news:publication_date>
+      <news:title>Canadees bedrijf krijgt licentie voor titaniumproject aan de Marokkaanse kust</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/canadees-bedrijf-krijgt-licentie-voor-titaniumproject-aan-de-marokkaanse-kust-1786994674330.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/weer-in-marokko-hitte-onweer-en-geleidelijk-dalende-temperaturen-deze-week</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T19:50:17.112Z</news:publication_date>
+      <news:title>Weer in Marokko: hitte, onweer en geleidelijk dalende temperaturen deze week</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weer-in-marokko-hitte-onweer-en-geleidelijk-dalende-temperaturen-deze-week-1786994631631.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/onderwijsbond-dreigt-met-nationale-staking-op-eerste-schooldag-in-marokko</loc>
     <news:news>
       <news:publication>
@@ -349,17 +373,5 @@
       <news:title>Nee, Marokko bestond niet pas vanaf 1956: de mythe ontrafeld</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nee-marokko-bestond-niet-pas-vanaf-1956-de-mythe-ontrafeld-1786831354189.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zomerdrukte-in-tanger-files-leggen-het-verkeer-lam</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-15T20:03:09.254Z</news:publication_date>
-      <news:title>Zomerdrukte in Tanger: files leggen het verkeer lam</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zomerdrukte-in-tanger-files-leggen-het-verkeer-lam-1786821482410.jpg</image:loc></image:image>
   </url>
 </urlset>
