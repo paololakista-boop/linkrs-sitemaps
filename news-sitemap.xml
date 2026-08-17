@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/agadir-bij-tien-beste-vakantiebestemmingen-voor-zon-in-september</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T14:48:44.610Z</news:publication_date>
+      <news:title>Agadir bij tien beste vakantiebestemmingen voor zon in september</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/agadir-bij-tien-beste-vakantiebestemmingen-voor-zon-in-september-1786975421688.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/straat-van-gibraltar-marokkaanse-veerlicenties-lokken-wereldspelers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T14:36:36.665Z</news:publication_date>
+      <news:title>Straat van Gibraltar: Marokkaanse veerlicenties lokken wereldspelers</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/straat-van-gibraltar-marokkaanse-veerlicenties-lokken-wereldspelers-1786977063669.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gewelddadige-confrontatie-bij-busstation-ouled-ziane-in-casablanca</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-17T14:28:43.764Z</news:publication_date>
+      <news:title>Gewelddadige confrontatie bij busstation Ouled Ziane in Casablanca</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gewelddadige-confrontatie-bij-busstation-ouled-ziane-in-casablanca-1786975379218.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ocp-hervat-export-van-marokkaanse-meststoffen-naar-de-vs</loc>
     <news:news>
       <news:publication>
