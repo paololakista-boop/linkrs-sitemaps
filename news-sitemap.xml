@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-paspoort-geeft-toegang-tot-82-bestemmingen-maar-rankings-lopen-sterk-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T17:35:18.721Z</news:publication_date>
+      <news:title>Marokkaans paspoort geeft toegang tot 82 bestemmingen, maar rankings lopen sterk uiteen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-paspoort-geeft-toegang-tot-82-bestemmingen-maar-rankings-lopen-sterk--1787074213493.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-roots-mohamed-soudassi-gevierd-na-europees-goud</loc>
     <news:news>
       <news:publication>
@@ -313,17 +325,5 @@
       <news:title>&apos;We verlaten ons land niet&apos;: campagne moet jonge Marokkanen thuis houden</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/we-verlaten-ons-land-niet-campagne-moet-jonge-marokkanen-thuis-houden-1786907776336.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-moeder-van-zes-kinderen-bedreigd-met-uitzetting-uit-frankrijk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T17:26:44.337Z</news:publication_date>
-      <news:title>Marokkaanse moeder van zes kinderen bedreigd met uitzetting uit Frankrijk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-moeder-van-zes-kinderen-bedreigd-met-uitzetting-uit-frankrijk-1786900901900.jpg</image:loc></image:image>
   </url>
 </urlset>

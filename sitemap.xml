@@ -32,6 +32,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-paspoort-geeft-toegang-tot-82-bestemmingen-maar-rankings-lopen-sterk-</loc>
+    <lastmod>2026-08-18T17:35:18.721Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-paspoort-geeft-toegang-tot-82-bestemmingen-maar-rankings-lopen-sterk--1787074213493.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-roots-mohamed-soudassi-gevierd-na-europees-goud</loc>
     <lastmod>2026-08-18T14:48:49.598Z</lastmod>
     <changefreq>daily</changefreq>
@@ -805,7 +812,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/bosbranden-verwoesten-honderden-hectaren-bos-in-sefrou-en-chefchaouen</loc>
     <lastmod>2026-08-11T17:37:52.933Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bosbranden-verwoesten-honderden-hectaren-bos-in-sefrou-en-chefchaouen-1786469571988.jpg</image:loc></image:image>
   </url>
   <url>
