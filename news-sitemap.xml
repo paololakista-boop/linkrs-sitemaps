@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-trekt-invaliditeitsuitkering-van-marokkaanse-vrouw-in-en-eist-meer-dan-32</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T12:37:10.923Z</news:publication_date>
+      <news:title>Spanje trekt invaliditeitsuitkering van Marokkaanse vrouw in en eist meer dan 32.000 euro terug</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-trekt-invaliditeitsuitkering-van-marokkaanse-vrouw-in-en-eist-meer-dan-32-1787056329532.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/britse-atletiekcoach-leon-baptiste-vermist-na-verblijf-in-marokko</loc>
     <news:news>
       <news:publication>
@@ -337,29 +349,5 @@
       <news:title>Marokkaanse geleerde &apos;Ba Alaoui&apos; overleden in Rabat</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-geleerde-ba-alaoui-overleden-in-rabat-1786886771880.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/man-22-uit-zeist-al-bijna-een-maand-vermist-in-tanger-familie-zet-zoektocht-voor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T12:57:56.534Z</news:publication_date>
-      <news:title>Man (22) uit Zeist al bijna een maand vermist in Tanger: familie zet zoektocht voort</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/man-22-uit-zeist-al-bijna-een-maand-vermist-in-tanger-familie-zet-zoektocht-voor-1786883574688.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nationale-dag-van-de-marokkaan-in-het-buitenland-meer-dan-applaus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T12:37:55.617Z</news:publication_date>
-      <news:title>Nationale Dag van de Marokkaan in het buitenland: meer dan applaus?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nationale-dag-van-de-marokkaan-in-het-buitenland-meer-dan-applaus-1786883541393.jpg</image:loc></image:image>
   </url>
 </urlset>
