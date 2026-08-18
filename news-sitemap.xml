@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-journaliste-van-mediapart-geweigerd-aan-de-marokkaanse-grens</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T20:10:05.095Z</news:publication_date>
+      <news:title>Franse journaliste van Mediapart geweigerd aan de Marokkaanse grens</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-journaliste-van-mediapart-geweigerd-aan-de-marokkaanse-grens-1787081057806.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-rechter-beschermt-verblijfsvergunning-van-marokkaanse-studente</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T19:50:03.988Z</news:publication_date>
+      <news:title>Franse rechter beschermt verblijfsvergunning van Marokkaanse studente</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-rechter-beschermt-verblijfsvergunning-van-marokkaanse-studente-1787081025932.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/tanger-med-neemt-grootste-drijvende-zonnecentrale-van-afrika-in-gebruik</loc>
     <news:news>
       <news:publication>
