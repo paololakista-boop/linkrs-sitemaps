@@ -362,16 +362,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nationale-dag-van-de-marokkaan-in-het-buitenland-meer-dan-applaus-1786883541393.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/schoolspullen-in-de-winkels-midden-augustus-verstoren-de-vakantierust-van-marokk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T11:28:05.844Z</news:publication_date>
-      <news:title>Schoolspullen in de winkels midden augustus verstoren de vakantierust van Marokkaanse kinderen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/schoolspullen-in-de-winkels-midden-augustus-verstoren-de-vakantierust-van-marokk-1786879384289.jpg</image:loc></image:image>
-  </url>
 </urlset>
