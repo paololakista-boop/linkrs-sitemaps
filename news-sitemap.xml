@@ -326,16 +326,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-moeder-van-zes-kinderen-bedreigd-met-uitzetting-uit-frankrijk-1786900901900.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/jorge-vilda-marokko-mag-trots-zijn-op-sterke-vrouwenploeg-na-can-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T16:32:55.158Z</news:publication_date>
-      <news:title>Jorge Vilda: Marokko mag trots zijn op sterke vrouwenploeg na CAN 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jorge-vilda-marokko-mag-trots-zijn-op-sterke-vrouwenploeg-na-can-2026-1786897672882.jpg</image:loc></image:image>
-  </url>
 </urlset>
