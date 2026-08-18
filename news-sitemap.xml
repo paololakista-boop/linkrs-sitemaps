@@ -314,28 +314,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/honderden-marokkanen-zitten-nog-vast-in-gaza-aantal-kan-oplopen-tot-700-1786946550541.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/waarom-spanje-de-band-tussen-rabat-en-washington-door-een-eigen-bril-bekijkt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T19:43:01.349Z</news:publication_date>
-      <news:title>Waarom Spanje de band tussen Rabat en Washington door een eigen bril bekijkt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-spanje-de-band-tussen-rabat-en-washington-door-een-eigen-bril-bekijkt-1786907877421.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/we-verlaten-ons-land-niet-campagne-moet-jonge-marokkanen-thuis-houden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T19:22:58.914Z</news:publication_date>
-      <news:title>&apos;We verlaten ons land niet&apos;: campagne moet jonge Marokkanen thuis houden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/we-verlaten-ons-land-niet-campagne-moet-jonge-marokkanen-thuis-houden-1786907776336.jpg</image:loc></image:image>
-  </url>
 </urlset>
