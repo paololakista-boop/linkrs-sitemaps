@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-scherpt-transitregels-voor-nigerianen-aan-na-valse-schengenvisa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T06:28:56.363Z</news:publication_date>
+      <news:title>Marokko scherpt transitregels voor Nigerianen aan na valse Schengenvisa</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-scherpt-transitregels-voor-nigerianen-aan-na-valse-schengenvisa-1787032994564.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/volmachtstemmen-roept-debat-op-over-politieke-vertegenwoordiging-van-marokkaanse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T06:08:52.934Z</news:publication_date>
+      <news:title>Volmachtstemmen roept debat op over politieke vertegenwoordiging van Marokkaanse diaspora</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volmachtstemmen-roept-debat-op-over-politieke-vertegenwoordiging-van-marokkaanse-1787032956028.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/drie-jaar-na-de-aardbeving-in-al-haouz-keren-getroffenen-terug-naar-onveilige-hu</loc>
     <news:news>
       <news:publication>
@@ -325,29 +349,5 @@
       <news:title>Marokko schrapt visumplicht voor Albanezen bij korte verblijven</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-schrapt-visumplicht-voor-albanezen-bij-korte-verblijven-1786868409826.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-stuwmeren-stromen-vol-68-79-procent-gevuld-in-augustus-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T06:28:02.593Z</news:publication_date>
-      <news:title>Marokkaanse stuwmeren stromen vol: 68,79 procent gevuld in augustus 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-stuwmeren-stromen-vol-68-79-procent-gevuld-in-augustus-2026-1786860180148.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amerikaans-rapport-ziet-marokkaanse-havens-als-schakel-in-chinese-handelsomweg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T06:08:01.514Z</news:publication_date>
-      <news:title>Amerikaans rapport ziet Marokkaanse havens als schakel in Chinese handelsomweg</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaans-rapport-ziet-marokkaanse-havens-als-schakel-in-chinese-handelsomweg-1786860143506.jpg</image:loc></image:image>
   </url>
 </urlset>
