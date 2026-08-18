@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/deens-investeringsfonds-a-p-moller-capital-koopt-marokkaanse-logistieksector-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T08:52:49.372Z</news:publication_date>
+      <news:title>Deens investeringsfonds A.P. Moller Capital koopt Marokkaanse logistieksector in</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/deens-investeringsfonds-a-p-moller-capital-koopt-marokkaanse-logistieksector-in-1787041627492.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-grootste-groep-buitenlandse-werknemers-in-spanje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T08:32:48.436Z</news:publication_date>
+      <news:title>Marokkanen grootste groep buitenlandse werknemers in Spanje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-grootste-groep-buitenlandse-werknemers-in-spanje-1787041584039.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-scherpt-transitregels-voor-nigerianen-aan-na-valse-schengenvisa</loc>
     <news:news>
       <news:publication>
@@ -337,17 +361,5 @@
       <news:title>Aid Al Mawlid: één of twee dagen vrij? Dit zegt de Marokkaanse wet</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/aid-al-mawlid-een-of-twee-dagen-vrij-dit-zegt-de-marokkaanse-wet-1786875909890.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schrapt-visumplicht-voor-albanezen-bij-korte-verblijven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T08:45:14.909Z</news:publication_date>
-      <news:title>Marokko schrapt visumplicht voor Albanezen bij korte verblijven</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-schrapt-visumplicht-voor-albanezen-bij-korte-verblijven-1786868409826.jpg</image:loc></image:image>
   </url>
 </urlset>
