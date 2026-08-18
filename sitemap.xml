@@ -819,7 +819,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/snrt-opent-deuren-voor-marokkanen-wereldwijd-op-hun-nationale-dag</loc>
     <lastmod>2026-08-11T13:37:54.773Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/snrt-opent-deuren-voor-marokkanen-wereldwijd-op-hun-nationale-dag-1786455173521.jpg</image:loc></image:image>
   </url>
   <url>
@@ -11090,6 +11090,13 @@
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-news-1770126982258.webp</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/blogs/paspoort-verlengen-marokko-vanuit-nederland-complete-gids-voor-2026</loc>
+    <lastmod>2026-08-18T13:37:31.398Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/paspoort-verlengen-marokko-vanuit-nederland-complete-gids-voor-2026-1785841811936.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/blogs/cnie-kaart-aanvragen-stappen-voor-marokkanen-in-het-buitenland-2026</loc>
     <lastmod>2026-08-18T09:15:22.309Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -11389,13 +11396,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vastgoed-kopen-marokko-als-terugkeerder-rechten-en-voordelen-voor-de-diaspora-1786014478447.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/blogs/paspoort-verlengen-marokko-vanuit-nederland-complete-gids-voor-2026</loc>
-    <lastmod>2026-08-04T11:10:20.621Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/paspoort-verlengen-marokko-vanuit-nederland-complete-gids-voor-2026-1785841811936.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/blogs/visum-marokko-hoelang-mag-je-blijven-als-expat-2026</loc>

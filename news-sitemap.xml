@@ -326,28 +326,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-zet-spaanse-journalisten-uit-fnideq-wederkerigheid-en-soevereiniteit-1786888957543.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/twee-marokkaanse-universiteiten-in-de-shanghai-ranking-van-beste-duizend-wereldw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T13:52:32.874Z</news:publication_date>
-      <news:title>Twee Marokkaanse universiteiten in de Shanghai-ranking van beste duizend wereldwijd</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-marokkaanse-universiteiten-in-de-shanghai-ranking-van-beste-duizend-wereldw-1786886810398.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-geleerde-ba-alaoui-overleden-in-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T13:32:31.625Z</news:publication_date>
-      <news:title>Marokkaanse geleerde &apos;Ba Alaoui&apos; overleden in Rabat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-geleerde-ba-alaoui-overleden-in-rabat-1786886771880.jpg</image:loc></image:image>
-  </url>
 </urlset>
