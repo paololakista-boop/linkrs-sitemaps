@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-roots-mohamed-soudassi-gevierd-na-europees-goud</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T14:48:49.598Z</news:publication_date>
+      <news:title>Marokkaanse roots: Mohamed Soudassi gevierd na Europees goud</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-roots-mohamed-soudassi-gevierd-na-europees-goud-1787061826023.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-krijgt-satelliet-wifi-van-starlink-aan-boord</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T14:28:48.754Z</news:publication_date>
+      <news:title>Royal Air Maroc krijgt satelliet-wifi van Starlink aan boord</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-air-maroc-krijgt-satelliet-wifi-van-starlink-aan-boord-1787061787331.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-bestudeert-energieafhankelijkheid-van-marokko-wat-betekent-dat-voor-de-ba</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T14:08:47.501Z</news:publication_date>
+      <news:title>Spanje bestudeert energieafhankelijkheid van Marokko: wat betekent dat voor de banden tussen Rabat en Madrid?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-bestudeert-energieafhankelijkheid-van-marokko-wat-betekent-dat-voor-de-ba-1787061745021.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spanje-trekt-invaliditeitsuitkering-van-marokkaanse-vrouw-in-en-eist-meer-dan-32</loc>
     <news:news>
       <news:publication>
@@ -301,29 +337,5 @@
       <news:title>Jorge Vilda: Marokko mag trots zijn op sterke vrouwenploeg na CAN 2026</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jorge-vilda-marokko-mag-trots-zijn-op-sterke-vrouwenploeg-na-can-2026-1786897672882.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-medicijnprijzen-in-marokko-verdelen-apothekers-over-kosten-en-tekorten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T14:12:33.932Z</news:publication_date>
-      <news:title>Nieuwe medicijnprijzen in Marokko verdelen apothekers over kosten en tekorten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-medicijnprijzen-in-marokko-verdelen-apothekers-over-kosten-en-tekorten-1786886850686.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-zet-spaanse-journalisten-uit-fnideq-wederkerigheid-en-soevereiniteit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T14:07:38.952Z</news:publication_date>
-      <news:title>Marokko zet Spaanse journalisten uit Fnideq: wederkerigheid en soevereiniteit</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-zet-spaanse-journalisten-uit-fnideq-wederkerigheid-en-soevereiniteit-1786888957543.jpg</image:loc></image:image>
   </url>
 </urlset>
