@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-topleverancier-van-kleding-aan-de-eu-ondanks-dalende-export</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T22:07:38.131Z</news:publication_date>
+      <news:title>Marokko blijft topleverancier van kleding aan de EU ondanks dalende export</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-blijft-topleverancier-van-kleding-aan-de-eu-ondanks-dalende-export-1787090556916.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-scheidsrechter-zakariya-bouchtaoui-trots-op-finale-wk-vrouwen-in-afr</loc>
     <news:news>
       <news:publication>
