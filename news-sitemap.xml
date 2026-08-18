@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/britse-atletiekcoach-leon-baptiste-vermist-na-verblijf-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T10:33:39.252Z</news:publication_date>
+      <news:title>Britse atletiekcoach Leon Baptiste vermist na verblijf in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/britse-atletiekcoach-leon-baptiste-vermist-na-verblijf-in-marokko-1787049098321.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-pensioenfonds-cmr-vereenvoudigt-de-afhandeling-van-pensioendossiers</loc>
     <news:news>
       <news:publication>
@@ -361,17 +373,5 @@
       <news:title>Schoolspullen in de winkels midden augustus verstoren de vakantierust van Marokkaanse kinderen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/schoolspullen-in-de-winkels-midden-augustus-verstoren-de-vakantierust-van-marokk-1786879384289.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/aid-al-mawlid-een-of-twee-dagen-vrij-dit-zegt-de-marokkaanse-wet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-16T10:30:15.243Z</news:publication_date>
-      <news:title>Aid Al Mawlid: één of twee dagen vrij? Dit zegt de Marokkaanse wet</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/aid-al-mawlid-een-of-twee-dagen-vrij-dit-zegt-de-marokkaanse-wet-1786875909890.jpg</image:loc></image:image>
   </url>
 </urlset>
