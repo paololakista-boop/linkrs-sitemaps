@@ -32,6 +32,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-verleent-gratie-aan-935-mensen-bij-revolutieherdenking</loc>
+    <lastmod>2026-08-19T18:37:34.391Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-verleent-gratie-aan-935-mensen-bij-revolutieherdenking-1787164350339.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/slachtoffers-aardbeving-al-haouz-bezoek-akhannouch-is-niet-genoeg</loc>
     <lastmod>2026-08-19T14:28:19.354Z</lastmod>
     <changefreq>daily</changefreq>
@@ -791,7 +798,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-leeuwinnen-jagen-tegen-kameroen-op-eerste-continentale-finale</loc>
     <lastmod>2026-08-12T18:37:33.774Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-leeuwinnen-jagen-tegen-kameroen-op-eerste-continentale-finale-1786559551553.jpg</image:loc></image:image>
   </url>
   <url>

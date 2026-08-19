@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-verleent-gratie-aan-935-mensen-bij-revolutieherdenking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T18:37:34.391Z</news:publication_date>
+      <news:title>Koning Mohammed VI verleent gratie aan 935 mensen bij Revolutieherdenking</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-verleent-gratie-aan-935-mensen-bij-revolutieherdenking-1787164350339.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/slachtoffers-aardbeving-al-haouz-bezoek-akhannouch-is-niet-genoeg</loc>
     <news:news>
       <news:publication>
@@ -385,17 +397,5 @@
       <news:title>Onderwijsbond dreigt met nationale staking op eerste schooldag in Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onderwijsbond-dreigt-met-nationale-staking-op-eerste-schooldag-in-marokko-1786994587518.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-stuwmeren-voor-68-6-procent-gevuld-na-overvloedige-regen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T18:48:37.308Z</news:publication_date>
-      <news:title>Marokkaanse stuwmeren voor 68,6 procent gevuld na overvloedige regen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-stuwmeren-voor-68-6-procent-gevuld-na-overvloedige-regen-1786992176175.jpg</image:loc></image:image>
   </url>
 </urlset>
