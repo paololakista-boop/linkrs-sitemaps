@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/larbi-mirikan-de-marokkaan-die-de-atlantische-oceaan-overstak-in-een-vissersboot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T19:26:32.066Z</news:publication_date>
+      <news:title>Larbi Mirikan: de Marokkaan die de Atlantische Oceaan overstak in een vissersbootje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/larbi-mirikan-de-marokkaan-die-de-atlantische-oceaan-overstak-in-een-vissersboot-1787167210135.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-verleent-gratie-aan-935-mensen-bij-revolutieherdenking</loc>
     <news:news>
       <news:publication>
@@ -385,17 +397,5 @@
       <news:title>Weer in Marokko: hitte, onweer en geleidelijk dalende temperaturen deze week</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weer-in-marokko-hitte-onweer-en-geleidelijk-dalende-temperaturen-deze-week-1786994631631.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/onderwijsbond-dreigt-met-nationale-staking-op-eerste-schooldag-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T19:30:15.780Z</news:publication_date>
-      <news:title>Onderwijsbond dreigt met nationale staking op eerste schooldag in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onderwijsbond-dreigt-met-nationale-staking-op-eerste-schooldag-in-marokko-1786994587518.jpg</image:loc></image:image>
   </url>
 </urlset>
