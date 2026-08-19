@@ -32,6 +32,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-golfer-adam-bresnu-schrijft-geschiedenis-in-amerika</loc>
+    <lastmod>2026-08-19T13:44:51.960Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-golfer-adam-bresnu-schrijft-geschiedenis-in-amerika-1787146748192.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-influencers-jarenlang-geweerd-van-sociale-media-rechters-roepen-vrag</loc>
     <lastmod>2026-08-19T12:58:02.656Z</lastmod>
     <changefreq>daily</changefreq>
@@ -819,7 +826,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/maleisie-zonder-visum-waarom-marokkanen-er-zomaar-naartoe-kunnen-reizen</loc>
     <lastmod>2026-08-12T13:19:16.869Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/maleisie-zonder-visum-waarom-marokkanen-er-zomaar-naartoe-kunnen-reizen-1786540455403.jpg</image:loc></image:image>
   </url>
   <url>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-golfer-adam-bresnu-schrijft-geschiedenis-in-amerika</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T13:44:51.960Z</news:publication_date>
+      <news:title>Marokkaanse golfer Adam Bresnu schrijft geschiedenis in Amerika</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-golfer-adam-bresnu-schrijft-geschiedenis-in-amerika-1787146748192.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-influencers-jarenlang-geweerd-van-sociale-media-rechters-roepen-vrag</loc>
     <news:news>
       <news:publication>
