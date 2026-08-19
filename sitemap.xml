@@ -32,6 +32,20 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-ontkent-plan-om-marokko-met-energiesancties-onder-druk-te-zetten</loc>
+    <lastmod>2026-08-19T22:27:48.394Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-ontkent-plan-om-marokko-met-energiesancties-onder-druk-te-zetten-1787176966333.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-in-chefchaouen-blusvliegtuigen-en-honderden-hulpverleners-in-actie</loc>
+    <lastmod>2026-08-19T22:07:47.537Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bosbrand-in-chefchaouen-blusvliegtuigen-en-honderden-hulpverleners-in-actie-1787176929210.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verdachte-van-zedenmisdrijf-opgepakt-in-ceuta</loc>
     <lastmod>2026-08-19T20:06:33.890Z</lastmod>
     <changefreq>daily</changefreq>
@@ -798,7 +812,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/48-passagiers-ontsnappen-aan-vlammenzee-bij-busbrand-in-taroudant</loc>
     <lastmod>2026-08-12T22:04:45.572Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/48-passagiers-ontsnappen-aan-vlammenzee-bij-busbrand-in-taroudant-1786572164282.jpg</image:loc></image:image>
   </url>
   <url>

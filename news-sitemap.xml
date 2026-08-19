@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-ontkent-plan-om-marokko-met-energiesancties-onder-druk-te-zetten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T22:27:48.394Z</news:publication_date>
+      <news:title>Spanje ontkent plan om Marokko met energiesancties onder druk te zetten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-ontkent-plan-om-marokko-met-energiesancties-onder-druk-te-zetten-1787176966333.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-in-chefchaouen-blusvliegtuigen-en-honderden-hulpverleners-in-actie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T22:07:47.537Z</news:publication_date>
+      <news:title>Bosbrand in Chefchaouen: blusvliegtuigen en honderden hulpverleners in actie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bosbrand-in-chefchaouen-blusvliegtuigen-en-honderden-hulpverleners-in-actie-1787176929210.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verdachte-van-zedenmisdrijf-opgepakt-in-ceuta</loc>
     <news:news>
       <news:publication>
@@ -385,17 +409,5 @@
       <news:title>Volmachtstemmen roept debat op over politieke vertegenwoordiging van Marokkaanse diaspora</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volmachtstemmen-roept-debat-op-over-politieke-vertegenwoordiging-van-marokkaanse-1787032956028.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/drie-jaar-na-de-aardbeving-in-al-haouz-keren-getroffenen-terug-naar-onveilige-hu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T22:07:55.380Z</news:publication_date>
-      <news:title>Drie jaar na de aardbeving in Al Haouz keren getroffenen terug naar onveilige huizen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drie-jaar-na-de-aardbeving-in-al-haouz-keren-getroffenen-terug-naar-onveilige-hu-1787004146273.jpg</image:loc></image:image>
   </url>
 </urlset>
