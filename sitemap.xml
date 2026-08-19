@@ -32,6 +32,20 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-influencers-jarenlang-geweerd-van-sociale-media-rechters-roepen-vrag</loc>
+    <lastmod>2026-08-19T12:58:02.656Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-influencers-jarenlang-geweerd-van-sociale-media-rechters-roepen-vrag-1787142780532.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bankrente-in-marokko-stijgt-weer-maar-lenen-blijft-relatief-gunstig</loc>
+    <lastmod>2026-08-19T12:38:01.573Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bankrente-in-marokko-stijgt-weer-maar-lenen-blijft-relatief-gunstig-1787142738570.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/investeringskaravaan-voor-marokkanen-in-de-wereld-sluit-af-in-ouezzane</loc>
     <lastmod>2026-08-19T10:57:03.252Z</lastmod>
     <changefreq>daily</changefreq>
@@ -812,7 +826,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-schooljaar-begint-op-7-september-ondanks-roep-om-uitstel</loc>
     <lastmod>2026-08-12T12:37:55.598Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-schooljaar-begint-op-7-september-ondanks-roep-om-uitstel-1786537974265.jpg</image:loc></image:image>
   </url>
   <url>
