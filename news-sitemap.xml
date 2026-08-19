@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verdachte-van-zedenmisdrijf-opgepakt-in-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T20:06:33.890Z</news:publication_date>
+      <news:title>Marokkaanse verdachte van zedenmisdrijf opgepakt in Ceuta</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verdachte-van-zedenmisdrijf-opgepakt-in-ceuta-1787167290684.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vliegtickets-kunnen-fors-duurder-worden-wat-betekent-dat-voor-je-reis-naar-marok</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T19:46:33.097Z</news:publication_date>
+      <news:title>Vliegtickets kunnen fors duurder worden: wat betekent dat voor je reis naar Marokko?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vliegtickets-kunnen-fors-duurder-worden-wat-betekent-dat-voor-je-reis-naar-marok-1787167253604.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/larbi-mirikan-de-marokkaan-die-de-atlantische-oceaan-overstak-in-een-vissersboot</loc>
     <news:news>
       <news:publication>
@@ -373,29 +397,5 @@
       <news:title>Drie jaar na de aardbeving in Al Haouz keren getroffenen terug naar onveilige huizen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drie-jaar-na-de-aardbeving-in-al-haouz-keren-getroffenen-terug-naar-onveilige-hu-1787004146273.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/canadees-bedrijf-krijgt-licentie-voor-titaniumproject-aan-de-marokkaanse-kust</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T20:10:18.060Z</news:publication_date>
-      <news:title>Canadees bedrijf krijgt licentie voor titaniumproject aan de Marokkaanse kust</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/canadees-bedrijf-krijgt-licentie-voor-titaniumproject-aan-de-marokkaanse-kust-1786994674330.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/weer-in-marokko-hitte-onweer-en-geleidelijk-dalende-temperaturen-deze-week</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T19:50:17.112Z</news:publication_date>
-      <news:title>Weer in Marokko: hitte, onweer en geleidelijk dalende temperaturen deze week</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weer-in-marokko-hitte-onweer-en-geleidelijk-dalende-temperaturen-deze-week-1786994631631.jpg</image:loc></image:image>
   </url>
 </urlset>
