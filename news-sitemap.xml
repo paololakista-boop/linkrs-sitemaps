@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-zet-in-op-zijn-jeugd-van-bescherming-naar-zelfstandigheid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T07:37:55.680Z</news:publication_date>
+      <news:title>Marokko zet in op zijn jeugd: van bescherming naar zelfstandigheid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-zet-in-op-zijn-jeugd-van-bescherming-naar-zelfstandigheid-1787124773198.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-artsen-luiden-alarm-over-gezondheidsrisico-in-ceuta-na-massale-oversteek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T07:34:54.663Z</news:publication_date>
+      <news:title>Spaanse artsen luiden alarm over gezondheidsrisico in Ceuta na massale oversteek vanuit Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-artsen-luiden-alarm-over-gezondheidsrisico-in-ceuta-na-massale-oversteek-1787124730743.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spanje-betaalt-890-miljoen-euro-voor-marokkaanse-groenten-en-fruit</loc>
     <news:news>
       <news:publication>
