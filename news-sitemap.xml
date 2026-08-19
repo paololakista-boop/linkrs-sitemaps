@@ -398,16 +398,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-stuwmeren-voor-68-6-procent-gevuld-na-overvloedige-regen-1786992176175.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/operatie-marhaba-2026-al-meer-dan-2-1-miljoen-reizigers-over-de-straat-van-gibra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T17:34:28.621Z</news:publication_date>
-      <news:title>Operatie Marhaba 2026: al meer dan 2,1 miljoen reizigers over de Straat van Gibraltar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/operatie-marhaba-2026-al-meer-dan-2-1-miljoen-reizigers-over-de-straat-van-gibra-1786987725927.jpg</image:loc></image:image>
-  </url>
 </urlset>
