@@ -32,6 +32,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/73-jaar-revolutie-van-koning-en-volk-de-mijlpaal-die-marokko-naar-onafhankelijkh</loc>
+    <lastmod>2026-08-19T10:37:02.363Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/73-jaar-revolutie-van-koning-en-volk-de-mijlpaal-die-marokko-naar-onafhankelijkh-1787135480442.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/brussel-steunt-terugkeer-van-migranten-uit-ceuta-naar-marokko-ook-minderjarigen</loc>
     <lastmod>2026-08-19T08:32:29.156Z</lastmod>
     <changefreq>daily</changefreq>
@@ -812,14 +819,14 @@
     <loc>https://www.linkrsmarokko.com/nieuws/wisselkoersen-dirham-vandaag-wat-je-euro-s-woensdag-12-augustus-waard-zijn</loc>
     <lastmod>2026-08-12T10:14:20.717Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoersen-dirham-vandaag-wat-je-euro-s-woensdag-12-augustus-waard-zijn-1786529318926.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/dodelijke-vechtpartij-in-saidia-twee-fransen-met-marokkaanse-roots-opgepakt</loc>
     <lastmod>2026-08-12T10:11:22.594Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dodelijke-vechtpartij-in-saidia-twee-fransen-met-marokkaanse-roots-opgepakt-1786529359114.jpg</image:loc></image:image>
   </url>
   <url>
