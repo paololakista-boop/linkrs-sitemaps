@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-betaalt-890-miljoen-euro-voor-marokkaanse-groenten-en-fruit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T06:28:02.228Z</news:publication_date>
+      <news:title>Spanje betaalt 890 miljoen euro voor Marokkaanse groenten en fruit</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-betaalt-890-miljoen-euro-voor-marokkaanse-groenten-en-fruit-1787119380131.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-landarbeiders-in-de-greep-van-de-italiaanse-landbouwmaffia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-19T06:08:01.228Z</news:publication_date>
+      <news:title>Marokkaanse landarbeiders in de greep van de Italiaanse landbouwmaffia</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-landarbeiders-in-de-greep-van-de-italiaanse-landbouwmaffia-1787119341985.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-topleverancier-van-kleding-aan-de-eu-ondanks-dalende-export</loc>
     <news:news>
       <news:publication>
@@ -349,29 +373,5 @@
       <news:title>Nieuwe EU-bankregels zetten geldtransfers van Marokkanen onder druk</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-eu-bankregels-zetten-geldtransfers-van-marokkanen-onder-druk-1786969955173.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/jeugdwerkloosheid-in-marokko-een-diploma-is-niet-langer-een-garantie-op-werk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T06:28:16.343Z</news:publication_date>
-      <news:title>Jeugdwerkloosheid in Marokko: een diploma is niet langer een garantie op werk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jeugdwerkloosheid-in-marokko-een-diploma-is-niet-langer-een-garantie-op-werk-1786946593576.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/honderden-marokkanen-zitten-nog-vast-in-gaza-aantal-kan-oplopen-tot-700</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-17T06:08:15.210Z</news:publication_date>
-      <news:title>Honderden Marokkanen zitten nog vast in Gaza, aantal kan oplopen tot 700</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/honderden-marokkanen-zitten-nog-vast-in-gaza-aantal-kan-oplopen-tot-700-1786946550541.jpg</image:loc></image:image>
   </url>
 </urlset>
