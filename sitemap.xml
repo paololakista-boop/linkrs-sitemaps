@@ -32,6 +32,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/honderden-marokkanen-vastgehouden-in-algerije-na-mislukte-migratiepogingen</loc>
+    <lastmod>2026-08-20T17:34:15.354Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/honderden-marokkanen-vastgehouden-in-algerije-na-mislukte-migratiepogingen-1787247133803.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/drukte-bij-tanger-med-alleen-wie-een-ticket-heeft-mag-de-haven-in</loc>
     <lastmod>2026-08-20T16:37:38.381Z</lastmod>
     <changefreq>daily</changefreq>
@@ -791,7 +798,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-het-buitenland-maak-van-je-band-met-marokko-een-kracht</loc>
     <lastmod>2026-08-13T17:37:29.189Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-in-het-buitenland-maak-van-je-band-met-marokko-een-kracht-1786642347722.jpg</image:loc></image:image>
   </url>
   <url>

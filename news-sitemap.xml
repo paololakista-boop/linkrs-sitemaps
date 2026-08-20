@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/honderden-marokkanen-vastgehouden-in-algerije-na-mislukte-migratiepogingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T17:34:15.354Z</news:publication_date>
+      <news:title>Honderden Marokkanen vastgehouden in Algerije na mislukte migratiepogingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/honderden-marokkanen-vastgehouden-in-algerije-na-mislukte-migratiepogingen-1787247133803.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/drukte-bij-tanger-med-alleen-wie-een-ticket-heeft-mag-de-haven-in</loc>
     <news:news>
       <news:publication>
@@ -433,17 +445,5 @@
       <news:title>Tanger Med neemt grootste drijvende zonnecentrale van Afrika in gebruik</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tanger-med-neemt-grootste-drijvende-zonnecentrale-van-afrika-in-gebruik-1787078001207.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-paspoort-geeft-toegang-tot-82-bestemmingen-maar-rankings-lopen-sterk-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T17:35:18.721Z</news:publication_date>
-      <news:title>Marokkaans paspoort geeft toegang tot 82 bestemmingen, maar rankings lopen sterk uiteen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-paspoort-geeft-toegang-tot-82-bestemmingen-maar-rankings-lopen-sterk--1787074213493.jpg</image:loc></image:image>
   </url>
 </urlset>
