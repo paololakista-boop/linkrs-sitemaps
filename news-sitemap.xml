@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zeldzame-orka-gewond-geraakt-door-kogels-voor-de-kust-van-tanger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T08:53:41.409Z</news:publication_date>
+      <news:title>Zeldzame orka gewond geraakt door kogels voor de kust van Tanger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zeldzame-orka-gewond-geraakt-door-kogels-voor-de-kust-van-tanger-1787214518484.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/turkse-export-naar-marokko-stijgt-met-11-7-procent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T08:33:39.933Z</news:publication_date>
+      <news:title>Turkse export naar Marokko stijgt met 11,7 procent</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/turkse-export-naar-marokko-stijgt-met-11-7-procent-1787214480056.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ijs-in-koude-drankjes-zorgt-voor-gezondheidsvrees-in-marokko-sector-nuanceert</loc>
     <news:news>
       <news:publication>
@@ -385,29 +409,5 @@
       <news:title>Marokkaans pensioenfonds CMR vereenvoudigt de afhandeling van pensioendossiers</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-pensioenfonds-cmr-vereenvoudigt-de-afhandeling-van-pensioendossiers-1787045535960.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/deens-investeringsfonds-a-p-moller-capital-koopt-marokkaanse-logistieksector-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T08:52:49.372Z</news:publication_date>
-      <news:title>Deens investeringsfonds A.P. Moller Capital koopt Marokkaanse logistieksector in</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/deens-investeringsfonds-a-p-moller-capital-koopt-marokkaanse-logistieksector-in-1787041627492.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-grootste-groep-buitenlandse-werknemers-in-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T08:32:48.436Z</news:publication_date>
-      <news:title>Marokkanen grootste groep buitenlandse werknemers in Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-grootste-groep-buitenlandse-werknemers-in-spanje-1787041584039.jpg</image:loc></image:image>
   </url>
 </urlset>
