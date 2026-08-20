@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-media-geloofden-verhaal-van-migrante-wafaa-zonder-controle</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T13:46:30.175Z</news:publication_date>
+      <news:title>Spaanse media geloofden verhaal van migrante &apos;Wafaa&apos; zonder controle</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-media-geloofden-verhaal-van-migrante-wafaa-zonder-controle-1787233215323.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/studeren-in-frankrijk-wordt-duurder-strengere-geldeisen-voor-marokkaanse-student</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T13:37:24.887Z</news:publication_date>
+      <news:title>Studeren in Frankrijk wordt duurder: strengere geldeisen voor Marokkaanse studenten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/studeren-in-frankrijk-wordt-duurder-strengere-geldeisen-voor-marokkaanse-student-1787232743263.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wat-kost-een-reis-naar-marokko-realistisch-budget-en-bespaartips</loc>
     <news:news>
       <news:publication>
