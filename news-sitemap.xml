@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zomer-in-agadir-dure-gemeubelde-appartementen-en-gebrek-aan-toiletten-treffen-be</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T10:37:57.938Z</news:publication_date>
+      <news:title>Zomer in Agadir: dure gemeubelde appartementen en gebrek aan toiletten treffen bezoekers</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zomer-in-agadir-dure-gemeubelde-appartementen-en-gebrek-aan-toiletten-treffen-be-1787221929587.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/zeldzame-orka-gewond-geraakt-door-kogels-voor-de-kust-van-tanger</loc>
     <news:news>
       <news:publication>
@@ -385,17 +397,5 @@
       <news:title>Spanje trekt invaliditeitsuitkering van Marokkaanse vrouw in en eist meer dan 32.000 euro terug</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-trekt-invaliditeitsuitkering-van-marokkaanse-vrouw-in-en-eist-meer-dan-32-1787056329532.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/britse-atletiekcoach-leon-baptiste-vermist-na-verblijf-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T10:33:39.252Z</news:publication_date>
-      <news:title>Britse atletiekcoach Leon Baptiste vermist na verblijf in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/britse-atletiekcoach-leon-baptiste-vermist-na-verblijf-in-marokko-1787049098321.jpg</image:loc></image:image>
   </url>
 </urlset>
