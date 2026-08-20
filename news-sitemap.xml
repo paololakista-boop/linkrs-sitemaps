@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vleesprijzen-in-marokko-schieten-omhoog-schapenvlees-boven-150-dirham-per-kilo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T18:58:14.284Z</news:publication_date>
+      <news:title>Vleesprijzen in Marokko schieten omhoog: schapenvlees boven 150 dirham per kilo</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vleesprijzen-in-marokko-schieten-omhoog-schapenvlees-boven-150-dirham-per-kilo-1787250790145.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-vrouwenvoetbal-2027-fifa-maakt-speelschema-bekend-ook-marokko-kent-zijn-progr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T18:38:11.422Z</news:publication_date>
+      <news:title>WK vrouwenvoetbal 2027: FIFA maakt speelschema bekend, ook Marokko kent zijn programma</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-vrouwenvoetbal-2027-fifa-maakt-speelschema-bekend-ook-marokko-kent-zijn-progr-1787250749107.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/honderden-marokkanen-vastgehouden-in-algerije-na-mislukte-migratiepogingen</loc>
     <news:news>
       <news:publication>
@@ -433,17 +457,5 @@
       <news:title>Franse rechter beschermt verblijfsvergunning van Marokkaanse studente</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-rechter-beschermt-verblijfsvergunning-van-marokkaanse-studente-1787081025932.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tanger-med-neemt-grootste-drijvende-zonnecentrale-van-afrika-in-gebruik</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T18:58:26.872Z</news:publication_date>
-      <news:title>Tanger Med neemt grootste drijvende zonnecentrale van Afrika in gebruik</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tanger-med-neemt-grootste-drijvende-zonnecentrale-van-afrika-in-gebruik-1787078001207.jpg</image:loc></image:image>
   </url>
 </urlset>
