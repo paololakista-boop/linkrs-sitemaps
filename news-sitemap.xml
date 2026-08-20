@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wat-kost-een-reis-naar-marokko-realistisch-budget-en-bespaartips</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T10:57:58.770Z</news:publication_date>
+      <news:title>Wat kost een reis naar Marokko? Realistisch budget en bespaartips</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wat-kost-een-reis-naar-marokko-realistisch-budget-en-bespaartips-1787221976862.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/zomer-in-agadir-dure-gemeubelde-appartementen-en-gebrek-aan-toiletten-treffen-be</loc>
     <news:news>
       <news:publication>
