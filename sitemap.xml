@@ -798,21 +798,21 @@
     <loc>https://www.linkrsmarokko.com/nieuws/imouzzer-des-ida-outanane-het-bergdorp-bij-de-mysterieuze-win-timdouine-grotten</loc>
     <lastmod>2026-08-13T09:52:27.373Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/imouzzer-des-ida-outanane-het-bergdorp-bij-de-mysterieuze-win-timdouine-grotten-1786612043859.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/279-000-nieuwe-betaalde-banen-in-marokko-wat-het-cijfer-echt-betekent</loc>
     <lastmod>2026-08-13T09:32:26.508Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/279-000-nieuwe-betaalde-banen-in-marokko-wat-het-cijfer-echt-betekent-1786611992953.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ceuta-bereidt-terugkeer-van-marokkaanse-migranten-voor-via-nieuw-cate</loc>
     <lastmod>2026-08-13T09:12:25.330Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ceuta-bereidt-terugkeer-van-marokkaanse-migranten-voor-via-nieuw-cate-1786611950134.jpg</image:loc></image:image>
   </url>
   <url>
@@ -11307,6 +11307,20 @@
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-news-1770126982258.webp</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/blogs/erfenis-regelen-in-marokko-als-marokkaan-in-nederland-complete-gids</loc>
+    <lastmod>2026-08-20T09:18:18.304Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/erfenis-regelen-in-marokko-als-marokkaan-in-nederland-complete-gids-1784369118287.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/blogs/erfrecht-in-marokko-als-marokkaan-in-nederland-wat-je-moet-weten</loc>
+    <lastmod>2026-08-20T09:18:17.383Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/erfrecht-in-marokko-als-marokkaan-in-nederland-wat-je-moet-weten-1787217489575.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/blogs/auto-importeren-naar-marokko-kosten-en-douane-in-2026-expat-gids</loc>
     <lastmod>2026-08-19T09:17:01.615Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -11550,13 +11564,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/huis-kopen-in-marokko-als-buitenlander-complete-praktische-gids-2026-1784456158067.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/blogs/erfenis-regelen-in-marokko-als-marokkaan-in-nederland-complete-gids</loc>
-    <lastmod>2026-08-13T10:04:33.028Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/erfenis-regelen-in-marokko-als-marokkaan-in-nederland-complete-gids-1784369118287.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/blogs/vastgoed-kopen-in-marokko-als-mre-rechten-stappen-en-tips-voor-2026</loc>
