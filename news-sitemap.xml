@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/drukte-bij-tanger-med-alleen-wie-een-ticket-heeft-mag-de-haven-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T16:37:38.381Z</news:publication_date>
+      <news:title>Drukte bij Tanger Med: alleen wie een ticket heeft mag de haven in</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drukte-bij-tanger-med-alleen-wie-een-ticket-heeft-mag-de-haven-in-1787243524704.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-toerist-overleden-na-val-uit-hotel-in-tanger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T16:34:39.331Z</news:publication_date>
+      <news:title>Amerikaanse toerist overleden na val uit hotel in Tanger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-toerist-overleden-na-val-uit-hotel-in-tanger-1787243557316.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/directe-vluchten-tel-aviv-marrakech-hervat-na-drie-jaar</loc>
     <news:news>
       <news:publication>
