@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ijs-in-koude-drankjes-zorgt-voor-gezondheidsvrees-in-marokko-sector-nuanceert</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T06:28:08.996Z</news:publication_date>
+      <news:title>IJs in koude drankjes zorgt voor gezondheidsvrees in Marokko, sector nuanceert</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ijs-in-koude-drankjes-zorgt-voor-gezondheidsvrees-in-marokko-sector-nuanceert-1787205786542.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dirham-stijgt-tegenover-de-dollar-maar-zakt-tegenover-de-euro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T06:08:07.928Z</news:publication_date>
+      <news:title>Dirham stijgt tegenover de dollar maar zakt tegenover de euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-stijgt-tegenover-de-dollar-maar-zakt-tegenover-de-euro-1787205732806.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spanje-ontkent-plan-om-marokko-met-energiesancties-onder-druk-te-zetten</loc>
     <news:news>
       <news:publication>
@@ -385,29 +409,5 @@
       <news:title>Marokkanen grootste groep buitenlandse werknemers in Spanje</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-grootste-groep-buitenlandse-werknemers-in-spanje-1787041584039.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-scherpt-transitregels-voor-nigerianen-aan-na-valse-schengenvisa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T06:28:56.363Z</news:publication_date>
-      <news:title>Marokko scherpt transitregels voor Nigerianen aan na valse Schengenvisa</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-scherpt-transitregels-voor-nigerianen-aan-na-valse-schengenvisa-1787032994564.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/volmachtstemmen-roept-debat-op-over-politieke-vertegenwoordiging-van-marokkaanse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T06:08:52.934Z</news:publication_date>
-      <news:title>Volmachtstemmen roept debat op over politieke vertegenwoordiging van Marokkaanse diaspora</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volmachtstemmen-roept-debat-op-over-politieke-vertegenwoordiging-van-marokkaanse-1787032956028.jpg</image:loc></image:image>
   </url>
 </urlset>
