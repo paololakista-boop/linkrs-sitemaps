@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/italiaanse-cipier-verdacht-van-poging-tot-moord-na-schot-op-marokkaanse-gedetine</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-20T19:52:02.425Z</news:publication_date>
+      <news:title>Italiaanse cipier verdacht van poging tot moord na schot op Marokkaanse gedetineerde</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italiaanse-cipier-verdacht-van-poging-tot-moord-na-schot-op-marokkaanse-gedetine-1787254019865.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/zomeruniversiteit-brengt-jonge-marokkanen-uit-de-diaspora-terug-naar-hun-roots</loc>
     <news:news>
       <news:publication>
@@ -445,29 +457,5 @@
       <news:title>Marokko in Shanghai-ranking 2026: twee universiteiten in wereldtop 1000, UM6P debuteert</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-in-shanghai-ranking-2026-twee-universiteiten-in-wereldtop-1000-um6p-debu-1787084872415.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/franse-journaliste-van-mediapart-geweigerd-aan-de-marokkaanse-grens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T20:10:05.095Z</news:publication_date>
-      <news:title>Franse journaliste van Mediapart geweigerd aan de Marokkaanse grens</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-journaliste-van-mediapart-geweigerd-aan-de-marokkaanse-grens-1787081057806.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/franse-rechter-beschermt-verblijfsvergunning-van-marokkaanse-studente</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T19:50:03.988Z</news:publication_date>
-      <news:title>Franse rechter beschermt verblijfsvergunning van Marokkaanse studente</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-rechter-beschermt-verblijfsvergunning-van-marokkaanse-studente-1787081025932.jpg</image:loc></image:image>
   </url>
 </urlset>
