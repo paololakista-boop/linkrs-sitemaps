@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-dag-van-de-jeugd-zet-in-op-onderwijs-werk-en-politiek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T09:37:36.823Z</news:publication_date>
+      <news:title>Marokkaanse Dag van de Jeugd zet in op onderwijs, werk en politiek</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-dag-van-de-jeugd-zet-in-op-onderwijs-werk-en-politiek-1787304753476.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/textielsector-tanger-kampt-met-tekort-aan-arbeidskrachten-door-stukloonwerk</loc>
     <news:news>
       <news:publication>

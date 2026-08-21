@@ -32,6 +32,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-dag-van-de-jeugd-zet-in-op-onderwijs-werk-en-politiek</loc>
+    <lastmod>2026-08-21T09:37:36.823Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-dag-van-de-jeugd-zet-in-op-onderwijs-werk-en-politiek-1787304753476.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/textielsector-tanger-kampt-met-tekort-aan-arbeidskrachten-door-stukloonwerk</loc>
     <lastmod>2026-08-21T08:35:20.638Z</lastmod>
     <changefreq>daily</changefreq>
@@ -812,7 +819,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/vliegtickets-naar-laayoune-worden-duurder-dit-betekent-het-voor-reizigers</loc>
     <lastmod>2026-08-14T09:05:31.425Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vliegtickets-naar-laayoune-worden-duurder-dit-betekent-het-voor-reizigers-1786698029887.jpg</image:loc></image:image>
   </url>
   <url>
@@ -11433,6 +11440,20 @@
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-news-1770126982258.webp</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/blogs/gezondheid-en-ziektekosten-marokko-als-expat-complete-praktische-gids</loc>
+    <lastmod>2026-08-21T09:20:16.946Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gezondheid-en-ziektekosten-marokko-als-expat-complete-praktische-gids-1786958640678.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/blogs/zwanger-in-marokko-als-buitenlander-praktische-gids-voor-2026</loc>
+    <lastmod>2026-08-21T09:20:16.118Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zwanger-in-marokko-als-buitenlander-praktische-gids-voor-2026-1787304009290.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/blogs/erfenis-regelen-in-marokko-als-marokkaan-in-nederland-complete-gids</loc>
     <lastmod>2026-08-20T09:18:18.304Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -11487,13 +11508,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoeveel-geld-nodig-om-in-marokko-te-wonen-als-buitenlander-budget-2026-1785236566857.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/blogs/gezondheid-en-ziektekosten-marokko-als-expat-complete-praktische-gids</loc>
-    <lastmod>2026-08-17T09:24:07.964Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gezondheid-en-ziektekosten-marokko-als-expat-complete-praktische-gids-1786958640678.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/blogs/mre-landbouwgrond-kopen-in-marokko-praktische-gids-voor-2026</loc>
