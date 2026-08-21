@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/textielsector-tanger-kampt-met-tekort-aan-arbeidskrachten-door-stukloonwerk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T08:35:20.638Z</news:publication_date>
+      <news:title>Textielsector Tanger kampt met tekort aan arbeidskrachten door stukloonwerk</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/textielsector-tanger-kampt-met-tekort-aan-arbeidskrachten-door-stukloonwerk-1787301018857.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/koninklijke-gratie-voor-935-mensen-bij-verjaardag-revolutie-van-koning-en-volk</loc>
     <news:news>
       <news:publication>
@@ -397,17 +409,5 @@
       <news:title>73 jaar Revolutie van Koning en Volk: de mijlpaal die Marokko naar onafhankelijkheid leidde</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/73-jaar-revolutie-van-koning-en-volk-de-mijlpaal-die-marokko-naar-onafhankelijkh-1787135480442.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/brussel-steunt-terugkeer-van-migranten-uit-ceuta-naar-marokko-ook-minderjarigen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T08:32:29.156Z</news:publication_date>
-      <news:title>Brussel steunt terugkeer van migranten uit Ceuta naar Marokko, ook minderjarigen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/brussel-steunt-terugkeer-van-migranten-uit-ceuta-naar-marokko-ook-minderjarigen-1787128047945.jpg</image:loc></image:image>
   </url>
 </urlset>
