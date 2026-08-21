@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-verzekeringsmagnaat-jacques-bouthier-riskeert-proces-voor-verkrachting-va</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T11:34:28.387Z</news:publication_date>
+      <news:title>Franse verzekeringsmagnaat Jacques Bouthier riskeert proces voor verkrachting van minderjarige Marokkaanse</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-verzekeringsmagnaat-jacques-bouthier-riskeert-proces-voor-verkrachting-va-1787311726764.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-dag-van-de-jeugd-zet-in-op-onderwijs-werk-en-politiek</loc>
     <news:news>
       <news:publication>
@@ -397,17 +409,5 @@
       <news:title>Bankrente in Marokko stijgt weer, maar lenen blijft relatief gunstig</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bankrente-in-marokko-stijgt-weer-maar-lenen-blijft-relatief-gunstig-1787142738570.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/investeringskaravaan-voor-marokkanen-in-de-wereld-sluit-af-in-ouezzane</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T10:57:03.252Z</news:publication_date>
-      <news:title>Investeringskaravaan voor Marokkanen in de wereld sluit af in Ouezzane</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/investeringskaravaan-voor-marokkanen-in-de-wereld-sluit-af-in-ouezzane-1787135520444.jpg</image:loc></image:image>
   </url>
 </urlset>
