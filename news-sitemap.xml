@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ontruiming-migrantenkamp-in-ceuta-marokkaanse-minderjarigen-willen-niet-terug-na</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T14:25:56.389Z</news:publication_date>
+      <news:title>Ontruiming migrantenkamp in Ceuta: Marokkaanse minderjarigen willen niet terug naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ontruiming-migrantenkamp-in-ceuta-marokkaanse-minderjarigen-willen-niet-terug-na-1787319652603.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-mikt-op-de-europese-cruisemarkt-met-nieuwe-terminal-in-casablanca</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T14:07:30.186Z</news:publication_date>
+      <news:title>Marokko mikt op de Europese cruisemarkt met nieuwe terminal in Casablanca</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-mikt-op-de-europese-cruisemarkt-met-nieuwe-terminal-in-casablanca-1787320948636.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-chinese-auto-toeleveranciers-aantrekken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T14:05:55.513Z</news:publication_date>
+      <news:title>Marokko blijft Chinese auto-toeleveranciers aantrekken</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-blijft-chinese-auto-toeleveranciers-aantrekken-1787319605954.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spanje-rolt-smokkelnetwerk-op-dat-migranten-uit-ceuta-naar-europa-bracht</loc>
     <news:news>
       <news:publication>
@@ -385,17 +421,5 @@
       <news:title>Koning Mohammed VI verleent gratie aan 935 mensen bij Revolutieherdenking</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-verleent-gratie-aan-935-mensen-bij-revolutieherdenking-1787164350339.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/slachtoffers-aardbeving-al-haouz-bezoek-akhannouch-is-niet-genoeg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T14:28:19.354Z</news:publication_date>
-      <news:title>Slachtoffers aardbeving Al Haouz: bezoek Akhannouch is niet genoeg</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/slachtoffers-aardbeving-al-haouz-bezoek-akhannouch-is-niet-genoeg-1787148192220.jpg</image:loc></image:image>
   </url>
 </urlset>
