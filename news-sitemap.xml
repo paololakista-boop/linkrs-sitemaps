@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-rolt-smokkelnetwerk-op-dat-migranten-uit-ceuta-naar-europa-bracht</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T13:45:54.522Z</news:publication_date>
+      <news:title>Spanje rolt smokkelnetwerk op dat migranten uit Ceuta naar Europa bracht</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-rolt-smokkelnetwerk-op-dat-migranten-uit-ceuta-naar-europa-bracht-1787319567790.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diaspora-in-de-eu-12-miljard-dollar-overmakingen-per-jaar</loc>
     <news:news>
       <news:publication>
@@ -385,17 +397,5 @@
       <news:title>Slachtoffers aardbeving Al Haouz: bezoek Akhannouch is niet genoeg</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/slachtoffers-aardbeving-al-haouz-bezoek-akhannouch-is-niet-genoeg-1787148192220.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-golfer-adam-bresnu-schrijft-geschiedenis-in-amerika</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T13:44:51.960Z</news:publication_date>
-      <news:title>Marokkaanse golfer Adam Bresnu schrijft geschiedenis in Amerika</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-golfer-adam-bresnu-schrijft-geschiedenis-in-amerika-1787146748192.jpg</image:loc></image:image>
   </url>
 </urlset>
