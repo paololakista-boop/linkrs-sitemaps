@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-eist-wk-finale-van-2030-op-ten-koste-van-marokko-en-portugal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T18:37:36.686Z</news:publication_date>
+      <news:title>Spanje eist WK-finale van 2030 op, ten koste van Marokko en Portugal</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-eist-wk-finale-van-2030-op-ten-koste-van-marokko-en-portugal-1787337154614.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/dirham-blijft-naar-verwachting-stabiel-tegenover-de-dollar</loc>
     <news:news>
       <news:publication>
@@ -433,17 +445,5 @@
       <news:title>Larbi Mirikan: de Marokkaan die de Atlantische Oceaan overstak in een vissersbootje</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/larbi-mirikan-de-marokkaan-die-de-atlantische-oceaan-overstak-in-een-vissersboot-1787167210135.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-verleent-gratie-aan-935-mensen-bij-revolutieherdenking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T18:37:34.391Z</news:publication_date>
-      <news:title>Koning Mohammed VI verleent gratie aan 935 mensen bij Revolutieherdenking</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-verleent-gratie-aan-935-mensen-bij-revolutieherdenking-1787164350339.jpg</image:loc></image:image>
   </url>
 </urlset>
