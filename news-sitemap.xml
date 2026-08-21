@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/lila-dochter-van-jamel-debbouze-schittert-in-the-voice-kids</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T19:46:46.178Z</news:publication_date>
+      <news:title>Lila, dochter van Jamel Debbouze, schittert in The Voice Kids</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lila-dochter-van-jamel-debbouze-schittert-in-the-voice-kids-1787340104026.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/caf-zet-uitzendrechten-afrika-cup-2027-in-de-markt-met-marokkaans-succes-als-ijk</loc>
     <news:news>
       <news:publication>
@@ -421,29 +433,5 @@
       <news:title>Bosbrand in Chefchaouen: blusvliegtuigen en honderden hulpverleners in actie</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bosbrand-in-chefchaouen-blusvliegtuigen-en-honderden-hulpverleners-in-actie-1787176929210.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verdachte-van-zedenmisdrijf-opgepakt-in-ceuta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T20:06:33.890Z</news:publication_date>
-      <news:title>Marokkaanse verdachte van zedenmisdrijf opgepakt in Ceuta</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verdachte-van-zedenmisdrijf-opgepakt-in-ceuta-1787167290684.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vliegtickets-kunnen-fors-duurder-worden-wat-betekent-dat-voor-je-reis-naar-marok</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T19:46:33.097Z</news:publication_date>
-      <news:title>Vliegtickets kunnen fors duurder worden: wat betekent dat voor je reis naar Marokko?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vliegtickets-kunnen-fors-duurder-worden-wat-betekent-dat-voor-je-reis-naar-marok-1787167253604.jpg</image:loc></image:image>
   </url>
 </urlset>
