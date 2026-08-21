@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koninklijke-gratie-voor-935-mensen-bij-verjaardag-revolutie-van-koning-en-volk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T07:36:57.883Z</news:publication_date>
+      <news:title>Koninklijke gratie voor 935 mensen bij verjaardag Revolutie van Koning en Volk</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koninklijke-gratie-voor-935-mensen-bij-verjaardag-revolutie-van-koning-en-volk-1787297516508.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/real-madrid-dicht-bij-komst-van-marokkaans-toptalent-rayan-zenbi</loc>
     <news:news>
       <news:publication>
@@ -397,29 +409,5 @@
       <news:title>Brussel steunt terugkeer van migranten uit Ceuta naar Marokko, ook minderjarigen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/brussel-steunt-terugkeer-van-migranten-uit-ceuta-naar-marokko-ook-minderjarigen-1787128047945.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-zet-in-op-zijn-jeugd-van-bescherming-naar-zelfstandigheid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T07:37:55.680Z</news:publication_date>
-      <news:title>Marokko zet in op zijn jeugd: van bescherming naar zelfstandigheid</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-zet-in-op-zijn-jeugd-van-bescherming-naar-zelfstandigheid-1787124773198.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-artsen-luiden-alarm-over-gezondheidsrisico-in-ceuta-na-massale-oversteek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T07:34:54.663Z</news:publication_date>
-      <news:title>Spaanse artsen luiden alarm over gezondheidsrisico in Ceuta na massale oversteek vanuit Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-artsen-luiden-alarm-over-gezondheidsrisico-in-ceuta-na-massale-oversteek-1787124730743.jpg</image:loc></image:image>
   </url>
 </urlset>
