@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/caf-zet-uitzendrechten-afrika-cup-2027-in-de-markt-met-marokkaans-succes-als-ijk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T19:26:45.260Z</news:publication_date>
+      <news:title>CAF zet uitzendrechten Afrika Cup 2027 in de markt, met Marokkaans succes als ijkpunt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-zet-uitzendrechten-afrika-cup-2027-in-de-markt-met-marokkaans-succes-als-ijk-1787340067676.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spanje-eist-wk-finale-van-2030-op-ten-koste-van-marokko-en-portugal</loc>
     <news:news>
       <news:publication>
@@ -433,17 +445,5 @@
       <news:title>Vliegtickets kunnen fors duurder worden: wat betekent dat voor je reis naar Marokko?</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vliegtickets-kunnen-fors-duurder-worden-wat-betekent-dat-voor-je-reis-naar-marok-1787167253604.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/larbi-mirikan-de-marokkaan-die-de-atlantische-oceaan-overstak-in-een-vissersboot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T19:26:32.066Z</news:publication_date>
-      <news:title>Larbi Mirikan: de Marokkaan die de Atlantische Oceaan overstak in een vissersbootje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/larbi-mirikan-de-marokkaan-die-de-atlantische-oceaan-overstak-in-een-vissersboot-1787167210135.jpg</image:loc></image:image>
   </url>
 </urlset>
