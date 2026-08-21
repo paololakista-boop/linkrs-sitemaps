@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diaspora-in-de-eu-12-miljard-dollar-overmakingen-per-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T11:54:30.278Z</news:publication_date>
+      <news:title>Marokkaanse diaspora in de EU: 12 miljard dollar overmakingen per jaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-diaspora-in-de-eu-12-miljard-dollar-overmakingen-per-jaar-1787311765935.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/franse-verzekeringsmagnaat-jacques-bouthier-riskeert-proces-voor-verkrachting-va</loc>
     <news:news>
       <news:publication>
@@ -385,29 +397,5 @@
       <news:title>Marokkaanse golfer Adam Bresnu schrijft geschiedenis in Amerika</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-golfer-adam-bresnu-schrijft-geschiedenis-in-amerika-1787146748192.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-influencers-jarenlang-geweerd-van-sociale-media-rechters-roepen-vrag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T12:58:02.656Z</news:publication_date>
-      <news:title>Marokkaanse influencers jarenlang geweerd van sociale media: rechters roepen vragen op</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-influencers-jarenlang-geweerd-van-sociale-media-rechters-roepen-vrag-1787142780532.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bankrente-in-marokko-stijgt-weer-maar-lenen-blijft-relatief-gunstig</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T12:38:01.573Z</news:publication_date>
-      <news:title>Bankrente in Marokko stijgt weer, maar lenen blijft relatief gunstig</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bankrente-in-marokko-stijgt-weer-maar-lenen-blijft-relatief-gunstig-1787142738570.jpg</image:loc></image:image>
   </url>
 </urlset>
