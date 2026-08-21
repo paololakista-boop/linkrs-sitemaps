@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/real-madrid-dicht-bij-komst-van-marokkaans-toptalent-rayan-zenbi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T06:28:10.334Z</news:publication_date>
+      <news:title>Real Madrid dicht bij komst van Marokkaans toptalent Rayan Zenbi</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/real-madrid-dicht-bij-komst-van-marokkaans-toptalent-rayan-zenbi-1787292187894.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-opent-1-800-opvangplaatsen-in-ceuta-na-massale-grensoversteek-vanuit-maro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-21T06:08:09.129Z</news:publication_date>
+      <news:title>Spanje opent 1.800 opvangplaatsen in Ceuta na massale grensoversteek vanuit Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-opent-1-800-opvangplaatsen-in-ceuta-na-massale-grensoversteek-vanuit-maro-1787292152339.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/italiaanse-cipier-verdacht-van-poging-tot-moord-na-schot-op-marokkaanse-gedetine</loc>
     <news:news>
       <news:publication>
@@ -397,29 +421,5 @@
       <news:title>Spaanse artsen luiden alarm over gezondheidsrisico in Ceuta na massale oversteek vanuit Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-artsen-luiden-alarm-over-gezondheidsrisico-in-ceuta-na-massale-oversteek-1787124730743.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-betaalt-890-miljoen-euro-voor-marokkaanse-groenten-en-fruit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T06:28:02.228Z</news:publication_date>
-      <news:title>Spanje betaalt 890 miljoen euro voor Marokkaanse groenten en fruit</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-betaalt-890-miljoen-euro-voor-marokkaanse-groenten-en-fruit-1787119380131.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-landarbeiders-in-de-greep-van-de-italiaanse-landbouwmaffia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-19T06:08:01.228Z</news:publication_date>
-      <news:title>Marokkaanse landarbeiders in de greep van de Italiaanse landbouwmaffia</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-landarbeiders-in-de-greep-van-de-italiaanse-landbouwmaffia-1787119341985.jpg</image:loc></image:image>
   </url>
 </urlset>
