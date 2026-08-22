@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/algerijnse-media-publiceren-in-21-dagen-bijna-4-000-stukken-over-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T20:04:14.840Z</news:publication_date>
+      <news:title>Algerijnse media publiceren in 21 dagen bijna 4.000 stukken over Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/algerijnse-media-publiceren-in-21-dagen-bijna-4-000-stukken-over-marokko-1787426351352.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-beachvolleyballers-afrikaans-kampioen-en-naar-de-spelen-van-2028</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T19:44:13.910Z</news:publication_date>
+      <news:title>Marokkaanse beachvolleyballers Afrikaans kampioen en naar de Spelen van 2028</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-beachvolleyballers-afrikaans-kampioen-en-naar-de-spelen-van-2028-1787426308649.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-bij-chefchaouen-na-vier-dagen-bijna-onder-controle</loc>
     <news:news>
       <news:publication>
@@ -337,17 +361,5 @@
       <news:title>Spanje opent 1.800 opvangplaatsen in Ceuta na massale grensoversteek vanuit Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-opent-1-800-opvangplaatsen-in-ceuta-na-massale-grensoversteek-vanuit-maro-1787292152339.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/italiaanse-cipier-verdacht-van-poging-tot-moord-na-schot-op-marokkaanse-gedetine</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T19:52:02.425Z</news:publication_date>
-      <news:title>Italiaanse cipier verdacht van poging tot moord na schot op Marokkaanse gedetineerde</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italiaanse-cipier-verdacht-van-poging-tot-moord-na-schot-op-marokkaanse-gedetine-1787254019865.jpg</image:loc></image:image>
   </url>
 </urlset>
