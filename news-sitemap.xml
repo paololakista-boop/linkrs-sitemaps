@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-partij-belooft-huren-die-uitmondt-in-eigen-woning</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T17:28:09.985Z</news:publication_date>
+      <news:title>Marokkaanse partij belooft huren die uitmondt in eigen woning</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-partij-belooft-huren-die-uitmondt-in-eigen-woning-1787419388447.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/toekomst-van-hakim-ziyech-bij-wydad-casablanca-blijft-onzeker</loc>
     <news:news>
       <news:publication>
@@ -361,17 +373,5 @@
       <news:title>WK vrouwenvoetbal 2027: FIFA maakt speelschema bekend, ook Marokko kent zijn programma</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-vrouwenvoetbal-2027-fifa-maakt-speelschema-bekend-ook-marokko-kent-zijn-progr-1787250749107.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/honderden-marokkanen-vastgehouden-in-algerije-na-mislukte-migratiepogingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T17:34:15.354Z</news:publication_date>
-      <news:title>Honderden Marokkanen vastgehouden in Algerije na mislukte migratiepogingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/honderden-marokkanen-vastgehouden-in-algerije-na-mislukte-migratiepogingen-1787247133803.jpg</image:loc></image:image>
   </url>
 </urlset>
