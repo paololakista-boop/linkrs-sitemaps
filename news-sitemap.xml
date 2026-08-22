@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-rechter-schrapt-visumstop-die-ook-marokkanen-trof</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T11:24:51.144Z</news:publication_date>
+      <news:title>Amerikaanse rechter schrapt visumstop die ook Marokkanen trof</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-rechter-schrapt-visumstop-die-ook-marokkanen-trof-1787397769067.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marhaba-2026-tanger-med-bereidt-zich-voor-op-piekdrukte-eind-augustus</loc>
     <news:news>
       <news:publication>
@@ -397,17 +409,5 @@
       <news:title>Studeren in Frankrijk wordt duurder: strengere geldeisen voor Marokkaanse studenten</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/studeren-in-frankrijk-wordt-duurder-strengere-geldeisen-voor-marokkaanse-student-1787232743263.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wat-kost-een-reis-naar-marokko-realistisch-budget-en-bespaartips</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T10:57:58.770Z</news:publication_date>
-      <news:title>Wat kost een reis naar Marokko? Realistisch budget en bespaartips</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wat-kost-een-reis-naar-marokko-realistisch-budget-en-bespaartips-1787221976862.jpg</image:loc></image:image>
   </url>
 </urlset>
