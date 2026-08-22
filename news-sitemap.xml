@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marhaba-2026-tanger-med-bereidt-zich-voor-op-piekdrukte-eind-augustus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T09:34:17.574Z</news:publication_date>
+      <news:title>Marhaba 2026: Tanger Med bereidt zich voor op piekdrukte eind augustus</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marhaba-2026-tanger-med-bereidt-zich-voor-op-piekdrukte-eind-augustus-1787390956349.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/hoe-een-ultraconservatief-netwerk-in-de-vs-en-israel-marokko-s-claim-op-ceuta-en</loc>
     <news:news>
       <news:publication>
@@ -409,17 +421,5 @@
       <news:title>Zomer in Agadir: dure gemeubelde appartementen en gebrek aan toiletten treffen bezoekers</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zomer-in-agadir-dure-gemeubelde-appartementen-en-gebrek-aan-toiletten-treffen-be-1787221929587.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zeldzame-orka-gewond-geraakt-door-kogels-voor-de-kust-van-tanger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T08:53:41.409Z</news:publication_date>
-      <news:title>Zeldzame orka gewond geraakt door kogels voor de kust van Tanger</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zeldzame-orka-gewond-geraakt-door-kogels-voor-de-kust-van-tanger-1787214518484.jpg</image:loc></image:image>
   </url>
 </urlset>
