@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-bij-chefchaouen-na-vier-dagen-bijna-onder-controle</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T19:24:12.854Z</news:publication_date>
+      <news:title>Bosbrand bij Chefchaouen na vier dagen bijna onder controle</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bosbrand-bij-chefchaouen-na-vier-dagen-bijna-onder-controle-1787426272766.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-partij-belooft-huren-die-uitmondt-in-eigen-woning</loc>
     <news:news>
       <news:publication>
@@ -337,29 +349,5 @@
       <news:title>Italiaanse cipier verdacht van poging tot moord na schot op Marokkaanse gedetineerde</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italiaanse-cipier-verdacht-van-poging-tot-moord-na-schot-op-marokkaanse-gedetine-1787254019865.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zomeruniversiteit-brengt-jonge-marokkanen-uit-de-diaspora-terug-naar-hun-roots</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T19:32:00.982Z</news:publication_date>
-      <news:title>Zomeruniversiteit brengt jonge Marokkanen uit de diaspora terug naar hun roots</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zomeruniversiteit-brengt-jonge-marokkanen-uit-de-diaspora-terug-naar-hun-roots-1787253984140.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vleesprijzen-in-marokko-schieten-omhoog-schapenvlees-boven-150-dirham-per-kilo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T18:58:14.284Z</news:publication_date>
-      <news:title>Vleesprijzen in Marokko schieten omhoog: schapenvlees boven 150 dirham per kilo</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vleesprijzen-in-marokko-schieten-omhoog-schapenvlees-boven-150-dirham-per-kilo-1787250790145.jpg</image:loc></image:image>
   </url>
 </urlset>
