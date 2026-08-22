@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toekomst-van-hakim-ziyech-bij-wydad-casablanca-blijft-onzeker</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T14:28:37.728Z</news:publication_date>
+      <news:title>Toekomst van Hakim Ziyech bij Wydad Casablanca blijft onzeker</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toekomst-van-hakim-ziyech-bij-wydad-casablanca-blijft-onzeker-1787407414021.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-doelman-chouaib-bellaarouch-tekent-bij-stade-de-reims</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T14:08:36.873Z</news:publication_date>
+      <news:title>Marokkaanse doelman Chouaib Bellaarouch tekent bij Stade de Reims</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-doelman-chouaib-bellaarouch-tekent-bij-stade-de-reims-1787407379434.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/video-van-walid-regragui-met-de-emir-van-qatar-zorgt-voor-ophef-online</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-22T13:52:20.228Z</news:publication_date>
+      <news:title>Video van Walid Regragui met de emir van Qatar zorgt voor ophef online</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/video-van-walid-regragui-met-de-emir-van-qatar-zorgt-voor-ophef-online-1787405236458.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/benzina-en-ait-el-haj-in-ideale-elftal-van-de-vrouwen-can-2026</loc>
     <news:news>
       <news:publication>
@@ -361,41 +397,5 @@
       <news:title>Amerikaanse toerist overleden na val uit hotel in Tanger</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-toerist-overleden-na-val-uit-hotel-in-tanger-1787243557316.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/directe-vluchten-tel-aviv-marrakech-hervat-na-drie-jaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T14:26:32.321Z</news:publication_date>
-      <news:title>Directe vluchten Tel Aviv-Marrakech hervat na drie jaar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/directe-vluchten-tel-aviv-marrakech-hervat-na-drie-jaar-1787233288289.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/voedselvergiftiging-op-bruiloft-in-agadir-meer-dan-twintig-gasten-ziek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T14:07:28.389Z</news:publication_date>
-      <news:title>Voedselvergiftiging op bruiloft in Agadir: meer dan twintig gasten ziek</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/voedselvergiftiging-op-bruiloft-in-agadir-meer-dan-twintig-gasten-ziek-1787234546860.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-ontvangt-negen-afrikaanse-landen-zonder-goedgekeurd-stadion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-20T14:06:31.506Z</news:publication_date>
-      <news:title>Marokko ontvangt negen Afrikaanse landen zonder goedgekeurd stadion</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-ontvangt-negen-afrikaanse-landen-zonder-goedgekeurd-stadion-1787233252096.jpg</image:loc></image:image>
   </url>
 </urlset>
