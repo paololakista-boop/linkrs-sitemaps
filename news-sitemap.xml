@@ -350,16 +350,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-eist-wk-finale-van-2030-op-ten-koste-van-marokko-en-portugal-1787337154614.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dirham-blijft-naar-verwachting-stabiel-tegenover-de-dollar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T17:36:24.278Z</news:publication_date>
-      <news:title>Dirham blijft naar verwachting stabiel tegenover de dollar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-blijft-naar-verwachting-stabiel-tegenover-de-dollar-1787333483155.jpg</image:loc></image:image>
-  </url>
 </urlset>
