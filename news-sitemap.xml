@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-studenten-en-werknemers-protesteren-tegen-universiteitsgelden-tot-20</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T19:23:41.529Z</news:publication_date>
+      <news:title>Marokkaanse studenten en werknemers protesteren tegen universiteitsgelden tot 20.000 dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-studenten-en-werknemers-protesteren-tegen-universiteitsgelden-tot-20-1787512644758.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spanje-eist-wk-finale-2030-op-terwijl-marokko-zijn-kandidatuur-versterkt</loc>
     <news:news>
       <news:publication>
@@ -349,17 +361,5 @@
       <news:title>Lila, dochter van Jamel Debbouze, schittert in The Voice Kids</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lila-dochter-van-jamel-debbouze-schittert-in-the-voice-kids-1787340104026.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/caf-zet-uitzendrechten-afrika-cup-2027-in-de-markt-met-marokkaans-succes-als-ijk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T19:26:45.260Z</news:publication_date>
-      <news:title>CAF zet uitzendrechten Afrika Cup 2027 in de markt, met Marokkaans succes als ijkpunt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-zet-uitzendrechten-afrika-cup-2027-in-de-markt-met-marokkaans-succes-als-ijk-1787340067676.jpg</image:loc></image:image>
   </url>
 </urlset>
