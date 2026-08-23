@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-en-marokko-hoe-sterk-zijn-hun-economische-banden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T13:33:03.688Z</news:publication_date>
+      <news:title>Spanje en Marokko: hoe sterk zijn hun economische banden?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-en-marokko-hoe-sterk-zijn-hun-economische-banden-1787491613136.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/petitie-vraagt-terugkeer-van-directe-vluchten-tussen-clermont-ferrand-en-marokko</loc>
     <news:news>
       <news:publication>
@@ -349,17 +361,5 @@
       <news:title>Marokko blijft Chinese auto-toeleveranciers aantrekken</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-blijft-chinese-auto-toeleveranciers-aantrekken-1787319605954.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-rolt-smokkelnetwerk-op-dat-migranten-uit-ceuta-naar-europa-bracht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T13:45:54.522Z</news:publication_date>
-      <news:title>Spanje rolt smokkelnetwerk op dat migranten uit Ceuta naar Europa bracht</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-rolt-smokkelnetwerk-op-dat-migranten-uit-ceuta-naar-europa-bracht-1787319567790.jpg</image:loc></image:image>
   </url>
 </urlset>
