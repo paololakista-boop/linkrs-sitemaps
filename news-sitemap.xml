@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-douane-rolt-smokkel-van-turkse-en-chinese-stoffen-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T08:25:54.087Z</news:publication_date>
+      <news:title>Marokkaanse douane rolt smokkel van Turkse en Chinese stoffen op</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-douane-rolt-smokkel-van-turkse-en-chinese-stoffen-op-1787473243591.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-scholen-versnellen-renovaties-voor-het-nieuwe-schooljaar</loc>
     <news:news>
       <news:publication>
@@ -349,17 +361,5 @@
       <news:title>Marokkaanse Dag van de Jeugd zet in op onderwijs, werk en politiek</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-dag-van-de-jeugd-zet-in-op-onderwijs-werk-en-politiek-1787304753476.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/textielsector-tanger-kampt-met-tekort-aan-arbeidskrachten-door-stukloonwerk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T08:35:20.638Z</news:publication_date>
-      <news:title>Textielsector Tanger kampt met tekort aan arbeidskrachten door stukloonwerk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/textielsector-tanger-kampt-met-tekort-aan-arbeidskrachten-door-stukloonwerk-1787301018857.jpg</image:loc></image:image>
   </url>
 </urlset>

@@ -32,6 +32,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-douane-rolt-smokkel-van-turkse-en-chinese-stoffen-op</loc>
+    <lastmod>2026-08-23T08:25:54.087Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-douane-rolt-smokkel-van-turkse-en-chinese-stoffen-op-1787473243591.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-scholen-versnellen-renovaties-voor-het-nieuwe-schooljaar</loc>
     <lastmod>2026-08-23T07:37:00.036Z</lastmod>
     <changefreq>daily</changefreq>
@@ -812,7 +819,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-schrapt-visumplicht-voor-albanezen-bij-korte-verblijven</loc>
     <lastmod>2026-08-16T08:45:14.909Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-schrapt-visumplicht-voor-albanezen-bij-korte-verblijven-1786868409826.jpg</image:loc></image:image>
   </url>
   <url>
