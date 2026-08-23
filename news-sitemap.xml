@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-marokkaanse-wet-over-zwerfdieren-zaait-verwarring-bij-dierenrechtenorgani</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T20:03:43.613Z</news:publication_date>
+      <news:title>Nieuwe Marokkaanse wet over zwerfdieren zaait verwarring bij dierenrechtenorganisaties</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-marokkaanse-wet-over-zwerfdieren-zaait-verwarring-bij-dierenrechtenorgani-1787512720006.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-pakt-taekwondogoud-op-middellandse-zeespelen-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T19:43:42.675Z</news:publication_date>
+      <news:title>Marokko pakt taekwondogoud op Middellandse Zeespelen 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-pakt-taekwondogoud-op-middellandse-zeespelen-2026-1787512677387.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-studenten-en-werknemers-protesteren-tegen-universiteitsgelden-tot-20</loc>
     <news:news>
       <news:publication>
@@ -349,17 +373,5 @@
       <news:title>Duitse studie: Marokko bij de vijf grootste landen van onderwijsmigratie naar Duitsland</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/duitse-studie-marokko-bij-de-vijf-grootste-landen-van-onderwijsmigratie-naar-dui-1787378528280.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/lila-dochter-van-jamel-debbouze-schittert-in-the-voice-kids</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T19:46:46.178Z</news:publication_date>
-      <news:title>Lila, dochter van Jamel Debbouze, schittert in The Voice Kids</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lila-dochter-van-jamel-debbouze-schittert-in-the-voice-kids-1787340104026.jpg</image:loc></image:image>
   </url>
 </urlset>
