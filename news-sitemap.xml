@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bezorgdheid-om-chadi-riad-marokkaanse-verdediger-in-tranen-van-het-veld-gedragen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T10:28:40.727Z</news:publication_date>
+      <news:title>Bezorgdheid om Chadi Riad: Marokkaanse verdediger in tranen van het veld gedragen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bezorgdheid-om-chadi-riad-marokkaanse-verdediger-in-tranen-van-het-veld-gedragen-1787480798111.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-douane-rolt-smokkel-van-turkse-en-chinese-stoffen-op</loc>
     <news:news>
       <news:publication>
