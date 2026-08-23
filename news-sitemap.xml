@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/digitalisering-wordt-de-nieuwe-motor-achter-het-marokkaanse-toerisme</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T14:29:15.818Z</news:publication_date>
+      <news:title>Digitalisering wordt de nieuwe motor achter het Marokkaanse toerisme</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/digitalisering-wordt-de-nieuwe-motor-achter-het-marokkaanse-toerisme-1787493807318.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mensenrechtengroep-bezorgd-over-begrafenissen-migranten-in-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T14:09:14.986Z</news:publication_date>
+      <news:title>Mensenrechtengroep bezorgd over begrafenissen migranten in Ceuta</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mensenrechtengroep-bezorgd-over-begrafenissen-migranten-in-ceuta-1787493762563.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ayyoub-bouaddi-op-weg-naar-manchester-city-voor-100-miljoen-euro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T13:53:04.743Z</news:publication_date>
+      <news:title>Ayyoub Bouaddi op weg naar Manchester City voor 100 miljoen euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayyoub-bouaddi-op-weg-naar-manchester-city-voor-100-miljoen-euro-1787491644855.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spanje-en-marokko-hoe-sterk-zijn-hun-economische-banden</loc>
     <news:news>
       <news:publication>
@@ -325,41 +361,5 @@
       <news:title>Marokko blijft topleverancier van kasgroenten voor de EU, maar Turkije rukt op</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-blijft-topleverancier-van-kasgroenten-voor-de-eu-maar-turkije-rukt-op-1787329948769.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ontruiming-migrantenkamp-in-ceuta-marokkaanse-minderjarigen-willen-niet-terug-na</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T14:25:56.389Z</news:publication_date>
-      <news:title>Ontruiming migrantenkamp in Ceuta: Marokkaanse minderjarigen willen niet terug naar Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ontruiming-migrantenkamp-in-ceuta-marokkaanse-minderjarigen-willen-niet-terug-na-1787319652603.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-mikt-op-de-europese-cruisemarkt-met-nieuwe-terminal-in-casablanca</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T14:07:30.186Z</news:publication_date>
-      <news:title>Marokko mikt op de Europese cruisemarkt met nieuwe terminal in Casablanca</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-mikt-op-de-europese-cruisemarkt-met-nieuwe-terminal-in-casablanca-1787320948636.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-chinese-auto-toeleveranciers-aantrekken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T14:05:55.513Z</news:publication_date>
-      <news:title>Marokko blijft Chinese auto-toeleveranciers aantrekken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-blijft-chinese-auto-toeleveranciers-aantrekken-1787319605954.jpg</image:loc></image:image>
   </url>
 </urlset>
