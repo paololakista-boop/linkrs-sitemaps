@@ -350,16 +350,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-verzekeringsmagnaat-jacques-bouthier-riskeert-proces-voor-verkrachting-va-1787311726764.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-dag-van-de-jeugd-zet-in-op-onderwijs-werk-en-politiek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T09:37:36.823Z</news:publication_date>
-      <news:title>Marokkaanse Dag van de Jeugd zet in op onderwijs, werk en politiek</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-dag-van-de-jeugd-zet-in-op-onderwijs-werk-en-politiek-1787304753476.jpg</image:loc></image:image>
-  </url>
 </urlset>
