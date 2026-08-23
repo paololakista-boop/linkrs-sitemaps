@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-scholen-versnellen-renovaties-voor-het-nieuwe-schooljaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T07:37:00.036Z</news:publication_date>
+      <news:title>Marokkaanse scholen versnellen renovaties voor het nieuwe schooljaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-scholen-versnellen-renovaties-voor-het-nieuwe-schooljaar-1787470318604.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/al-idrisi-de-marokkaanse-geleerde-die-de-moderne-cartografie-vormgaf</loc>
     <news:news>
       <news:publication>
@@ -349,17 +361,5 @@
       <news:title>Textielsector Tanger kampt met tekort aan arbeidskrachten door stukloonwerk</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/textielsector-tanger-kampt-met-tekort-aan-arbeidskrachten-door-stukloonwerk-1787301018857.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koninklijke-gratie-voor-935-mensen-bij-verjaardag-revolutie-van-koning-en-volk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T07:36:57.883Z</news:publication_date>
-      <news:title>Koninklijke gratie voor 935 mensen bij verjaardag Revolutie van Koning en Volk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koninklijke-gratie-voor-935-mensen-bij-verjaardag-revolutie-van-koning-en-volk-1787297516508.jpg</image:loc></image:image>
   </url>
 </urlset>
