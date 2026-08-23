@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/petitie-vraagt-terugkeer-van-directe-vluchten-tussen-clermont-ferrand-en-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T11:48:59.429Z</news:publication_date>
+      <news:title>Petitie vraagt terugkeer van directe vluchten tussen Clermont-Ferrand en Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/petitie-vraagt-terugkeer-van-directe-vluchten-tussen-clermont-ferrand-en-marokko-1787484236328.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-organisatie-volgt-meer-dan-800-migratiezaken-in-algerije</loc>
     <news:news>
       <news:publication>
@@ -349,17 +361,5 @@
       <news:title>Spanje rolt smokkelnetwerk op dat migranten uit Ceuta naar Europa bracht</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-rolt-smokkelnetwerk-op-dat-migranten-uit-ceuta-naar-europa-bracht-1787319567790.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diaspora-in-de-eu-12-miljard-dollar-overmakingen-per-jaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T11:54:30.278Z</news:publication_date>
-      <news:title>Marokkaanse diaspora in de EU: 12 miljard dollar overmakingen per jaar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-diaspora-in-de-eu-12-miljard-dollar-overmakingen-per-jaar-1787311765935.jpg</image:loc></image:image>
   </url>
 </urlset>
