@@ -422,16 +422,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bosbrand-bij-chefchaouen-na-vier-dagen-bijna-onder-controle-1787426272766.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-partij-belooft-huren-die-uitmondt-in-eigen-woning</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T17:28:09.985Z</news:publication_date>
-      <news:title>Marokkaanse partij belooft huren die uitmondt in eigen woning</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-partij-belooft-huren-die-uitmondt-in-eigen-woning-1787419388447.jpg</image:loc></image:image>
-  </url>
 </urlset>
