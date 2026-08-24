@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nabil-dirar-keert-op-zijn-40e-terug-uit-pensioen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T14:07:38.091Z</news:publication_date>
+      <news:title>Nabil Dirar keert op zijn 40e terug uit pensioen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nabil-dirar-keert-op-zijn-40e-terug-uit-pensioen-1787580156686.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-melden-vertraging-bij-spaans-visum-terwijl-spanning-rond-ceuta-aanhou</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T13:50:08.312Z</news:publication_date>
+      <news:title>Marokkanen melden vertraging bij Spaans visum terwijl spanning rond Ceuta aanhoudt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-melden-vertraging-bij-spaans-visum-terwijl-spanning-rond-ceuta-aanhou-1787579065320.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-justitie-wil-ex-verzekeringsbaas-voor-rechter-om-verkrachting-marokkaanse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T13:34:32.140Z</news:publication_date>
+      <news:title>Franse justitie wil ex-verzekeringsbaas voor rechter om verkrachting Marokkaanse minderjarige</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-justitie-wil-ex-verzekeringsbaas-voor-rechter-om-verkrachting-marokkaanse-1787578342397.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-beachvolleyers-pakken-afrikaanse-titel-en-ticket-voor-olympische-spe</loc>
     <news:news>
       <news:publication>
@@ -385,29 +421,5 @@
       <news:title>Marokkaanse doelman Chouaib Bellaarouch tekent bij Stade de Reims</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-doelman-chouaib-bellaarouch-tekent-bij-stade-de-reims-1787407379434.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/video-van-walid-regragui-met-de-emir-van-qatar-zorgt-voor-ophef-online</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T13:52:20.228Z</news:publication_date>
-      <news:title>Video van Walid Regragui met de emir van Qatar zorgt voor ophef online</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/video-van-walid-regragui-met-de-emir-van-qatar-zorgt-voor-ophef-online-1787405236458.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/benzina-en-ait-el-haj-in-ideale-elftal-van-de-vrouwen-can-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T13:32:18.062Z</news:publication_date>
-      <news:title>Benzina en Aït El Haj in ideale elftal van de vrouwen-CAN 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/benzina-en-ait-el-haj-in-ideale-elftal-van-de-vrouwen-can-2026-1787405164730.jpg</image:loc></image:image>
   </url>
 </urlset>
