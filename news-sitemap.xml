@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/chinese-textielgigant-investeert-2-29-miljard-dirham-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T06:28:16.915Z</news:publication_date>
+      <news:title>Chinese textielgigant investeert 2,29 miljard dirham in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinese-textielgigant-investeert-2-29-miljard-dirham-in-marokko-1787551394547.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marhaba-2026-meer-dan-3-5-miljoen-marokkanen-uit-het-buitenland-terug-thuis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T06:08:15.852Z</news:publication_date>
+      <news:title>Marhaba 2026: meer dan 3,5 miljoen Marokkanen uit het buitenland terug thuis</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marhaba-2026-meer-dan-3-5-miljoen-marokkanen-uit-het-buitenland-terug-thuis-1787551336194.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/soufiane-el-bakkali-tweede-in-diamond-league-finale-3-000-m-steeple</loc>
     <news:news>
       <news:publication>
@@ -361,29 +385,5 @@
       <news:title>Madrid wijst Marokkaanse claim op Ceuta en Melilla resoluut af</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/madrid-wijst-marokkaanse-claim-op-ceuta-en-melilla-resoluut-af-1787386788545.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-wafaa-atid-zwemt-naar-ceuta-haar-verhaal-onder-vuur-in-spaanse-media</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T06:27:55.653Z</news:publication_date>
-      <news:title>Marokkaanse Wafaa Atid zwemt naar Ceuta: haar verhaal onder vuur in Spaanse media</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-wafaa-atid-zwemt-naar-ceuta-haar-verhaal-onder-vuur-in-spaanse-media-1787378573859.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/duitse-studie-marokko-bij-de-vijf-grootste-landen-van-onderwijsmigratie-naar-dui</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T06:07:54.652Z</news:publication_date>
-      <news:title>Duitse studie: Marokko bij de vijf grootste landen van onderwijsmigratie naar Duitsland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/duitse-studie-marokko-bij-de-vijf-grootste-landen-van-onderwijsmigratie-naar-dui-1787378528280.jpg</image:loc></image:image>
   </url>
 </urlset>
