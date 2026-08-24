@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-cineast-mustapha-derkaoui-overleden-op-82-jarige-leeftijd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T08:44:20.246Z</news:publication_date>
+      <news:title>Marokkaans cineast Mustapha Derkaoui overleden op 82-jarige leeftijd</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-cineast-mustapha-derkaoui-overleden-op-82-jarige-leeftijd-1787560721686.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/chinese-textielgigant-investeert-2-29-miljard-dirham-in-marokko</loc>
     <news:news>
       <news:publication>
@@ -361,29 +373,5 @@
       <news:title>Marhaba 2026: Tanger Med bereidt zich voor op piekdrukte eind augustus</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marhaba-2026-tanger-med-bereidt-zich-voor-op-piekdrukte-eind-augustus-1787390956349.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hoe-een-ultraconservatief-netwerk-in-de-vs-en-israel-marokko-s-claim-op-ceuta-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T08:45:38.147Z</news:publication_date>
-      <news:title>Hoe een ultraconservatief netwerk in de VS en Israël Marokko&apos;s claim op Ceuta en Melilla aanwakkert</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoe-een-ultraconservatief-netwerk-in-de-vs-en-israel-marokko-s-claim-op-ceuta-en-1787386835007.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/madrid-wijst-marokkaanse-claim-op-ceuta-en-melilla-resoluut-af</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T08:25:36.982Z</news:publication_date>
-      <news:title>Madrid wijst Marokkaanse claim op Ceuta en Melilla resoluut af</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/madrid-wijst-marokkaanse-claim-op-ceuta-en-melilla-resoluut-af-1787386788545.jpg</image:loc></image:image>
   </url>
 </urlset>
