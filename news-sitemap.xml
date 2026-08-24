@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-herstelt-subsidie-op-tarwe-import-nu-de-molens-tekortkomen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T19:30:06.449Z</news:publication_date>
+      <news:title>Marokko herstelt subsidie op tarwe-import nu de molens tekortkomen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-herstelt-subsidie-op-tarwe-import-nu-de-molens-tekortkomen-1787599412970.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-openen-kwalificatie-voor-afrika-cup-2027-tegen-gabon-en-lesotho</loc>
     <news:news>
       <news:publication>
@@ -397,29 +409,5 @@
       <news:title>Algerijnse media publiceren in 21 dagen bijna 4.000 stukken over Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/algerijnse-media-publiceren-in-21-dagen-bijna-4-000-stukken-over-marokko-1787426351352.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-beachvolleyballers-afrikaans-kampioen-en-naar-de-spelen-van-2028</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T19:44:13.910Z</news:publication_date>
-      <news:title>Marokkaanse beachvolleyballers Afrikaans kampioen en naar de Spelen van 2028</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-beachvolleyballers-afrikaans-kampioen-en-naar-de-spelen-van-2028-1787426308649.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-bij-chefchaouen-na-vier-dagen-bijna-onder-controle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T19:24:12.854Z</news:publication_date>
-      <news:title>Bosbrand bij Chefchaouen na vier dagen bijna onder controle</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bosbrand-bij-chefchaouen-na-vier-dagen-bijna-onder-controle-1787426272766.jpg</image:loc></image:image>
   </url>
 </urlset>
