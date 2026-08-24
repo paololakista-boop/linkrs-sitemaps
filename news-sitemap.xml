@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalsters-benzina-en-ait-el-haj-in-beste-elftal-van-can-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T11:36:45.421Z</news:publication_date>
+      <news:title>Marokkaanse voetbalsters Benzina en Aït El Haj in beste elftal van CAN 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-voetbalsters-benzina-en-ait-el-haj-in-beste-elftal-van-can-2026-1787571074152.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wisselkoersen-dirham-op-maandag-24-augustus-dit-betaal-je-voor-euro-en-dollar</loc>
     <news:news>
       <news:publication>
@@ -361,17 +373,5 @@
       <news:title>Benzina en Aït El Haj in ideale elftal van de vrouwen-CAN 2026</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/benzina-en-ait-el-haj-in-ideale-elftal-van-de-vrouwen-can-2026-1787405164730.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-rechter-schrapt-visumstop-die-ook-marokkanen-trof</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T11:24:51.144Z</news:publication_date>
-      <news:title>Amerikaanse rechter schrapt visumstop die ook Marokkanen trof</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-rechter-schrapt-visumstop-die-ook-marokkanen-trof-1787397769067.jpg</image:loc></image:image>
   </url>
 </urlset>
