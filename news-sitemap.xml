@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marrakech-trekt-steeds-meer-buitenlandse-kopers-van-luxevastgoed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T14:10:09.389Z</news:publication_date>
+      <news:title>Marrakech trekt steeds meer buitenlandse kopers van luxevastgoed</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marrakech-trekt-steeds-meer-buitenlandse-kopers-van-luxevastgoed-1787579106997.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nabil-dirar-keert-op-zijn-40e-terug-uit-pensioen</loc>
     <news:news>
       <news:publication>
@@ -397,29 +409,5 @@
       <news:title>Marokkaanse partij belooft huren die uitmondt in eigen woning</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-partij-belooft-huren-die-uitmondt-in-eigen-woning-1787419388447.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/toekomst-van-hakim-ziyech-bij-wydad-casablanca-blijft-onzeker</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T14:28:37.728Z</news:publication_date>
-      <news:title>Toekomst van Hakim Ziyech bij Wydad Casablanca blijft onzeker</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toekomst-van-hakim-ziyech-bij-wydad-casablanca-blijft-onzeker-1787407414021.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-doelman-chouaib-bellaarouch-tekent-bij-stade-de-reims</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T14:08:36.873Z</news:publication_date>
-      <news:title>Marokkaanse doelman Chouaib Bellaarouch tekent bij Stade de Reims</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-doelman-chouaib-bellaarouch-tekent-bij-stade-de-reims-1787407379434.jpg</image:loc></image:image>
   </url>
 </urlset>
