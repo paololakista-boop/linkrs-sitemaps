@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mma-legende-georges-st-pierre-geniet-van-vakantie-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T15:37:25.901Z</news:publication_date>
+      <news:title>MMA-legende Georges St-Pierre geniet van vakantie in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mma-legende-georges-st-pierre-geniet-van-vakantie-in-marokko-1787585543139.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marrakech-trekt-steeds-meer-buitenlandse-kopers-van-luxevastgoed</loc>
     <news:news>
       <news:publication>
