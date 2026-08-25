@@ -398,28 +398,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-scholen-versnellen-renovaties-voor-het-nieuwe-schooljaar-1787470318604.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/al-idrisi-de-marokkaanse-geleerde-die-de-moderne-cartografie-vormgaf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T06:27:49.528Z</news:publication_date>
-      <news:title>Al-Idrisi, de Marokkaanse geleerde die de moderne cartografie vormgaf</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/al-idrisi-de-marokkaanse-geleerde-die-de-moderne-cartografie-vormgaf-1787464967205.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schaart-zich-bij-de-grote-handelsknooppunten-van-afrika</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T06:07:48.406Z</news:publication_date>
-      <news:title>Marokko schaart zich bij de grote handelsknooppunten van Afrika</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-schaart-zich-bij-de-grote-handelsknooppunten-van-afrika-1787464929669.jpg</image:loc></image:image>
-  </url>
 </urlset>
