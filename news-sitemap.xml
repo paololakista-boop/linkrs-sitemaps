@@ -374,16 +374,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bezorgdheid-om-chadi-riad-marokkaanse-verdediger-in-tranen-van-het-veld-gedragen-1787480798111.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-douane-rolt-smokkel-van-turkse-en-chinese-stoffen-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T08:25:54.087Z</news:publication_date>
-      <news:title>Marokkaanse douane rolt smokkel van Turkse en Chinese stoffen op</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-douane-rolt-smokkel-van-turkse-en-chinese-stoffen-op-1787473243591.jpg</image:loc></image:image>
-  </url>
 </urlset>
