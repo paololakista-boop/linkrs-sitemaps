@@ -302,40 +302,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/digitalisering-wordt-de-nieuwe-motor-achter-het-marokkaanse-toerisme-1787493807318.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mensenrechtengroep-bezorgd-over-begrafenissen-migranten-in-ceuta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T14:09:14.986Z</news:publication_date>
-      <news:title>Mensenrechtengroep bezorgd over begrafenissen migranten in Ceuta</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mensenrechtengroep-bezorgd-over-begrafenissen-migranten-in-ceuta-1787493762563.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ayyoub-bouaddi-op-weg-naar-manchester-city-voor-100-miljoen-euro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T13:53:04.743Z</news:publication_date>
-      <news:title>Ayyoub Bouaddi op weg naar Manchester City voor 100 miljoen euro</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayyoub-bouaddi-op-weg-naar-manchester-city-voor-100-miljoen-euro-1787491644855.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-en-marokko-hoe-sterk-zijn-hun-economische-banden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T13:33:03.688Z</news:publication_date>
-      <news:title>Spanje en Marokko: hoe sterk zijn hun economische banden?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-en-marokko-hoe-sterk-zijn-hun-economische-banden-1787491613136.jpg</image:loc></image:image>
-  </url>
 </urlset>
