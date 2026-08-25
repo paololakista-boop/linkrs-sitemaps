@@ -254,28 +254,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-studenten-en-werknemers-protesteren-tegen-universiteitsgelden-tot-20-1787512644758.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-eist-wk-finale-2030-op-terwijl-marokko-zijn-kandidatuur-versterkt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T18:37:42.234Z</news:publication_date>
-      <news:title>Spanje eist WK-finale 2030 op terwijl Marokko zijn kandidatuur versterkt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-eist-wk-finale-2030-op-terwijl-marokko-zijn-kandidatuur-versterkt-1787509960156.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verstuurt-kiezersberichten-en-opent-stemmen-bij-volmacht-voor-de-diaspor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T18:34:41.190Z</news:publication_date>
-      <news:title>Marokko verstuurt kiezersberichten en opent stemmen bij volmacht voor de diaspora</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verstuurt-kiezersberichten-en-opent-stemmen-bij-volmacht-voor-de-diaspor-1787509922385.jpg</image:loc></image:image>
-  </url>
 </urlset>
