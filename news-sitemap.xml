@@ -278,28 +278,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verstuurt-kiezersberichten-en-opent-stemmen-bij-volmacht-voor-de-diaspor-1787509922385.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/adil-ramzi-wordt-assistent-bij-het-nederlands-elftal-onder-xavi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T14:49:17.514Z</news:publication_date>
-      <news:title>Adil Ramzi wordt assistent bij het Nederlands elftal onder Xavi</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/adil-ramzi-wordt-assistent-bij-het-nederlands-elftal-onder-xavi-1787493854076.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/digitalisering-wordt-de-nieuwe-motor-achter-het-marokkaanse-toerisme</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T14:29:15.818Z</news:publication_date>
-      <news:title>Digitalisering wordt de nieuwe motor achter het Marokkaanse toerisme</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/digitalisering-wordt-de-nieuwe-motor-achter-het-marokkaanse-toerisme-1787493807318.jpg</image:loc></image:image>
-  </url>
 </urlset>
