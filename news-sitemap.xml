@@ -206,16 +206,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marhaba-2026-meer-dan-3-5-miljoen-marokkanen-uit-het-buitenland-terug-thuis-1787551336194.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/soufiane-el-bakkali-tweede-in-diamond-league-finale-3-000-m-steeple</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T22:07:29.192Z</news:publication_date>
-      <news:title>Soufiane El Bakkali tweede in Diamond League-finale 3.000 m steeple</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/soufiane-el-bakkali-tweede-in-diamond-league-finale-3-000-m-steeple-1787522548285.jpg</image:loc></image:image>
-  </url>
 </urlset>
