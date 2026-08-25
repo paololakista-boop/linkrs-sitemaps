@@ -350,16 +350,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/petitie-vraagt-terugkeer-van-directe-vluchten-tussen-clermont-ferrand-en-marokko-1787484236328.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-organisatie-volgt-meer-dan-800-migratiezaken-in-algerije</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T11:28:57.836Z</news:publication_date>
-      <news:title>Marokkaanse organisatie volgt meer dan 800 migratiezaken in Algerije</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-organisatie-volgt-meer-dan-800-migratiezaken-in-algerije-1787484199516.jpg</image:loc></image:image>
-  </url>
 </urlset>
