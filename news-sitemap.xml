@@ -338,16 +338,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-en-marokko-hoe-sterk-zijn-hun-economische-banden-1787491613136.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/petitie-vraagt-terugkeer-van-directe-vluchten-tussen-clermont-ferrand-en-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T11:48:59.429Z</news:publication_date>
-      <news:title>Petitie vraagt terugkeer van directe vluchten tussen Clermont-Ferrand en Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/petitie-vraagt-terugkeer-van-directe-vluchten-tussen-clermont-ferrand-en-marokko-1787484236328.jpg</image:loc></image:image>
-  </url>
 </urlset>
