@@ -182,28 +182,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-cineast-mustapha-derkaoui-overleden-op-82-jarige-leeftijd-1787560721686.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/chinese-textielgigant-investeert-2-29-miljard-dirham-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T06:28:16.915Z</news:publication_date>
-      <news:title>Chinese textielgigant investeert 2,29 miljard dirham in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinese-textielgigant-investeert-2-29-miljard-dirham-in-marokko-1787551394547.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marhaba-2026-meer-dan-3-5-miljoen-marokkanen-uit-het-buitenland-terug-thuis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T06:08:15.852Z</news:publication_date>
-      <news:title>Marhaba 2026: meer dan 3,5 miljoen Marokkanen uit het buitenland terug thuis</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marhaba-2026-meer-dan-3-5-miljoen-marokkanen-uit-het-buitenland-terug-thuis-1787551336194.jpg</image:loc></image:image>
-  </url>
 </urlset>
