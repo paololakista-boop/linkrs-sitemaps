@@ -170,16 +170,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoersen-dirham-op-maandag-24-augustus-dit-betaal-je-voor-euro-en-dollar-1787563937321.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-cineast-mustapha-derkaoui-overleden-op-82-jarige-leeftijd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T08:44:20.246Z</news:publication_date>
-      <news:title>Marokkaans cineast Mustapha Derkaoui overleden op 82-jarige leeftijd</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-cineast-mustapha-derkaoui-overleden-op-82-jarige-leeftijd-1787560721686.jpg</image:loc></image:image>
-  </url>
 </urlset>
