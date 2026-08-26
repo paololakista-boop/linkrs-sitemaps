@@ -146,16 +146,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-leidt-viering-van-mawlid-in-het-paleis-in-rabat-1787571104124.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalsters-benzina-en-ait-el-haj-in-beste-elftal-van-can-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T11:36:45.421Z</news:publication_date>
-      <news:title>Marokkaanse voetbalsters Benzina en Aït El Haj in beste elftal van CAN 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-voetbalsters-benzina-en-ait-el-haj-in-beste-elftal-van-can-2026-1787571074152.jpg</image:loc></image:image>
-  </url>
 </urlset>
