@@ -38,16 +38,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-herstelt-subsidie-op-tarwe-import-nu-de-molens-tekortkomen-1787599412970.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-openen-kwalificatie-voor-afrika-cup-2027-tegen-gabon-en-lesotho</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T16:37:36.056Z</news:publication_date>
-      <news:title>Atlasleeuwen openen kwalificatie voor Afrika Cup 2027 tegen Gabon en Lesotho</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwen-openen-kwalificatie-voor-afrika-cup-2027-tegen-gabon-en-lesotho-1787589154478.jpg</image:loc></image:image>
-  </url>
 </urlset>
