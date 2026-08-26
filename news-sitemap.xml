@@ -2,40 +2,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-brengt-starlink-aan-boord-snel-internet-op-elke-vlucht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T20:10:08.553Z</news:publication_date>
-      <news:title>Royal Air Maroc brengt Starlink aan boord: snel internet op elke vlucht</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-air-maroc-brengt-starlink-aan-boord-snel-internet-op-elke-vlucht-1787599495110.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/privekliniek-in-agadir-weigert-lichaam-van-overleden-man-af-te-geven-zonder-beta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T19:50:07.779Z</news:publication_date>
-      <news:title>Privékliniek in Agadir weigert lichaam van overleden man af te geven zonder betaling</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/privekliniek-in-agadir-weigert-lichaam-van-overleden-man-af-te-geven-zonder-beta-1787599453040.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-herstelt-subsidie-op-tarwe-import-nu-de-molens-tekortkomen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T19:30:06.449Z</news:publication_date>
-      <news:title>Marokko herstelt subsidie op tarwe-import nu de molens tekortkomen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-herstelt-subsidie-op-tarwe-import-nu-de-molens-tekortkomen-1787599412970.jpg</image:loc></image:image>
-  </url>
+
 </urlset>
