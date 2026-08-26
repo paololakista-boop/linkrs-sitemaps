@@ -110,40 +110,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-justitie-wil-ex-verzekeringsbaas-voor-rechter-om-verkrachting-marokkaanse-1787578342397.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-beachvolleyers-pakken-afrikaanse-titel-en-ticket-voor-olympische-spe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T12:58:18.161Z</news:publication_date>
-      <news:title>Marokkaanse beachvolleyers pakken Afrikaanse titel en ticket voor Olympische Spelen 2028</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-beachvolleyers-pakken-afrikaanse-titel-en-ticket-voor-olympische-spe-1787574795117.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-voert-nieuwe-uniforme-nummerplaten-in</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T12:38:16.778Z</news:publication_date>
-      <news:title>Marokko voert nieuwe uniforme nummerplaten in</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-voert-nieuwe-uniforme-nummerplaten-in-1787574759084.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-leidt-viering-van-mawlid-in-het-paleis-in-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T11:56:46.471Z</news:publication_date>
-      <news:title>Koning Mohammed VI leidt viering van Mawlid in het paleis in Rabat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-leidt-viering-van-mawlid-in-het-paleis-in-rabat-1787571104124.jpg</image:loc></image:image>
-  </url>
 </urlset>
