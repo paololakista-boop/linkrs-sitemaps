@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-strijdt-met-marokko-om-wk-finale-2030-sanchez-belooft-alles-op-alles-te-z</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T13:41:40.882Z</news:publication_date>
+      <news:title>Spanje strijdt met Marokko om WK-finale 2030: Sánchez belooft alles op alles te zetten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-strijdt-met-marokko-om-wk-finale-2030-sanchez-belooft-alles-op-alles-te-z-1788267394172.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-het-buitenland-stuurden-dit-jaar-al-bijna-75-miljard-dirham-naar-h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T13:37:40.142Z</news:publication_date>
+      <news:title>Marokkanen in het buitenland stuurden dit jaar al bijna 75 miljard dirham naar huis</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-in-het-buitenland-stuurden-dit-jaar-al-bijna-75-miljard-dirham-naar-h-1788269558080.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-parlementsverkiezingen-2026-strengere-regels-voor-een-eerlijk-verloo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T13:21:39.704Z</news:publication_date>
+      <news:title>Marokkaanse parlementsverkiezingen 2026: strengere regels voor een eerlijk verloop</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-parlementsverkiezingen-2026-strengere-regels-voor-een-eerlijk-verloo-1788267355337.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-zet-openbaar-ministerie-onder-druk-voor-snelle-aanpak-verkiezingsfraude</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T11:38:12.665Z</news:publication_date>
+      <news:title>Marokko zet openbaar ministerie onder druk voor snelle aanpak verkiezingsfraude</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-zet-openbaar-ministerie-onder-druk-voor-snelle-aanpak-verkiezingsfraude-1788262389537.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-op-kop-13-643-kregen-in-2025-de-franse-nationaliteit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T10:58:15.715Z</news:publication_date>
+      <news:title>Marokkanen op kop: 13.643 kregen in 2025 de Franse nationaliteit</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-op-kop-13-643-kregen-in-2025-de-franse-nationaliteit-1788258790042.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-student-speurt-met-metaaldetector-naar-schatten-op-de-stranden-van-t</loc>
     <news:news>
       <news:publication>
