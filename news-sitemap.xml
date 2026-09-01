@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/pam-belooft-gratis-stroom-onder-100-dirham-en-pensioenen-van-minstens-3-000-dirh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T21:38:36.054Z</news:publication_date>
+      <news:title>PAM belooft gratis stroom onder 100 dirham en pensioenen van minstens 3.000 dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pam-belooft-gratis-stroom-onder-100-dirham-en-pensioenen-van-minstens-3-000-dirh-1788298338268.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wordt-een-favoriete-winterbestemming-voor-franse-campertoeristen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T19:37:34.219Z</news:publication_date>
+      <news:title>Marokko wordt een favoriete winterbestemming voor Franse campertoeristen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wordt-een-favoriete-winterbestemming-voor-franse-campertoeristen-1788291152578.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/transfer-van-el-aynaoui-naar-rb-leipzig-dreigt-af-te-ketsen</loc>
     <news:news>
       <news:publication>
