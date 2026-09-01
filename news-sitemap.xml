@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/transfer-van-el-aynaoui-naar-rb-leipzig-dreigt-af-te-ketsen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T17:51:58.582Z</news:publication_date>
+      <news:title>Transfer van El Aynaoui naar RB Leipzig dreigt af te ketsen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/transfer-van-el-aynaoui-naar-rb-leipzig-dreigt-af-te-ketsen-1788282414655.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nostalgie-naar-de-schoolstart-toen-de-ouders-van-nu-zelf-nog-leerling-waren</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T17:37:34.354Z</news:publication_date>
+      <news:title>Nostalgie naar de schoolstart: toen de ouders van nu zelf nog leerling waren</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nostalgie-naar-de-schoolstart-toen-de-ouders-van-nu-zelf-nog-leerling-waren-1788283952209.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/joodse-gemeenschap-in-marokko-roept-op-om-te-stemmen-maar-steunt-geen-enkele-par</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T17:31:57.664Z</news:publication_date>
+      <news:title>Joodse gemeenschap in Marokko roept op om te stemmen, maar steunt geen enkele partij</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/joodse-gemeenschap-in-marokko-roept-op-om-te-stemmen-maar-steunt-geen-enkele-par-1788282380654.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/sila-atlantik-de-stroomkabel-die-marokko-rechtstreeks-met-duitsland-wil-verbinde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T17:11:56.366Z</news:publication_date>
+      <news:title>Sila Atlantik: de stroomkabel die Marokko rechtstreeks met Duitsland wil verbinden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sila-atlantik-de-stroomkabel-die-marokko-rechtstreeks-met-duitsland-wil-verbinde-1788282344835.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spanje-strijdt-met-marokko-om-wk-finale-2030-sanchez-belooft-alles-op-alles-te-z</loc>
     <news:news>
       <news:publication>
