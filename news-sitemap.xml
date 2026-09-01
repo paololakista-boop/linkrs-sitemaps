@@ -2,5 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-student-speurt-met-metaaldetector-naar-schatten-op-de-stranden-van-t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T06:28:06.130Z</news:publication_date>
+      <news:title>Marokkaanse student speurt met metaaldetector naar &apos;schatten&apos; op de stranden van Tamuda Bay</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-student-speurt-met-metaaldetector-naar-schatten-op-de-stranden-van-t-1788242583877.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zwangere-vrouw-overlijdt-na-overplaatsing-uit-tan-tan-vakbonden-eisen-actie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T06:08:04.979Z</news:publication_date>
+      <news:title>Zwangere vrouw overlijdt na overplaatsing uit Tan-Tan, vakbonden eisen actie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zwangere-vrouw-overlijdt-na-overplaatsing-uit-tan-tan-vakbonden-eisen-actie-1788242541656.jpg</image:loc></image:image>
+  </url>
 </urlset>
