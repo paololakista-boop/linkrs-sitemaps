@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/starlink-wifi-aan-boord-van-royal-air-maroc-het-nieuws-dat-je-in-augustus-miste</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T17:43:28.695Z</news:publication_date>
+      <news:title>Starlink-wifi aan boord van Royal Air Maroc: het nieuws dat je in augustus miste</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/starlink-wifi-aan-boord-van-royal-air-maroc-het-nieuws-dat-je-in-augustus-miste-1788368305911.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-ex-karatekampioen-voor-rechtbank-in-belgie-om-dood-zoontje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T17:37:33.267Z</news:publication_date>
+      <news:title>Marokkaanse ex-karatekampioen voor rechtbank in België om dood zoontje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-ex-karatekampioen-voor-rechtbank-in-belgie-om-dood-zoontje-1788370351299.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/advocatenstaking-in-marokko-mustapha-ramid-roept-op-tot-opschorting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T17:23:27.869Z</news:publication_date>
+      <news:title>Advocatenstaking in Marokko: Mustapha Ramid roept op tot opschorting</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/advocatenstaking-in-marokko-mustapha-ramid-roept-op-tot-opschorting-1788368272364.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hittegolf-verhoogt-paraatheid-tegen-bosbranden-in-noord-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T17:03:26.872Z</news:publication_date>
+      <news:title>Hittegolf verhoogt paraatheid tegen bosbranden in Noord-Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hittegolf-verhoogt-paraatheid-tegen-bosbranden-in-noord-marokko-1788368225530.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dieselprijs-in-marokko-nadert-15-dirham-na-forse-stijging-sinds-juli</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T14:48:44.673Z</news:publication_date>
+      <news:title>Dieselprijs in Marokko nadert 15 dirham na forse stijging sinds juli</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dieselprijs-in-marokko-nadert-15-dirham-na-forse-stijging-sinds-juli-1788357821926.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/walid-regragui-en-mehdi-benatia-worden-analisten-bij-canal</loc>
     <news:news>
       <news:publication>
