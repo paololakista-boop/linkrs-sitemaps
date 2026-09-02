@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/walid-regragui-en-mehdi-benatia-worden-analisten-bij-canal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T14:28:43.892Z</news:publication_date>
+      <news:title>Walid Regragui en Mehdi Benatia worden analisten bij Canal+</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/walid-regragui-en-mehdi-benatia-worden-analisten-bij-canal-1788357783003.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-international-op-de-transfermarkt-een-zomer-die-alles-verandert</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T14:08:43.077Z</news:publication_date>
+      <news:title>Marokkaanse international op de transfermarkt: een zomer die alles verandert</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-international-op-de-transfermarkt-een-zomer-die-alles-verandert-1788357749043.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/meer-dan-duizend-kandidaturen-ingediend-voor-marokkaanse-parlementsverkiezingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T13:12:27.356Z</news:publication_date>
+      <news:title>Meer dan duizend kandidaturen ingediend voor Marokkaanse parlementsverkiezingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meer-dan-duizend-kandidaturen-ingediend-voor-marokkaanse-parlementsverkiezingen-1788352044221.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/in-kenitra-vraagt-mohamed-el-ouadi-hulp-voor-de-behandeling-van-zijn-spierdystro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T12:52:26.461Z</news:publication_date>
+      <news:title>In Kénitra vraagt Mohamed El Ouadi hulp voor de behandeling van zijn spierdystrofie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/in-kenitra-vraagt-mohamed-el-ouadi-hulp-voor-de-behandeling-van-zijn-spierdystro-1788352006986.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/thailand-schrapt-marokko-van-visumvrije-lijst-vanaf-15-september</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T12:32:25.470Z</news:publication_date>
+      <news:title>Thailand schrapt Marokko van visumvrije lijst vanaf 15 september</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/thailand-schrapt-marokko-van-visumvrije-lijst-vanaf-15-september-1788351968177.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/politierapport-wijst-naar-marokko-bij-massale-grensoversteek-in-ceuta-minister-m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T11:43:15.819Z</news:publication_date>
+      <news:title>Politierapport wijst naar Marokko bij massale grensoversteek in Ceuta, minister Marlaska ontkent te weten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politierapport-wijst-naar-marokko-bij-massale-grensoversteek-in-ceuta-minister-m-1788348793169.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/twee-marokkaanse-vrouwen-verdrinken-in-auto-in-haven-van-algeciras</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T11:35:14.636Z</news:publication_date>
+      <news:title>Twee Marokkaanse vrouwen verdrinken in auto in haven van Algeciras</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-marokkaanse-vrouwen-verdrinken-in-auto-in-haven-van-algeciras-1788348747885.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wisselkoersen-van-de-dirham-op-woensdag-2-september</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T10:38:13.935Z</news:publication_date>
+      <news:title>Wisselkoersen van de dirham op woensdag 2 september</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoersen-van-de-dirham-op-woensdag-2-september-1788345149754.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nieuw-schooljaar-voor-het-franse-onderwijsnetwerk-in-marokko-dit-moet-je-weten</loc>
     <news:news>
       <news:publication>
