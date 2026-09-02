@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/pps-belooft-miljoen-banen-en-622-miljard-dirham-in-verkiezingsprogramma</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T21:34:53.143Z</news:publication_date>
+      <news:title>PPS belooft miljoen banen en 622 miljard dirham in verkiezingsprogramma</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pps-belooft-miljoen-banen-en-622-miljard-dirham-in-verkiezingsprogramma-1788384512381.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/starlink-wifi-aan-boord-van-royal-air-maroc-het-nieuws-dat-je-in-augustus-miste</loc>
     <news:news>
       <news:publication>
