@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-schooljaar-voor-het-franse-onderwijsnetwerk-in-marokko-dit-moet-je-weten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T09:37:43.086Z</news:publication_date>
+      <news:title>Nieuw schooljaar voor het Franse onderwijsnetwerk in Marokko: dit moet je weten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-schooljaar-voor-het-franse-onderwijsnetwerk-in-marokko-dit-moet-je-weten-1788341534507.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/kickbokser-badr-hari-opgepakt-in-amsterdam</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T09:34:43.945Z</news:publication_date>
+      <news:title>Kickbokser Badr Hari opgepakt in Amsterdam</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kickbokser-badr-hari-opgepakt-in-amsterdam-1788341562112.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-handelstekort-loopt-op-tot-meer-dan-244-miljard-dirham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T06:08:23.924Z</news:publication_date>
+      <news:title>Marokkaans handelstekort loopt op tot meer dan 244 miljard dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-handelstekort-loopt-op-tot-meer-dan-244-miljard-dirham-1788328954932.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-auto-export-stijgt-met-bijna-15-procent-tot-107-miljard-dirham</loc>
     <news:news>
       <news:publication>
