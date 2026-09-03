@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/studenten-in-bologna-eisen-gerechtigheid-voor-abderrahim-fakir</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T22:07:43.058Z</news:publication_date>
+      <news:title>Studenten in Bologna eisen gerechtigheid voor Abderrahim Fakir</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/studenten-in-bologna-eisen-gerechtigheid-voor-abderrahim-fakir-1788386561882.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-mensenrechtenliga-volgt-situatie-van-migranten-in-fnideq-op-de-voet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-02T21:54:54.609Z</news:publication_date>
+      <news:title>Marokkaanse mensenrechtenliga volgt situatie van migranten in Fnideq op de voet</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-mensenrechtenliga-volgt-situatie-van-migranten-in-fnideq-op-de-voet-1788384553917.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/pps-belooft-miljoen-banen-en-622-miljard-dirham-in-verkiezingsprogramma</loc>
     <news:news>
       <news:publication>
