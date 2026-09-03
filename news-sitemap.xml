@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fransman-opgepakt-aan-grens-tussen-marokko-en-melilla-om-ontvoering-in-2023</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T13:11:32.334Z</news:publication_date>
+      <news:title>Fransman opgepakt aan grens tussen Marokko en Melilla om ontvoering in 2023</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fransman-opgepakt-aan-grens-tussen-marokko-en-melilla-om-ontvoering-in-2023-1788438387017.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hoko-hoe-een-casablancaise-met-een-mit-opleiding-jongeren-begeleidt-na-hun-bac</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T12:51:31.402Z</news:publication_date>
+      <news:title>Hoko: hoe een Casablancaise met een MIT-opleiding jongeren begeleidt na hun bac</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoko-hoe-een-casablancaise-met-een-mit-opleiding-jongeren-begeleidt-na-hun-bac-1788438351880.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/geldoverdrachten-marokkaanse-diaspora-stijgen-8-procent-tot-74-7-miljard-dirham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T12:31:30.268Z</news:publication_date>
+      <news:title>Geldoverdrachten Marokkaanse diaspora stijgen 8 procent tot 74,7 miljard dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/geldoverdrachten-marokkaanse-diaspora-stijgen-8-procent-tot-74-7-miljard-dirham-1788438305681.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-keert-terug-naar-gmt-opluchting-voor-werknemers-en-gezinnen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T11:58:04.547Z</news:publication_date>
+      <news:title>Marokko keert terug naar GMT: opluchting voor werknemers en gezinnen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-keert-terug-naar-gmt-opluchting-voor-werknemers-en-gezinnen-1788435180251.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vader-van-marokkaanse-international-soufiane-rahimi-overleden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-03T11:38:03.111Z</news:publication_date>
+      <news:title>Vader van Marokkaanse international Soufiane Rahimi overleden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vader-van-marokkaanse-international-soufiane-rahimi-overleden-1788435138142.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/van-school-veranderen-zet-marokkaanse-leerlingen-onder-druk</loc>
     <news:news>
       <news:publication>
@@ -361,53 +421,5 @@
       <news:title>Sila Atlantik: de stroomkabel die Marokko rechtstreeks met Duitsland wil verbinden</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sila-atlantik-de-stroomkabel-die-marokko-rechtstreeks-met-duitsland-wil-verbinde-1788282344835.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-strijdt-met-marokko-om-wk-finale-2030-sanchez-belooft-alles-op-alles-te-z</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T13:41:40.882Z</news:publication_date>
-      <news:title>Spanje strijdt met Marokko om WK-finale 2030: Sánchez belooft alles op alles te zetten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-strijdt-met-marokko-om-wk-finale-2030-sanchez-belooft-alles-op-alles-te-z-1788267394172.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-het-buitenland-stuurden-dit-jaar-al-bijna-75-miljard-dirham-naar-h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T13:37:40.142Z</news:publication_date>
-      <news:title>Marokkanen in het buitenland stuurden dit jaar al bijna 75 miljard dirham naar huis</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-in-het-buitenland-stuurden-dit-jaar-al-bijna-75-miljard-dirham-naar-h-1788269558080.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-parlementsverkiezingen-2026-strengere-regels-voor-een-eerlijk-verloo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T13:21:39.704Z</news:publication_date>
-      <news:title>Marokkaanse parlementsverkiezingen 2026: strengere regels voor een eerlijk verloop</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-parlementsverkiezingen-2026-strengere-regels-voor-een-eerlijk-verloo-1788267355337.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-zet-openbaar-ministerie-onder-druk-voor-snelle-aanpak-verkiezingsfraude</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T11:38:12.665Z</news:publication_date>
-      <news:title>Marokko zet openbaar ministerie onder druk voor snelle aanpak verkiezingsfraude</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-zet-openbaar-ministerie-onder-druk-voor-snelle-aanpak-verkiezingsfraude-1788262389537.jpg</image:loc></image:image>
   </url>
 </urlset>
