@@ -62,40 +62,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vader-van-marokkaanse-international-soufiane-rahimi-overleden-1788435138142.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/van-school-veranderen-zet-marokkaanse-leerlingen-onder-druk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T10:37:55.176Z</news:publication_date>
-      <news:title>Van school veranderen zet Marokkaanse leerlingen onder druk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-school-veranderen-zet-marokkaanse-leerlingen-onder-druk-1788431547166.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verkiezingen-2026-in-tiznit-strijd-om-twee-zetels-tussen-berg-en-vlakte</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T06:28:15.629Z</news:publication_date>
-      <news:title>Verkiezingen 2026 in Tiznit: strijd om twee zetels tussen berg en vlakte</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkiezingen-2026-in-tiznit-strijd-om-twee-zetels-tussen-berg-en-vlakte-1788415392896.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/studie-waarschuwt-verstedelijking-vergroot-overstromingsrisico-in-tetouan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-03T06:08:14.483Z</news:publication_date>
-      <news:title>Studie waarschuwt: verstedelijking vergroot overstromingsrisico in Tetouan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/studie-waarschuwt-verstedelijking-vergroot-overstromingsrisico-in-tetouan-1788415347117.jpg</image:loc></image:image>
-  </url>
 </urlset>
