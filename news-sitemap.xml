@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/kaapverdie-bevestigt-opnieuw-steun-aan-marokkaans-plan-voor-de-sahara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T22:48:51.106Z</news:publication_date>
+      <news:title>Kaapverdië bevestigt opnieuw steun aan Marokkaans plan voor de Sahara</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kaapverdie-bevestigt-opnieuw-steun-aan-marokkaans-plan-voor-de-sahara-1790028227351.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ceuta-en-melilla-het-laatste-onafgemaakte-hoofdstuk-van-de-dekolonisatie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T22:29:13.694Z</news:publication_date>
+      <news:title>Ceuta en Melilla: het laatste onafgemaakte hoofdstuk van de dekolonisatie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ceuta-en-melilla-het-laatste-onafgemaakte-hoofdstuk-van-de-dekolonisatie-1790029452595.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/chili-erkent-marokkaanse-soevereiniteit-over-de-sahara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T22:28:50.274Z</news:publication_date>
+      <news:title>Chili erkent Marokkaanse soevereiniteit over de Sahara</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chili-erkent-marokkaanse-soevereiniteit-over-de-sahara-1790028190090.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verkiezingscampagne-in-marokko-geeft-economie-een-seizoensimpuls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T22:08:48.997Z</news:publication_date>
+      <news:title>Verkiezingscampagne in Marokko geeft economie een seizoensimpuls</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkiezingscampagne-in-marokko-geeft-economie-een-seizoensimpuls-1790028156272.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-tiener-verstopt-zich-onder-bus-voetbalclub-valladolid-richting-spanj</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T19:37:09.218Z</news:publication_date>
+      <news:title>Marokkaanse tiener verstopt zich onder bus voetbalclub Valladolid richting Spanje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-tiener-verstopt-zich-onder-bus-voetbalclub-valladolid-richting-spanj-1790019125047.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/belgie-zette-in-2026-al-233-marokkanen-uit-na-hun-celstraf</loc>
     <news:news>
       <news:publication>
