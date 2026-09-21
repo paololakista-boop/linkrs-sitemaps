@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belgie-zette-in-2026-al-233-marokkanen-uit-na-hun-celstraf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T18:37:28.375Z</news:publication_date>
+      <news:title>België zette in 2026 al 233 Marokkanen uit na hun celstraf</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-zette-in-2026-al-233-marokkanen-uit-na-hun-celstraf-1790015546038.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-toerisme-na-de-recordcijfers-begint-de-strijd-om-waarde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T15:38:01.410Z</news:publication_date>
+      <news:title>Marokkaans toerisme: na de recordcijfers begint de strijd om waarde</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-toerisme-na-de-recordcijfers-begint-de-strijd-om-waarde-1790004778512.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rni-voorzitter-chaouki-verdedigt-in-tetouan-de-balans-van-regering-akhannouch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T15:10:06.842Z</news:publication_date>
+      <news:title>RNI-voorzitter Chaouki verdedigt in Tetouan de balans van regering Akhannouch</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rni-voorzitter-chaouki-verdedigt-in-tetouan-de-balans-van-regering-akhannouch-1790001865666.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/el-mansouri-pam-is-de-enige-partij-die-nog-nooit-de-regering-leidde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T14:50:05.681Z</news:publication_date>
+      <news:title>El Mansouri: PAM is de enige partij die nog nooit de regering leidde</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/el-mansouri-pam-is-de-enige-partij-die-nog-nooit-de-regering-leidde-1790001828085.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-herdenkt-het-overlijden-van-koning-hassan-ii</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T14:49:03.585Z</news:publication_date>
+      <news:title>Marokko herdenkt het overlijden van koning Hassan II</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-herdenkt-het-overlijden-van-koning-hassan-ii-1789999438147.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-genderquota-schiet-zichzelf-in-de-voet-bij-lokale-verkiezingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T14:29:02.767Z</news:publication_date>
+      <news:title>Marokkaanse genderquota schiet zichzelf in de voet bij lokale verkiezingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-genderquota-schiet-zichzelf-in-de-voet-bij-lokale-verkiezingen-1789999409790.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/zes-spaanse-gezinnen-willen-marokkaans-meisje-opvangen-tijdens-hartoperatie</loc>
     <news:news>
       <news:publication>
