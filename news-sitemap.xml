@@ -2,5 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zes-spaanse-gezinnen-willen-marokkaans-meisje-opvangen-tijdens-hartoperatie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T14:09:01.692Z</news:publication_date>
+      <news:title>Zes Spaanse gezinnen willen Marokkaans meisje opvangen tijdens hartoperatie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zes-spaanse-gezinnen-willen-marokkaans-meisje-opvangen-tijdens-hartoperatie-1789999368523.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-en-marokko-coordineren-om-nieuwe-massale-grensdoorbraak-bij-ceuta-te-voor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T13:35:01.658Z</news:publication_date>
+      <news:title>Spanje en Marokko coördineren om nieuwe massale grensdoorbraak bij Ceuta te voorkomen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-en-marokko-coordineren-om-nieuwe-massale-grensdoorbraak-bij-ceuta-te-voor-1789997546674.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verkiezingen-in-marokko-voorspellen-weinig-verandering-in-relatie-met-spanje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T12:38:05.963Z</news:publication_date>
+      <news:title>Verkiezingen in Marokko voorspellen weinig verandering in relatie met Spanje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkiezingen-in-marokko-voorspellen-weinig-verandering-in-relatie-met-spanje-1789993956058.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-in-sicilie-geeft-verloren-portefeuille-met-2-900-euro-terug</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T11:37:31.530Z</news:publication_date>
+      <news:title>Marokkaan in Sicilië geeft verloren portefeuille met 2.900 euro terug</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-in-sicilie-geeft-verloren-portefeuille-met-2-900-euro-terug-1789990348682.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/chinese-bandenfabriek-in-noord-marokko-700-banen-dankzij-nieuwe-investeringschar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-21T10:37:32.380Z</news:publication_date>
+      <news:title>Chinese bandenfabriek in Noord-Marokko: 700 banen dankzij nieuwe investeringscharter</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinese-bandenfabriek-in-noord-marokko-700-banen-dankzij-nieuwe-investeringschar-1789986745452.jpg</image:loc></image:image>
+  </url>
 </urlset>
