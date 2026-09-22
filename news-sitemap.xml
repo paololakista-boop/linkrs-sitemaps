@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-kandidatenlijsten-krijgen-recht-op-kopie-van-de-process</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T06:37:32.180Z</news:publication_date>
+      <news:title>Marokkaanse verkiezingen: kandidatenlijsten krijgen recht op kopie van de processen-verbaal</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-kandidatenlijsten-krijgen-recht-op-kopie-van-de-process-1790058750689.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/kaapverdie-bevestigt-opnieuw-steun-aan-marokkaans-plan-voor-de-sahara</loc>
     <news:news>
       <news:publication>
