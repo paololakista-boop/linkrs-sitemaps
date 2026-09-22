@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vermiste-franse-toerist-in-marrakech-teruggevonden-in-ziekenhuis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T22:07:22.421Z</news:publication_date>
+      <news:title>Vermiste Franse toerist in Marrakech teruggevonden in ziekenhuis</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vermiste-franse-toerist-in-marrakech-teruggevonden-in-ziekenhuis-1790114541561.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-93-klachten-sterke-daling-tegenover-2021</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T21:52:52.046Z</news:publication_date>
+      <news:title>Marokkaanse verkiezingen: 93 klachten, sterke daling tegenover 2021</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-93-klachten-sterke-daling-tegenover-2021-1790113629477.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/sanchez-grenscontrole-van-marokko-faalde-bij-massale-instroom-in-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-22T21:37:30.629Z</news:publication_date>
+      <news:title>Sánchez: grenscontrole van Marokko faalde bij massale instroom in Ceuta</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sanchez-grenscontrole-van-marokko-faalde-bij-massale-instroom-in-ceuta-1790112749473.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/simple-lanceert-marokkaanse-primeur-je-rekening-meteen-opladen-met-je-bankkaart</loc>
     <news:news>
       <news:publication>
