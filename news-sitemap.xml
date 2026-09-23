@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-kandidaat-voor-tijdelijke-zetel-in-vn-veiligheidsraad-voor-2028-2029</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T14:49:00.601Z</news:publication_date>
+      <news:title>Marokko kandidaat voor tijdelijke zetel in VN-Veiligheidsraad voor 2028-2029</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-kandidaat-voor-tijdelijke-zetel-in-vn-veiligheidsraad-voor-2028-2029-1790172237823.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/chinees-luxemerk-avatr-lanceert-drie-elektrische-modellen-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T14:28:59.835Z</news:publication_date>
+      <news:title>Chinees luxemerk AVATR lanceert drie elektrische modellen in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinees-luxemerk-avatr-lanceert-drie-elektrische-modellen-in-marokko-1790172199666.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/el-jadida-virale-aanrijding-met-vluchtmisdrijf-niet-gelinkt-aan-verkiezingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T14:08:58.916Z</news:publication_date>
+      <news:title>El Jadida: virale aanrijding met vluchtmisdrijf niet gelinkt aan verkiezingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/el-jadida-virale-aanrijding-met-vluchtmisdrijf-niet-gelinkt-aan-verkiezingen-1790172161588.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bourita-bij-de-vn-marokkaanse-sahara-en-palestina-centraal-in-het-buitenlands-be</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T13:56:43.301Z</news:publication_date>
+      <news:title>Bourita bij de VN: Marokkaanse Sahara en Palestina centraal in het buitenlands beleid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bourita-bij-de-vn-marokkaanse-sahara-en-palestina-centraal-in-het-buitenlands-be-1790169099620.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-handbaljeugd-pakt-brons-en-plaatst-zich-voor-wk-u19-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T13:36:42.498Z</news:publication_date>
+      <news:title>Marokkaanse handbaljeugd pakt brons en plaatst zich voor WK U19 in 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-handbaljeugd-pakt-brons-en-plaatst-zich-voor-wk-u19-in-2027-1790169058918.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/openbaar-ministerie-in-tanger-onderzoekt-mysterieuze-video-van-glazen-doos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T13:16:41.644Z</news:publication_date>
+      <news:title>Openbaar Ministerie in Tanger onderzoekt mysterieuze video van glazen doos</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/openbaar-ministerie-in-tanger-onderzoekt-mysterieuze-video-van-glazen-doos-1790169028496.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/achraf-hakimi-moet-terechtstaan-voor-verkrachting-na-uitspraak-franse-cassatieho</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T13:13:40.860Z</news:publication_date>
+      <news:title>Achraf Hakimi moet terechtstaan voor verkrachting na uitspraak Franse cassatiehof</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/achraf-hakimi-moet-terechtstaan-voor-verkrachting-na-uitspraak-franse-cassatieho-1790168997178.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/john-legend-en-chrissy-teigen-vieren-13-jaar-huwelijk-in-marokko</loc>
     <news:news>
       <news:publication>
@@ -301,101 +385,5 @@
       <news:title>België zette in 2026 al 233 Marokkanen uit na hun celstraf</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-zette-in-2026-al-233-marokkanen-uit-na-hun-celstraf-1790015546038.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-toerisme-na-de-recordcijfers-begint-de-strijd-om-waarde</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T15:38:01.410Z</news:publication_date>
-      <news:title>Marokkaans toerisme: na de recordcijfers begint de strijd om waarde</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-toerisme-na-de-recordcijfers-begint-de-strijd-om-waarde-1790004778512.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rni-voorzitter-chaouki-verdedigt-in-tetouan-de-balans-van-regering-akhannouch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T15:10:06.842Z</news:publication_date>
-      <news:title>RNI-voorzitter Chaouki verdedigt in Tetouan de balans van regering Akhannouch</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rni-voorzitter-chaouki-verdedigt-in-tetouan-de-balans-van-regering-akhannouch-1790001865666.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/el-mansouri-pam-is-de-enige-partij-die-nog-nooit-de-regering-leidde</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T14:50:05.681Z</news:publication_date>
-      <news:title>El Mansouri: PAM is de enige partij die nog nooit de regering leidde</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/el-mansouri-pam-is-de-enige-partij-die-nog-nooit-de-regering-leidde-1790001828085.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-herdenkt-het-overlijden-van-koning-hassan-ii</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T14:49:03.585Z</news:publication_date>
-      <news:title>Marokko herdenkt het overlijden van koning Hassan II</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-herdenkt-het-overlijden-van-koning-hassan-ii-1789999438147.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-genderquota-schiet-zichzelf-in-de-voet-bij-lokale-verkiezingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T14:29:02.767Z</news:publication_date>
-      <news:title>Marokkaanse genderquota schiet zichzelf in de voet bij lokale verkiezingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-genderquota-schiet-zichzelf-in-de-voet-bij-lokale-verkiezingen-1789999409790.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zes-spaanse-gezinnen-willen-marokkaans-meisje-opvangen-tijdens-hartoperatie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T14:09:01.692Z</news:publication_date>
-      <news:title>Zes Spaanse gezinnen willen Marokkaans meisje opvangen tijdens hartoperatie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zes-spaanse-gezinnen-willen-marokkaans-meisje-opvangen-tijdens-hartoperatie-1789999368523.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-en-marokko-coordineren-om-nieuwe-massale-grensdoorbraak-bij-ceuta-te-voor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T13:35:01.658Z</news:publication_date>
-      <news:title>Spanje en Marokko coördineren om nieuwe massale grensdoorbraak bij Ceuta te voorkomen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-en-marokko-coordineren-om-nieuwe-massale-grensdoorbraak-bij-ceuta-te-voor-1789997546674.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verkiezingen-in-marokko-voorspellen-weinig-verandering-in-relatie-met-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T12:38:05.963Z</news:publication_date>
-      <news:title>Verkiezingen in Marokko voorspellen weinig verandering in relatie met Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkiezingen-in-marokko-voorspellen-weinig-verandering-in-relatie-met-spanje-1789993956058.jpg</image:loc></image:image>
   </url>
 </urlset>
