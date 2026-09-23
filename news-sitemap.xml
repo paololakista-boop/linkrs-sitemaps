@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/john-legend-en-chrissy-teigen-vieren-13-jaar-huwelijk-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T10:37:14.848Z</news:publication_date>
+      <news:title>John Legend en Chrissy Teigen vieren 13 jaar huwelijk in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/john-legend-en-chrissy-teigen-vieren-13-jaar-huwelijk-in-marokko-1790159533412.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/meer-dan-7-000-migranten-teruggekeerd-naar-marokko-vanuit-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T06:28:39.569Z</news:publication_date>
+      <news:title>Meer dan 7.000 migranten teruggekeerd naar Marokko vanuit Ceuta</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meer-dan-7-000-migranten-teruggekeerd-naar-marokko-vanuit-ceuta-1790143416862.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/madrid-verbiedt-marokkaanse-ambachtsbeurs-en-oogst-kritiek-op-discriminatie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T06:08:38.374Z</news:publication_date>
+      <news:title>Madrid verbiedt Marokkaanse ambachtsbeurs en oogst kritiek op discriminatie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/madrid-verbiedt-marokkaanse-ambachtsbeurs-en-oogst-kritiek-op-discriminatie-1790143376482.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vermiste-franse-toerist-in-marrakech-teruggevonden-in-ziekenhuis</loc>
     <news:news>
       <news:publication>
@@ -361,29 +397,5 @@
       <news:title>Verkiezingen in Marokko voorspellen weinig verandering in relatie met Spanje</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkiezingen-in-marokko-voorspellen-weinig-verandering-in-relatie-met-spanje-1789993956058.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-in-sicilie-geeft-verloren-portefeuille-met-2-900-euro-terug</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T11:37:31.530Z</news:publication_date>
-      <news:title>Marokkaan in Sicilië geeft verloren portefeuille met 2.900 euro terug</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-in-sicilie-geeft-verloren-portefeuille-met-2-900-euro-terug-1789990348682.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/chinese-bandenfabriek-in-noord-marokko-700-banen-dankzij-nieuwe-investeringschar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T10:37:32.380Z</news:publication_date>
-      <news:title>Chinese bandenfabriek in Noord-Marokko: 700 banen dankzij nieuwe investeringscharter</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinese-bandenfabriek-in-noord-marokko-700-banen-dankzij-nieuwe-investeringschar-1789986745452.jpg</image:loc></image:image>
   </url>
 </urlset>
