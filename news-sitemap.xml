@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/auto-industrie-marokko-heeft-laagste-loonkosten-per-voertuig-ter-wereld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T22:49:24.820Z</news:publication_date>
+      <news:title>Auto-industrie: Marokko heeft laagste loonkosten per voertuig ter wereld</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/auto-industrie-marokko-heeft-laagste-loonkosten-per-voertuig-ter-wereld-1790201061190.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-pakt-tien-mensen-op-voor-online-oproepen-tot-bestorming-van-ceuta-en-mel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T22:41:52.952Z</news:publication_date>
+      <news:title>Marokko pakt tien mensen op voor online oproepen tot bestorming van Ceuta en Melilla</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-pakt-tien-mensen-op-voor-online-oproepen-tot-bestorming-van-ceuta-en-mel-1790200609757.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/benkirane-treft-dochter-toevallig-bij-het-stemhokje-in-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T22:29:23.915Z</news:publication_date>
+      <news:title>Benkirane treft dochter toevallig bij het stemhokje in Rabat</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/benkirane-treft-dochter-toevallig-bij-het-stemhokje-in-rabat-1790201016828.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-koning-en-koningin-bezoeken-binnenkort-ceuta-en-melilla</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T22:21:52.075Z</news:publication_date>
+      <news:title>Spaanse koning en koningin bezoeken binnenkort Ceuta en Melilla</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-koning-en-koningin-bezoeken-binnenkort-ceuta-en-melilla-1790200573798.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rni-toont-zich-zelfverzekerd-over-verkiezingsuitslag-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T22:09:22.803Z</news:publication_date>
+      <news:title>RNI toont zich zelfverzekerd over verkiezingsuitslag in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rni-toont-zich-zelfverzekerd-over-verkiezingsuitslag-in-marokko-1790200977156.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/afrikaanse-unie-spreekt-algerijnse-lezing-over-ontmoeting-tegen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T22:01:51.157Z</news:publication_date>
+      <news:title>Afrikaanse Unie spreekt Algerijnse lezing over ontmoeting tegen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/afrikaanse-unie-spreekt-algerijnse-lezing-over-ontmoeting-tegen-1790200535518.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/afcon-kwalificatie-marokko-opent-tegen-gabon-in-rabat</loc>
     <news:news>
       <news:publication>
@@ -325,53 +397,5 @@
       <news:title>Marokkaanse verkiezingen: kandidatenlijsten krijgen recht op kopie van de processen-verbaal</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-kandidatenlijsten-krijgen-recht-op-kopie-van-de-process-1790058750689.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kaapverdie-bevestigt-opnieuw-steun-aan-marokkaans-plan-voor-de-sahara</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T22:48:51.106Z</news:publication_date>
-      <news:title>Kaapverdië bevestigt opnieuw steun aan Marokkaans plan voor de Sahara</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kaapverdie-bevestigt-opnieuw-steun-aan-marokkaans-plan-voor-de-sahara-1790028227351.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ceuta-en-melilla-het-laatste-onafgemaakte-hoofdstuk-van-de-dekolonisatie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T22:29:13.694Z</news:publication_date>
-      <news:title>Ceuta en Melilla: het laatste onafgemaakte hoofdstuk van de dekolonisatie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ceuta-en-melilla-het-laatste-onafgemaakte-hoofdstuk-van-de-dekolonisatie-1790029452595.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/chili-erkent-marokkaanse-soevereiniteit-over-de-sahara</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T22:28:50.274Z</news:publication_date>
-      <news:title>Chili erkent Marokkaanse soevereiniteit over de Sahara</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chili-erkent-marokkaanse-soevereiniteit-over-de-sahara-1790028190090.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verkiezingscampagne-in-marokko-geeft-economie-een-seizoensimpuls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T22:08:48.997Z</news:publication_date>
-      <news:title>Verkiezingscampagne in Marokko geeft economie een seizoensimpuls</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkiezingscampagne-in-marokko-geeft-economie-een-seizoensimpuls-1790028156272.jpg</image:loc></image:image>
   </url>
 </urlset>
