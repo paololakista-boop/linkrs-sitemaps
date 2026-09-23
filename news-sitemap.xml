@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/afcon-kwalificatie-marokko-opent-tegen-gabon-in-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-23T18:37:41.947Z</news:publication_date>
+      <news:title>AFCON-kwalificatie: Marokko opent tegen Gabon in Rabat</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/afcon-kwalificatie-marokko-opent-tegen-gabon-in-rabat-1790188357369.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-kandidaat-voor-tijdelijke-zetel-in-vn-veiligheidsraad-voor-2028-2029</loc>
     <news:news>
       <news:publication>
@@ -361,29 +373,5 @@
       <news:title>Verkiezingscampagne in Marokko geeft economie een seizoensimpuls</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkiezingscampagne-in-marokko-geeft-economie-een-seizoensimpuls-1790028156272.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-tiener-verstopt-zich-onder-bus-voetbalclub-valladolid-richting-spanj</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T19:37:09.218Z</news:publication_date>
-      <news:title>Marokkaanse tiener verstopt zich onder bus voetbalclub Valladolid richting Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-tiener-verstopt-zich-onder-bus-voetbalclub-valladolid-richting-spanj-1790019125047.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgie-zette-in-2026-al-233-marokkanen-uit-na-hun-celstraf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-21T18:37:28.375Z</news:publication_date>
-      <news:title>België zette in 2026 al 233 Marokkanen uit na hun celstraf</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-zette-in-2026-al-233-marokkanen-uit-na-hun-celstraf-1790015546038.jpg</image:loc></image:image>
   </url>
 </urlset>
