@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mensenrechtenraad-wil-stemsysteem-voor-marokkanen-in-het-buitenland-herzien</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T16:37:23.329Z</news:publication_date>
+      <news:title>Mensenrechtenraad wil stemsysteem voor Marokkanen in het buitenland herzien</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mensenrechtenraad-wil-stemsysteem-voor-marokkanen-in-het-buitenland-herzien-1790267538272.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/hassan-hajjaj-krijgt-grote-overzichtstentoonstelling-in-parijs</loc>
     <news:news>
       <news:publication>
@@ -337,65 +349,5 @@
       <news:title>Sánchez: grenscontrole van Marokko faalde bij massale instroom in Ceuta</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sanchez-grenscontrole-van-marokko-faalde-bij-massale-instroom-in-ceuta-1790112749473.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/simple-lanceert-marokkaanse-primeur-je-rekening-meteen-opladen-met-je-bankkaart</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T18:18:28.568Z</news:publication_date>
-      <news:title>Simple lanceert Marokkaanse primeur: je rekening meteen opladen met je bankkaart</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/simple-lanceert-marokkaanse-primeur-je-rekening-meteen-opladen-met-je-bankkaart-1790098405200.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/prijzen-van-ongeveer-300-medicijnen-in-marokko-gaan-omlaag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T17:58:27.767Z</news:publication_date>
-      <news:title>Prijzen van ongeveer 300 medicijnen in Marokko gaan omlaag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/prijzen-van-ongeveer-300-medicijnen-in-marokko-gaan-omlaag-1790098356892.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nabil-benabdellah-roept-kiezers-op-te-stemmen-voor-het-symbool-van-het-boek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T17:38:26.477Z</news:publication_date>
-      <news:title>Nabil Benabdellah roept kiezers op te stemmen voor het symbool van het boek</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nabil-benabdellah-roept-kiezers-op-te-stemmen-voor-het-symbool-van-het-boek-1790098312192.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlas-leeuwen-starten-voorbereiding-op-can-kwalificatie-tegen-gabon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T15:57:59.990Z</news:publication_date>
-      <news:title>Atlas Leeuwen starten voorbereiding op CAN-kwalificatie tegen Gabon</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlas-leeuwen-starten-voorbereiding-op-can-kwalificatie-tegen-gabon-1790091177769.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-groeit-in-2026-naar-verwachting-met-4-4-procent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T15:37:58.883Z</news:publication_date>
-      <news:title>Marokkaanse economie groeit in 2026 naar verwachting met 4,4 procent</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-economie-groeit-in-2026-naar-verwachting-met-4-4-procent-1790091144118.jpg</image:loc></image:image>
   </url>
 </urlset>
