@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hassan-hajjaj-krijgt-grote-overzichtstentoonstelling-in-parijs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T14:49:18.137Z</news:publication_date>
+      <news:title>Hassan Hajjaj krijgt grote overzichtstentoonstelling in Parijs</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hassan-hajjaj-krijgt-grote-overzichtstentoonstelling-in-parijs-1790258648855.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/italiaans-marokkaanse-rapper-omar-ramo-blokkeert-weg-in-milaan-voor-videoclip</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T13:49:47.300Z</news:publication_date>
+      <news:title>Italiaans-Marokkaanse rapper Omar Ramo blokkeert weg in Milaan voor videoclip</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italiaans-marokkaanse-rapper-omar-ramo-blokkeert-weg-in-milaan-voor-videoclip-1790255084688.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/guardia-civil-onderzoekt-racistische-aanval-in-valencia-slachtoffer-toegeschreeu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T13:37:48.533Z</news:publication_date>
+      <news:title>Guardia Civil onderzoekt racistische aanval in Valencia: slachtoffer toegeschreeuwd &apos;ga terug naar Marokko&apos;</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/guardia-civil-onderzoekt-racistische-aanval-in-valencia-slachtoffer-toegeschreeu-1790256767188.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gevangenen-van-gdeim-izik-starten-hongerstaking-rond-vn-veiligheidsraad</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T13:29:46.522Z</news:publication_date>
+      <news:title>Gevangenen van Gdeim Izik starten hongerstaking rond VN-Veiligheidsraad</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gevangenen-van-gdeim-izik-starten-hongerstaking-rond-vn-veiligheidsraad-1790255055987.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-trekt-zijn-stroomkabels-naar-europa-en-afrika</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T13:09:45.577Z</news:publication_date>
+      <news:title>Marokko trekt zijn stroomkabels naar Europa en Afrika</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-trekt-zijn-stroomkabels-naar-europa-en-afrika-1790255014017.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/bolivia-wil-handelskantoor-openen-in-dakhla</loc>
     <news:news>
       <news:publication>
@@ -337,89 +397,5 @@
       <news:title>Marokkaanse economie groeit in 2026 naar verwachting met 4,4 procent</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-economie-groeit-in-2026-naar-verwachting-met-4-4-procent-1790091144118.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bank-al-maghrib-houdt-beleidsrente-op-2-25-procent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T14:28:57.674Z</news:publication_date>
-      <news:title>Bank Al-Maghrib houdt beleidsrente op 2,25 procent</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bank-al-maghrib-houdt-beleidsrente-op-2-25-procent-1790085796203.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/franse-oud-opvoeder-die-in-marokko-werkte-en-89-minderjarigen-zou-hebben-misbrui</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T14:08:56.848Z</news:publication_date>
-      <news:title>Franse oud-opvoeder die in Marokko werkte en 89 minderjarigen zou hebben misbruikt, overleden in cel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-oud-opvoeder-die-in-marokko-werkte-en-89-minderjarigen-zou-hebben-misbrui-1790085761073.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-academische-studie-schetst-mogelijke-krachtsverhoudingen-bij-marokkaanse-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T13:45:21.616Z</news:publication_date>
-      <news:title>Nieuwe academische studie schetst mogelijke krachtsverhoudingen bij Marokkaanse verkiezingen van 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-academische-studie-schetst-mogelijke-krachtsverhoudingen-bij-marokkaanse--1790082015807.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-parlementsverkiezingen-zo-vind-je-jouw-stembureau</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T13:37:42.205Z</news:publication_date>
-      <news:title>Marokkaanse parlementsverkiezingen: zo vind je jouw stembureau</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-parlementsverkiezingen-zo-vind-je-jouw-stembureau-1790083959954.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgische-handelsmissie-trekt-in-november-naar-marokko-voor-toerisme</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T13:25:19.841Z</news:publication_date>
-      <news:title>Belgische handelsmissie trekt in november naar Marokko voor toerisme</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgische-handelsmissie-trekt-in-november-naar-marokko-voor-toerisme-1790081968302.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bentaleb-kiest-voor-duitsland-klopp-haalt-aanvaller-weg-bij-de-atlasleeuwen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T13:05:17.278Z</news:publication_date>
-      <news:title>Bentaleb kiest voor Duitsland: Klopp haalt aanvaller weg bij de Atlasleeuwen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bentaleb-kiest-voor-duitsland-klopp-haalt-aanvaller-weg-bij-de-atlasleeuwen-1790081926552.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/operatie-marhaba-2026-afgesloten-ruim-4-1-miljoen-marokkanen-uit-het-buitenland-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T11:38:03.352Z</news:publication_date>
-      <news:title>Operatie Marhaba 2026 afgesloten: ruim 4,1 miljoen Marokkanen uit het buitenland verwelkomd</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/operatie-marhaba-2026-afgesloten-ruim-4-1-miljoen-marokkanen-uit-het-buitenland--1790076778797.jpg</image:loc></image:image>
   </url>
 </urlset>
