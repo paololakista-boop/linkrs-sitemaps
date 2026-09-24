@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bevestigt-in-new-york-blijvende-steun-aan-de-palestijnen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T22:28:59.142Z</news:publication_date>
+      <news:title>Marokko bevestigt in New York blijvende steun aan de Palestijnen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bevestigt-in-new-york-blijvende-steun-aan-de-palestijnen-1790287397535.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-toerisme-staat-voor-nieuwe-uitdaging-van-aantallen-naar-echte-waarde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T22:22:28.815Z</news:publication_date>
+      <news:title>Marokkaans toerisme staat voor nieuwe uitdaging: van aantallen naar echte waarde</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-toerisme-staat-voor-nieuwe-uitdaging-van-aantallen-naar-echte-waarde-1790287002968.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/politiechef-hammouchi-ontvangt-zijn-oud-lerares-internet-is-ontroerd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T22:08:57.913Z</news:publication_date>
+      <news:title>Politiechef Hammouchi ontvangt zijn oud-lerares, internet is ontroerd</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politiechef-hammouchi-ontvangt-zijn-oud-lerares-internet-is-ontroerd-1790287360979.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/sahara-kwestie-centraal-in-gesprek-tussen-trump-adviseur-en-algerijnse-minister</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T22:02:27.786Z</news:publication_date>
+      <news:title>Sahara-kwestie centraal in gesprek tussen Trump-adviseur en Algerijnse minister</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sahara-kwestie-centraal-in-gesprek-tussen-trump-adviseur-en-algerijnse-minister-1790286956422.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/waarnemers-zien-mogelijke-stemmenkoop-bij-marokkaanse-verkiezingen-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T21:58:08.703Z</news:publication_date>
+      <news:title>Waarnemers zien mogelijke stemmenkoop bij Marokkaanse verkiezingen 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarnemers-zien-mogelijke-stemmenkoop-bij-marokkaanse-verkiezingen-2026-1790285586608.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-consumentenbond-luidt-alarm-over-schengenvisum</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T21:38:07.693Z</news:publication_date>
+      <news:title>Marokkaanse consumentenbond luidt alarm over Schengenvisum</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-consumentenbond-luidt-alarm-over-schengenvisum-1790285544705.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/mensenrechtenraad-wil-stemsysteem-voor-marokkanen-in-het-buitenland-herzien</loc>
     <news:news>
       <news:publication>
@@ -313,41 +385,5 @@
       <news:title>Madrid verbiedt Marokkaanse ambachtsbeurs en oogst kritiek op discriminatie</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/madrid-verbiedt-marokkaanse-ambachtsbeurs-en-oogst-kritiek-op-discriminatie-1790143376482.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vermiste-franse-toerist-in-marrakech-teruggevonden-in-ziekenhuis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T22:07:22.421Z</news:publication_date>
-      <news:title>Vermiste Franse toerist in Marrakech teruggevonden in ziekenhuis</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vermiste-franse-toerist-in-marrakech-teruggevonden-in-ziekenhuis-1790114541561.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-93-klachten-sterke-daling-tegenover-2021</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T21:52:52.046Z</news:publication_date>
-      <news:title>Marokkaanse verkiezingen: 93 klachten, sterke daling tegenover 2021</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-93-klachten-sterke-daling-tegenover-2021-1790113629477.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/sanchez-grenscontrole-van-marokko-faalde-bij-massale-instroom-in-ceuta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-22T21:37:30.629Z</news:publication_date>
-      <news:title>Sánchez: grenscontrole van Marokko faalde bij massale instroom in Ceuta</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sanchez-grenscontrole-van-marokko-faalde-bij-massale-instroom-in-ceuta-1790112749473.jpg</image:loc></image:image>
   </url>
 </urlset>
