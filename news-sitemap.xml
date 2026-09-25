@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/de-heiligen-van-marrakech-al-jazouli-de-geleerde-die-zich-verzette-tegen-de-port</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T22:49:00.009Z</news:publication_date>
+      <news:title>De heiligen van Marrakech: Al Jazouli, de geleerde die zich verzette tegen de Portugezen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-heiligen-van-marrakech-al-jazouli-de-geleerde-die-zich-verzette-tegen-de-port-1790287436299.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/familie-zoekt-naar-jonge-marokkaan-uit-nador-na-verdwijning-bij-zwemtocht-naar-m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-24T22:42:29.728Z</news:publication_date>
+      <news:title>Familie zoekt naar jonge Marokkaan uit Nador na verdwijning bij zwemtocht naar Melilla</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/familie-zoekt-naar-jonge-marokkaan-uit-nador-na-verdwijning-bij-zwemtocht-naar-m-1790287046371.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-bevestigt-in-new-york-blijvende-steun-aan-de-palestijnen</loc>
     <news:news>
       <news:publication>
