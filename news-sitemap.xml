@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/chinese-automerken-omoda-en-jaecoo-willen-groter-worden-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T22:08:41.587Z</news:publication_date>
+      <news:title>Chinese automerken Omoda en Jaecoo willen groter worden in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinese-automerken-omoda-en-jaecoo-willen-groter-worden-in-marokko-1790373745038.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/voorzitter-gemeenteraad-in-errachidia-opgesloten-na-dood-van-jonge-vrouw-in-hote</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T22:01:32.171Z</news:publication_date>
+      <news:title>Voorzitter gemeenteraad in Errachidia opgesloten na dood van jonge vrouw in hotel</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/voorzitter-gemeenteraad-in-errachidia-opgesloten-na-dood-van-jonge-vrouw-in-hote-1790373317436.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/italie-verbiedt-boerka-en-nikab-op-scholen-wat-betekent-dat-voor-marokkaanse-gez</loc>
     <news:news>
       <news:publication>
@@ -397,41 +421,5 @@
       <news:title>Benkirane treft dochter toevallig bij het stemhokje in Rabat</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/benkirane-treft-dochter-toevallig-bij-het-stemhokje-in-rabat-1790201016828.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-koning-en-koningin-bezoeken-binnenkort-ceuta-en-melilla</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T22:21:52.075Z</news:publication_date>
-      <news:title>Spaanse koning en koningin bezoeken binnenkort Ceuta en Melilla</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-koning-en-koningin-bezoeken-binnenkort-ceuta-en-melilla-1790200573798.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rni-toont-zich-zelfverzekerd-over-verkiezingsuitslag-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T22:09:22.803Z</news:publication_date>
-      <news:title>RNI toont zich zelfverzekerd over verkiezingsuitslag in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rni-toont-zich-zelfverzekerd-over-verkiezingsuitslag-in-marokko-1790200977156.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/afrikaanse-unie-spreekt-algerijnse-lezing-over-ontmoeting-tegen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T22:01:51.157Z</news:publication_date>
-      <news:title>Afrikaanse Unie spreekt Algerijnse lezing over ontmoeting tegen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/afrikaanse-unie-spreekt-algerijnse-lezing-over-ontmoeting-tegen-1790200535518.jpg</image:loc></image:image>
   </url>
 </urlset>
