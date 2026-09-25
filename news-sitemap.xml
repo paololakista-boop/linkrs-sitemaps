@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/terugkeer-van-migranten-marokko-legt-de-verantwoordelijkheid-bij-spanje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T06:37:25.405Z</news:publication_date>
+      <news:title>Terugkeer van migranten: Marokko legt de verantwoordelijkheid bij Spanje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/terugkeer-van-migranten-marokko-legt-de-verantwoordelijkheid-bij-spanje-1790317943954.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/veelbelovende-vondsten-van-zilver-en-koper-in-de-souss-regio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T06:28:02.586Z</news:publication_date>
+      <news:title>Veelbelovende vondsten van zilver en koper in de Souss-regio</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/veelbelovende-vondsten-van-zilver-en-koper-in-de-souss-regio-1790316177450.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/de-heiligen-van-marrakech-al-jazouli-de-geleerde-die-zich-verzette-tegen-de-port</loc>
     <news:news>
       <news:publication>
@@ -385,29 +409,5 @@
       <news:title>John Legend en Chrissy Teigen vieren 13 jaar huwelijk in Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/john-legend-en-chrissy-teigen-vieren-13-jaar-huwelijk-in-marokko-1790159533412.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/meer-dan-7-000-migranten-teruggekeerd-naar-marokko-vanuit-ceuta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T06:28:39.569Z</news:publication_date>
-      <news:title>Meer dan 7.000 migranten teruggekeerd naar Marokko vanuit Ceuta</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meer-dan-7-000-migranten-teruggekeerd-naar-marokko-vanuit-ceuta-1790143416862.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/madrid-verbiedt-marokkaanse-ambachtsbeurs-en-oogst-kritiek-op-discriminatie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T06:08:38.374Z</news:publication_date>
-      <news:title>Madrid verbiedt Marokkaanse ambachtsbeurs en oogst kritiek op discriminatie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/madrid-verbiedt-marokkaanse-ambachtsbeurs-en-oogst-kritiek-op-discriminatie-1790143376482.jpg</image:loc></image:image>
   </url>
 </urlset>
