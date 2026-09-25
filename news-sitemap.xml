@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/othmani-ontkent-belediging-na-normalisatieakkoord-met-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T13:54:44.768Z</news:publication_date>
+      <news:title>Othmani ontkent belediging na normalisatieakkoord met Israël</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/othmani-ontkent-belediging-na-normalisatieakkoord-met-israel-1790341782270.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/barca-arsenal-en-ajax-volgen-marokkaans-talent-elias-houira</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T13:34:43.989Z</news:publication_date>
+      <news:title>Barça, Arsenal en Ajax volgen Marokkaans talent Elias Houira</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/barca-arsenal-en-ajax-volgen-marokkaans-talent-elias-houira-1790341747757.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-klimmen-naar-de-vijfde-plaats-op-de-fifa-ranglijst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T13:14:43.124Z</news:publication_date>
+      <news:title>Atlasleeuwen klimmen naar de vijfde plaats op de FIFA-ranglijst</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwen-klimmen-naar-de-vijfde-plaats-op-de-fifa-ranglijst-1790341703975.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-tegen-gabon-waar-en-wanneer-kun-je-de-atlasleeuwen-zien</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T10:34:24.530Z</news:publication_date>
+      <news:title>Marokko tegen Gabon: waar en wanneer kun je de Atlasleeuwen zien?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-tegen-gabon-waar-en-wanneer-kun-je-de-atlasleeuwen-zien-1790332341301.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-econoom-abdelali-benamour-overleden-op-85-jarige-leeftijd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T09:30:58.948Z</news:publication_date>
+      <news:title>Marokkaanse econoom Abdelali Benamour overleden op 85-jarige leeftijd</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-econoom-abdelali-benamour-overleden-op-85-jarige-leeftijd-1790328537566.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/terugkeer-van-migranten-marokko-legt-de-verantwoordelijkheid-bij-spanje</loc>
     <news:news>
       <news:publication>
@@ -361,53 +421,5 @@
       <news:title>Bourita bij de VN: Marokkaanse Sahara en Palestina centraal in het buitenlands beleid</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bourita-bij-de-vn-marokkaanse-sahara-en-palestina-centraal-in-het-buitenlands-be-1790169099620.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-handbaljeugd-pakt-brons-en-plaatst-zich-voor-wk-u19-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T13:36:42.498Z</news:publication_date>
-      <news:title>Marokkaanse handbaljeugd pakt brons en plaatst zich voor WK U19 in 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-handbaljeugd-pakt-brons-en-plaatst-zich-voor-wk-u19-in-2027-1790169058918.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/openbaar-ministerie-in-tanger-onderzoekt-mysterieuze-video-van-glazen-doos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T13:16:41.644Z</news:publication_date>
-      <news:title>Openbaar Ministerie in Tanger onderzoekt mysterieuze video van glazen doos</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/openbaar-ministerie-in-tanger-onderzoekt-mysterieuze-video-van-glazen-doos-1790169028496.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/achraf-hakimi-moet-terechtstaan-voor-verkrachting-na-uitspraak-franse-cassatieho</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T13:13:40.860Z</news:publication_date>
-      <news:title>Achraf Hakimi moet terechtstaan voor verkrachting na uitspraak Franse cassatiehof</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/achraf-hakimi-moet-terechtstaan-voor-verkrachting-na-uitspraak-franse-cassatieho-1790168997178.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/john-legend-en-chrissy-teigen-vieren-13-jaar-huwelijk-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T10:37:14.848Z</news:publication_date>
-      <news:title>John Legend en Chrissy Teigen vieren 13 jaar huwelijk in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/john-legend-en-chrissy-teigen-vieren-13-jaar-huwelijk-in-marokko-1790159533412.jpg</image:loc></image:image>
   </url>
 </urlset>
