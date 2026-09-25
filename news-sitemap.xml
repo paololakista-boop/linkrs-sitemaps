@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/italie-verbiedt-boerka-en-nikab-op-scholen-wat-betekent-dat-voor-marokkaanse-gez</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T16:37:13.360Z</news:publication_date>
+      <news:title>Italië verbiedt boerka en nikab op scholen: wat betekent dat voor Marokkaanse gezinnen?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italie-verbiedt-boerka-en-nikab-op-scholen-wat-betekent-dat-voor-marokkaanse-gez-1790353931951.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/pjd-keert-terug-met-54-zetels-en-kiest-voor-de-oppositie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T14:58:19.241Z</news:publication_date>
+      <news:title>PJD keert terug met 54 zetels en kiest voor de oppositie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pjd-keert-terug-met-54-zetels-en-kiest-voor-de-oppositie-1790346797071.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/pam-houdt-deur-open-voor-iedereen-geen-rode-lijnen-voor-toekomstige-coalitie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T14:49:05.591Z</news:publication_date>
+      <news:title>PAM houdt deur open voor iedereen: geen rode lijnen voor toekomstige coalitie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pam-houdt-deur-open-voor-iedereen-geen-rode-lijnen-voor-toekomstige-coalitie-1790345042521.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/italie-zet-marokkaan-uit-na-veroordeling-voor-fraude-van-60-000-euro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T14:38:18.141Z</news:publication_date>
+      <news:title>Italië zet Marokkaan uit na veroordeling voor fraude van 60.000 euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italie-zet-marokkaan-uit-na-veroordeling-voor-fraude-van-60-000-euro-1790346751009.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/meta-rekent-vanaf-oktober-20-procent-btw-aan-marokkaanse-adverteerders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T14:29:04.778Z</news:publication_date>
+      <news:title>Meta rekent vanaf oktober 20 procent btw aan Marokkaanse adverteerders</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meta-rekent-vanaf-oktober-20-procent-btw-aan-marokkaanse-adverteerders-1790344999839.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-zesde-bij-mannen-in-fifa-ranglijst-futsal-vrouwen-zakken-naar-26e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T14:09:03.654Z</news:publication_date>
+      <news:title>Marokko blijft zesde bij mannen in FIFA-ranglijst futsal, vrouwen zakken naar 26e</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-blijft-zesde-bij-mannen-in-fifa-ranglijst-futsal-vrouwen-zakken-naar-26e-1790344962527.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/othmani-ontkent-belediging-na-normalisatieakkoord-met-israel</loc>
     <news:news>
       <news:publication>
@@ -361,65 +433,5 @@
       <news:title>Afrikaanse Unie spreekt Algerijnse lezing over ontmoeting tegen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/afrikaanse-unie-spreekt-algerijnse-lezing-over-ontmoeting-tegen-1790200535518.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/afcon-kwalificatie-marokko-opent-tegen-gabon-in-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T18:37:41.947Z</news:publication_date>
-      <news:title>AFCON-kwalificatie: Marokko opent tegen Gabon in Rabat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/afcon-kwalificatie-marokko-opent-tegen-gabon-in-rabat-1790188357369.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-kandidaat-voor-tijdelijke-zetel-in-vn-veiligheidsraad-voor-2028-2029</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T14:49:00.601Z</news:publication_date>
-      <news:title>Marokko kandidaat voor tijdelijke zetel in VN-Veiligheidsraad voor 2028-2029</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-kandidaat-voor-tijdelijke-zetel-in-vn-veiligheidsraad-voor-2028-2029-1790172237823.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/chinees-luxemerk-avatr-lanceert-drie-elektrische-modellen-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T14:28:59.835Z</news:publication_date>
-      <news:title>Chinees luxemerk AVATR lanceert drie elektrische modellen in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinees-luxemerk-avatr-lanceert-drie-elektrische-modellen-in-marokko-1790172199666.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/el-jadida-virale-aanrijding-met-vluchtmisdrijf-niet-gelinkt-aan-verkiezingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T14:08:58.916Z</news:publication_date>
-      <news:title>El Jadida: virale aanrijding met vluchtmisdrijf niet gelinkt aan verkiezingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/el-jadida-virale-aanrijding-met-vluchtmisdrijf-niet-gelinkt-aan-verkiezingen-1790172161588.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bourita-bij-de-vn-marokkaanse-sahara-en-palestina-centraal-in-het-buitenlands-be</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T13:56:43.301Z</news:publication_date>
-      <news:title>Bourita bij de VN: Marokkaanse Sahara en Palestina centraal in het buitenlands beleid</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bourita-bij-de-vn-marokkaanse-sahara-en-palestina-centraal-in-het-buitenlands-be-1790169099620.jpg</image:loc></image:image>
   </url>
 </urlset>
