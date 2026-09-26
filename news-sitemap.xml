@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/consumentenbond-klaagt-over-nieuwe-obstakels-bij-schengenvisum-voor-marokkanen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T09:24:08.280Z</news:publication_date>
+      <news:title>Consumentenbond klaagt over nieuwe obstakels bij Schengenvisum voor Marokkanen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/consumentenbond-klaagt-over-nieuwe-obstakels-bij-schengenvisum-voor-marokkanen-1790414346872.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ceuta-hoe-de-europese-aanpak-van-migratie-de-band-met-marokko-onder-druk-zet</loc>
     <news:news>
       <news:publication>
@@ -397,17 +409,5 @@
       <news:title>Gevangenen van Gdeim Izik starten hongerstaking rond VN-Veiligheidsraad</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gevangenen-van-gdeim-izik-starten-hongerstaking-rond-vn-veiligheidsraad-1790255055987.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-trekt-zijn-stroomkabels-naar-europa-en-afrika</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T13:09:45.577Z</news:publication_date>
-      <news:title>Marokko trekt zijn stroomkabels naar Europa en Afrika</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-trekt-zijn-stroomkabels-naar-europa-en-afrika-1790255014017.jpg</image:loc></image:image>
   </url>
 </urlset>
