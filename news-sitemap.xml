@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verlaagt-prijzen-van-bijna-300-medicijnen-kortingen-tot-70-procent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T22:48:43.421Z</news:publication_date>
+      <news:title>Marokko verlaagt prijzen van bijna 300 medicijnen, kortingen tot 70 procent</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verlaagt-prijzen-van-bijna-300-medicijnen-kortingen-tot-70-procent-1790373820738.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ceuta-drie-marokkaanse-migranten-opgepakt-na-vermeende-ontvoering-van-twee-minde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T22:41:37.266Z</news:publication_date>
+      <news:title>Ceuta: drie Marokkaanse migranten opgepakt na vermeende ontvoering van twee minderjarige meisjes</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ceuta-drie-marokkaanse-migranten-opgepakt-na-vermeende-ontvoering-van-twee-minde-1790373391017.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/can-2027-niger-tegenstander-van-marokko-wint-van-lesotho</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-25T22:28:42.600Z</news:publication_date>
+      <news:title>CAN 2027: Niger, tegenstander van Marokko, wint van Lesotho</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-2027-niger-tegenstander-van-marokko-wint-van-lesotho-1790373777493.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/chinese-automerken-omoda-en-jaecoo-willen-groter-worden-in-marokko</loc>
     <news:news>
       <news:publication>
@@ -385,41 +421,5 @@
       <news:title>PAM wint parlementsverkiezingen 2026 in Marokko, RNI tweede</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pam-wint-parlementsverkiezingen-2026-in-marokko-rni-tweede-1790227923451.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/auto-industrie-marokko-heeft-laagste-loonkosten-per-voertuig-ter-wereld</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T22:49:24.820Z</news:publication_date>
-      <news:title>Auto-industrie: Marokko heeft laagste loonkosten per voertuig ter wereld</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/auto-industrie-marokko-heeft-laagste-loonkosten-per-voertuig-ter-wereld-1790201061190.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-pakt-tien-mensen-op-voor-online-oproepen-tot-bestorming-van-ceuta-en-mel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T22:41:52.952Z</news:publication_date>
-      <news:title>Marokko pakt tien mensen op voor online oproepen tot bestorming van Ceuta en Melilla</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-pakt-tien-mensen-op-voor-online-oproepen-tot-bestorming-van-ceuta-en-mel-1790200609757.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/benkirane-treft-dochter-toevallig-bij-het-stemhokje-in-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-23T22:29:23.915Z</news:publication_date>
-      <news:title>Benkirane treft dochter toevallig bij het stemhokje in Rabat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/benkirane-treft-dochter-toevallig-bij-het-stemhokje-in-rabat-1790201016828.jpg</image:loc></image:image>
   </url>
 </urlset>
