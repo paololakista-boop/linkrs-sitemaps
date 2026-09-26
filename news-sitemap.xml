@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rachid-ismaili-een-marokkaan-die-de-cultuur-van-zijn-land-laat-stralen-in-spanje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T16:57:00.723Z</news:publication_date>
+      <news:title>Rachid Ismaili, een Marokkaan die de cultuur van zijn land laat stralen in Spanje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rachid-ismaili-een-marokkaan-die-de-cultuur-van-zijn-land-laat-stralen-in-spanje-1790441453696.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-teistert-hectares-in-het-woud-van-tanghaya-bij-chefchaouen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T14:49:27.469Z</news:publication_date>
+      <news:title>Bosbrand teistert hectares in het woud van Tanghaya bij Chefchaouen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bosbrand-teistert-hectares-in-het-woud-van-tanghaya-bij-chefchaouen-1790431463905.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/groepsaanval-op-marokkaanse-jongere-in-valencia-onderzocht-als-haatmisdrijf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T14:29:26.554Z</news:publication_date>
+      <news:title>Groepsaanval op Marokkaanse jongere in Valencia onderzocht als haatmisdrijf</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/groepsaanval-op-marokkaanse-jongere-in-valencia-onderzocht-als-haatmisdrijf-1790431428067.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ebrd-marokko-bij-de-best-presterende-economieen-van-de-regio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T14:09:25.720Z</news:publication_date>
+      <news:title>EBRD: Marokko bij de best presterende economieën van de regio</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ebrd-marokko-bij-de-best-presterende-economieen-van-de-regio-1790431392218.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/saad-lamjarred-in-beroep-veroordeeld-tot-tien-jaar-cel-voor-verkrachting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T14:06:24.774Z</news:publication_date>
+      <news:title>Saad Lamjarred in beroep veroordeeld tot tien jaar cel voor verkrachting</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/saad-lamjarred-in-beroep-veroordeeld-tot-tien-jaar-cel-voor-verkrachting-1790431350715.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-heeft-laagste-arbeidskosten-per-auto-ter-wereld-in-2024</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T13:37:35.052Z</news:publication_date>
+      <news:title>Marokko heeft laagste arbeidskosten per auto ter wereld in 2024</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-heeft-laagste-arbeidskosten-per-auto-ter-wereld-in-2024-1790429518421.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/consumentenbond-klaagt-over-nieuwe-obstakels-bij-schengenvisum-voor-marokkanen</loc>
     <news:news>
       <news:publication>
@@ -349,65 +421,5 @@
       <news:title>Marokkaanse consumentenbond luidt alarm over Schengenvisum</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-consumentenbond-luidt-alarm-over-schengenvisum-1790285544705.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mensenrechtenraad-wil-stemsysteem-voor-marokkanen-in-het-buitenland-herzien</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T16:37:23.329Z</news:publication_date>
-      <news:title>Mensenrechtenraad wil stemsysteem voor Marokkanen in het buitenland herzien</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mensenrechtenraad-wil-stemsysteem-voor-marokkanen-in-het-buitenland-herzien-1790267538272.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hassan-hajjaj-krijgt-grote-overzichtstentoonstelling-in-parijs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T14:49:18.137Z</news:publication_date>
-      <news:title>Hassan Hajjaj krijgt grote overzichtstentoonstelling in Parijs</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hassan-hajjaj-krijgt-grote-overzichtstentoonstelling-in-parijs-1790258648855.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/italiaans-marokkaanse-rapper-omar-ramo-blokkeert-weg-in-milaan-voor-videoclip</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T13:49:47.300Z</news:publication_date>
-      <news:title>Italiaans-Marokkaanse rapper Omar Ramo blokkeert weg in Milaan voor videoclip</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italiaans-marokkaanse-rapper-omar-ramo-blokkeert-weg-in-milaan-voor-videoclip-1790255084688.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/guardia-civil-onderzoekt-racistische-aanval-in-valencia-slachtoffer-toegeschreeu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T13:37:48.533Z</news:publication_date>
-      <news:title>Guardia Civil onderzoekt racistische aanval in Valencia: slachtoffer toegeschreeuwd &apos;ga terug naar Marokko&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/guardia-civil-onderzoekt-racistische-aanval-in-valencia-slachtoffer-toegeschreeu-1790256767188.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/gevangenen-van-gdeim-izik-starten-hongerstaking-rond-vn-veiligheidsraad</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T13:29:46.522Z</news:publication_date>
-      <news:title>Gevangenen van Gdeim Izik starten hongerstaking rond VN-Veiligheidsraad</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gevangenen-van-gdeim-izik-starten-hongerstaking-rond-vn-veiligheidsraad-1790255055987.jpg</image:loc></image:image>
   </url>
 </urlset>
