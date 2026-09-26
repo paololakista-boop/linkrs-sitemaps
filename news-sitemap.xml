@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-2026-sociale-media-bepalen-wie-het-parlement-in-gaat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T18:31:33.389Z</news:publication_date>
+      <news:title>Marokkaanse verkiezingen 2026: sociale media bepalen wie het parlement in gaat</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-2026-sociale-media-bepalen-wie-het-parlement-in-gaat-1790447159817.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/politieagent-dodelijk-aangereden-bij-verkeerscontrole-in-casablanca</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T18:28:34.561Z</news:publication_date>
+      <news:title>Politieagent dodelijk aangereden bij verkeerscontrole in Casablanca</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politieagent-dodelijk-aangereden-bij-verkeerscontrole-in-casablanca-1790447192129.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zweed-gezocht-voor-poging-tot-moord-opgepakt-in-agadir</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T17:37:05.802Z</news:publication_date>
+      <news:title>Zweed gezocht voor poging tot moord opgepakt in Agadir</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zweed-gezocht-voor-poging-tot-moord-opgepakt-in-agadir-1790441519520.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/rachid-ismaili-een-marokkaan-die-de-cultuur-van-zijn-land-laat-stralen-in-spanje</loc>
     <news:news>
       <news:publication>
