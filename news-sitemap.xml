@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-mayssa-baha-schrijft-geschiedenis-bij-vrouwen-van-fc-barcelona</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T22:30:42.642Z</news:publication_date>
+      <news:title>Marokkaanse Mayssa Baha schrijft geschiedenis bij vrouwen van FC Barcelona</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-mayssa-baha-schrijft-geschiedenis-bij-vrouwen-van-fc-barcelona-1790459139974.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schuift-aan-bij-eerste-top-van-abraham-akkoorden-sinds-oorlog-in-gaza</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T22:28:47.089Z</news:publication_date>
+      <news:title>Marokko schuift aan bij eerste top van Abraham-akkoorden sinds oorlog in Gaza</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-schuift-aan-bij-eerste-top-van-abraham-akkoorden-sinds-oorlog-in-gaza-1790460190011.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fraude-met-stembiljetten-in-tanger-vijf-verdachten-opgepakt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T22:10:41.892Z</news:publication_date>
+      <news:title>Fraude met stembiljetten in Tanger: vijf verdachten opgepakt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fraude-met-stembiljetten-in-tanger-vijf-verdachten-opgepakt-1790459110408.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zeevracht-vervoert-bijna-96-procent-van-marokkos-export-in-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T22:08:46.302Z</news:publication_date>
+      <news:title>Zeevracht vervoert bijna 96 procent van Marokkos export in 2025</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zeevracht-vervoert-bijna-96-procent-van-marokkos-export-in-2025-1790460150826.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/na-de-verkiezingen-van-23-september-marokko-wacht-op-de-koninklijke-benoeming</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-26T21:50:41.021Z</news:publication_date>
+      <news:title>Na de verkiezingen van 23 september: Marokko wacht op de koninklijke benoeming</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/na-de-verkiezingen-van-23-september-marokko-wacht-op-de-koninklijke-benoeming-1790459075176.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-2026-sociale-media-bepalen-wie-het-parlement-in-gaat</loc>
     <news:news>
       <news:publication>
@@ -361,101 +421,5 @@
       <news:title>Veelbelovende vondsten van zilver en koper in de Souss-regio</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/veelbelovende-vondsten-van-zilver-en-koper-in-de-souss-regio-1790316177450.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-heiligen-van-marrakech-al-jazouli-de-geleerde-die-zich-verzette-tegen-de-port</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T22:49:00.009Z</news:publication_date>
-      <news:title>De heiligen van Marrakech: Al Jazouli, de geleerde die zich verzette tegen de Portugezen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-heiligen-van-marrakech-al-jazouli-de-geleerde-die-zich-verzette-tegen-de-port-1790287436299.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/familie-zoekt-naar-jonge-marokkaan-uit-nador-na-verdwijning-bij-zwemtocht-naar-m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T22:42:29.728Z</news:publication_date>
-      <news:title>Familie zoekt naar jonge Marokkaan uit Nador na verdwijning bij zwemtocht naar Melilla</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/familie-zoekt-naar-jonge-marokkaan-uit-nador-na-verdwijning-bij-zwemtocht-naar-m-1790287046371.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bevestigt-in-new-york-blijvende-steun-aan-de-palestijnen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T22:28:59.142Z</news:publication_date>
-      <news:title>Marokko bevestigt in New York blijvende steun aan de Palestijnen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bevestigt-in-new-york-blijvende-steun-aan-de-palestijnen-1790287397535.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-toerisme-staat-voor-nieuwe-uitdaging-van-aantallen-naar-echte-waarde</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T22:22:28.815Z</news:publication_date>
-      <news:title>Marokkaans toerisme staat voor nieuwe uitdaging: van aantallen naar echte waarde</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-toerisme-staat-voor-nieuwe-uitdaging-van-aantallen-naar-echte-waarde-1790287002968.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/politiechef-hammouchi-ontvangt-zijn-oud-lerares-internet-is-ontroerd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T22:08:57.913Z</news:publication_date>
-      <news:title>Politiechef Hammouchi ontvangt zijn oud-lerares, internet is ontroerd</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politiechef-hammouchi-ontvangt-zijn-oud-lerares-internet-is-ontroerd-1790287360979.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/sahara-kwestie-centraal-in-gesprek-tussen-trump-adviseur-en-algerijnse-minister</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T22:02:27.786Z</news:publication_date>
-      <news:title>Sahara-kwestie centraal in gesprek tussen Trump-adviseur en Algerijnse minister</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sahara-kwestie-centraal-in-gesprek-tussen-trump-adviseur-en-algerijnse-minister-1790286956422.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/waarnemers-zien-mogelijke-stemmenkoop-bij-marokkaanse-verkiezingen-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T21:58:08.703Z</news:publication_date>
-      <news:title>Waarnemers zien mogelijke stemmenkoop bij Marokkaanse verkiezingen 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarnemers-zien-mogelijke-stemmenkoop-bij-marokkaanse-verkiezingen-2026-1790285586608.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-consumentenbond-luidt-alarm-over-schengenvisum</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T21:38:07.693Z</news:publication_date>
-      <news:title>Marokkaanse consumentenbond luidt alarm over Schengenvisum</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-consumentenbond-luidt-alarm-over-schengenvisum-1790285544705.jpg</image:loc></image:image>
   </url>
 </urlset>
