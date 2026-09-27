@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toerisme-in-fez-groeit-7-procent-meer-overnachtingen-tot-eind-juli</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T06:28:15.092Z</news:publication_date>
+      <news:title>Toerisme in Fez groeit: 7 procent meer overnachtingen tot eind juli</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toerisme-in-fez-groeit-7-procent-meer-overnachtingen-tot-eind-juli-1790488992611.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/studie-in-noord-marokko-27-procent-van-studenten-toont-tekenen-van-suiciderisico</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T06:08:14.043Z</news:publication_date>
+      <news:title>Studie in Noord-Marokko: 27 procent van studenten toont tekenen van suïciderisico</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/studie-in-noord-marokko-27-procent-van-studenten-toont-tekenen-van-suiciderisico-1790488953013.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-mayssa-baha-schrijft-geschiedenis-bij-vrouwen-van-fc-barcelona</loc>
     <news:news>
       <news:publication>
@@ -397,29 +421,5 @@
       <news:title>Marokkaanse econoom Abdelali Benamour overleden op 85-jarige leeftijd</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-econoom-abdelali-benamour-overleden-op-85-jarige-leeftijd-1790328537566.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/terugkeer-van-migranten-marokko-legt-de-verantwoordelijkheid-bij-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T06:37:25.405Z</news:publication_date>
-      <news:title>Terugkeer van migranten: Marokko legt de verantwoordelijkheid bij Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/terugkeer-van-migranten-marokko-legt-de-verantwoordelijkheid-bij-spanje-1790317943954.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/veelbelovende-vondsten-van-zilver-en-koper-in-de-souss-regio</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T06:28:02.586Z</news:publication_date>
-      <news:title>Veelbelovende vondsten van zilver en koper in de Souss-regio</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/veelbelovende-vondsten-van-zilver-en-koper-in-de-souss-regio-1790316177450.jpg</image:loc></image:image>
   </url>
 </urlset>
