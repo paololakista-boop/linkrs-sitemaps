@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/atlas-lions-reizen-naar-zuid-afrika-voor-tweede-afcon-kwalificatieduel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T16:57:33.139Z</news:publication_date>
+      <news:title>Atlas Lions reizen naar Zuid-Afrika voor tweede AFCON-kwalificatieduel</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlas-lions-reizen-naar-zuid-afrika-voor-tweede-afcon-kwalificatieduel-1790526750993.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rapport-over-deelname-van-vrouwen-aan-marokkaanse-parlementsverkiezingen-2026-wo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T16:37:32.173Z</news:publication_date>
+      <news:title>Rapport over deelname van vrouwen aan Marokkaanse parlementsverkiezingen 2026 wordt gepresenteerd</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rapport-over-deelname-van-vrouwen-aan-marokkaanse-parlementsverkiezingen-2026-wo-1790526715126.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-onderwijs-terug-in-het-publieke-debat-na-de-parlementsverkiezingen</loc>
     <news:news>
       <news:publication>
@@ -385,41 +409,5 @@
       <news:title>Voorzitter gemeenteraad in Errachidia opgesloten na dood van jonge vrouw in hotel</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/voorzitter-gemeenteraad-in-errachidia-opgesloten-na-dood-van-jonge-vrouw-in-hote-1790373317436.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/italie-verbiedt-boerka-en-nikab-op-scholen-wat-betekent-dat-voor-marokkaanse-gez</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T16:37:13.360Z</news:publication_date>
-      <news:title>Italië verbiedt boerka en nikab op scholen: wat betekent dat voor Marokkaanse gezinnen?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italie-verbiedt-boerka-en-nikab-op-scholen-wat-betekent-dat-voor-marokkaanse-gez-1790353931951.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/pjd-keert-terug-met-54-zetels-en-kiest-voor-de-oppositie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T14:58:19.241Z</news:publication_date>
-      <news:title>PJD keert terug met 54 zetels en kiest voor de oppositie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pjd-keert-terug-met-54-zetels-en-kiest-voor-de-oppositie-1790346797071.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/pam-houdt-deur-open-voor-iedereen-geen-rode-lijnen-voor-toekomstige-coalitie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T14:49:05.591Z</news:publication_date>
-      <news:title>PAM houdt deur open voor iedereen: geen rode lijnen voor toekomstige coalitie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pam-houdt-deur-open-voor-iedereen-geen-rode-lijnen-voor-toekomstige-coalitie-1790345042521.jpg</image:loc></image:image>
   </url>
 </urlset>
