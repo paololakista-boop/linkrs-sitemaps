@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/can-u20-marokkaanse-atlasleeuwtjes-blijven-steken-tegen-tunesie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T22:11:26.205Z</news:publication_date>
+      <news:title>CAN U20: Marokkaanse Atlasleeuwtjes blijven steken tegen Tunesië</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-u20-marokkaanse-atlasleeuwtjes-blijven-steken-tegen-tunesie-1790545551339.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouw-van-saad-lamjarred-spreekt-zich-uit-na-celstraf-van-tien-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T22:07:28.781Z</news:publication_date>
+      <news:title>Vrouw van Saad Lamjarred spreekt zich uit na celstraf van tien jaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouw-van-saad-lamjarred-spreekt-zich-uit-na-celstraf-van-tien-jaar-1790546547514.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-klimt-zeven-plaatsen-in-toerisme-index-van-world-economic-forum</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T21:51:24.966Z</news:publication_date>
+      <news:title>Marokko klimt zeven plaatsen in toerisme-index van World Economic Forum</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-klimt-zeven-plaatsen-in-toerisme-index-van-world-economic-forum-1790545518593.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/atlas-lions-reizen-naar-zuid-afrika-voor-tweede-afcon-kwalificatieduel</loc>
     <news:news>
       <news:publication>
@@ -385,29 +421,5 @@
       <news:title>CAN 2027: Niger, tegenstander van Marokko, wint van Lesotho</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-2027-niger-tegenstander-van-marokko-wint-van-lesotho-1790373777493.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/chinese-automerken-omoda-en-jaecoo-willen-groter-worden-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T22:08:41.587Z</news:publication_date>
-      <news:title>Chinese automerken Omoda en Jaecoo willen groter worden in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinese-automerken-omoda-en-jaecoo-willen-groter-worden-in-marokko-1790373745038.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/voorzitter-gemeenteraad-in-errachidia-opgesloten-na-dood-van-jonge-vrouw-in-hote</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T22:01:32.171Z</news:publication_date>
-      <news:title>Voorzitter gemeenteraad in Errachidia opgesloten na dood van jonge vrouw in hotel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/voorzitter-gemeenteraad-in-errachidia-opgesloten-na-dood-van-jonge-vrouw-in-hote-1790373317436.jpg</image:loc></image:image>
   </url>
 </urlset>
