@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/burgemeester-van-tanger-opgepakt-bij-terugkeer-uit-spanje-in-kiesfraudezaak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T14:48:32.869Z</news:publication_date>
+      <news:title>Burgemeester van Tanger opgepakt bij terugkeer uit Spanje in kiesfraudezaak</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/burgemeester-van-tanger-opgepakt-bij-terugkeer-uit-spanje-in-kiesfraudezaak-1790604209581.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-in-januari-2027-verwacht-in-parijs-voor-nieuwe-fase-frans-mar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T14:28:32.084Z</news:publication_date>
+      <news:title>Koning Mohammed VI in januari 2027 verwacht in Parijs voor nieuwe fase Frans-Marokkaanse betrekkingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-in-januari-2027-verwacht-in-parijs-voor-nieuwe-fase-frans-mar-1790604172747.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-vrijgesteld-van-visumkosten-voor-ierland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T14:08:30.719Z</news:publication_date>
+      <news:title>Marokkanen vrijgesteld van visumkosten voor Ierland</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-vrijgesteld-van-visumkosten-voor-ierland-1790604139218.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-hervat-toeristenvisa-voor-taiwanezen-na-twee-maanden-onderbreking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T12:57:40.075Z</news:publication_date>
+      <news:title>Marokko hervat toeristenvisa voor Taiwanezen na twee maanden onderbreking</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-hervat-toeristenvisa-voor-taiwanezen-na-twee-maanden-onderbreking-1790598757831.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/schoolvakanties-in-marokko-eerste-vrije-week-komt-eraan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T12:37:39.169Z</news:publication_date>
+      <news:title>Schoolvakanties in Marokko: eerste vrije week komt eraan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/schoolvakanties-in-marokko-eerste-vrije-week-komt-eraan-1790598729674.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/dertig-jonge-vrouwen-bedwingen-de-toubkal-in-empower-girls-programma</loc>
     <news:news>
       <news:publication>
@@ -325,77 +385,5 @@
       <news:title>Rachid Ismaili, een Marokkaan die de cultuur van zijn land laat stralen in Spanje</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rachid-ismaili-een-marokkaan-die-de-cultuur-van-zijn-land-laat-stralen-in-spanje-1790441453696.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bosbrand-teistert-hectares-in-het-woud-van-tanghaya-bij-chefchaouen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T14:49:27.469Z</news:publication_date>
-      <news:title>Bosbrand teistert hectares in het woud van Tanghaya bij Chefchaouen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bosbrand-teistert-hectares-in-het-woud-van-tanghaya-bij-chefchaouen-1790431463905.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/groepsaanval-op-marokkaanse-jongere-in-valencia-onderzocht-als-haatmisdrijf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T14:29:26.554Z</news:publication_date>
-      <news:title>Groepsaanval op Marokkaanse jongere in Valencia onderzocht als haatmisdrijf</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/groepsaanval-op-marokkaanse-jongere-in-valencia-onderzocht-als-haatmisdrijf-1790431428067.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ebrd-marokko-bij-de-best-presterende-economieen-van-de-regio</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T14:09:25.720Z</news:publication_date>
-      <news:title>EBRD: Marokko bij de best presterende economieën van de regio</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ebrd-marokko-bij-de-best-presterende-economieen-van-de-regio-1790431392218.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/saad-lamjarred-in-beroep-veroordeeld-tot-tien-jaar-cel-voor-verkrachting</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T14:06:24.774Z</news:publication_date>
-      <news:title>Saad Lamjarred in beroep veroordeeld tot tien jaar cel voor verkrachting</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/saad-lamjarred-in-beroep-veroordeeld-tot-tien-jaar-cel-voor-verkrachting-1790431350715.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-heeft-laagste-arbeidskosten-per-auto-ter-wereld-in-2024</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T13:37:35.052Z</news:publication_date>
-      <news:title>Marokko heeft laagste arbeidskosten per auto ter wereld in 2024</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-heeft-laagste-arbeidskosten-per-auto-ter-wereld-in-2024-1790429518421.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/consumentenbond-klaagt-over-nieuwe-obstakels-bij-schengenvisum-voor-marokkanen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T09:24:08.280Z</news:publication_date>
-      <news:title>Consumentenbond klaagt over nieuwe obstakels bij Schengenvisum voor Marokkanen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/consumentenbond-klaagt-over-nieuwe-obstakels-bij-schengenvisum-voor-marokkanen-1790414346872.jpg</image:loc></image:image>
   </url>
 </urlset>
