@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/grote-brand-in-slagerij-agadir-drie-gewonden-met-brandwonden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T22:31:26.945Z</news:publication_date>
+      <news:title>Grote brand in slagerij Agadir: drie gewonden met brandwonden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/grote-brand-in-slagerij-agadir-drie-gewonden-met-brandwonden-1790545584115.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/can-u20-marokkaanse-atlasleeuwtjes-blijven-steken-tegen-tunesie</loc>
     <news:news>
       <news:publication>
@@ -385,41 +397,5 @@
       <news:title>Marokko heft importheffing van 76 procent op Chinees multiplex</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-heft-importheffing-van-76-procent-op-chinees-multiplex-1790402550708.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verlaagt-prijzen-van-bijna-300-medicijnen-kortingen-tot-70-procent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T22:48:43.421Z</news:publication_date>
-      <news:title>Marokko verlaagt prijzen van bijna 300 medicijnen, kortingen tot 70 procent</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verlaagt-prijzen-van-bijna-300-medicijnen-kortingen-tot-70-procent-1790373820738.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ceuta-drie-marokkaanse-migranten-opgepakt-na-vermeende-ontvoering-van-twee-minde</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T22:41:37.266Z</news:publication_date>
-      <news:title>Ceuta: drie Marokkaanse migranten opgepakt na vermeende ontvoering van twee minderjarige meisjes</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ceuta-drie-marokkaanse-migranten-opgepakt-na-vermeende-ontvoering-van-twee-minde-1790373391017.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/can-2027-niger-tegenstander-van-marokko-wint-van-lesotho</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-25T22:28:42.600Z</news:publication_date>
-      <news:title>CAN 2027: Niger, tegenstander van Marokko, wint van Lesotho</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-2027-niger-tegenstander-van-marokko-wint-van-lesotho-1790373777493.jpg</image:loc></image:image>
   </url>
 </urlset>
