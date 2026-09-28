@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dertig-jonge-vrouwen-bedwingen-de-toubkal-in-empower-girls-programma</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T06:28:11.697Z</news:publication_date>
+      <news:title>Dertig jonge vrouwen bedwingen de Toubkal in Empower Girls-programma</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dertig-jonge-vrouwen-bedwingen-de-toubkal-in-empower-girls-programma-1790575389223.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-behoort-tot-de-meest-kwetsbare-landen-van-afrika-voor-klimaatverandering</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T06:08:10.204Z</news:publication_date>
+      <news:title>Marokko behoort tot de meest kwetsbare landen van Afrika voor klimaatverandering</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-behoort-tot-de-meest-kwetsbare-landen-van-afrika-voor-klimaatverandering-1790575352152.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/grote-brand-in-slagerij-agadir-drie-gewonden-met-brandwonden</loc>
     <news:news>
       <news:publication>
@@ -373,29 +397,5 @@
       <news:title>Consumentenbond klaagt over nieuwe obstakels bij Schengenvisum voor Marokkanen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/consumentenbond-klaagt-over-nieuwe-obstakels-bij-schengenvisum-voor-marokkanen-1790414346872.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ceuta-hoe-de-europese-aanpak-van-migratie-de-band-met-marokko-onder-druk-zet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T06:28:14.600Z</news:publication_date>
-      <news:title>Ceuta: hoe de Europese aanpak van migratie de band met Marokko onder druk zet</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ceuta-hoe-de-europese-aanpak-van-migratie-de-band-met-marokko-onder-druk-zet-1790402592278.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-heft-importheffing-van-76-procent-op-chinees-multiplex</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T06:08:13.691Z</news:publication_date>
-      <news:title>Marokko heft importheffing van 76 procent op Chinees multiplex</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-heft-importheffing-van-76-procent-op-chinees-multiplex-1790402550708.jpg</image:loc></image:image>
   </url>
 </urlset>
