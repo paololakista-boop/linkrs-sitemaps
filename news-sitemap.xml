@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/raad-van-europa-stuurt-onderzoeksmissie-naar-spanje-en-marokko-na-migratiecrisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T15:38:46.435Z</news:publication_date>
+      <news:title>Raad van Europa stuurt onderzoeksmissie naar Spanje en Marokko na migratiecrisis in Ceuta</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/raad-van-europa-stuurt-onderzoeksmissie-naar-spanje-en-marokko-na-migratiecrisis-1790696024459.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/difterie-duikt-weer-op-in-marokko-wat-je-moet-weten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T15:35:45.526Z</news:publication_date>
+      <news:title>Difterie duikt weer op in Marokko: wat je moet weten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-duikt-weer-op-in-marokko-wat-je-moet-weten-1790695984258.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-minderjarigen-in-ceuta-veroordeeld-na-aanval-op-begeleiders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T15:16:11.287Z</news:publication_date>
+      <news:title>Marokkaanse minderjarigen in Ceuta veroordeeld na aanval op begeleiders</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-minderjarigen-in-ceuta-veroordeeld-na-aanval-op-begeleiders-1790692267691.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/handel-tussen-spanje-en-marokko-trotseert-crisissen-en-overstijgt-14-miljard-eur</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T14:56:10.220Z</news:publication_date>
+      <news:title>Handel tussen Spanje en Marokko trotseert crisissen en overstijgt 14 miljard euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/handel-tussen-spanje-en-marokko-trotseert-crisissen-en-overstijgt-14-miljard-eur-1790692228543.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/pam-wint-marokkaanse-verkiezingen-welke-coalitie-is-nu-mogelijk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T14:48:54.707Z</news:publication_date>
+      <news:title>PAM wint Marokkaanse verkiezingen: welke coalitie is nu mogelijk?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pam-wint-marokkaanse-verkiezingen-welke-coalitie-is-nu-mogelijk-1790690629019.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-landbouwexport-naar-de-eu-stijgt-licht-in-begin-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T14:36:09.174Z</news:publication_date>
+      <news:title>Marokkaanse landbouwexport naar de EU stijgt licht in begin 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-landbouwexport-naar-de-eu-stijgt-licht-in-begin-2026-1790692185761.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/in-marokko-geboren-rachida-dati-riskeert-vier-jaar-cel-in-corruptieproces</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T14:28:53.856Z</news:publication_date>
+      <news:title>In Marokko geboren Rachida Dati riskeert vier jaar cel in corruptieproces</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/in-marokko-geboren-rachida-dati-riskeert-vier-jaar-cel-in-corruptieproces-1790690589158.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dodelijk-verkeersongeval-bij-al-hoceima-treft-filmploeg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T13:34:43.480Z</news:publication_date>
+      <news:title>Dodelijk verkeersongeval bij Al Hoceïma treft filmploeg</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dodelijk-verkeersongeval-bij-al-hoceima-treft-filmploeg-1790688761675.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-meisje-geweigerd-op-bus-in-italie-verdenking-van-racisme</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T11:17:02.346Z</news:publication_date>
+      <news:title>Marokkaans meisje geweigerd op bus in Italië, verdenking van racisme</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-meisje-geweigerd-op-bus-in-italie-verdenking-van-racisme-1790680321257.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wisselkoersen-dirham-zo-staat-de-marokkaanse-munt-er-dinsdag-voor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T09:37:57.554Z</news:publication_date>
+      <news:title>Wisselkoersen dirham: zo staat de Marokkaanse munt er dinsdag voor</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoersen-dirham-zo-staat-de-marokkaanse-munt-er-dinsdag-voor-1790674374463.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-treft-lesotho-in-kwalificatie-voor-afrika-cup-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T09:34:56.520Z</news:publication_date>
+      <news:title>Marokko treft Lesotho in kwalificatie voor Afrika Cup 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-treft-lesotho-in-kwalificatie-voor-afrika-cup-2027-1790674337117.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-grensarbeidsters-van-melilla-klemgelopen-na-sluiting-grens</loc>
     <news:news>
       <news:publication>
@@ -313,101 +445,5 @@
       <news:title>Rapport over deelname van vrouwen aan Marokkaanse parlementsverkiezingen 2026 wordt gepresenteerd</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rapport-over-deelname-van-vrouwen-aan-marokkaanse-parlementsverkiezingen-2026-wo-1790526715126.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-onderwijs-terug-in-het-publieke-debat-na-de-parlementsverkiezingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T14:29:04.611Z</news:publication_date>
-      <news:title>Marokkaans onderwijs terug in het publieke debat na de parlementsverkiezingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-onderwijs-terug-in-het-publieke-debat-na-de-parlementsverkiezingen-1790517806684.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-kroont-zich-in-marrakech-tot-wereldkampioen-biljart-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T14:13:14.922Z</news:publication_date>
-      <news:title>Marokko kroont zich in Marrakech tot wereldkampioen biljart 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-kroont-zich-in-marrakech-tot-wereldkampioen-biljart-2026-1790515691408.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-veroordeelt-houthi-aanvallen-op-saoedi-arabie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T14:09:03.182Z</news:publication_date>
-      <news:title>Koning Mohammed VI veroordeelt Houthi-aanvallen op Saoedi-Arabië</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-veroordeelt-houthi-aanvallen-op-saoedi-arabie-1790517762837.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-groeit-in-2026-met-4-4-procent-dankzij-landbouw-en-406-000-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T13:53:14.087Z</news:publication_date>
-      <news:title>Marokkaanse economie groeit in 2026 met 4,4 procent dankzij landbouw en 406.000 nieuwe banen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-economie-groeit-in-2026-met-4-4-procent-dankzij-landbouw-en-406-000--1790515656671.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wydad-fans-tonen-spandoek-voor-ceuta-en-melilla-marokko-geeft-niet-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T13:33:13.035Z</news:publication_date>
-      <news:title>Wydad-fans tonen spandoek voor Ceuta en Melilla: &quot;Marokko geeft niet op&quot;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wydad-fans-tonen-spandoek-voor-ceuta-en-melilla-marokko-geeft-niet-op-1790515619983.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/een-jaar-na-de-gen-z-protesten-in-marokko-honderden-gedetineerden-en-een-verstik</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T12:57:59.128Z</news:publication_date>
-      <news:title>Een jaar na de Gen Z-protesten in Marokko: honderden gedetineerden en een verstikkende stilte</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/een-jaar-na-de-gen-z-protesten-in-marokko-honderden-gedetineerden-en-een-verstik-1790512376260.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-stuurt-soedanese-migranten-van-ceuta-terug-naar-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T12:37:57.895Z</news:publication_date>
-      <news:title>Spanje stuurt Soedanese migranten van Ceuta terug naar Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-stuurt-soedanese-migranten-van-ceuta-terug-naar-marokko-1790512341138.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dirham-verzwakt-tegenover-euro-en-dollar-wat-betekent-dat-voor-jou</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T11:37:18.561Z</news:publication_date>
-      <news:title>Dirham verzwakt tegenover euro en dollar: wat betekent dat voor jou?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-verzwakt-tegenover-euro-en-dollar-wat-betekent-dat-voor-jou-1790508736731.jpg</image:loc></image:image>
   </url>
 </urlset>
