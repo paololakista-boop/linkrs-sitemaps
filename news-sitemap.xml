@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/politieagent-in-marrakech-opgepakt-na-aangifte-van-verkrachting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T00:02:37.152Z</news:publication_date>
+      <news:title>Politieagent in Marrakech opgepakt na aangifte van verkrachting</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politieagent-in-marrakech-opgepakt-na-aangifte-van-verkrachting-1790638655262.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-roboticateam-wordt-vijfde-op-de-wereld-in-india</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T23:42:36.087Z</news:publication_date>
+      <news:title>Marokkaans roboticateam wordt vijfde op de wereld in India</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-roboticateam-wordt-vijfde-op-de-wereld-in-india-1790638622477.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verdachte-opgepakt-na-seksueel-misbruik-van-13-jarige-in-provincie-settat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T22:28:36.189Z</news:publication_date>
+      <news:title>Verdachte opgepakt na seksueel misbruik van 13-jarige in provincie Settat</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verdachte-opgepakt-na-seksueel-misbruik-van-13-jarige-in-provincie-settat-1790633012456.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/royal-mansour-marrakech-opnieuw-uitgeroepen-tot-beste-hotel-van-afrika</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-28T22:08:35.402Z</news:publication_date>
+      <news:title>Royal Mansour Marrakech opnieuw uitgeroepen tot beste hotel van Afrika</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-mansour-marrakech-opnieuw-uitgeroepen-tot-beste-hotel-van-afrika-1790632980657.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vleesprijzen-swingen-de-pan-uit-in-casablanca-schapenvlees-tot-160-dirham-per-ki</loc>
     <news:news>
       <news:publication>
@@ -337,53 +385,5 @@
       <news:title>Studie in Noord-Marokko: 27 procent van studenten toont tekenen van suïciderisico</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/studie-in-noord-marokko-27-procent-van-studenten-toont-tekenen-van-suiciderisico-1790488953013.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-mayssa-baha-schrijft-geschiedenis-bij-vrouwen-van-fc-barcelona</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T22:30:42.642Z</news:publication_date>
-      <news:title>Marokkaanse Mayssa Baha schrijft geschiedenis bij vrouwen van FC Barcelona</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-mayssa-baha-schrijft-geschiedenis-bij-vrouwen-van-fc-barcelona-1790459139974.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schuift-aan-bij-eerste-top-van-abraham-akkoorden-sinds-oorlog-in-gaza</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T22:28:47.089Z</news:publication_date>
-      <news:title>Marokko schuift aan bij eerste top van Abraham-akkoorden sinds oorlog in Gaza</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-schuift-aan-bij-eerste-top-van-abraham-akkoorden-sinds-oorlog-in-gaza-1790460190011.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fraude-met-stembiljetten-in-tanger-vijf-verdachten-opgepakt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T22:10:41.892Z</news:publication_date>
-      <news:title>Fraude met stembiljetten in Tanger: vijf verdachten opgepakt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fraude-met-stembiljetten-in-tanger-vijf-verdachten-opgepakt-1790459110408.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zeevracht-vervoert-bijna-96-procent-van-marokkos-export-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-26T22:08:46.302Z</news:publication_date>
-      <news:title>Zeevracht vervoert bijna 96 procent van Marokkos export in 2025</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zeevracht-vervoert-bijna-96-procent-van-marokkos-export-in-2025-1790460150826.jpg</image:loc></image:image>
   </url>
 </urlset>
