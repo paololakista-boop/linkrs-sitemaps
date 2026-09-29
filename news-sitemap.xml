@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-benoemt-fatima-zahra-mansouri-tot-nieuwe-regeringsleider</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T17:34:18.582Z</news:publication_date>
+      <news:title>Koning Mohammed VI benoemt Fatima Zahra Mansouri tot nieuwe regeringsleider</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-benoemt-fatima-zahra-mansouri-tot-nieuwe-regeringsleider-1790703132964.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/raad-van-europa-stuurt-onderzoeksmissie-naar-spanje-en-marokko-na-migratiecrisis</loc>
     <news:news>
       <news:publication>
@@ -421,29 +433,5 @@
       <news:title>Marokko klimt zeven plaatsen in toerisme-index van World Economic Forum</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-klimt-zeven-plaatsen-in-toerisme-index-van-world-economic-forum-1790545518593.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlas-lions-reizen-naar-zuid-afrika-voor-tweede-afcon-kwalificatieduel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T16:57:33.139Z</news:publication_date>
-      <news:title>Atlas Lions reizen naar Zuid-Afrika voor tweede AFCON-kwalificatieduel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlas-lions-reizen-naar-zuid-afrika-voor-tweede-afcon-kwalificatieduel-1790526750993.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rapport-over-deelname-van-vrouwen-aan-marokkaanse-parlementsverkiezingen-2026-wo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T16:37:32.173Z</news:publication_date>
-      <news:title>Rapport over deelname van vrouwen aan Marokkaanse parlementsverkiezingen 2026 wordt gepresenteerd</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rapport-over-deelname-van-vrouwen-aan-marokkaanse-parlementsverkiezingen-2026-wo-1790526715126.jpg</image:loc></image:image>
   </url>
 </urlset>
