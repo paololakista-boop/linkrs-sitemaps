@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-grensarbeidsters-van-melilla-klemgelopen-na-sluiting-grens</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T08:37:41.216Z</news:publication_date>
+      <news:title>Marokkaanse grensarbeidsters van Melilla klemgelopen na sluiting grens</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-grensarbeidsters-van-melilla-klemgelopen-na-sluiting-grens-1790670759980.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amazigh-dichter-omar-barghout-overleden-tijdens-feest-om-verkiezingswinst-in-chi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T06:34:46.661Z</news:publication_date>
+      <news:title>Amazigh-dichter Omar Barghout overleden tijdens feest om verkiezingswinst in Chichaoua</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amazigh-dichter-omar-barghout-overleden-tijdens-feest-om-verkiezingswinst-in-chi-1790663565184.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/raul-vond-zijn-marokkaanse-vader-terug-via-een-viraal-filmpje-in-new-york</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T06:28:05.156Z</news:publication_date>
+      <news:title>Raul vond zijn Marokkaanse vader terug via een viraal filmpje in New York</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/raul-vond-zijn-marokkaanse-vader-terug-via-een-viraal-filmpje-in-new-york-1790661783442.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toen-de-marokkaanse-tv-de-winst-van-bouabid-uitriep-voor-het-tellen-klaar-was</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T06:08:04.238Z</news:publication_date>
+      <news:title>Toen de Marokkaanse tv de winst van Bouabid uitriep voor het tellen klaar was</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toen-de-marokkaanse-tv-de-winst-van-bouabid-uitriep-voor-het-tellen-klaar-was-1790661732999.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/politieagent-in-marrakech-opgepakt-na-aangifte-van-verkrachting</loc>
     <news:news>
       <news:publication>
@@ -361,29 +409,5 @@
       <news:title>Dirham verzwakt tegenover euro en dollar: wat betekent dat voor jou?</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-verzwakt-tegenover-euro-en-dollar-wat-betekent-dat-voor-jou-1790508736731.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/toerisme-in-fez-groeit-7-procent-meer-overnachtingen-tot-eind-juli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T06:28:15.092Z</news:publication_date>
-      <news:title>Toerisme in Fez groeit: 7 procent meer overnachtingen tot eind juli</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toerisme-in-fez-groeit-7-procent-meer-overnachtingen-tot-eind-juli-1790488992611.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/studie-in-noord-marokko-27-procent-van-studenten-toont-tekenen-van-suiciderisico</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T06:08:14.043Z</news:publication_date>
-      <news:title>Studie in Noord-Marokko: 27 procent van studenten toont tekenen van suïciderisico</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/studie-in-noord-marokko-27-procent-van-studenten-toont-tekenen-van-suiciderisico-1790488953013.jpg</image:loc></image:image>
   </url>
 </urlset>
