@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-presenteert-in-buenos-aires-zijn-wk-visie-en-biedt-casablanca-aan-voor-d</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T11:37:25.210Z</news:publication_date>
+      <news:title>Marokko presenteert in Buenos Aires zijn WK-visie en biedt Casablanca aan voor de finale</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-presenteert-in-buenos-aires-zijn-wk-visie-en-biedt-casablanca-aan-voor-d-1790767943003.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/volkswagen-en-gotion-bouwen-batterijfabriek-in-kenitra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T09:37:50.648Z</news:publication_date>
+      <news:title>Volkswagen en Gotion bouwen batterijfabriek in Kénitra</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volkswagen-en-gotion-bouwen-batterijfabriek-in-kenitra-1790760769112.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/californie-erkent-aid-al-fitr-en-aid-al-adha-als-officiele-feestdagen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T08:37:39.841Z</news:publication_date>
+      <news:title>Californië erkent Aïd al-Fitr en Aïd al-Adha als officiële feestdagen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/californie-erkent-aid-al-fitr-en-aid-al-adha-als-officiele-feestdagen-1790757157694.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-man-doodgeslagen-in-park-in-malta-poolse-verdachte-opgepakt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T08:34:38.851Z</news:publication_date>
+      <news:title>Marokkaanse man doodgeslagen in park in Malta, Poolse verdachte opgepakt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-man-doodgeslagen-in-park-in-malta-poolse-verdachte-opgepakt-1790757127226.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/van-het-scherm-naar-het-parlement-marokkaanse-artiesten-in-de-politiek</loc>
     <news:news>
       <news:publication>
@@ -385,29 +433,5 @@
       <news:title>Marokkanen vrijgesteld van visumkosten voor Ierland</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-vrijgesteld-van-visumkosten-voor-ierland-1790604139218.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-hervat-toeristenvisa-voor-taiwanezen-na-twee-maanden-onderbreking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T12:57:40.075Z</news:publication_date>
-      <news:title>Marokko hervat toeristenvisa voor Taiwanezen na twee maanden onderbreking</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-hervat-toeristenvisa-voor-taiwanezen-na-twee-maanden-onderbreking-1790598757831.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/schoolvakanties-in-marokko-eerste-vrije-week-komt-eraan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T12:37:39.169Z</news:publication_date>
-      <news:title>Schoolvakanties in Marokko: eerste vrije week komt eraan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/schoolvakanties-in-marokko-eerste-vrije-week-komt-eraan-1790598729674.jpg</image:loc></image:image>
   </url>
 </urlset>
