@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-agent-geschorst-na-dood-jonge-marokkaan-in-carcassonne</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T22:34:34.432Z</news:publication_date>
+      <news:title>Franse agent geschorst na dood jonge Marokkaan in Carcassonne</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-agent-geschorst-na-dood-jonge-marokkaan-in-carcassonne-1790807552937.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/kraoui-over-verkiezingen-in-marokko-sleutel-tot-herstel-van-vertrouwen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T22:28:14.443Z</news:publication_date>
+      <news:title>Kraoui over verkiezingen in Marokko: sleutel tot herstel van vertrouwen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kraoui-over-verkiezingen-in-marokko-sleutel-tot-herstel-van-vertrouwen-1790805791535.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-klimt-13-plaatsen-op-de-mondiale-innovatie-index</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T22:08:13.522Z</news:publication_date>
+      <news:title>Marokko klimt 13 plaatsen op de mondiale innovatie-index</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-klimt-13-plaatsen-op-de-mondiale-innovatie-index-1790805750916.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mohamed-ouahbi-staat-op-het-punt-record-met-atlas-leeuwen-te-breken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T21:37:31.664Z</news:publication_date>
+      <news:title>Mohamed Ouahbi staat op het punt record met Atlas Leeuwen te breken</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mohamed-ouahbi-staat-op-het-punt-record-met-atlas-leeuwen-te-breken-1790803949717.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/brandstofprijzen-in-marokko-stijgen-opnieuw-vanaf-1-oktober</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T19:37:30.456Z</news:publication_date>
+      <news:title>Brandstofprijzen in Marokko stijgen opnieuw vanaf 1 oktober</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/brandstofprijzen-in-marokko-stijgen-opnieuw-vanaf-1-oktober-1790796748483.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/eigendomsattest-online-aanvragen-in-marokko-zo-werkt-het</loc>
     <news:news>
       <news:publication>
@@ -409,41 +469,5 @@
       <news:title>Politieagent in Marrakech opgepakt na aangifte van verkrachting</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politieagent-in-marrakech-opgepakt-na-aangifte-van-verkrachting-1790638655262.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-roboticateam-wordt-vijfde-op-de-wereld-in-india</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T23:42:36.087Z</news:publication_date>
-      <news:title>Marokkaans roboticateam wordt vijfde op de wereld in India</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-roboticateam-wordt-vijfde-op-de-wereld-in-india-1790638622477.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verdachte-opgepakt-na-seksueel-misbruik-van-13-jarige-in-provincie-settat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T22:28:36.189Z</news:publication_date>
-      <news:title>Verdachte opgepakt na seksueel misbruik van 13-jarige in provincie Settat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verdachte-opgepakt-na-seksueel-misbruik-van-13-jarige-in-provincie-settat-1790633012456.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/royal-mansour-marrakech-opnieuw-uitgeroepen-tot-beste-hotel-van-afrika</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T22:08:35.402Z</news:publication_date>
-      <news:title>Royal Mansour Marrakech opnieuw uitgeroepen tot beste hotel van Afrika</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-mansour-marrakech-opnieuw-uitgeroepen-tot-beste-hotel-van-afrika-1790632980657.jpg</image:loc></image:image>
   </url>
 </urlset>
