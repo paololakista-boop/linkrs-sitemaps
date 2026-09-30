@@ -32,6 +32,13 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/van-het-scherm-naar-het-parlement-marokkaanse-artiesten-in-de-politiek</loc>
+    <lastmod>2026-09-30T06:08:02.274Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-het-scherm-naar-het-parlement-marokkaanse-artiesten-in-de-politiek-1790748143457.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/turkse-ster-tuba-buyukustun-krijgt-kritiek-na-foto-van-vervallen-daken-in-marrak</loc>
     <lastmod>2026-09-29T23:34:09.784Z</lastmod>
     <changefreq>daily</changefreq>
@@ -861,14 +868,14 @@
     <loc>https://www.linkrsmarokko.com/nieuws/meer-dan-7-000-migranten-teruggekeerd-naar-marokko-vanuit-ceuta</loc>
     <lastmod>2026-09-23T06:28:39.569Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meer-dan-7-000-migranten-teruggekeerd-naar-marokko-vanuit-ceuta-1790143416862.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/madrid-verbiedt-marokkaanse-ambachtsbeurs-en-oogst-kritiek-op-discriminatie</loc>
     <lastmod>2026-09-23T06:08:38.374Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/madrid-verbiedt-marokkaanse-ambachtsbeurs-en-oogst-kritiek-op-discriminatie-1790143376482.jpg</image:loc></image:image>
   </url>
   <url>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/van-het-scherm-naar-het-parlement-marokkaanse-artiesten-in-de-politiek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T06:08:02.274Z</news:publication_date>
+      <news:title>Van het scherm naar het parlement: Marokkaanse artiesten in de politiek</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-het-scherm-naar-het-parlement-marokkaanse-artiesten-in-de-politiek-1790748143457.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/turkse-ster-tuba-buyukustun-krijgt-kritiek-na-foto-van-vervallen-daken-in-marrak</loc>
     <news:news>
       <news:publication>
@@ -397,29 +409,5 @@
       <news:title>Schoolvakanties in Marokko: eerste vrije week komt eraan</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/schoolvakanties-in-marokko-eerste-vrije-week-komt-eraan-1790598729674.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dertig-jonge-vrouwen-bedwingen-de-toubkal-in-empower-girls-programma</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T06:28:11.697Z</news:publication_date>
-      <news:title>Dertig jonge vrouwen bedwingen de Toubkal in Empower Girls-programma</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dertig-jonge-vrouwen-bedwingen-de-toubkal-in-empower-girls-programma-1790575389223.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-behoort-tot-de-meest-kwetsbare-landen-van-afrika-voor-klimaatverandering</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T06:08:10.204Z</news:publication_date>
-      <news:title>Marokko behoort tot de meest kwetsbare landen van Afrika voor klimaatverandering</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-behoort-tot-de-meest-kwetsbare-landen-van-afrika-voor-klimaatverandering-1790575352152.jpg</image:loc></image:image>
   </url>
 </urlset>
