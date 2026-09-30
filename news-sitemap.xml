@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/turkse-ster-tuba-buyukustun-krijgt-kritiek-na-foto-van-vervallen-daken-in-marrak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T23:34:09.784Z</news:publication_date>
+      <news:title>Turkse ster Tuba Büyüküstün krijgt kritiek na foto van vervallen daken in Marrakech</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/turkse-ster-tuba-buyukustun-krijgt-kritiek-na-foto-van-vervallen-daken-in-marrak-1790722142029.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-in-hoge-risicocategorie-in-wereldwijde-rampenindex-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T23:14:08.863Z</news:publication_date>
+      <news:title>Marokko in hoge risicocategorie in wereldwijde rampenindex 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-in-hoge-risicocategorie-in-wereldwijde-rampenindex-2026-1790722101465.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ghanese-voetbalbond-bevestigt-oefeninterland-tegen-marokko-in-tanger-afgelast</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-29T22:05:02.530Z</news:publication_date>
+      <news:title>Ghanese voetbalbond bevestigt: oefeninterland tegen Marokko in Tanger afgelast</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ghanese-voetbalbond-bevestigt-oefeninterland-tegen-marokko-in-tanger-afgelast-1790719200793.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-benoemt-fatima-zahra-mansouri-tot-nieuwe-regeringsleider</loc>
     <news:news>
       <news:publication>
@@ -385,53 +421,5 @@
       <news:title>Marokko behoort tot de meest kwetsbare landen van Afrika voor klimaatverandering</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-behoort-tot-de-meest-kwetsbare-landen-van-afrika-voor-klimaatverandering-1790575352152.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/grote-brand-in-slagerij-agadir-drie-gewonden-met-brandwonden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T22:31:26.945Z</news:publication_date>
-      <news:title>Grote brand in slagerij Agadir: drie gewonden met brandwonden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/grote-brand-in-slagerij-agadir-drie-gewonden-met-brandwonden-1790545584115.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/can-u20-marokkaanse-atlasleeuwtjes-blijven-steken-tegen-tunesie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T22:11:26.205Z</news:publication_date>
-      <news:title>CAN U20: Marokkaanse Atlasleeuwtjes blijven steken tegen Tunesië</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-u20-marokkaanse-atlasleeuwtjes-blijven-steken-tegen-tunesie-1790545551339.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vrouw-van-saad-lamjarred-spreekt-zich-uit-na-celstraf-van-tien-jaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T22:07:28.781Z</news:publication_date>
-      <news:title>Vrouw van Saad Lamjarred spreekt zich uit na celstraf van tien jaar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouw-van-saad-lamjarred-spreekt-zich-uit-na-celstraf-van-tien-jaar-1790546547514.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-klimt-zeven-plaatsen-in-toerisme-index-van-world-economic-forum</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-27T21:51:24.966Z</news:publication_date>
-      <news:title>Marokko klimt zeven plaatsen in toerisme-index van World Economic Forum</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-klimt-zeven-plaatsen-in-toerisme-index-van-world-economic-forum-1790545518593.jpg</image:loc></image:image>
   </url>
 </urlset>
