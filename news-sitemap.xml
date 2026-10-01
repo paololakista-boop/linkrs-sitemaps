@@ -458,16 +458,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toen-de-marokkaanse-tv-de-winst-van-bouabid-uitriep-voor-het-tellen-klaar-was-1790661732999.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/politieagent-in-marrakech-opgepakt-na-aangifte-van-verkrachting</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T00:02:37.152Z</news:publication_date>
-      <news:title>Politieagent in Marrakech opgepakt na aangifte van verkrachting</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politieagent-in-marrakech-opgepakt-na-aangifte-van-verkrachting-1790638655262.jpg</image:loc></image:image>
-  </url>
 </urlset>
