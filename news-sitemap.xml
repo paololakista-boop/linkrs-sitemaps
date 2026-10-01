@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/atlas-leeuwen-starten-voorbereiding-met-oefeninterland-tegen-mali-in-tanger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T12:37:12.825Z</news:publication_date>
+      <news:title>Atlas Leeuwen starten voorbereiding met oefeninterland tegen Mali in Tanger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlas-leeuwen-starten-voorbereiding-met-oefeninterland-tegen-mali-in-tanger-1790857930700.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zes-boten-in-een-week-migratie-vanuit-agadir-naar-lanzarote-neemt-toe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T11:37:39.916Z</news:publication_date>
+      <news:title>Zes boten in één week: migratie vanuit Agadir naar Lanzarote neemt toe</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zes-boten-in-een-week-migratie-vanuit-agadir-naar-lanzarote-neemt-toe-1790854357378.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/overboekingen-van-marokkanen-in-het-buitenland-stijgen-met-9-procent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T10:37:30.536Z</news:publication_date>
+      <news:title>Overboekingen van Marokkanen in het buitenland stijgen met 9 procent</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/overboekingen-van-marokkanen-in-het-buitenland-stijgen-met-9-procent-1790850744968.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wisselkoersen-dirham-van-1-oktober-dit-krijg-je-voor-je-euro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T09:37:19.674Z</news:publication_date>
+      <news:title>Wisselkoersen dirham van 1 oktober: dit krijg je voor je euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoersen-dirham-van-1-oktober-dit-krijg-je-voor-je-euro-1790847138107.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/valse-arbeidscontracten-voor-marokkanen-koppel-opgepakt-in-italie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T08:37:24.748Z</news:publication_date>
+      <news:title>Valse arbeidscontracten voor Marokkanen: koppel opgepakt in Italië</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/valse-arbeidscontracten-voor-marokkanen-koppel-opgepakt-in-italie-1790843524887.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/difterie-keert-terug-in-marokko-na-meer-dan-30-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T06:28:04.844Z</news:publication_date>
+      <news:title>Difterie keert terug in Marokko na meer dan 30 jaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-keert-terug-in-marokko-na-meer-dan-30-jaar-1790834581167.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-studenten-koploper-aan-franse-universiteiten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T06:08:03.610Z</news:publication_date>
+      <news:title>Marokkaanse studenten koploper aan Franse universiteiten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-studenten-koploper-aan-franse-universiteiten-1790834541219.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/franse-agent-geschorst-na-dood-jonge-marokkaan-in-carcassonne</loc>
     <news:news>
       <news:publication>
@@ -373,89 +457,5 @@
       <news:title>Dodelijk verkeersongeval bij Al Hoceïma treft filmploeg</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dodelijk-verkeersongeval-bij-al-hoceima-treft-filmploeg-1790688761675.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-meisje-geweigerd-op-bus-in-italie-verdenking-van-racisme</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T11:17:02.346Z</news:publication_date>
-      <news:title>Marokkaans meisje geweigerd op bus in Italië, verdenking van racisme</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-meisje-geweigerd-op-bus-in-italie-verdenking-van-racisme-1790680321257.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wisselkoersen-dirham-zo-staat-de-marokkaanse-munt-er-dinsdag-voor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T09:37:57.554Z</news:publication_date>
-      <news:title>Wisselkoersen dirham: zo staat de Marokkaanse munt er dinsdag voor</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoersen-dirham-zo-staat-de-marokkaanse-munt-er-dinsdag-voor-1790674374463.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-treft-lesotho-in-kwalificatie-voor-afrika-cup-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T09:34:56.520Z</news:publication_date>
-      <news:title>Marokko treft Lesotho in kwalificatie voor Afrika Cup 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-treft-lesotho-in-kwalificatie-voor-afrika-cup-2027-1790674337117.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-grensarbeidsters-van-melilla-klemgelopen-na-sluiting-grens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T08:37:41.216Z</news:publication_date>
-      <news:title>Marokkaanse grensarbeidsters van Melilla klemgelopen na sluiting grens</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-grensarbeidsters-van-melilla-klemgelopen-na-sluiting-grens-1790670759980.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amazigh-dichter-omar-barghout-overleden-tijdens-feest-om-verkiezingswinst-in-chi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T06:34:46.661Z</news:publication_date>
-      <news:title>Amazigh-dichter Omar Barghout overleden tijdens feest om verkiezingswinst in Chichaoua</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amazigh-dichter-omar-barghout-overleden-tijdens-feest-om-verkiezingswinst-in-chi-1790663565184.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/raul-vond-zijn-marokkaanse-vader-terug-via-een-viraal-filmpje-in-new-york</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T06:28:05.156Z</news:publication_date>
-      <news:title>Raul vond zijn Marokkaanse vader terug via een viraal filmpje in New York</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/raul-vond-zijn-marokkaanse-vader-terug-via-een-viraal-filmpje-in-new-york-1790661783442.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/toen-de-marokkaanse-tv-de-winst-van-bouabid-uitriep-voor-het-tellen-klaar-was</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T06:08:04.238Z</news:publication_date>
-      <news:title>Toen de Marokkaanse tv de winst van Bouabid uitriep voor het tellen klaar was</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toen-de-marokkaanse-tv-de-winst-van-bouabid-uitriep-voor-het-tellen-klaar-was-1790661732999.jpg</image:loc></image:image>
   </url>
 </urlset>
