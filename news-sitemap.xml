@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/attijariwafa-bank-zet-voet-aan-de-grond-in-ghana</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T22:07:58.809Z</news:publication_date>
+      <news:title>Attijariwafa bank zet voet aan de grond in Ghana</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/attijariwafa-bank-zet-voet-aan-de-grond-in-ghana-1790892143894.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/politieagent-in-el-jadida-pleegt-zelfmoord-met-dienstwapen-tijdens-onderzoek-naa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T22:04:59.774Z</news:publication_date>
+      <news:title>Politieagent in El Jadida pleegt zelfmoord met dienstwapen tijdens onderzoek naar zedenklacht</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politieagent-in-el-jadida-pleegt-zelfmoord-met-dienstwapen-tijdens-onderzoek-naa-1790892176632.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verzekert-brandstofvoorraad-tot-eind-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T19:57:56.355Z</news:publication_date>
+      <news:title>Marokko verzekert brandstofvoorraad tot eind 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verzekert-brandstofvoorraad-tot-eind-2026-1790883174188.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/linkse-alliantie-houdt-vast-aan-neutrale-plek-voor-overleg-met-regeringsvormer-e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T19:37:55.223Z</news:publication_date>
+      <news:title>Linkse alliantie houdt vast aan neutrale plek voor overleg met regeringsvormer El Mansouri</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/linkse-alliantie-houdt-vast-aan-neutrale-plek-voor-overleg-met-regeringsvormer-e-1790883141074.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-minderjarige-uit-ceuta-gezet-ondanks-geldige-verblijfstitel</loc>
     <news:news>
       <news:publication>
@@ -385,41 +433,5 @@
       <news:title>Van het scherm naar het parlement: Marokkaanse artiesten in de politiek</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-het-scherm-naar-het-parlement-marokkaanse-artiesten-in-de-politiek-1790748143457.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/turkse-ster-tuba-buyukustun-krijgt-kritiek-na-foto-van-vervallen-daken-in-marrak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T23:34:09.784Z</news:publication_date>
-      <news:title>Turkse ster Tuba Büyüküstün krijgt kritiek na foto van vervallen daken in Marrakech</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/turkse-ster-tuba-buyukustun-krijgt-kritiek-na-foto-van-vervallen-daken-in-marrak-1790722142029.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-in-hoge-risicocategorie-in-wereldwijde-rampenindex-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T23:14:08.863Z</news:publication_date>
-      <news:title>Marokko in hoge risicocategorie in wereldwijde rampenindex 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-in-hoge-risicocategorie-in-wereldwijde-rampenindex-2026-1790722101465.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ghanese-voetbalbond-bevestigt-oefeninterland-tegen-marokko-in-tanger-afgelast</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-29T22:05:02.530Z</news:publication_date>
-      <news:title>Ghanese voetbalbond bevestigt: oefeninterland tegen Marokko in Tanger afgelast</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ghanese-voetbalbond-bevestigt-oefeninterland-tegen-marokko-in-tanger-afgelast-1790719200793.jpg</image:loc></image:image>
   </url>
 </urlset>
