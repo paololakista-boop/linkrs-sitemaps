@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/can-2025-senegal-daagt-marokko-finale-voor-het-tas-op-8-oktober</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T12:34:12.399Z</news:publication_date>
+      <news:title>CAN 2025: Senegal daagt Marokko-finale voor het TAS op 8 oktober</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-2025-senegal-daagt-marokko-finale-voor-het-tas-op-8-oktober-1790944329332.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/regeringsvorming-in-marokko-de-magische-grens-van-198-zetels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T07:37:08.572Z</news:publication_date>
+      <news:title>Regeringsvorming in Marokko: de magische grens van 198 zetels</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/regeringsvorming-in-marokko-de-magische-grens-van-198-zetels-1790926327105.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amazigh-zanger-omar-boutmzought-overleden-na-lange-ziekte</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T06:28:04.892Z</news:publication_date>
+      <news:title>Amazigh-zanger Omar Boutmzought overleden na lange ziekte</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amazigh-zanger-omar-boutmzought-overleden-na-lange-ziekte-1790920982315.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fraude-met-stembiljetten-in-tanger-twee-extra-verdachten-opgepakt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T06:08:03.625Z</news:publication_date>
+      <news:title>Fraude met stembiljetten in Tanger: twee extra verdachten opgepakt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fraude-met-stembiljetten-in-tanger-twee-extra-verdachten-opgepakt-1790920942048.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/attijariwafa-bank-zet-voet-aan-de-grond-in-ghana</loc>
     <news:news>
       <news:publication>
@@ -373,65 +421,5 @@
       <news:title>Marokko haalt 270 miljoen euro binnen voor uitbreiding van zijn luchthavens</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-haalt-270-miljoen-euro-binnen-voor-uitbreiding-van-zijn-luchthavens-1790776970743.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-presenteert-in-buenos-aires-zijn-wk-visie-en-biedt-casablanca-aan-voor-d</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T11:37:25.210Z</news:publication_date>
-      <news:title>Marokko presenteert in Buenos Aires zijn WK-visie en biedt Casablanca aan voor de finale</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-presenteert-in-buenos-aires-zijn-wk-visie-en-biedt-casablanca-aan-voor-d-1790767943003.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/volkswagen-en-gotion-bouwen-batterijfabriek-in-kenitra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T09:37:50.648Z</news:publication_date>
-      <news:title>Volkswagen en Gotion bouwen batterijfabriek in Kénitra</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volkswagen-en-gotion-bouwen-batterijfabriek-in-kenitra-1790760769112.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/californie-erkent-aid-al-fitr-en-aid-al-adha-als-officiele-feestdagen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T08:37:39.841Z</news:publication_date>
-      <news:title>Californië erkent Aïd al-Fitr en Aïd al-Adha als officiële feestdagen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/californie-erkent-aid-al-fitr-en-aid-al-adha-als-officiele-feestdagen-1790757157694.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-man-doodgeslagen-in-park-in-malta-poolse-verdachte-opgepakt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T08:34:38.851Z</news:publication_date>
-      <news:title>Marokkaanse man doodgeslagen in park in Malta, Poolse verdachte opgepakt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-man-doodgeslagen-in-park-in-malta-poolse-verdachte-opgepakt-1790757127226.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/van-het-scherm-naar-het-parlement-marokkaanse-artiesten-in-de-politiek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T06:08:02.274Z</news:publication_date>
-      <news:title>Van het scherm naar het parlement: Marokkaanse artiesten in de politiek</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-het-scherm-naar-het-parlement-marokkaanse-artiesten-in-de-politiek-1790748143457.jpg</image:loc></image:image>
   </url>
 </urlset>
