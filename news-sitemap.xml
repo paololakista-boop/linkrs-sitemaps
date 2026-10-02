@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/kritieke-mineralen-marokko-heeft-de-grondstoffen-maar-nog-geen-strategie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T14:48:38.161Z</news:publication_date>
+      <news:title>Kritieke mineralen: Marokko heeft de grondstoffen, maar nog geen strategie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kritieke-mineralen-marokko-heeft-de-grondstoffen-maar-nog-geen-strategie-1790949815110.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vijf-arrestaties-na-racistische-aanval-op-marokkaan-in-regio-valencia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T14:47:42.441Z</news:publication_date>
+      <news:title>Vijf arrestaties na racistische aanval op Marokkaan in regio Valencia</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vijf-arrestaties-na-racistische-aanval-op-marokkaan-in-regio-valencia-1790950958710.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/twee-eeuwen-marokkaanse-migratie-van-ghurba-tot-arbeidsmigratie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T14:28:37.326Z</news:publication_date>
+      <news:title>Twee eeuwen Marokkaanse migratie: van ghurba tot arbeidsmigratie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-eeuwen-marokkaanse-migratie-van-ghurba-tot-arbeidsmigratie-1790949774845.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marrakech-viert-soekot-marokkaanse-joden-vieren-feest-in-de-rode-stad</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T14:27:40.179Z</news:publication_date>
+      <news:title>Marrakech viert Soekot: Marokkaanse Joden vieren feest in de Rode Stad</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marrakech-viert-soekot-marokkaanse-joden-vieren-feest-in-de-rode-stad-1790950880263.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/casablanca-marathon-keert-terug-op-25-oktober-met-15-000-lopers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T14:08:36.408Z</news:publication_date>
+      <news:title>Casablanca Marathon keert terug op 25 oktober met 15.000 lopers</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/casablanca-marathon-keert-terug-op-25-oktober-met-15-000-lopers-1790949734709.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/can-2025-senegal-daagt-marokko-finale-voor-het-tas-op-8-oktober</loc>
     <news:news>
       <news:publication>
@@ -325,101 +385,5 @@
       <news:title>Eigendomsattest online aanvragen in Marokko: zo werkt het</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eigendomsattest-online-aanvragen-in-marokko-zo-werkt-het-1790793173036.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verslaat-algerije-met-3-1-en-houdt-zicht-op-afrika-cup-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T17:34:32.539Z</news:publication_date>
-      <news:title>Marokko verslaat Algerije met 3-1 en houdt zicht op Afrika Cup 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verslaat-algerije-met-3-1-en-houdt-zicht-op-afrika-cup-2027-1790789551577.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-u20-verslaat-algerije-met-3-1-in-wk-kwalificatie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T16:34:10.458Z</news:publication_date>
-      <news:title>Marokkaanse U20 verslaat Algerije met 3-1 in WK-kwalificatie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-u20-verslaat-algerije-met-3-1-in-wk-kwalificatie-1790785927556.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-vijfsterrenhotel-opent-binnenkort-in-dakhla</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T15:14:10.342Z</news:publication_date>
-      <news:title>Nieuw vijfsterrenhotel opent binnenkort in Dakhla</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-vijfsterrenhotel-opent-binnenkort-in-dakhla-1790778547604.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-en-groene-stroom-veel-installaties-nog-geen-energieonafhankelijkheid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T14:54:09.642Z</news:publication_date>
-      <news:title>Marokko en groene stroom: veel installaties, nog geen energieonafhankelijkheid</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-en-groene-stroom-veel-installaties-nog-geen-energieonafhankelijkheid-1790778512264.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-groeit-met-4-in-tweede-kwartaal-landbouw-trekt-de-kar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T14:49:12.123Z</news:publication_date>
-      <news:title>Marokkaanse economie groeit met 4% in tweede kwartaal, landbouw trekt de kar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-economie-groeit-met-4-in-tweede-kwartaal-landbouw-trekt-de-kar-1790777048215.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/finale-can-2025-tussen-marokko-en-senegal-zo-verloopt-de-zitting-bij-het-tas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T14:34:08.660Z</news:publication_date>
-      <news:title>Finale CAN 2025 tussen Marokko en Senegal: zo verloopt de zitting bij het TAS</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/finale-can-2025-tussen-marokko-en-senegal-zo-verloopt-de-zitting-bij-het-tas-1790778468633.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-kroont-zich-in-marrakech-tot-wereldkampioen-eightball-pool</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T14:29:10.998Z</news:publication_date>
-      <news:title>Marokko kroont zich in Marrakech tot wereldkampioen eightball pool</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-kroont-zich-in-marrakech-tot-wereldkampioen-eightball-pool-1790777006346.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-haalt-270-miljoen-euro-binnen-voor-uitbreiding-van-zijn-luchthavens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T14:09:09.769Z</news:publication_date>
-      <news:title>Marokko haalt 270 miljoen euro binnen voor uitbreiding van zijn luchthavens</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-haalt-270-miljoen-euro-binnen-voor-uitbreiding-van-zijn-luchthavens-1790776970743.jpg</image:loc></image:image>
   </url>
 </urlset>
