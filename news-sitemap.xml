@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/familie-van-voormalige-marokkaanse-karatekampioen-in-belgie-eist-eerlijk-proces</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T22:49:58.790Z</news:publication_date>
+      <news:title>Familie van voormalige Marokkaanse karatekampioen in België eist eerlijk proces</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/familie-van-voormalige-marokkaanse-karatekampioen-in-belgie-eist-eerlijk-proces-1790981009589.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/beursgenoteerde-bedrijven-in-casablanca-boeken-12-9-procent-meer-winst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T22:28:35.596Z</news:publication_date>
+      <news:title>Beursgenoteerde bedrijven in Casablanca boeken 12,9 procent meer winst</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/beursgenoteerde-bedrijven-in-casablanca-boeken-12-9-procent-meer-winst-1790978570312.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vn-veiligheidsraad-bespreekt-westelijke-sahara-voor-nieuwe-minurso-resolutie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T22:08:34.500Z</news:publication_date>
+      <news:title>VN-Veiligheidsraad bespreekt Westelijke Sahara voor nieuwe MINURSO-resolutie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vn-veiligheidsraad-bespreekt-westelijke-sahara-voor-nieuwe-minurso-resolutie-1790978538232.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mazraoui-verlaat-marokkaans-kamp-en-keert-terug-naar-manchester-united</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T20:37:11.993Z</news:publication_date>
+      <news:title>Mazraoui verlaat Marokkaans kamp en keert terug naar Manchester United</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mazraoui-verlaat-marokkaans-kamp-en-keert-terug-naar-manchester-united-1790973130802.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/eu-zet-1-180-marokkanen-uit-frankrijk-geeft-meeste-vertrekbevelen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T19:37:11.461Z</news:publication_date>
+      <news:title>EU zet 1.180 Marokkanen uit: Frankrijk geeft meeste vertrekbevelen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eu-zet-1-180-marokkanen-uit-frankrijk-geeft-meeste-vertrekbevelen-1790969530623.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toerist-vermist-na-jetski-tocht-ten-noorden-van-agadir</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T19:05:12.066Z</news:publication_date>
+      <news:title>Toerist vermist na jetski-tocht ten noorden van Agadir</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toerist-vermist-na-jetski-tocht-ten-noorden-van-agadir-1790967790459.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/jonge-vrouw-komt-om-bij-val-van-vierde-verdieping-in-martil-onderzoek-geopend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T18:34:32.635Z</news:publication_date>
+      <news:title>Jonge vrouw komt om bij val van vierde verdieping in Martil, onderzoek geopend</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-vrouw-komt-om-bij-val-van-vierde-verdieping-in-martil-onderzoek-geopend-1790965950786.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/kritieke-mineralen-marokko-heeft-de-grondstoffen-maar-nog-geen-strategie</loc>
     <news:news>
       <news:publication>
@@ -313,77 +397,5 @@
       <news:title>Marokkaanse studenten koploper aan Franse universiteiten</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-studenten-koploper-aan-franse-universiteiten-1790834541219.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/franse-agent-geschorst-na-dood-jonge-marokkaan-in-carcassonne</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T22:34:34.432Z</news:publication_date>
-      <news:title>Franse agent geschorst na dood jonge Marokkaan in Carcassonne</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-agent-geschorst-na-dood-jonge-marokkaan-in-carcassonne-1790807552937.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kraoui-over-verkiezingen-in-marokko-sleutel-tot-herstel-van-vertrouwen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T22:28:14.443Z</news:publication_date>
-      <news:title>Kraoui over verkiezingen in Marokko: sleutel tot herstel van vertrouwen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kraoui-over-verkiezingen-in-marokko-sleutel-tot-herstel-van-vertrouwen-1790805791535.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-klimt-13-plaatsen-op-de-mondiale-innovatie-index</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T22:08:13.522Z</news:publication_date>
-      <news:title>Marokko klimt 13 plaatsen op de mondiale innovatie-index</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-klimt-13-plaatsen-op-de-mondiale-innovatie-index-1790805750916.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mohamed-ouahbi-staat-op-het-punt-record-met-atlas-leeuwen-te-breken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T21:37:31.664Z</news:publication_date>
-      <news:title>Mohamed Ouahbi staat op het punt record met Atlas Leeuwen te breken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mohamed-ouahbi-staat-op-het-punt-record-met-atlas-leeuwen-te-breken-1790803949717.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/brandstofprijzen-in-marokko-stijgen-opnieuw-vanaf-1-oktober</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T19:37:30.456Z</news:publication_date>
-      <news:title>Brandstofprijzen in Marokko stijgen opnieuw vanaf 1 oktober</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/brandstofprijzen-in-marokko-stijgen-opnieuw-vanaf-1-oktober-1790796748483.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/eigendomsattest-online-aanvragen-in-marokko-zo-werkt-het</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-30T18:37:55.351Z</news:publication_date>
-      <news:title>Eigendomsattest online aanvragen in Marokko: zo werkt het</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eigendomsattest-online-aanvragen-in-marokko-zo-werkt-het-1790793173036.jpg</image:loc></image:image>
   </url>
 </urlset>
