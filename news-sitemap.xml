@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toen-benkirane-werd-aangeklaagd-wegens-de-corrupten-het-grondwettelijk-hof-hield</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T23:30:00.842Z</news:publication_date>
+      <news:title>Toen Benkirane werd aangeklaagd wegens &quot;de corrupten&quot;: het Grondwettelijk Hof hield zijn zetel overeind</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toen-benkirane-werd-aangeklaagd-wegens-de-corrupten-het-grondwettelijk-hof-hield-1790981095778.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/groot-stadion-van-fes-krijgt-opknapbeurt-voor-wk-2030-twee-internationale-aanbes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T23:10:00.023Z</news:publication_date>
+      <news:title>Groot stadion van Fès krijgt opknapbeurt voor WK 2030: twee internationale aanbestedingen van 1,52 miljard dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/groot-stadion-van-fes-krijgt-opknapbeurt-voor-wk-2030-twee-internationale-aanbes-1790981051401.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/familie-van-voormalige-marokkaanse-karatekampioen-in-belgie-eist-eerlijk-proces</loc>
     <news:news>
       <news:publication>
