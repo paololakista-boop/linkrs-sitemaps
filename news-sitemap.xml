@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-student-maakt-van-verblijfsstrijd-in-frankrijk-een-hulp-voor-migrant</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T07:37:07.093Z</news:publication_date>
+      <news:title>Marokkaanse student maakt van verblijfsstrijd in Frankrijk een hulp voor migranten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-student-maakt-van-verblijfsstrijd-in-frankrijk-een-hulp-voor-migrant-1791012726331.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dure-huur-in-rabat-zet-marokkaanse-studenten-onder-druk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T06:37:27.821Z</news:publication_date>
+      <news:title>Dure huur in Rabat zet Marokkaanse studenten onder druk</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dure-huur-in-rabat-zet-marokkaanse-studenten-onder-druk-1791009146775.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/caf-zet-mohamed-ouahbi-in-de-kijker-na-wk-stunt-met-de-atlasleeuwen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T06:08:03.958Z</news:publication_date>
+      <news:title>CAF zet Mohamed Ouahbi in de kijker na WK-stunt met de Atlasleeuwen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-zet-mohamed-ouahbi-in-de-kijker-na-wk-stunt-met-de-atlasleeuwen-1791007342571.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/toen-benkirane-werd-aangeklaagd-wegens-de-corrupten-het-grondwettelijk-hof-hield</loc>
     <news:news>
       <news:publication>
@@ -397,29 +433,5 @@
       <news:title>Valse arbeidscontracten voor Marokkanen: koppel opgepakt in Italië</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/valse-arbeidscontracten-voor-marokkanen-koppel-opgepakt-in-italie-1790843524887.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/difterie-keert-terug-in-marokko-na-meer-dan-30-jaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T06:28:04.844Z</news:publication_date>
-      <news:title>Difterie keert terug in Marokko na meer dan 30 jaar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-keert-terug-in-marokko-na-meer-dan-30-jaar-1790834581167.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-studenten-koploper-aan-franse-universiteiten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T06:08:03.610Z</news:publication_date>
-      <news:title>Marokkaanse studenten koploper aan Franse universiteiten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-studenten-koploper-aan-franse-universiteiten-1790834541219.jpg</image:loc></image:image>
   </url>
 </urlset>
