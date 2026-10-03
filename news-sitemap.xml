@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verwarring-in-marokko-baraka-kondigt-uitsluiting-rni-aan-en-trekt-het-meteen-wee</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T17:37:22.699Z</news:publication_date>
+      <news:title>Verwarring in Marokko: Baraka kondigt uitsluiting RNI aan en trekt het meteen weer in</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verwarring-in-marokko-baraka-kondigt-uitsluiting-rni-aan-en-trekt-het-meteen-wee-1791048741342.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belgie-wijst-asielaanvraag-fouad-belkacem-af-en-baant-weg-voor-uitwijzing-naar-m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T16:57:09.520Z</news:publication_date>
+      <news:title>België wijst asielaanvraag Fouad Belkacem af en baant weg voor uitwijzing naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-wijst-asielaanvraag-fouad-belkacem-af-en-baant-weg-voor-uitwijzing-naar-m-1791046508207.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-2026-pam-wil-af-van-coalitie-met-rni</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T16:37:16.154Z</news:publication_date>
+      <news:title>Marokkaanse verkiezingen 2026: PAM wil af van coalitie met RNI</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-2026-pam-wil-af-van-coalitie-met-rni-1791045134453.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verkiezingen-in-marokko-fors-minder-klachten-dan-in-2021</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T15:10:24.718Z</news:publication_date>
+      <news:title>Verkiezingen in Marokko: fors minder klachten dan in 2021</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkiezingen-in-marokko-fors-minder-klachten-dan-in-2021-1791039923837.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verhoogt-directe-steun-voor-beroepschauffeurs-en-vrachtvervoerders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T14:48:46.424Z</news:publication_date>
+      <news:title>Marokko verhoogt directe steun voor beroepschauffeurs en vrachtvervoerders</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verhoogt-directe-steun-voor-beroepschauffeurs-en-vrachtvervoerders-1791036223090.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-auto-export-stijgt-met-meer-dan-14-procent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T14:28:45.632Z</news:publication_date>
+      <news:title>Marokkaanse auto-export stijgt met meer dan 14 procent</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-auto-export-stijgt-met-meer-dan-14-procent-1791036187228.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-toeristen-boos-over-behandeling-op-luchthaven-tunis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T14:08:44.319Z</news:publication_date>
+      <news:title>Marokkaanse toeristen boos over behandeling op luchthaven Tunis</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-toeristen-boos-over-behandeling-op-luchthaven-tunis-1791036150321.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/waarom-de-crisis-in-sebta-allang-niet-meer-alleen-marokko-en-spanje-aangaat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T13:41:16.429Z</news:publication_date>
+      <news:title>Waarom de crisis in Sebta allang niet meer alleen Marokko en Spanje aangaat</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-de-crisis-in-sebta-allang-niet-meer-alleen-marokko-en-spanje-aangaat-1791032173213.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/stijgende-energiefactuur-zet-begroting-2027-van-marokko-onder-druk</loc>
     <news:news>
       <news:publication>
@@ -373,65 +469,5 @@
       <news:title>Marokkaanse minderjarige uit Ceuta gezet ondanks geldige verblijfstitel</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-minderjarige-uit-ceuta-gezet-ondanks-geldige-verblijfstitel-1790879602578.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaans-koningspaar-bezoekt-ceuta-en-melilla-experts-vrezen-nieuwe-spanning-met-m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T17:37:26.630Z</news:publication_date>
-      <news:title>Spaans koningspaar bezoekt Ceuta en Melilla: experts vrezen nieuwe spanning met Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaans-koningspaar-bezoekt-ceuta-en-melilla-experts-vrezen-nieuwe-spanning-met-m-1790875945304.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/welkom-aan-een-vrouwelijke-regeringsleider-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T15:03:39.305Z</news:publication_date>
-      <news:title>Welkom aan een vrouwelijke regeringsleider in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/welkom-aan-een-vrouwelijke-regeringsleider-in-marokko-1790866718165.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amnesty-beschuldigt-marokko-van-surveillance-van-journalisten-en-activisten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T14:50:49.975Z</news:publication_date>
-      <news:title>Amnesty beschuldigt Marokko van surveillance van journalisten en activisten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amnesty-beschuldigt-marokko-van-surveillance-van-journalisten-en-activisten-1790863544298.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vier-vrouwen-die-de-politieke-geschiedenis-van-marokko-vormgaven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T14:30:49.222Z</news:publication_date>
-      <news:title>Vier vrouwen die de politieke geschiedenis van Marokko vormgaven</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vier-vrouwen-die-de-politieke-geschiedenis-van-marokko-vormgaven-1790863510061.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rni-zegt-klaar-te-zijn-voor-nieuwe-regering-en-legt-beslissing-bij-nationale-raa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T13:37:37.471Z</news:publication_date>
-      <news:title>RNI zegt klaar te zijn voor nieuwe regering en legt beslissing bij Nationale Raad</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rni-zegt-klaar-te-zijn-voor-nieuwe-regering-en-legt-beslissing-bij-nationale-raa-1790861554702.jpg</image:loc></image:image>
   </url>
 </urlset>
