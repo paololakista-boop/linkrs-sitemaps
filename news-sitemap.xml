@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/stijgende-energiefactuur-zet-begroting-2027-van-marokko-onder-druk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T13:21:15.653Z</news:publication_date>
+      <news:title>Stijgende energiefactuur zet begroting 2027 van Marokko onder druk</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/stijgende-energiefactuur-zet-begroting-2027-van-marokko-onder-druk-1791032129624.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spoorrevolutie-in-casablanca-20-miljard-dirham-een-jaar-na-de-start</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T13:01:14.672Z</news:publication_date>
+      <news:title>Spoorrevolutie in Casablanca: 20 miljard dirham een jaar na de start</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spoorrevolutie-in-casablanca-20-miljard-dirham-een-jaar-na-de-start-1791032086763.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/geldtransfers-van-marokkaanse-diaspora-stijgen-9-procent-tot-9-8-miljard-dollar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T12:37:46.311Z</news:publication_date>
+      <news:title>Geldtransfers van Marokkaanse diaspora stijgen 9 procent tot 9,8 miljard dollar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/geldtransfers-van-marokkaanse-diaspora-stijgen-9-procent-tot-9-8-miljard-dollar-1791030730690.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-nuanceert-band-met-copiloot-van-flydubai-incident</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T12:34:47.813Z</news:publication_date>
+      <news:title>Royal Air Maroc nuanceert band met copiloot van Flydubai-incident</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-air-maroc-nuanceert-band-met-copiloot-van-flydubai-incident-1791030764906.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fatima-zahra-el-mansouri-wordt-eerste-vrouwelijke-regeringsleider-van-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T09:37:09.598Z</news:publication_date>
+      <news:title>Fatima-Zahra El Mansouri wordt eerste vrouwelijke regeringsleider van Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fatima-zahra-el-mansouri-wordt-eerste-vrouwelijke-regeringsleider-van-marokko-1791019928336.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-student-maakt-van-verblijfsstrijd-in-frankrijk-een-hulp-voor-migrant</loc>
     <news:news>
       <news:publication>
@@ -373,65 +433,5 @@
       <news:title>RNI zegt klaar te zijn voor nieuwe regering en legt beslissing bij Nationale Raad</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rni-zegt-klaar-te-zijn-voor-nieuwe-regering-en-legt-beslissing-bij-nationale-raa-1790861554702.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlas-leeuwen-starten-voorbereiding-met-oefeninterland-tegen-mali-in-tanger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T12:37:12.825Z</news:publication_date>
-      <news:title>Atlas Leeuwen starten voorbereiding met oefeninterland tegen Mali in Tanger</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlas-leeuwen-starten-voorbereiding-met-oefeninterland-tegen-mali-in-tanger-1790857930700.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zes-boten-in-een-week-migratie-vanuit-agadir-naar-lanzarote-neemt-toe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T11:37:39.916Z</news:publication_date>
-      <news:title>Zes boten in één week: migratie vanuit Agadir naar Lanzarote neemt toe</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zes-boten-in-een-week-migratie-vanuit-agadir-naar-lanzarote-neemt-toe-1790854357378.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/overboekingen-van-marokkanen-in-het-buitenland-stijgen-met-9-procent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T10:37:30.536Z</news:publication_date>
-      <news:title>Overboekingen van Marokkanen in het buitenland stijgen met 9 procent</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/overboekingen-van-marokkanen-in-het-buitenland-stijgen-met-9-procent-1790850744968.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wisselkoersen-dirham-van-1-oktober-dit-krijg-je-voor-je-euro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T09:37:19.674Z</news:publication_date>
-      <news:title>Wisselkoersen dirham van 1 oktober: dit krijg je voor je euro</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoersen-dirham-van-1-oktober-dit-krijg-je-voor-je-euro-1790847138107.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/valse-arbeidscontracten-voor-marokkanen-koppel-opgepakt-in-italie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T08:37:24.748Z</news:publication_date>
-      <news:title>Valse arbeidscontracten voor Marokkanen: koppel opgepakt in Italië</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/valse-arbeidscontracten-voor-marokkanen-koppel-opgepakt-in-italie-1790843524887.jpg</image:loc></image:image>
   </url>
 </urlset>
