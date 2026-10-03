@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nora-fatehi-en-yassine-bounou-nieuwe-video-wakkert-geruchten-over-relatie-aan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T19:10:36.495Z</news:publication_date>
+      <news:title>Nora Fatehi en Yassine Bounou: nieuwe video wakkert geruchten over relatie aan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nora-fatehi-en-yassine-bounou-nieuwe-video-wakkert-geruchten-over-relatie-aan-1791054334153.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u20-plaatst-zich-voor-afrika-cup-na-zege-op-egypte</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T19:07:35.462Z</news:publication_date>
+      <news:title>Marokko U20 plaatst zich voor Afrika Cup na zege op Egypte</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u20-plaatst-zich-voor-afrika-cup-na-zege-op-egypte-1791054303286.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/verwarring-in-marokko-baraka-kondigt-uitsluiting-rni-aan-en-trekt-het-meteen-wee</loc>
     <news:news>
       <news:publication>
@@ -433,41 +457,5 @@
       <news:title>Politieagent in El Jadida pleegt zelfmoord met dienstwapen tijdens onderzoek naar zedenklacht</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politieagent-in-el-jadida-pleegt-zelfmoord-met-dienstwapen-tijdens-onderzoek-naa-1790892176632.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verzekert-brandstofvoorraad-tot-eind-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T19:57:56.355Z</news:publication_date>
-      <news:title>Marokko verzekert brandstofvoorraad tot eind 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verzekert-brandstofvoorraad-tot-eind-2026-1790883174188.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/linkse-alliantie-houdt-vast-aan-neutrale-plek-voor-overleg-met-regeringsvormer-e</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T19:37:55.223Z</news:publication_date>
-      <news:title>Linkse alliantie houdt vast aan neutrale plek voor overleg met regeringsvormer El Mansouri</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/linkse-alliantie-houdt-vast-aan-neutrale-plek-voor-overleg-met-regeringsvormer-e-1790883141074.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-minderjarige-uit-ceuta-gezet-ondanks-geldige-verblijfstitel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T18:58:28.595Z</news:publication_date>
-      <news:title>Marokkaanse minderjarige uit Ceuta gezet ondanks geldige verblijfstitel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-minderjarige-uit-ceuta-gezet-ondanks-geldige-verblijfstitel-1790879602578.jpg</image:loc></image:image>
   </url>
 </urlset>
