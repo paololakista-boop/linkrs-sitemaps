@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-zeventiger-slachtoffer-van-racistische-aanval-in-rome</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T20:37:22.021Z</news:publication_date>
+      <news:title>Marokkaanse zeventiger slachtoffer van racistische aanval in Rome</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-zeventiger-slachtoffer-van-racistische-aanval-in-rome-1791145940384.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/de-dirham-verzwakt-voor-de-vijfde-week-op-rij-tegenover-euro-en-dollar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T18:37:30.315Z</news:publication_date>
+      <news:title>De dirham verzwakt voor de vijfde week op rij tegenover euro en dollar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-dirham-verzwakt-voor-de-vijfde-week-op-rij-tegenover-euro-en-dollar-1791138749426.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/rustiger-aan-de-grens-bij-beni-enzar-maar-nog-altijd-twee-uur-wachten-naar-marok</loc>
     <news:news>
       <news:publication>
@@ -373,53 +397,5 @@
       <news:title>VN-Veiligheidsraad bespreekt Westelijke Sahara voor nieuwe MINURSO-resolutie</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vn-veiligheidsraad-bespreekt-westelijke-sahara-voor-nieuwe-minurso-resolutie-1790978538232.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mazraoui-verlaat-marokkaans-kamp-en-keert-terug-naar-manchester-united</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T20:37:11.993Z</news:publication_date>
-      <news:title>Mazraoui verlaat Marokkaans kamp en keert terug naar Manchester United</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mazraoui-verlaat-marokkaans-kamp-en-keert-terug-naar-manchester-united-1790973130802.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/eu-zet-1-180-marokkanen-uit-frankrijk-geeft-meeste-vertrekbevelen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T19:37:11.461Z</news:publication_date>
-      <news:title>EU zet 1.180 Marokkanen uit: Frankrijk geeft meeste vertrekbevelen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eu-zet-1-180-marokkanen-uit-frankrijk-geeft-meeste-vertrekbevelen-1790969530623.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/toerist-vermist-na-jetski-tocht-ten-noorden-van-agadir</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T19:05:12.066Z</news:publication_date>
-      <news:title>Toerist vermist na jetski-tocht ten noorden van Agadir</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toerist-vermist-na-jetski-tocht-ten-noorden-van-agadir-1790967790459.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/jonge-vrouw-komt-om-bij-val-van-vierde-verdieping-in-martil-onderzoek-geopend</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T18:34:32.635Z</news:publication_date>
-      <news:title>Jonge vrouw komt om bij val van vierde verdieping in Martil, onderzoek geopend</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-vrouw-komt-om-bij-val-van-vierde-verdieping-in-martil-onderzoek-geopend-1790965950786.jpg</image:loc></image:image>
   </url>
 </urlset>
