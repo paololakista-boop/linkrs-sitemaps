@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/difterie-eist-leven-van-meisje-12-in-marokko-ouders-willen-strengere-controles-o</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T22:34:06.136Z</news:publication_date>
+      <news:title>Difterie eist leven van meisje (12) in Marokko, ouders willen strengere controles op scholen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-eist-leven-van-meisje-12-in-marokko-ouders-willen-strengere-controles-o-1791066724853.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-freediver-alfia-chelai-duikt-naar-nationaal-record-van-71-meter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-03T22:00:30.763Z</news:publication_date>
+      <news:title>Marokkaanse freediver Alfia Chelai duikt naar nationaal record van 71 meter</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-freediver-alfia-chelai-duikt-naar-nationaal-record-van-71-meter-1791064529402.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nora-fatehi-en-yassine-bounou-nieuwe-video-wakkert-geruchten-over-relatie-aan</loc>
     <news:news>
       <news:publication>
@@ -433,29 +457,5 @@
       <news:title>Fraude met stembiljetten in Tanger: twee extra verdachten opgepakt</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fraude-met-stembiljetten-in-tanger-twee-extra-verdachten-opgepakt-1790920942048.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/attijariwafa-bank-zet-voet-aan-de-grond-in-ghana</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T22:07:58.809Z</news:publication_date>
-      <news:title>Attijariwafa bank zet voet aan de grond in Ghana</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/attijariwafa-bank-zet-voet-aan-de-grond-in-ghana-1790892143894.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/politieagent-in-el-jadida-pleegt-zelfmoord-met-dienstwapen-tijdens-onderzoek-naa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T22:04:59.774Z</news:publication_date>
-      <news:title>Politieagent in El Jadida pleegt zelfmoord met dienstwapen tijdens onderzoek naar zedenklacht</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politieagent-in-el-jadida-pleegt-zelfmoord-met-dienstwapen-tijdens-onderzoek-naa-1790892176632.jpg</image:loc></image:image>
   </url>
 </urlset>
