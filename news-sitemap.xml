@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/handel-tussen-marokko-en-spanje-stevent-af-op-recordjaar-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T06:27:53.035Z</news:publication_date>
+      <news:title>Handel tussen Marokko en Spanje stevent af op recordjaar in 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/handel-tussen-marokko-en-spanje-stevent-af-op-recordjaar-in-2026-1791093771388.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-rondt-voorbereiding-af-op-oefenduel-tegen-mali-in-tanger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T06:07:52.234Z</news:publication_date>
+      <news:title>Marokko rondt voorbereiding af op oefenduel tegen Mali in Tanger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-rondt-voorbereiding-af-op-oefenduel-tegen-mali-in-tanger-1791093733422.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/difterie-eist-leven-van-meisje-12-in-marokko-ouders-willen-strengere-controles-o</loc>
     <news:news>
       <news:publication>
@@ -433,29 +457,5 @@
       <news:title>Regeringsvorming in Marokko: de magische grens van 198 zetels</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/regeringsvorming-in-marokko-de-magische-grens-van-198-zetels-1790926327105.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amazigh-zanger-omar-boutmzought-overleden-na-lange-ziekte</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T06:28:04.892Z</news:publication_date>
-      <news:title>Amazigh-zanger Omar Boutmzought overleden na lange ziekte</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amazigh-zanger-omar-boutmzought-overleden-na-lange-ziekte-1790920982315.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fraude-met-stembiljetten-in-tanger-twee-extra-verdachten-opgepakt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T06:08:03.625Z</news:publication_date>
-      <news:title>Fraude met stembiljetten in Tanger: twee extra verdachten opgepakt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fraude-met-stembiljetten-in-tanger-twee-extra-verdachten-opgepakt-1790920942048.jpg</image:loc></image:image>
   </url>
 </urlset>
