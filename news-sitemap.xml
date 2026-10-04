@@ -434,28 +434,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/casablanca-marathon-keert-terug-op-25-oktober-met-15-000-lopers-1790949734709.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/can-2025-senegal-daagt-marokko-finale-voor-het-tas-op-8-oktober</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T12:34:12.399Z</news:publication_date>
-      <news:title>CAN 2025: Senegal daagt Marokko-finale voor het TAS op 8 oktober</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-2025-senegal-daagt-marokko-finale-voor-het-tas-op-8-oktober-1790944329332.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/regeringsvorming-in-marokko-de-magische-grens-van-198-zetels</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T07:37:08.572Z</news:publication_date>
-      <news:title>Regeringsvorming in Marokko: de magische grens van 198 zetels</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/regeringsvorming-in-marokko-de-magische-grens-van-198-zetels-1790926327105.jpg</image:loc></image:image>
-  </url>
 </urlset>
