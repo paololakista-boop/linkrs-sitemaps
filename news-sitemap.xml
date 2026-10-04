@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rustiger-aan-de-grens-bij-beni-enzar-maar-nog-altijd-twee-uur-wachten-naar-marok</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T15:37:18.570Z</news:publication_date>
+      <news:title>Rustiger aan de grens bij Beni Enzar, maar nog altijd twee uur wachten naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rustiger-aan-de-grens-bij-beni-enzar-maar-nog-altijd-twee-uur-wachten-naar-marok-1791127937142.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vier-marokkaanse-partijen-vormen-samen-een-parlementaire-fractie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T14:48:51.515Z</news:publication_date>
+      <news:title>Vier Marokkaanse partijen vormen samen een parlementaire fractie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vier-marokkaanse-partijen-vormen-samen-een-parlementaire-fractie-1791122629306.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-ontruimt-migrantenkamp-van-3-500-mensen-in-ceuta-voor-koninklijk-bezoek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T14:28:50.829Z</news:publication_date>
+      <news:title>Spanje ontruimt migrantenkamp van 3.500 mensen in Ceuta voor koninklijk bezoek</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-ontruimt-migrantenkamp-van-3-500-mensen-in-ceuta-voor-koninklijk-bezoek-1791122595517.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-marokkaans-platform-laat-bewoners-stadsproblemen-melden-en-opvolgen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T14:08:50.025Z</news:publication_date>
+      <news:title>Nieuw Marokkaans platform laat bewoners stadsproblemen melden en opvolgen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-marokkaans-platform-laat-bewoners-stadsproblemen-melden-en-opvolgen-1791122560284.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/handel-tussen-marokko-en-spanje-stevent-af-op-recordjaar-in-2026</loc>
     <news:news>
       <news:publication>
@@ -373,65 +421,5 @@
       <news:title>Jonge vrouw komt om bij val van vierde verdieping in Martil, onderzoek geopend</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-vrouw-komt-om-bij-val-van-vierde-verdieping-in-martil-onderzoek-geopend-1790965950786.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kritieke-mineralen-marokko-heeft-de-grondstoffen-maar-nog-geen-strategie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T14:48:38.161Z</news:publication_date>
-      <news:title>Kritieke mineralen: Marokko heeft de grondstoffen, maar nog geen strategie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kritieke-mineralen-marokko-heeft-de-grondstoffen-maar-nog-geen-strategie-1790949815110.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vijf-arrestaties-na-racistische-aanval-op-marokkaan-in-regio-valencia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T14:47:42.441Z</news:publication_date>
-      <news:title>Vijf arrestaties na racistische aanval op Marokkaan in regio Valencia</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vijf-arrestaties-na-racistische-aanval-op-marokkaan-in-regio-valencia-1790950958710.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/twee-eeuwen-marokkaanse-migratie-van-ghurba-tot-arbeidsmigratie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T14:28:37.326Z</news:publication_date>
-      <news:title>Twee eeuwen Marokkaanse migratie: van ghurba tot arbeidsmigratie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-eeuwen-marokkaanse-migratie-van-ghurba-tot-arbeidsmigratie-1790949774845.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marrakech-viert-soekot-marokkaanse-joden-vieren-feest-in-de-rode-stad</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T14:27:40.179Z</news:publication_date>
-      <news:title>Marrakech viert Soekot: Marokkaanse Joden vieren feest in de Rode Stad</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marrakech-viert-soekot-marokkaanse-joden-vieren-feest-in-de-rode-stad-1790950880263.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/casablanca-marathon-keert-terug-op-25-oktober-met-15-000-lopers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T14:08:36.408Z</news:publication_date>
-      <news:title>Casablanca Marathon keert terug op 25 oktober met 15.000 lopers</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/casablanca-marathon-keert-terug-op-25-oktober-met-15-000-lopers-1790949734709.jpg</image:loc></image:image>
   </url>
 </urlset>
