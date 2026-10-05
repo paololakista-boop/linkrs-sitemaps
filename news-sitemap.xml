@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-vrezen-zorgkosten-maar-weinigen-willen-hogere-belastingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T22:54:35.972Z</news:publication_date>
+      <news:title>Marokkanen vrezen zorgkosten, maar weinigen willen hogere belastingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-vrezen-zorgkosten-maar-weinigen-willen-hogere-belastingen-1791151772589.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-spanje-voorbij-als-tomatenleverancier-van-de-eu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T22:48:32.920Z</news:publication_date>
+      <news:title>Marokko blijft Spanje voorbij als tomatenleverancier van de EU</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-blijft-spanje-voorbij-als-tomatenleverancier-van-de-eu-1791151410049.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-banken-boeken-meer-winst-maar-vooral-door-lagere-risicokosten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T22:34:35.213Z</news:publication_date>
+      <news:title>Marokkaanse banken boeken meer winst, maar vooral door lagere risicokosten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-banken-boeken-meer-winst-maar-vooral-door-lagere-risicokosten-1791151733580.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-neroli-het-aroma-dat-kenzo-en-de-wereldparfumerie-inspireerde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T22:28:32.137Z</news:publication_date>
+      <news:title>Marokkaanse neroli: het aroma dat Kenzo en de wereldparfumerie inspireerde</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-neroli-het-aroma-dat-kenzo-en-de-wereldparfumerie-inspireerde-1791151371714.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-gezinnen-krimpen-geboortecijfer-nog-nooit-zo-laag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T22:14:34.032Z</news:publication_date>
+      <news:title>Marokkaanse gezinnen krimpen: geboortecijfer nog nooit zo laag</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-gezinnen-krimpen-geboortecijfer-nog-nooit-zo-laag-1791151698162.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/guterres-licht-tipje-van-de-sluier-op-over-gesprekken-over-de-sahara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-04T22:08:31.226Z</news:publication_date>
+      <news:title>Guterres licht tipje van de sluier op over gesprekken over de Sahara</news:title>
+    </news:news>
+    <image:image><image:loc>https://static.yabiladi.com/files/articles/yabiladi.ad99bd9a678ee46e5d762b56702eadc820261004212414150.webp</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-zeventiger-slachtoffer-van-racistische-aanval-in-rome</loc>
     <news:news>
       <news:publication>
@@ -337,65 +409,5 @@
       <news:title>CAF zet Mohamed Ouahbi in de kijker na WK-stunt met de Atlasleeuwen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-zet-mohamed-ouahbi-in-de-kijker-na-wk-stunt-met-de-atlasleeuwen-1791007342571.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/toen-benkirane-werd-aangeklaagd-wegens-de-corrupten-het-grondwettelijk-hof-hield</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T23:30:00.842Z</news:publication_date>
-      <news:title>Toen Benkirane werd aangeklaagd wegens &quot;de corrupten&quot;: het Grondwettelijk Hof hield zijn zetel overeind</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toen-benkirane-werd-aangeklaagd-wegens-de-corrupten-het-grondwettelijk-hof-hield-1790981095778.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/groot-stadion-van-fes-krijgt-opknapbeurt-voor-wk-2030-twee-internationale-aanbes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T23:10:00.023Z</news:publication_date>
-      <news:title>Groot stadion van Fès krijgt opknapbeurt voor WK 2030: twee internationale aanbestedingen van 1,52 miljard dirham</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/groot-stadion-van-fes-krijgt-opknapbeurt-voor-wk-2030-twee-internationale-aanbes-1790981051401.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/familie-van-voormalige-marokkaanse-karatekampioen-in-belgie-eist-eerlijk-proces</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T22:49:58.790Z</news:publication_date>
-      <news:title>Familie van voormalige Marokkaanse karatekampioen in België eist eerlijk proces</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/familie-van-voormalige-marokkaanse-karatekampioen-in-belgie-eist-eerlijk-proces-1790981009589.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/beursgenoteerde-bedrijven-in-casablanca-boeken-12-9-procent-meer-winst</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T22:28:35.596Z</news:publication_date>
-      <news:title>Beursgenoteerde bedrijven in Casablanca boeken 12,9 procent meer winst</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/beursgenoteerde-bedrijven-in-casablanca-boeken-12-9-procent-meer-winst-1790978570312.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vn-veiligheidsraad-bespreekt-westelijke-sahara-voor-nieuwe-minurso-resolutie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-02T22:08:34.500Z</news:publication_date>
-      <news:title>VN-Veiligheidsraad bespreekt Westelijke Sahara voor nieuwe MINURSO-resolutie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vn-veiligheidsraad-bespreekt-westelijke-sahara-voor-nieuwe-minurso-resolutie-1790978538232.jpg</image:loc></image:image>
   </url>
 </urlset>
