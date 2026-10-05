@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-wet-over-naturalisatie-sahrawi-s-sneuvelt-door-ontbinding-parlement</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T22:28:58.380Z</news:publication_date>
+      <news:title>Spaanse wet over naturalisatie Sahrawi&apos;s sneuvelt door ontbinding parlement</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-wet-over-naturalisatie-sahrawi-s-sneuvelt-door-ontbinding-parlement-1791237803591.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/taghazout-bij-de-tien-bestemmingen-om-te-ontdekken-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T22:08:57.515Z</news:publication_date>
+      <news:title>Taghazout bij de tien bestemmingen om te ontdekken in 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/taghazout-bij-de-tien-bestemmingen-om-te-ontdekken-in-2026-1791237762417.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-reizen-nog-altijd-visumvrij-naar-de-filipijnen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T21:37:25.068Z</news:publication_date>
+      <news:title>Marokkanen reizen nog altijd visumvrij naar de Filipijnen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-reizen-nog-altijd-visumvrij-naar-de-filipijnen-1791235942279.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-studie-verdeelt-marokkaanse-arbeidsmarkt-in-vijf-types-gemeenten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T17:25:51.127Z</news:publication_date>
+      <news:title>Nieuwe studie verdeelt Marokkaanse arbeidsmarkt in vijf types gemeenten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-studie-verdeelt-marokkaanse-arbeidsmarkt-in-vijf-types-gemeenten-1791218444511.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/internationale-signalen-wijzen-op-mogelijke-daling-dieselprijs-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T16:45:45.850Z</news:publication_date>
+      <news:title>Internationale signalen wijzen op mogelijke daling dieselprijs in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/internationale-signalen-wijzen-op-mogelijke-daling-dieselprijs-in-marokko-1791218363751.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mansouri-dicht-bij-een-regeerakkoord-de-nationale-blok-domineert-de-coalitiegesp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T16:37:19.708Z</news:publication_date>
+      <news:title>Mansouri dicht bij een regeerakkoord: de nationale blok domineert de coalitiegesprekken</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mansouri-dicht-bij-een-regeerakkoord-de-nationale-blok-domineert-de-coalitiegesp-1791217938069.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-exporteurs-onder-vuur-voor-deviezenfraude-van-113-miljoen-dirham</loc>
     <news:news>
       <news:publication>
@@ -253,89 +325,5 @@
       <news:title>Marokko rondt voorbereiding af op oefenduel tegen Mali in Tanger</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-rondt-voorbereiding-af-op-oefenduel-tegen-mali-in-tanger-1791093733422.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/difterie-eist-leven-van-meisje-12-in-marokko-ouders-willen-strengere-controles-o</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T22:34:06.136Z</news:publication_date>
-      <news:title>Difterie eist leven van meisje (12) in Marokko, ouders willen strengere controles op scholen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-eist-leven-van-meisje-12-in-marokko-ouders-willen-strengere-controles-o-1791066724853.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-freediver-alfia-chelai-duikt-naar-nationaal-record-van-71-meter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T22:00:30.763Z</news:publication_date>
-      <news:title>Marokkaanse freediver Alfia Chelai duikt naar nationaal record van 71 meter</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-freediver-alfia-chelai-duikt-naar-nationaal-record-van-71-meter-1791064529402.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nora-fatehi-en-yassine-bounou-nieuwe-video-wakkert-geruchten-over-relatie-aan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T19:10:36.495Z</news:publication_date>
-      <news:title>Nora Fatehi en Yassine Bounou: nieuwe video wakkert geruchten over relatie aan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nora-fatehi-en-yassine-bounou-nieuwe-video-wakkert-geruchten-over-relatie-aan-1791054334153.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u20-plaatst-zich-voor-afrika-cup-na-zege-op-egypte</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T19:07:35.462Z</news:publication_date>
-      <news:title>Marokko U20 plaatst zich voor Afrika Cup na zege op Egypte</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u20-plaatst-zich-voor-afrika-cup-na-zege-op-egypte-1791054303286.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verwarring-in-marokko-baraka-kondigt-uitsluiting-rni-aan-en-trekt-het-meteen-wee</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T17:37:22.699Z</news:publication_date>
-      <news:title>Verwarring in Marokko: Baraka kondigt uitsluiting RNI aan en trekt het meteen weer in</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verwarring-in-marokko-baraka-kondigt-uitsluiting-rni-aan-en-trekt-het-meteen-wee-1791048741342.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgie-wijst-asielaanvraag-fouad-belkacem-af-en-baant-weg-voor-uitwijzing-naar-m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T16:57:09.520Z</news:publication_date>
-      <news:title>België wijst asielaanvraag Fouad Belkacem af en baant weg voor uitwijzing naar Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-wijst-asielaanvraag-fouad-belkacem-af-en-baant-weg-voor-uitwijzing-naar-m-1791046508207.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-2026-pam-wil-af-van-coalitie-met-rni</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T16:37:16.154Z</news:publication_date>
-      <news:title>Marokkaanse verkiezingen 2026: PAM wil af van coalitie met RNI</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-2026-pam-wil-af-van-coalitie-met-rni-1791045134453.jpg</image:loc></image:image>
   </url>
 </urlset>
