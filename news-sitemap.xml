@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/opstopping-van-containers-in-marokkaanse-havens-jaagt-prijzen-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T06:28:39.699Z</news:publication_date>
+      <news:title>Opstopping van containers in Marokkaanse havens jaagt prijzen op</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/opstopping-van-containers-in-marokkaanse-havens-jaagt-prijzen-op-1791180216850.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hitte-en-dure-arbeidskrachten-drukken-de-olijvenoogst-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T06:08:38.657Z</news:publication_date>
+      <news:title>Hitte en dure arbeidskrachten drukken de olijvenoogst in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hitte-en-dure-arbeidskrachten-drukken-de-olijvenoogst-in-marokko-1791180173193.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-vrezen-zorgkosten-maar-weinigen-willen-hogere-belastingen</loc>
     <news:news>
       <news:publication>
@@ -385,29 +409,5 @@
       <news:title>Marokkaanse student maakt van verblijfsstrijd in Frankrijk een hulp voor migranten</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-student-maakt-van-verblijfsstrijd-in-frankrijk-een-hulp-voor-migrant-1791012726331.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dure-huur-in-rabat-zet-marokkaanse-studenten-onder-druk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T06:37:27.821Z</news:publication_date>
-      <news:title>Dure huur in Rabat zet Marokkaanse studenten onder druk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dure-huur-in-rabat-zet-marokkaanse-studenten-onder-druk-1791009146775.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/caf-zet-mohamed-ouahbi-in-de-kijker-na-wk-stunt-met-de-atlasleeuwen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-03T06:08:03.958Z</news:publication_date>
-      <news:title>CAF zet Mohamed Ouahbi in de kijker na WK-stunt met de Atlasleeuwen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-zet-mohamed-ouahbi-in-de-kijker-na-wk-stunt-met-de-atlasleeuwen-1791007342571.jpg</image:loc></image:image>
   </url>
 </urlset>
