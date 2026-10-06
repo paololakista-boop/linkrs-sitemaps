@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/operatie-marhaba-matroos-oualid-el-jebari-gehuldigd-voor-heldendaad</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T19:58:17.216Z</news:publication_date>
+      <news:title>Operatie Marhaba: matroos Oualid El Jebari gehuldigd voor heldendaad</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/operatie-marhaba-matroos-oualid-el-jebari-gehuldigd-voor-heldendaad-1791315192239.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/waarom-de-dirham-terrein-verliest-tegenover-euro-en-dollar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T18:58:16.626Z</news:publication_date>
+      <news:title>Waarom de dirham terrein verliest tegenover euro en dollar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-de-dirham-terrein-verliest-tegenover-euro-en-dollar-1791311593726.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-tomaat-in-de-kijker-op-fruit-attraction-in-madrid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T18:38:15.303Z</news:publication_date>
+      <news:title>Marokkaanse tomaat in de kijker op Fruit Attraction in Madrid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-tomaat-in-de-kijker-op-fruit-attraction-in-madrid-1791311552698.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-plaatst-zich-voor-eindronde-can-u20-ondanks-nederlaag-tegen-libie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T17:58:03.530Z</news:publication_date>
+      <news:title>Marokko plaatst zich voor eindronde CAN U20 ondanks nederlaag tegen Libië</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-plaatst-zich-voor-eindronde-can-u20-ondanks-nederlaag-tegen-libie-1791307977963.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-verdubbelt-importsteun-voor-tarwe-om-broodprijs-stabiel-te-houden</loc>
     <news:news>
       <news:publication>
@@ -361,29 +409,5 @@
       <news:title>Guterres licht tipje van de sluier op over gesprekken over de Sahara</news:title>
     </news:news>
     <image:image><image:loc>https://static.yabiladi.com/files/articles/yabiladi.ad99bd9a678ee46e5d762b56702eadc820261004212414150.webp</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-zeventiger-slachtoffer-van-racistische-aanval-in-rome</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T20:37:22.021Z</news:publication_date>
-      <news:title>Marokkaanse zeventiger slachtoffer van racistische aanval in Rome</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-zeventiger-slachtoffer-van-racistische-aanval-in-rome-1791145940384.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-dirham-verzwakt-voor-de-vijfde-week-op-rij-tegenover-euro-en-dollar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T18:37:30.315Z</news:publication_date>
-      <news:title>De dirham verzwakt voor de vijfde week op rij tegenover euro en dollar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-dirham-verzwakt-voor-de-vijfde-week-op-rij-tegenover-euro-en-dollar-1791138749426.jpg</image:loc></image:image>
   </url>
 </urlset>
