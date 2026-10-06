@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ayyoub-bouaddi-bij-de-25-finalisten-voor-de-golden-boy-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-05T22:48:59.192Z</news:publication_date>
+      <news:title>Ayyoub Bouaddi bij de 25 finalisten voor de Golden Boy 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayyoub-bouaddi-bij-de-25-finalisten-voor-de-golden-boy-2026-1791237836153.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spaanse-wet-over-naturalisatie-sahrawi-s-sneuvelt-door-ontbinding-parlement</loc>
     <news:news>
       <news:publication>
