@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-digitaal-platform-voor-rijexamens-in-marokko-start-op-1-november</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T09:37:20.396Z</news:publication_date>
+      <news:title>Nieuw digitaal platform voor rijexamens in Marokko start op 1 november</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-digitaal-platform-voor-rijexamens-in-marokko-start-op-1-november-1791279137705.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/migranten-keren-vanuit-ceuta-terug-naar-marokko-de-politie-zette-ons-onder-druk-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T06:08:31.899Z</news:publication_date>
+      <news:title>Migranten keren vanuit Ceuta terug naar Marokko: &apos;De politie zette ons onder druk aan de grens&apos;</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/migranten-keren-vanuit-ceuta-terug-naar-marokko-de-politie-zette-ons-onder-druk--1791266609026.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ayyoub-bouaddi-bij-de-25-finalisten-voor-de-golden-boy-2026</loc>
     <news:news>
       <news:publication>
@@ -313,29 +337,5 @@
       <news:title>Nieuw Marokkaans platform laat bewoners stadsproblemen melden en opvolgen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-marokkaans-platform-laat-bewoners-stadsproblemen-melden-en-opvolgen-1791122560284.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/handel-tussen-marokko-en-spanje-stevent-af-op-recordjaar-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T06:27:53.035Z</news:publication_date>
-      <news:title>Handel tussen Marokko en Spanje stevent af op recordjaar in 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/handel-tussen-marokko-en-spanje-stevent-af-op-recordjaar-in-2026-1791093771388.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-rondt-voorbereiding-af-op-oefenduel-tegen-mali-in-tanger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T06:07:52.234Z</news:publication_date>
-      <news:title>Marokko rondt voorbereiding af op oefenduel tegen Mali in Tanger</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-rondt-voorbereiding-af-op-oefenduel-tegen-mali-in-tanger-1791093733422.jpg</image:loc></image:image>
   </url>
 </urlset>
