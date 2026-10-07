@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/steun-voor-marokkaans-autonomieplan-sahara-groeit-bij-vn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T15:43:49.351Z</news:publication_date>
+      <news:title>Steun voor Marokkaans autonomieplan Sahara groeit bij VN</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/steun-voor-marokkaans-autonomieplan-sahara-groeit-bij-vn-1791385122694.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/socialistische-usfp-buigt-zich-over-deelname-aan-regering-mansouri</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T15:03:44.109Z</news:publication_date>
+      <news:title>Socialistische USFP buigt zich over deelname aan regering Mansouri</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/socialistische-usfp-buigt-zich-over-deelname-aan-regering-mansouri-1791385044655.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/consumentenbond-vraagt-el-mansouri-om-nationaal-prijzenobservatorium</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T14:49:07.179Z</news:publication_date>
+      <news:title>Consumentenbond vraagt El Mansouri om nationaal prijzenobservatorium</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/consumentenbond-vraagt-el-mansouri-om-nationaal-prijzenobservatorium-1791381840933.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-seizoenarbeiders-klagen-uitbuiting-in-franse-boomgaarden-aan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T14:09:02.032Z</news:publication_date>
+      <news:title>Marokkaanse seizoenarbeiders klagen uitbuiting in Franse boomgaarden aan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-seizoenarbeiders-klagen-uitbuiting-in-franse-boomgaarden-aan-1791381762940.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/can-2025-senegal-en-marokko-vechten-hun-finale-uit-voor-het-tas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T11:35:26.184Z</news:publication_date>
+      <news:title>CAN 2025: Senegal en Marokko vechten hun finale uit voor het TAS</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-2025-senegal-en-marokko-vechten-hun-finale-uit-voor-het-tas-1791372800616.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-advocaten-hervatten-voorlopig-hun-werk-na-maandenlange-staking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T10:34:17.188Z</news:publication_date>
+      <news:title>Marokkaanse advocaten hervatten voorlopig hun werk na maandenlange staking</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-advocaten-hervatten-voorlopig-hun-werk-na-maandenlange-staking-1791369136102.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/europees-rapport-marokkaanse-minderjarigen-lopen-groot-risico-in-belgie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T09:37:26.043Z</news:publication_date>
+      <news:title>Europees rapport: Marokkaanse minderjarigen lopen groot risico in België</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/europees-rapport-marokkaanse-minderjarigen-lopen-groot-risico-in-belgie-1791365544432.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-zes-beroepen-ingediend-bij-het-grondwettelijk-hof</loc>
     <news:news>
       <news:publication>
@@ -277,53 +361,5 @@
       <news:title>Internationale signalen wijzen op mogelijke daling dieselprijs in Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/internationale-signalen-wijzen-op-mogelijke-daling-dieselprijs-in-marokko-1791218363751.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mansouri-dicht-bij-een-regeerakkoord-de-nationale-blok-domineert-de-coalitiegesp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T16:37:19.708Z</news:publication_date>
-      <news:title>Mansouri dicht bij een regeerakkoord: de nationale blok domineert de coalitiegesprekken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mansouri-dicht-bij-een-regeerakkoord-de-nationale-blok-domineert-de-coalitiegesp-1791217938069.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-exporteurs-onder-vuur-voor-deviezenfraude-van-113-miljoen-dirham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T14:28:36.768Z</news:publication_date>
-      <news:title>Marokkaanse exporteurs onder vuur voor deviezenfraude van 113 miljoen dirham</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-exporteurs-onder-vuur-voor-deviezenfraude-van-113-miljoen-dirham-1791208977299.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/consulaat-in-rotterdam-luistert-naar-klachten-van-de-marokkaanse-gemeenschap</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T14:08:35.923Z</news:publication_date>
-      <news:title>Consulaat in Rotterdam luistert naar klachten van de Marokkaanse gemeenschap</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/consulaat-in-rotterdam-luistert-naar-klachten-van-de-marokkaanse-gemeenschap-1791208937449.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-2026-fors-minder-klachten-dan-in-2021</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T11:37:06.298Z</news:publication_date>
-      <news:title>Marokkaanse verkiezingen 2026: fors minder klachten dan in 2021</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-2026-fors-minder-klachten-dan-in-2021-1791199925257.jpg</image:loc></image:image>
   </url>
 </urlset>
