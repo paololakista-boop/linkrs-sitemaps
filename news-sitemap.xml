@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-zes-beroepen-ingediend-bij-het-grondwettelijk-hof</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T06:37:14.370Z</news:publication_date>
+      <news:title>Marokkaanse verkiezingen: zes beroepen ingediend bij het Grondwettelijk Hof</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-zes-beroepen-ingediend-bij-het-grondwettelijk-hof-1791354733631.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u17-vernedert-gabon-met-6-0-in-aanloop-naar-wk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T06:27:57.630Z</news:publication_date>
+      <news:title>Marokko U17 vernedert Gabon met 6-0 in aanloop naar WK</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u17-vernedert-gabon-met-6-0-in-aanloop-naar-wk-1791352972682.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-arresteert-drugsbaron-gino-op-verzoek-van-belgie</loc>
     <news:news>
       <news:publication>
@@ -301,53 +325,5 @@
       <news:title>Marokkaanse verkiezingen 2026: fors minder klachten dan in 2021</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-2026-fors-minder-klachten-dan-in-2021-1791199925257.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nederlandse-uwv-beschuldigd-van-racisme-marokkaanse-namen-vaker-en-zwaarder-bebo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T08:37:30.703Z</news:publication_date>
-      <news:title>Nederlandse UWV beschuldigd van racisme: Marokkaanse namen vaker en zwaarder beboet</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederlandse-uwv-beschuldigd-van-racisme-marokkaanse-namen-vaker-en-zwaarder-bebo-1791189149329.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zaak-achraf-hakimi-roept-vrees-op-voor-scenario-saad-lamjarred</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T07:37:16.796Z</news:publication_date>
-      <news:title>Zaak Achraf Hakimi roept vrees op voor scenario Saad Lamjarred</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zaak-achraf-hakimi-roept-vrees-op-voor-scenario-saad-lamjarred-1791185534237.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/opstopping-van-containers-in-marokkaanse-havens-jaagt-prijzen-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T06:28:39.699Z</news:publication_date>
-      <news:title>Opstopping van containers in Marokkaanse havens jaagt prijzen op</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/opstopping-van-containers-in-marokkaanse-havens-jaagt-prijzen-op-1791180216850.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hitte-en-dure-arbeidskrachten-drukken-de-olijvenoogst-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T06:08:38.657Z</news:publication_date>
-      <news:title>Hitte en dure arbeidskrachten drukken de olijvenoogst in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hitte-en-dure-arbeidskrachten-drukken-de-olijvenoogst-in-marokko-1791180173193.jpg</image:loc></image:image>
   </url>
 </urlset>
