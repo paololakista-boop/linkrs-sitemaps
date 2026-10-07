@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-arresteert-drugsbaron-gino-op-verzoek-van-belgie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T22:07:19.698Z</news:publication_date>
+      <news:title>Marokko arresteert drugsbaron Gino op verzoek van België</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-arresteert-drugsbaron-gino-op-verzoek-van-belgie-1791324138706.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/operatie-marhaba-matroos-oualid-el-jebari-gehuldigd-voor-heldendaad</loc>
     <news:news>
       <news:publication>
@@ -337,77 +349,5 @@
       <news:title>Hitte en dure arbeidskrachten drukken de olijvenoogst in Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hitte-en-dure-arbeidskrachten-drukken-de-olijvenoogst-in-marokko-1791180173193.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-vrezen-zorgkosten-maar-weinigen-willen-hogere-belastingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:54:35.972Z</news:publication_date>
-      <news:title>Marokkanen vrezen zorgkosten, maar weinigen willen hogere belastingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-vrezen-zorgkosten-maar-weinigen-willen-hogere-belastingen-1791151772589.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-spanje-voorbij-als-tomatenleverancier-van-de-eu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:48:32.920Z</news:publication_date>
-      <news:title>Marokko blijft Spanje voorbij als tomatenleverancier van de EU</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-blijft-spanje-voorbij-als-tomatenleverancier-van-de-eu-1791151410049.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-banken-boeken-meer-winst-maar-vooral-door-lagere-risicokosten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:34:35.213Z</news:publication_date>
-      <news:title>Marokkaanse banken boeken meer winst, maar vooral door lagere risicokosten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-banken-boeken-meer-winst-maar-vooral-door-lagere-risicokosten-1791151733580.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-neroli-het-aroma-dat-kenzo-en-de-wereldparfumerie-inspireerde</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:28:32.137Z</news:publication_date>
-      <news:title>Marokkaanse neroli: het aroma dat Kenzo en de wereldparfumerie inspireerde</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-neroli-het-aroma-dat-kenzo-en-de-wereldparfumerie-inspireerde-1791151371714.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-gezinnen-krimpen-geboortecijfer-nog-nooit-zo-laag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:14:34.032Z</news:publication_date>
-      <news:title>Marokkaanse gezinnen krimpen: geboortecijfer nog nooit zo laag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-gezinnen-krimpen-geboortecijfer-nog-nooit-zo-laag-1791151698162.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/guterres-licht-tipje-van-de-sluier-op-over-gesprekken-over-de-sahara</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T22:08:31.226Z</news:publication_date>
-      <news:title>Guterres licht tipje van de sluier op over gesprekken over de Sahara</news:title>
-    </news:news>
-    <image:image><image:loc>https://static.yabiladi.com/files/articles/yabiladi.ad99bd9a678ee46e5d762b56702eadc820261004212414150.webp</image:loc></image:image>
   </url>
 </urlset>
