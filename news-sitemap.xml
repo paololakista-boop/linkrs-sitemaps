@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-omgekomen-bij-houthi-aanval-op-luchthaven-in-saoedi-arabie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T19:34:13.499Z</news:publication_date>
+      <news:title>Marokkaanse omgekomen bij Houthi-aanval op luchthaven in Saoedi-Arabië</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-omgekomen-bij-houthi-aanval-op-luchthaven-in-saoedi-arabie-1791401532431.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-zakken-naar-zevende-plaats-op-fifa-ranking</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T17:37:36.690Z</news:publication_date>
+      <news:title>Atlasleeuwen zakken naar zevende plaats op FIFA-ranking</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwen-zakken-naar-zevende-plaats-op-fifa-ranking-1791394354934.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bank-al-maghrib-verlaagt-kaartcommissie-naar-0-5-procent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T16:58:11.297Z</news:publication_date>
+      <news:title>Bank Al-Maghrib verlaagt kaartcommissie naar 0,5 procent</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bank-al-maghrib-verlaagt-kaartcommissie-naar-0-5-procent-1791390788676.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/van-clandestiene-aankomst-uit-marokko-tot-woordvoerder-in-frankrijk-het-bijzonde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T16:38:10.065Z</news:publication_date>
+      <news:title>Van clandestiene aankomst uit Marokko tot woordvoerder in Frankrijk: het bijzondere parcours van Rania Kissi</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-clandestiene-aankomst-uit-marokko-tot-woordvoerder-in-frankrijk-het-bijzonde-1791390754182.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/steun-voor-marokkaans-autonomieplan-sahara-groeit-bij-vn</loc>
     <news:news>
       <news:publication>
@@ -325,41 +373,5 @@
       <news:title>Taghazout bij de tien bestemmingen om te ontdekken in 2026</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/taghazout-bij-de-tien-bestemmingen-om-te-ontdekken-in-2026-1791237762417.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-reizen-nog-altijd-visumvrij-naar-de-filipijnen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T21:37:25.068Z</news:publication_date>
-      <news:title>Marokkanen reizen nog altijd visumvrij naar de Filipijnen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-reizen-nog-altijd-visumvrij-naar-de-filipijnen-1791235942279.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-studie-verdeelt-marokkaanse-arbeidsmarkt-in-vijf-types-gemeenten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T17:25:51.127Z</news:publication_date>
-      <news:title>Nieuwe studie verdeelt Marokkaanse arbeidsmarkt in vijf types gemeenten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-studie-verdeelt-marokkaanse-arbeidsmarkt-in-vijf-types-gemeenten-1791218444511.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/internationale-signalen-wijzen-op-mogelijke-daling-dieselprijs-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T16:45:45.850Z</news:publication_date>
-      <news:title>Internationale signalen wijzen op mogelijke daling dieselprijs in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/internationale-signalen-wijzen-op-mogelijke-daling-dieselprijs-in-marokko-1791218363751.jpg</image:loc></image:image>
   </url>
 </urlset>
