@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-legislatuur-in-marokko-de-koers-en-de-rest-van-het-werk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T08:37:35.932Z</news:publication_date>
+      <news:title>Nieuwe legislatuur in Marokko: de koers en de rest van het werk</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-legislatuur-in-marokko-de-koers-en-de-rest-van-het-werk-1791448354563.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-douane-vernieuwt-onlinehulp-adil-met-rekentool-voor-invoerrechten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T07:09:45.843Z</news:publication_date>
+      <news:title>Marokkaanse douane vernieuwt onlinehulp ADIL met rekentool voor invoerrechten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-douane-vernieuwt-onlinehulp-adil-met-rekentool-voor-invoerrechten-1791443084260.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-plannen-tot-70-000-dollar-voor-buitenlandse-studenten-die-willen-wer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T06:27:56.194Z</news:publication_date>
+      <news:title>Amerikaanse plannen: tot 70.000 dollar voor buitenlandse studenten die willen werken in de VS</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-plannen-tot-70-000-dollar-voor-buitenlandse-studenten-die-willen-wer-1791439374296.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/jonge-marokkaan-uitgewezen-uit-ceuta-na-mislukte-handtasroof</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T06:07:55.486Z</news:publication_date>
+      <news:title>Jonge Marokkaan uitgewezen uit Ceuta na mislukte handtasroof</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-marokkaan-uitgewezen-uit-ceuta-na-mislukte-handtasroof-1791439337411.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/f-35-vliegt-voor-het-eerst-boven-afrika-tijdens-de-marrakech-airshow</loc>
     <news:news>
       <news:publication>
@@ -397,17 +445,5 @@
       <news:title>Nieuw digitaal platform voor rijexamens in Marokko start op 1 november</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-digitaal-platform-voor-rijexamens-in-marokko-start-op-1-november-1791279137705.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/migranten-keren-vanuit-ceuta-terug-naar-marokko-de-politie-zette-ons-onder-druk-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T06:08:31.899Z</news:publication_date>
-      <news:title>Migranten keren vanuit Ceuta terug naar Marokko: &apos;De politie zette ons onder druk aan de grens&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/migranten-keren-vanuit-ceuta-terug-naar-marokko-de-politie-zette-ons-onder-druk--1791266609026.jpg</image:loc></image:image>
   </url>
 </urlset>
