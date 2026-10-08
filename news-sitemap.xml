@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fifa-baas-infantino-prijst-marokko-om-zijn-voetbalinfrastructuur</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T15:31:41.595Z</news:publication_date>
+      <news:title>FIFA-baas Infantino prijst Marokko om zijn voetbalinfrastructuur</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-baas-infantino-prijst-marokko-om-zijn-voetbalinfrastructuur-1791471998975.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/can-2025-senegal-daagt-marokko-zege-uit-uitspraak-cas-laat-op-zich-wachten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T15:11:40.728Z</news:publication_date>
+      <news:title>CAN 2025: Senegal daagt Marokko-zege uit, uitspraak CAS laat op zich wachten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-2025-senegal-daagt-marokko-zege-uit-uitspraak-cas-laat-op-zich-wachten-1791471958745.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-ai-datacenter-bij-casablanca-fivenines-en-nexus-core-systems-slaan-handen-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T14:49:06.003Z</news:publication_date>
+      <news:title>Nieuw AI-datacenter bij Casablanca: FiveNines en Nexus Core Systems slaan handen ineen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-ai-datacenter-bij-casablanca-fivenines-en-nexus-core-systems-slaan-handen--1791468242644.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/drie-marokkaanse-banken-bij-sterkste-tien-van-afrika</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T14:29:05.265Z</news:publication_date>
+      <news:title>Drie Marokkaanse banken bij sterkste tien van Afrika</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drie-marokkaanse-banken-bij-sterkste-tien-van-afrika-1791468205853.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wereldbank-prijst-marokko-om-veerkracht-en-technologische-omslag-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T14:09:04.602Z</news:publication_date>
+      <news:title>Wereldbank prijst Marokko om veerkracht en technologische omslag in 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wereldbank-prijst-marokko-om-veerkracht-en-technologische-omslag-in-2026-1791468166704.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/saudische-artsen-scheiden-met-succes-marokkaanse-siamese-tweeling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T14:06:03.637Z</news:publication_date>
+      <news:title>Saudische artsen scheiden met succes Marokkaanse Siamese tweeling</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/saudische-artsen-scheiden-met-succes-marokkaanse-siamese-tweeling-1791468119425.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verwelkomt-15-7-miljoen-toeristen-tot-eind-september-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T11:37:22.540Z</news:publication_date>
+      <news:title>Marokko verwelkomt 15,7 miljoen toeristen tot eind september 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verwelkomt-15-7-miljoen-toeristen-tot-eind-september-2026-1791459140642.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-migranten-na-ontruiming-ceuta-het-was-niet-vrijwillig-ze-hebben-ons-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T10:37:40.561Z</news:publication_date>
+      <news:title>Marokkaanse migranten na ontruiming Ceuta: &quot;Het was niet vrijwillig, ze hebben ons eruit gegooid&quot;</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-migranten-na-ontruiming-ceuta-het-was-niet-vrijwillig-ze-hebben-ons--1791455559137.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-futsalploeg-jaagt-op-historische-vierde-afrikatitel-op-rij</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T09:37:22.147Z</news:publication_date>
+      <news:title>Marokkaanse futsalploeg jaagt op historische vierde Afrikatitel op rij</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-futsalploeg-jaagt-op-historische-vierde-afrikatitel-op-rij-1791451940715.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-legislatuur-in-marokko-de-koers-en-de-rest-van-het-werk</loc>
     <news:news>
       <news:publication>
@@ -337,113 +445,5 @@
       <news:title>Marokko plaatst zich voor eindronde CAN U20 ondanks nederlaag tegen Libië</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-plaatst-zich-voor-eindronde-can-u20-ondanks-nederlaag-tegen-libie-1791307977963.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verdubbelt-importsteun-voor-tarwe-om-broodprijs-stabiel-te-houden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T15:23:49.405Z</news:publication_date>
-      <news:title>Marokko verdubbelt importsteun voor tarwe om broodprijs stabiel te houden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verdubbelt-importsteun-voor-tarwe-om-broodprijs-stabiel-te-houden-1791297526492.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/voor-het-eerst-een-vrouw-aan-het-hoofd-van-de-marokkaanse-regering</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T15:03:48.633Z</news:publication_date>
-      <news:title>Voor het eerst een vrouw aan het hoofd van de Marokkaanse regering</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/voor-het-eerst-een-vrouw-aan-het-hoofd-van-de-marokkaanse-regering-1791297489842.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/eerste-f-16-block-72-voor-marokko-maakt-geslaagde-eerste-vlucht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:48:31.467Z</news:publication_date>
-      <news:title>Eerste F-16 Block 72 voor Marokko maakt geslaagde eerste vlucht</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eerste-f-16-block-72-voor-marokko-maakt-geslaagde-eerste-vlucht-1791295408584.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/normalisatie-met-israel-splijt-pjd-benkirane-biedt-excuses-aan-el-othmani</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:43:47.501Z</news:publication_date>
-      <news:title>Normalisatie met Israël splijt PJD: Benkirane biedt excuses aan El Othmani</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/normalisatie-met-israel-splijt-pjd-benkirane-biedt-excuses-aan-el-othmani-1791297453776.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/drie-marokkaanse-kandidaten-verkozen-in-parlement-van-quebec</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:28:30.751Z</news:publication_date>
-      <news:title>Drie Marokkaanse kandidaten verkozen in parlement van Quebec</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drie-marokkaanse-kandidaten-verkozen-in-parlement-van-quebec-1791295379653.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/difterie-keert-terug-in-marokko-waarom-raken-kinderen-niet-gevaccineerd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:08:29.640Z</news:publication_date>
-      <news:title>Difterie keert terug in Marokko: waarom raken kinderen niet gevaccineerd?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-keert-terug-in-marokko-waarom-raken-kinderen-niet-gevaccineerd-1791295344208.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-grootste-groep-met-verblijfsvergunning-in-de-europese-unie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T11:37:25.421Z</news:publication_date>
-      <news:title>Marokkanen grootste groep met verblijfsvergunning in de Europese Unie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-grootste-groep-met-verblijfsvergunning-in-de-europese-unie-1791286343915.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-sluiten-interlandperiode-af-met-gelijkspel-tegen-mali</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T10:37:34.869Z</news:publication_date>
-      <news:title>Atlasleeuwen sluiten interlandperiode af met gelijkspel tegen Mali</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwen-sluiten-interlandperiode-af-met-gelijkspel-tegen-mali-1791282753634.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-digitaal-platform-voor-rijexamens-in-marokko-start-op-1-november</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T09:37:20.396Z</news:publication_date>
-      <news:title>Nieuw digitaal platform voor rijexamens in Marokko start op 1 november</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-digitaal-platform-voor-rijexamens-in-marokko-start-op-1-november-1791279137705.jpg</image:loc></image:image>
   </url>
 </urlset>
