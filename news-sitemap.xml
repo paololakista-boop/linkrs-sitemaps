@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/f-35-vliegt-voor-het-eerst-boven-afrika-tijdens-de-marrakech-airshow</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T00:12:38.630Z</news:publication_date>
+      <news:title>F-35 vliegt voor het eerst boven Afrika tijdens de Marrakech Airshow</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/f-35-vliegt-voor-het-eerst-boven-afrika-tijdens-de-marrakech-airshow-1791415655805.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-taxichauffeurs-luiden-noodklok-over-dure-diesel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T23:52:37.912Z</news:publication_date>
+      <news:title>Marokkaanse taxichauffeurs luiden noodklok over dure diesel</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-taxichauffeurs-luiden-noodklok-over-dure-diesel-1791415610893.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bouwt-aanvalsdrone-met-bereik-van-2000-kilometer-samen-met-franse-start-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T23:32:37.080Z</news:publication_date>
+      <news:title>Marokko bouwt aanvalsdrone met bereik van 2000 kilometer, samen met Franse start-up van Marokkaanse ingenieur</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bouwt-aanvalsdrone-met-bereik-van-2000-kilometer-samen-met-franse-start--1791415570318.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-bank-simple-lanceert-eerste-ai-assistent-die-darija-spreekt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T22:49:08.321Z</news:publication_date>
+      <news:title>Marokkaanse bank Simple. lanceert eerste AI-assistent die darija spreekt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-bank-simple-lanceert-eerste-ai-assistent-die-darija-spreekt-1791410645438.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bundelt-boeing-airbus-en-lockheed-martin-in-nieuw-industrieel-luchtvaart</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T22:29:07.547Z</news:publication_date>
+      <news:title>Marokko bundelt Boeing, Airbus en Lockheed Martin in nieuw industrieel luchtvaartcentrum</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bundelt-boeing-airbus-en-lockheed-martin-in-nieuw-industrieel-luchtvaart-1791410604274.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/watervoorraad-marokko-verdubbelt-op-een-jaar-tijd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T22:09:06.664Z</news:publication_date>
+      <news:title>Watervoorraad Marokko verdubbelt op een jaar tijd</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/watervoorraad-marokko-verdubbelt-op-een-jaar-tijd-1791410561495.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-omgekomen-bij-houthi-aanval-op-luchthaven-in-saoedi-arabie</loc>
     <news:news>
       <news:publication>
@@ -337,41 +409,5 @@
       <news:title>Migranten keren vanuit Ceuta terug naar Marokko: &apos;De politie zette ons onder druk aan de grens&apos;</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/migranten-keren-vanuit-ceuta-terug-naar-marokko-de-politie-zette-ons-onder-druk--1791266609026.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ayyoub-bouaddi-bij-de-25-finalisten-voor-de-golden-boy-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T22:48:59.192Z</news:publication_date>
-      <news:title>Ayyoub Bouaddi bij de 25 finalisten voor de Golden Boy 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayyoub-bouaddi-bij-de-25-finalisten-voor-de-golden-boy-2026-1791237836153.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-wet-over-naturalisatie-sahrawi-s-sneuvelt-door-ontbinding-parlement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T22:28:58.380Z</news:publication_date>
-      <news:title>Spaanse wet over naturalisatie Sahrawi&apos;s sneuvelt door ontbinding parlement</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-wet-over-naturalisatie-sahrawi-s-sneuvelt-door-ontbinding-parlement-1791237803591.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/taghazout-bij-de-tien-bestemmingen-om-te-ontdekken-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T22:08:57.515Z</news:publication_date>
-      <news:title>Taghazout bij de tien bestemmingen om te ontdekken in 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/taghazout-bij-de-tien-bestemmingen-om-te-ontdekken-in-2026-1791237762417.jpg</image:loc></image:image>
   </url>
 </urlset>
