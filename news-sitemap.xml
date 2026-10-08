@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/de-zeven-heiligen-van-marrakech-sidi-abdelaziz-tebbaa-de-genezer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T22:08:25.263Z</news:publication_date>
+      <news:title>De zeven heiligen van Marrakech: Sidi Abdelaziz Tebbaa, de genezer</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-zeven-heiligen-van-marrakech-sidi-abdelaziz-tebbaa-de-genezer-1791496925246.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/fifa-baas-infantino-prijst-marokko-om-zijn-voetbalinfrastructuur</loc>
     <news:news>
       <news:publication>
@@ -385,65 +397,5 @@
       <news:title>Marokko U17 vernedert Gabon met 6-0 in aanloop naar WK</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u17-vernedert-gabon-met-6-0-in-aanloop-naar-wk-1791352972682.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-arresteert-drugsbaron-gino-op-verzoek-van-belgie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T22:07:19.698Z</news:publication_date>
-      <news:title>Marokko arresteert drugsbaron Gino op verzoek van België</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-arresteert-drugsbaron-gino-op-verzoek-van-belgie-1791324138706.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/operatie-marhaba-matroos-oualid-el-jebari-gehuldigd-voor-heldendaad</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T19:58:17.216Z</news:publication_date>
-      <news:title>Operatie Marhaba: matroos Oualid El Jebari gehuldigd voor heldendaad</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/operatie-marhaba-matroos-oualid-el-jebari-gehuldigd-voor-heldendaad-1791315192239.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/waarom-de-dirham-terrein-verliest-tegenover-euro-en-dollar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T18:58:16.626Z</news:publication_date>
-      <news:title>Waarom de dirham terrein verliest tegenover euro en dollar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-de-dirham-terrein-verliest-tegenover-euro-en-dollar-1791311593726.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-tomaat-in-de-kijker-op-fruit-attraction-in-madrid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T18:38:15.303Z</news:publication_date>
-      <news:title>Marokkaanse tomaat in de kijker op Fruit Attraction in Madrid</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-tomaat-in-de-kijker-op-fruit-attraction-in-madrid-1791311552698.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-plaatst-zich-voor-eindronde-can-u20-ondanks-nederlaag-tegen-libie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T17:58:03.530Z</news:publication_date>
-      <news:title>Marokko plaatst zich voor eindronde CAN U20 ondanks nederlaag tegen Libië</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-plaatst-zich-voor-eindronde-can-u20-ondanks-nederlaag-tegen-libie-1791307977963.jpg</image:loc></image:image>
   </url>
 </urlset>
