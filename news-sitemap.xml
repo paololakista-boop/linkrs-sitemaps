@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-uitstel-van-machtsoverdracht-aan-regio-s-is-onaanvaardbaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T18:58:07.529Z</news:publication_date>
+      <news:title>Koning Mohammed VI: uitstel van machtsoverdracht aan regio&apos;s is onaanvaardbaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-uitstel-van-machtsoverdracht-aan-regio-s-is-onaanvaardbaar-1791570784783.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-samenwerking-met-spanje-blijft-maar-migratiemodel-is-uitgeput</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T18:38:06.170Z</news:publication_date>
+      <news:title>Koning Mohammed VI: samenwerking met Spanje blijft, maar migratiemodel is uitgeput</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-samenwerking-met-spanje-blijft-maar-migratiemodel-is-uitgeput-1791570748316.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/datalek-treft-marokkaanse-journalisten-database-met-39-000-records-te-koop-aange</loc>
     <news:news>
       <news:publication>
@@ -373,53 +397,5 @@
       <news:title>Watervoorraad Marokko verdubbelt op een jaar tijd</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/watervoorraad-marokko-verdubbelt-op-een-jaar-tijd-1791410561495.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-omgekomen-bij-houthi-aanval-op-luchthaven-in-saoedi-arabie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T19:34:13.499Z</news:publication_date>
-      <news:title>Marokkaanse omgekomen bij Houthi-aanval op luchthaven in Saoedi-Arabië</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-omgekomen-bij-houthi-aanval-op-luchthaven-in-saoedi-arabie-1791401532431.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-zakken-naar-zevende-plaats-op-fifa-ranking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T17:37:36.690Z</news:publication_date>
-      <news:title>Atlasleeuwen zakken naar zevende plaats op FIFA-ranking</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwen-zakken-naar-zevende-plaats-op-fifa-ranking-1791394354934.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bank-al-maghrib-verlaagt-kaartcommissie-naar-0-5-procent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T16:58:11.297Z</news:publication_date>
-      <news:title>Bank Al-Maghrib verlaagt kaartcommissie naar 0,5 procent</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bank-al-maghrib-verlaagt-kaartcommissie-naar-0-5-procent-1791390788676.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/van-clandestiene-aankomst-uit-marokko-tot-woordvoerder-in-frankrijk-het-bijzonde</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T16:38:10.065Z</news:publication_date>
-      <news:title>Van clandestiene aankomst uit Marokko tot woordvoerder in Frankrijk: het bijzondere parcours van Rania Kissi</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-clandestiene-aankomst-uit-marokko-tot-woordvoerder-in-frankrijk-het-bijzonde-1791390754182.jpg</image:loc></image:image>
   </url>
 </urlset>
