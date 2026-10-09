@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouwelijke-kandidaten-in-marokko-doelwit-van-online-haat-tijdens-verkiezingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T22:28:26.112Z</news:publication_date>
+      <news:title>Vrouwelijke kandidaten in Marokko doelwit van online haat tijdens verkiezingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouwelijke-kandidaten-in-marokko-doelwit-van-online-haat-tijdens-verkiezingen-1791496967419.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/de-zeven-heiligen-van-marrakech-sidi-abdelaziz-tebbaa-de-genezer</loc>
     <news:news>
       <news:publication>
