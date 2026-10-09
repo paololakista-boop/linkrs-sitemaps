@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vader-van-saad-lamjarred-betreurt-uitblijven-steun-marokkaanse-kunstwereld-na-ce</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T06:27:46.407Z</news:publication_date>
+      <news:title>Vader van Saad Lamjarred betreurt uitblijven steun Marokkaanse kunstwereld na celstraf</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vader-van-saad-lamjarred-betreurt-uitblijven-steun-marokkaanse-kunstwereld-na-ce-1791525763610.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-links-debatteert-over-strafstem-en-verkiezingsonregelmatigheden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T06:07:45.421Z</news:publication_date>
+      <news:title>Marokkaans links debatteert over strafstem en verkiezingsonregelmatigheden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-links-debatteert-over-strafstem-en-verkiezingsonregelmatigheden-1791525721013.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vrouwelijke-kandidaten-in-marokko-doelwit-van-online-haat-tijdens-verkiezingen</loc>
     <news:news>
       <news:publication>
@@ -385,29 +409,5 @@
       <news:title>Europees rapport: Marokkaanse minderjarigen lopen groot risico in België</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/europees-rapport-marokkaanse-minderjarigen-lopen-groot-risico-in-belgie-1791365544432.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verkiezingen-zes-beroepen-ingediend-bij-het-grondwettelijk-hof</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T06:37:14.370Z</news:publication_date>
-      <news:title>Marokkaanse verkiezingen: zes beroepen ingediend bij het Grondwettelijk Hof</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verkiezingen-zes-beroepen-ingediend-bij-het-grondwettelijk-hof-1791354733631.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u17-vernedert-gabon-met-6-0-in-aanloop-naar-wk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T06:27:57.630Z</news:publication_date>
-      <news:title>Marokko U17 vernedert Gabon met 6-0 in aanloop naar WK</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u17-vernedert-gabon-met-6-0-in-aanloop-naar-wk-1791352972682.jpg</image:loc></image:image>
   </url>
 </urlset>
