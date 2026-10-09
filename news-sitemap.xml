@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/datalek-treft-marokkaanse-journalisten-database-met-39-000-records-te-koop-aange</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T15:34:26.823Z</news:publication_date>
+      <news:title>Datalek treft Marokkaanse journalisten: database met 39.000 records te koop aangeboden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/datalek-treft-marokkaanse-journalisten-database-met-39-000-records-te-koop-aange-1791559946031.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/caf-verhoogt-jaarlijkse-steun-aan-voetbalbonden-naar-700-000-dollar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T15:15:54.383Z</news:publication_date>
+      <news:title>CAF verhoogt jaarlijkse steun aan voetbalbonden naar 700.000 dollar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-verhoogt-jaarlijkse-steun-aan-voetbalbonden-naar-700-000-dollar-1791557400592.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/waarom-verliest-de-dirham-terrein-tegenover-de-euro-en-de-dollar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T14:58:29.642Z</news:publication_date>
+      <news:title>Waarom verliest de dirham terrein tegenover de euro en de dollar?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-verliest-de-dirham-terrein-tegenover-de-euro-en-de-dollar-1791556407834.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/de-andere-wegen-van-marokkaanse-migratie-van-west-afrika-tot-de-arabische-wereld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T14:48:36.667Z</news:publication_date>
+      <news:title>De andere wegen van Marokkaanse migratie: van West-Afrika tot de Arabische wereld</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-andere-wegen-van-marokkaanse-migratie-van-west-afrika-tot-de-arabische-wereld-1791554611493.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-start-landbouwjaar-2026-2027-met-hoogste-waterreserves-in-tien-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T14:38:28.883Z</news:publication_date>
+      <news:title>Marokko start landbouwjaar 2026-2027 met hoogste waterreserves in tien jaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-start-landbouwjaar-2026-2027-met-hoogste-waterreserves-in-tien-jaar-1791556367938.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-steunt-sila-atlantik-groene-stroomkabel-van-30-miljard-dollar-naar-duits</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T14:28:35.950Z</news:publication_date>
+      <news:title>Marokko steunt Sila Atlantik: groene stroomkabel van 30 miljard dollar naar Duitsland</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-steunt-sila-atlantik-groene-stroomkabel-van-30-miljard-dollar-naar-duits-1791554573616.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-basketbalster-beweert-zwanger-te-zijn-van-achraf-hakimi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T14:08:35.091Z</news:publication_date>
+      <news:title>Amerikaanse basketbalster beweert zwanger te zijn van Achraf Hakimi</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-basketbalster-beweert-zwanger-te-zijn-van-achraf-hakimi-1791554533665.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-in-volle-transformatie-meer-jobs-maar-niet-voor-iedereen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T09:37:38.270Z</news:publication_date>
+      <news:title>Marokko in volle transformatie: meer jobs, maar niet voor iedereen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-in-volle-transformatie-meer-jobs-maar-niet-voor-iedereen-1791538356869.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vader-van-saad-lamjarred-betreurt-uitblijven-steun-marokkaanse-kunstwereld-na-ce</loc>
     <news:news>
       <news:publication>
@@ -325,89 +421,5 @@
       <news:title>Van clandestiene aankomst uit Marokko tot woordvoerder in Frankrijk: het bijzondere parcours van Rania Kissi</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-clandestiene-aankomst-uit-marokko-tot-woordvoerder-in-frankrijk-het-bijzonde-1791390754182.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/steun-voor-marokkaans-autonomieplan-sahara-groeit-bij-vn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T15:43:49.351Z</news:publication_date>
-      <news:title>Steun voor Marokkaans autonomieplan Sahara groeit bij VN</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/steun-voor-marokkaans-autonomieplan-sahara-groeit-bij-vn-1791385122694.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/socialistische-usfp-buigt-zich-over-deelname-aan-regering-mansouri</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T15:03:44.109Z</news:publication_date>
-      <news:title>Socialistische USFP buigt zich over deelname aan regering Mansouri</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/socialistische-usfp-buigt-zich-over-deelname-aan-regering-mansouri-1791385044655.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/consumentenbond-vraagt-el-mansouri-om-nationaal-prijzenobservatorium</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T14:49:07.179Z</news:publication_date>
-      <news:title>Consumentenbond vraagt El Mansouri om nationaal prijzenobservatorium</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/consumentenbond-vraagt-el-mansouri-om-nationaal-prijzenobservatorium-1791381840933.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-seizoenarbeiders-klagen-uitbuiting-in-franse-boomgaarden-aan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T14:09:02.032Z</news:publication_date>
-      <news:title>Marokkaanse seizoenarbeiders klagen uitbuiting in Franse boomgaarden aan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-seizoenarbeiders-klagen-uitbuiting-in-franse-boomgaarden-aan-1791381762940.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/can-2025-senegal-en-marokko-vechten-hun-finale-uit-voor-het-tas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T11:35:26.184Z</news:publication_date>
-      <news:title>CAN 2025: Senegal en Marokko vechten hun finale uit voor het TAS</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/can-2025-senegal-en-marokko-vechten-hun-finale-uit-voor-het-tas-1791372800616.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-advocaten-hervatten-voorlopig-hun-werk-na-maandenlange-staking</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T10:34:17.188Z</news:publication_date>
-      <news:title>Marokkaanse advocaten hervatten voorlopig hun werk na maandenlange staking</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-advocaten-hervatten-voorlopig-hun-werk-na-maandenlange-staking-1791369136102.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/europees-rapport-marokkaanse-minderjarigen-lopen-groot-risico-in-belgie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T09:37:26.043Z</news:publication_date>
-      <news:title>Europees rapport: Marokkaanse minderjarigen lopen groot risico in België</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/europees-rapport-marokkaanse-minderjarigen-lopen-groot-risico-in-belgie-1791365544432.jpg</image:loc></image:image>
   </url>
 </urlset>
