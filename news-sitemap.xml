@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/istiqlal-wil-sterke-samenhangende-regering-die-inspeelt-op-wensen-van-marokkanen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T23:25:20.355Z</news:publication_date>
+      <news:title>Istiqlal wil sterke, samenhangende regering die inspeelt op wensen van Marokkanen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/istiqlal-wil-sterke-samenhangende-regering-die-inspeelt-op-wensen-van-marokkanen-1791586818147.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/parlement-looft-inhoud-van-troonrede-bij-opening-nieuwe-zittingsperiode</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T23:05:19.426Z</news:publication_date>
+      <news:title>Parlement looft inhoud van troonrede bij opening nieuwe zittingsperiode</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/parlement-looft-inhoud-van-troonrede-bij-opening-nieuwe-zittingsperiode-1791586777491.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/israel-voor-het-eerst-aanwezig-op-luchtvaartbeurs-van-marrakech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T22:48:44.767Z</news:publication_date>
+      <news:title>Israël voor het eerst aanwezig op luchtvaartbeurs van Marrakech</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/israel-voor-het-eerst-aanwezig-op-luchtvaartbeurs-van-marrakech-1791583421803.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/chinees-techbedrijf-hangyu-kiest-marokko-boven-slowakije-voor-fabriek-van-105-mi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T22:28:43.963Z</news:publication_date>
+      <news:title>Chinees techbedrijf Hangyu kiest Marokko boven Slowakije voor fabriek van 105 miljoen euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinees-techbedrijf-hangyu-kiest-marokko-boven-slowakije-voor-fabriek-van-105-mi-1791583390834.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/washington-buigt-zich-over-toekomst-minurso-in-de-westelijke-sahara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T22:08:42.982Z</news:publication_date>
+      <news:title>Washington buigt zich over toekomst MINURSO in de Westelijke Sahara</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/washington-buigt-zich-over-toekomst-minurso-in-de-westelijke-sahara-1791583349798.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-uitstel-van-machtsoverdracht-aan-regio-s-is-onaanvaardbaar</loc>
     <news:news>
       <news:publication>
@@ -325,77 +385,5 @@
       <news:title>Jonge Marokkaan uitgewezen uit Ceuta na mislukte handtasroof</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-marokkaan-uitgewezen-uit-ceuta-na-mislukte-handtasroof-1791439337411.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/f-35-vliegt-voor-het-eerst-boven-afrika-tijdens-de-marrakech-airshow</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T00:12:38.630Z</news:publication_date>
-      <news:title>F-35 vliegt voor het eerst boven Afrika tijdens de Marrakech Airshow</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/f-35-vliegt-voor-het-eerst-boven-afrika-tijdens-de-marrakech-airshow-1791415655805.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-taxichauffeurs-luiden-noodklok-over-dure-diesel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T23:52:37.912Z</news:publication_date>
-      <news:title>Marokkaanse taxichauffeurs luiden noodklok over dure diesel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-taxichauffeurs-luiden-noodklok-over-dure-diesel-1791415610893.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bouwt-aanvalsdrone-met-bereik-van-2000-kilometer-samen-met-franse-start-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T23:32:37.080Z</news:publication_date>
-      <news:title>Marokko bouwt aanvalsdrone met bereik van 2000 kilometer, samen met Franse start-up van Marokkaanse ingenieur</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bouwt-aanvalsdrone-met-bereik-van-2000-kilometer-samen-met-franse-start--1791415570318.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-bank-simple-lanceert-eerste-ai-assistent-die-darija-spreekt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T22:49:08.321Z</news:publication_date>
-      <news:title>Marokkaanse bank Simple. lanceert eerste AI-assistent die darija spreekt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-bank-simple-lanceert-eerste-ai-assistent-die-darija-spreekt-1791410645438.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bundelt-boeing-airbus-en-lockheed-martin-in-nieuw-industrieel-luchtvaart</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T22:29:07.547Z</news:publication_date>
-      <news:title>Marokko bundelt Boeing, Airbus en Lockheed Martin in nieuw industrieel luchtvaartcentrum</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bundelt-boeing-airbus-en-lockheed-martin-in-nieuw-industrieel-luchtvaart-1791410604274.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/watervoorraad-marokko-verdubbelt-op-een-jaar-tijd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T22:09:06.664Z</news:publication_date>
-      <news:title>Watervoorraad Marokko verdubbelt op een jaar tijd</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/watervoorraad-marokko-verdubbelt-op-een-jaar-tijd-1791410561495.jpg</image:loc></image:image>
   </url>
 </urlset>
