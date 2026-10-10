@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-arresteert-22-jarige-in-tanger-om-vermoede-is-gelinkte-aanslagplannen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T16:34:13.667Z</news:publication_date>
+      <news:title>Marokko arresteert 22-jarige in Tanger om vermoede IS-gelinkte aanslagplannen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-arresteert-22-jarige-in-tanger-om-vermoede-is-gelinkte-aanslagplannen-1791649932107.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/waarom-bijna-zes-op-de-tien-marokkaanse-huwelijken-nog-gearrangeerd-zijn</loc>
     <news:news>
       <news:publication>
@@ -385,17 +397,5 @@
       <news:title>De zeven heiligen van Marrakech: Sidi Abdelaziz Tebbaa, de genezer</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-zeven-heiligen-van-marrakech-sidi-abdelaziz-tebbaa-de-genezer-1791496925246.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fifa-baas-infantino-prijst-marokko-om-zijn-voetbalinfrastructuur</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T15:31:41.595Z</news:publication_date>
-      <news:title>FIFA-baas Infantino prijst Marokko om zijn voetbalinfrastructuur</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-baas-infantino-prijst-marokko-om-zijn-voetbalinfrastructuur-1791471998975.jpg</image:loc></image:image>
   </url>
 </urlset>
