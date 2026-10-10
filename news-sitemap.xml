@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/de-energieafhankelijkheid-van-marokko-hoe-spaans-gas-de-marokkaanse-economie-dra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T06:28:09.064Z</news:publication_date>
+      <news:title>De energieafhankelijkheid van Marokko: hoe Spaans gas de Marokkaanse economie draaiende houdt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-energieafhankelijkheid-van-marokko-hoe-spaans-gas-de-marokkaanse-economie-dra-1791612186629.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-toerisme-blijft-stijgen-inkomsten-groeien-sneller-dan-het-aantal-bezo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T06:08:08.073Z</news:publication_date>
+      <news:title>Marokkaans toerisme blijft stijgen: inkomsten groeien sneller dan het aantal bezoekers</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-toerisme-blijft-stijgen-inkomsten-groeien-sneller-dan-het-aantal-bezo-1791612139894.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/istiqlal-wil-sterke-samenhangende-regering-die-inspeelt-op-wensen-van-marokkanen</loc>
     <news:news>
       <news:publication>
@@ -337,53 +361,5 @@
       <news:title>Marokkaanse futsalploeg jaagt op historische vierde Afrikatitel op rij</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-futsalploeg-jaagt-op-historische-vierde-afrikatitel-op-rij-1791451940715.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-legislatuur-in-marokko-de-koers-en-de-rest-van-het-werk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T08:37:35.932Z</news:publication_date>
-      <news:title>Nieuwe legislatuur in Marokko: de koers en de rest van het werk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-legislatuur-in-marokko-de-koers-en-de-rest-van-het-werk-1791448354563.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-douane-vernieuwt-onlinehulp-adil-met-rekentool-voor-invoerrechten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T07:09:45.843Z</news:publication_date>
-      <news:title>Marokkaanse douane vernieuwt onlinehulp ADIL met rekentool voor invoerrechten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-douane-vernieuwt-onlinehulp-adil-met-rekentool-voor-invoerrechten-1791443084260.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-plannen-tot-70-000-dollar-voor-buitenlandse-studenten-die-willen-wer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T06:27:56.194Z</news:publication_date>
-      <news:title>Amerikaanse plannen: tot 70.000 dollar voor buitenlandse studenten die willen werken in de VS</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-plannen-tot-70-000-dollar-voor-buitenlandse-studenten-die-willen-wer-1791439374296.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/jonge-marokkaan-uitgewezen-uit-ceuta-na-mislukte-handtasroof</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T06:07:55.486Z</news:publication_date>
-      <news:title>Jonge Marokkaan uitgewezen uit Ceuta na mislukte handtasroof</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-marokkaan-uitgewezen-uit-ceuta-na-mislukte-handtasroof-1791439337411.jpg</image:loc></image:image>
   </url>
 </urlset>
