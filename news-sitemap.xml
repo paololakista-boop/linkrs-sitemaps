@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/jonge-marokkaanse-omgekomen-bij-droneaanval-in-saudi-arabie-begraven-in-mekka</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T12:34:05.315Z</news:publication_date>
+      <news:title>Jonge Marokkaanse omgekomen bij droneaanval in Saudi-Arabië begraven in Mekka</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-marokkaanse-omgekomen-bij-droneaanval-in-saudi-arabie-begraven-in-mekka-1791721921164.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ontruiming-stranden-ceuta-veel-migranten-keren-terug-naar-marokko-anderen-duiken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T09:37:17.630Z</news:publication_date>
+      <news:title>Ontruiming stranden Ceuta: veel migranten keren terug naar Marokko, anderen duiken onder</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ontruiming-stranden-ceuta-veel-migranten-keren-terug-naar-marokko-anderen-duiken-1791711136479.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-wil-nieuwe-migratiedeal-met-de-eu-minder-grensbewaking-meer-e</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T06:28:12.723Z</news:publication_date>
+      <news:title>Koning Mohammed VI wil nieuwe migratiedeal met de EU: minder grensbewaking, meer eerlijkheid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-wil-nieuwe-migratiedeal-met-de-eu-minder-grensbewaking-meer-e-1791698590421.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/volle-stuwdammen-geven-marokkaanse-landbouw-nieuwe-hoop-voor-seizoen-2026-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T06:08:11.860Z</news:publication_date>
+      <news:title>Volle stuwdammen geven Marokkaanse landbouw nieuwe hoop voor seizoen 2026-2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volle-stuwdammen-geven-marokkaanse-landbouw-nieuwe-hoop-voor-seizoen-2026-2027-1791698540000.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-partijen-zetten-vrouwen-aan-het-hoofd-van-parlementsfracties</loc>
     <news:news>
       <news:publication>
@@ -397,41 +445,5 @@
       <news:title>Amerikaanse basketbalster beweert zwanger te zijn van Achraf Hakimi</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-basketbalster-beweert-zwanger-te-zijn-van-achraf-hakimi-1791554533665.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-in-volle-transformatie-meer-jobs-maar-niet-voor-iedereen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T09:37:38.270Z</news:publication_date>
-      <news:title>Marokko in volle transformatie: meer jobs, maar niet voor iedereen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-in-volle-transformatie-meer-jobs-maar-niet-voor-iedereen-1791538356869.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vader-van-saad-lamjarred-betreurt-uitblijven-steun-marokkaanse-kunstwereld-na-ce</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T06:27:46.407Z</news:publication_date>
-      <news:title>Vader van Saad Lamjarred betreurt uitblijven steun Marokkaanse kunstwereld na celstraf</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vader-van-saad-lamjarred-betreurt-uitblijven-steun-marokkaanse-kunstwereld-na-ce-1791525763610.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-links-debatteert-over-strafstem-en-verkiezingsonregelmatigheden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T06:07:45.421Z</news:publication_date>
-      <news:title>Marokkaans links debatteert over strafstem en verkiezingsonregelmatigheden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-links-debatteert-over-strafstem-en-verkiezingsonregelmatigheden-1791525721013.jpg</image:loc></image:image>
   </url>
 </urlset>
