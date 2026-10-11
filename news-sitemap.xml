@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-maakt-start-van-maand-joumada-al-oula-bekend-dinsdag-13-oktober</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T20:37:19.531Z</news:publication_date>
+      <news:title>Marokko maakt start van maand Joumada al-Oula bekend: dinsdag 13 oktober</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-maakt-start-van-maand-joumada-al-oula-bekend-dinsdag-13-oktober-1791750738121.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/haven-tanger-med-onderschept-ruim-3-5-ton-hasj-in-vrachtwagen</loc>
     <news:news>
       <news:publication>
@@ -445,29 +457,5 @@
       <news:title>Washington buigt zich over toekomst MINURSO in de Westelijke Sahara</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/washington-buigt-zich-over-toekomst-minurso-in-de-westelijke-sahara-1791583349798.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-uitstel-van-machtsoverdracht-aan-regio-s-is-onaanvaardbaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T18:58:07.529Z</news:publication_date>
-      <news:title>Koning Mohammed VI: uitstel van machtsoverdracht aan regio&apos;s is onaanvaardbaar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-uitstel-van-machtsoverdracht-aan-regio-s-is-onaanvaardbaar-1791570784783.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-samenwerking-met-spanje-blijft-maar-migratiemodel-is-uitgeput</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T18:38:06.170Z</news:publication_date>
-      <news:title>Koning Mohammed VI: samenwerking met Spanje blijft, maar migratiemodel is uitgeput</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-samenwerking-met-spanje-blijft-maar-migratiemodel-is-uitgeput-1791570748316.jpg</image:loc></image:image>
   </url>
 </urlset>
