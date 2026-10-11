@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/haven-tanger-med-onderschept-ruim-3-5-ton-hasj-in-vrachtwagen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T17:34:32.554Z</news:publication_date>
+      <news:title>Haven Tanger Med onderschept ruim 3,5 ton hasj in vrachtwagen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/haven-tanger-med-onderschept-ruim-3-5-ton-hasj-in-vrachtwagen-1791739771411.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/asilah-debatteert-over-een-gezamenlijk-arabisch-standpunt-in-een-onzekere-wereld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T15:18:44.599Z</news:publication_date>
+      <news:title>Asilah debatteert over een gezamenlijk Arabisch standpunt in een onzekere wereld</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/asilah-debatteert-over-een-gezamenlijk-arabisch-standpunt-in-een-onzekere-wereld-1791729221541.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/pps-houdt-cruciaal-overleg-vlak-voor-nieuwe-marokkaanse-regering</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T14:58:43.853Z</news:publication_date>
+      <news:title>PPS houdt cruciaal overleg vlak voor nieuwe Marokkaanse regering</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pps-houdt-cruciaal-overleg-vlak-voor-nieuwe-marokkaanse-regering-1791729176792.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belastingdienst-neemt-183-marokkaanse-bedrijven-onder-de-loep-om-boekhoudfraude</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T14:48:48.061Z</news:publication_date>
+      <news:title>Belastingdienst neemt 183 Marokkaanse bedrijven onder de loep om boekhoudfraude</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belastingdienst-neemt-183-marokkaanse-bedrijven-onder-de-loep-om-boekhoudfraude-1791727425161.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/washington-weegt-toekomst-van-vn-missie-minurso-in-de-westelijke-sahara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T14:38:42.926Z</news:publication_date>
+      <news:title>Washington weegt toekomst van VN-missie MINURSO in de Westelijke Sahara</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/washington-weegt-toekomst-van-vn-missie-minurso-in-de-westelijke-sahara-1791729136416.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/unie-constitutionnelle-kiest-voor-kritische-steun-aan-nieuwe-marokkaanse-regerin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T14:28:47.338Z</news:publication_date>
+      <news:title>Unie Constitutionnelle kiest voor kritische steun aan nieuwe Marokkaanse regering</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/unie-constitutionnelle-kiest-voor-kritische-steun-aan-nieuwe-marokkaanse-regerin-1791727387249.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mehdi-benatia-in-beeld-bij-ac-milan-maar-met-vier-concurrenten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T14:08:46.301Z</news:publication_date>
+      <news:title>Mehdi Benatia in beeld bij AC Milan, maar met vier concurrenten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mehdi-benatia-in-beeld-bij-ac-milan-maar-met-vier-concurrenten-1791727342856.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bank-al-maghrib-onderzoekt-digitale-dirham-kansen-en-risico-s-op-een-rij</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T13:22:55.890Z</news:publication_date>
+      <news:title>Bank Al-Maghrib onderzoekt digitale dirham: kansen en risico&apos;s op een rij</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bank-al-maghrib-onderzoekt-digitale-dirham-kansen-en-risico-s-op-een-rij-1791722133273.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-luchtmachttop-prijst-marokko-f-35-s-voor-het-eerst-boven-marrakech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T13:22:55.618Z</news:publication_date>
+      <news:title>Amerikaanse luchtmachttop prijst Marokko: F-35&apos;s voor het eerst boven Marrakech</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-luchtmachttop-prijst-marokko-f-35-s-voor-het-eerst-boven-marrakech-1791722080376.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/jonge-marokkaanse-omgekomen-bij-droneaanval-in-saudi-arabie-begraven-in-mekka</loc>
     <news:news>
       <news:publication>
@@ -361,89 +469,5 @@
       <news:title>Koning Mohammed VI: samenwerking met Spanje blijft, maar migratiemodel is uitgeput</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-samenwerking-met-spanje-blijft-maar-migratiemodel-is-uitgeput-1791570748316.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/datalek-treft-marokkaanse-journalisten-database-met-39-000-records-te-koop-aange</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T15:34:26.823Z</news:publication_date>
-      <news:title>Datalek treft Marokkaanse journalisten: database met 39.000 records te koop aangeboden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/datalek-treft-marokkaanse-journalisten-database-met-39-000-records-te-koop-aange-1791559946031.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/caf-verhoogt-jaarlijkse-steun-aan-voetbalbonden-naar-700-000-dollar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T15:15:54.383Z</news:publication_date>
-      <news:title>CAF verhoogt jaarlijkse steun aan voetbalbonden naar 700.000 dollar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-verhoogt-jaarlijkse-steun-aan-voetbalbonden-naar-700-000-dollar-1791557400592.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/waarom-verliest-de-dirham-terrein-tegenover-de-euro-en-de-dollar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T14:58:29.642Z</news:publication_date>
-      <news:title>Waarom verliest de dirham terrein tegenover de euro en de dollar?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-verliest-de-dirham-terrein-tegenover-de-euro-en-de-dollar-1791556407834.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-andere-wegen-van-marokkaanse-migratie-van-west-afrika-tot-de-arabische-wereld</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T14:48:36.667Z</news:publication_date>
-      <news:title>De andere wegen van Marokkaanse migratie: van West-Afrika tot de Arabische wereld</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-andere-wegen-van-marokkaanse-migratie-van-west-afrika-tot-de-arabische-wereld-1791554611493.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-start-landbouwjaar-2026-2027-met-hoogste-waterreserves-in-tien-jaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T14:38:28.883Z</news:publication_date>
-      <news:title>Marokko start landbouwjaar 2026-2027 met hoogste waterreserves in tien jaar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-start-landbouwjaar-2026-2027-met-hoogste-waterreserves-in-tien-jaar-1791556367938.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-steunt-sila-atlantik-groene-stroomkabel-van-30-miljard-dollar-naar-duits</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T14:28:35.950Z</news:publication_date>
-      <news:title>Marokko steunt Sila Atlantik: groene stroomkabel van 30 miljard dollar naar Duitsland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-steunt-sila-atlantik-groene-stroomkabel-van-30-miljard-dollar-naar-duits-1791554573616.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-basketbalster-beweert-zwanger-te-zijn-van-achraf-hakimi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T14:08:35.091Z</news:publication_date>
-      <news:title>Amerikaanse basketbalster beweert zwanger te zijn van Achraf Hakimi</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-basketbalster-beweert-zwanger-te-zijn-van-achraf-hakimi-1791554533665.jpg</image:loc></image:image>
   </url>
 </urlset>
