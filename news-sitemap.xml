@@ -3,6 +3,174 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/sanchez-bevestigt-marokkaanse-oorlogsschepen-voeren-eind-juli-de-wateren-van-ceu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T17:57:30.900Z</news:publication_date>
+      <news:title>Sánchez bevestigt: Marokkaanse oorlogsschepen voeren eind juli de wateren van Ceuta binnen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sanchez-bevestigt-marokkaanse-oorlogsschepen-voeren-eind-juli-de-wateren-van-ceu-1791825147810.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-medicijn-uit-hennep-tegen-epilepsie-gepresenteerd-in-milaan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T17:37:30.187Z</news:publication_date>
+      <news:title>Marokkaans medicijn uit hennep tegen epilepsie gepresenteerd in Milaan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-medicijn-uit-hennep-tegen-epilepsie-gepresenteerd-in-milaan-1791825115508.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-koning-bezoekt-ceuta-en-melilla-terwijl-spanning-met-marokko-oploopt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T17:17:29.025Z</news:publication_date>
+      <news:title>Spaanse koning bezoekt Ceuta en Melilla terwijl spanning met Marokko oploopt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-koning-bezoekt-ceuta-en-melilla-terwijl-spanning-met-marokko-oploopt-1791825080387.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ruim-300-migranten-keren-vrijwillig-terug-naar-marokko-na-ontruiming-kamp-in-ceu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T16:37:30.802Z</news:publication_date>
+      <news:title>Ruim 300 migranten keren vrijwillig terug naar Marokko na ontruiming kamp in Ceuta</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ruim-300-migranten-keren-vrijwillig-terug-naar-marokko-na-ontruiming-kamp-in-ceu-1791822749450.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/sidi-bennour-blinde-zeventigster-verkracht-in-eigen-huis-dader-blijkt-haar-klein</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T14:49:14.127Z</news:publication_date>
+      <news:title>Sidi Bennour: blinde zeventigster verkracht in eigen huis, dader blijkt haar kleinzoon</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sidi-bennour-blinde-zeventigster-verkracht-in-eigen-huis-dader-blijkt-haar-klein-1791813851066.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/oktoberregen-vult-stuwmeren-marokko-voorraad-verdubbeld-tegenover-vorig-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T14:37:41.850Z</news:publication_date>
+      <news:title>Oktoberregen vult stuwmeren Marokko: voorraad verdubbeld tegenover vorig jaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oktoberregen-vult-stuwmeren-marokko-voorraad-verdubbeld-tegenover-vorig-jaar-1791815560716.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/holland-gnawa-festival-brengt-marokkaanse-gnawamuziek-naar-den-haag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T14:29:13.405Z</news:publication_date>
+      <news:title>Holland Gnawa Festival brengt Marokkaanse gnawamuziek naar Den Haag</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/holland-gnawa-festival-brengt-marokkaanse-gnawamuziek-naar-den-haag-1791813816421.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/eerste-30-marokkaanse-werknemers-aan-de-slag-in-italiaanse-staalindustrie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T14:09:12.483Z</news:publication_date>
+      <news:title>Eerste 30 Marokkaanse werknemers aan de slag in Italiaanse staalindustrie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eerste-30-marokkaanse-werknemers-aan-de-slag-in-italiaanse-staalindustrie-1791813779594.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/taiwan-behandelt-opnieuw-visumaanvragen-van-marokkanen-na-ruim-twee-maanden-stop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T13:39:00.182Z</news:publication_date>
+      <news:title>Taiwan behandelt opnieuw visumaanvragen van Marokkanen na ruim twee maanden stop</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/taiwan-behandelt-opnieuw-visumaanvragen-van-marokkanen-na-ruim-twee-maanden-stop-1791812006961.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/overstromingen-in-chichaoua-eisen-vier-levens</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T13:36:01.402Z</news:publication_date>
+      <news:title>Overstromingen in Chichaoua eisen vier levens</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/overstromingen-in-chichaoua-eisen-vier-levens-1791812039329.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tanger-vijf-maanden-cel-voor-aanranding-van-marokkaans-nederlandse-vrouw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T12:38:12.085Z</news:publication_date>
+      <news:title>Tanger: vijf maanden cel voor aanranding van Marokkaans-Nederlandse vrouw</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tanger-vijf-maanden-cel-voor-aanranding-van-marokkaans-nederlandse-vrouw-1791808362957.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vissersboot-zinkt-voor-kust-van-mehdia-hele-bemanning-gered</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T11:43:01.455Z</news:publication_date>
+      <news:title>Vissersboot zinkt voor kust van Mehdia, hele bemanning gered</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vissersboot-zinkt-voor-kust-van-mehdia-hele-bemanning-gered-1791804779188.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tanger-vermoedelijke-is-aanhanger-opgepakt-na-tip-inlichtingendienst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T11:35:00.610Z</news:publication_date>
+      <news:title>Tanger: vermoedelijke IS-aanhanger opgepakt na tip inlichtingendienst</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tanger-vermoedelijke-is-aanhanger-opgepakt-na-tip-inlichtingendienst-1791804744997.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-parlement-kiest-dinsdag-nieuwe-voorzitter-van-kamer-van-afgevaardigde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T09:34:16.019Z</news:publication_date>
+      <news:title>Marokkaans parlement kiest dinsdag nieuwe voorzitter van Kamer van Afgevaardigden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-parlement-kiest-dinsdag-nieuwe-voorzitter-van-kamer-van-afgevaardigde-1791797534429.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wetenschappers-verwachten-dat-een-zeer-giftige-schorpioen-zich-uitbreidt-in-maro</loc>
     <news:news>
       <news:publication>
@@ -289,149 +457,5 @@
       <news:title>Amerikaans gerecht prijst rol Marokkaanse veiligheidsdienst bij oprollen wapensmokkelnetwerk naar Mexicaans kartel</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaans-gerecht-prijst-rol-marokkaanse-veiligheidsdienst-bij-oprollen-wapensm-1791669737696.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-arresteert-22-jarige-in-tanger-om-vermoede-is-gelinkte-aanslagplannen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T16:34:13.667Z</news:publication_date>
-      <news:title>Marokko arresteert 22-jarige in Tanger om vermoede IS-gelinkte aanslagplannen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-arresteert-22-jarige-in-tanger-om-vermoede-is-gelinkte-aanslagplannen-1791649932107.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/waarom-bijna-zes-op-de-tien-marokkaanse-huwelijken-nog-gearrangeerd-zijn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T14:54:58.380Z</news:publication_date>
-      <news:title>Waarom bijna zes op de tien Marokkaanse huwelijken nog gearrangeerd zijn</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-bijna-zes-op-de-tien-marokkaanse-huwelijken-nog-gearrangeerd-zijn-1791641394851.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kippenprijzen-schieten-omhoog-in-marokko-wat-zit-erachter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T14:48:48.830Z</news:publication_date>
-      <news:title>Kippenprijzen schieten omhoog in Marokko: wat zit erachter?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kippenprijzen-schieten-omhoog-in-marokko-wat-zit-erachter-1791641025691.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bitcoin-herstelt-terwijl-crypto-in-marokko-blijft-groeien-ondanks-verbod</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T14:34:57.682Z</news:publication_date>
-      <news:title>Bitcoin herstelt terwijl crypto in Marokko blijft groeien ondanks verbod</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bitcoin-herstelt-terwijl-crypto-in-marokko-blijft-groeien-ondanks-verbod-1791641355735.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mijnwerker-omgekomen-door-plotse-overstromingen-in-zagora</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T14:34:39.348Z</news:publication_date>
-      <news:title>Mijnwerker omgekomen door plotse overstromingen in Zagora</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mijnwerker-omgekomen-door-plotse-overstromingen-in-zagora-1791642758019.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-en-italie-tekenen-akkoord-om-handel-en-investeringen-te-stimuleren</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T14:28:48.028Z</news:publication_date>
-      <news:title>Marokko en Italië tekenen akkoord om handel en investeringen te stimuleren</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-en-italie-tekenen-akkoord-om-handel-en-investeringen-te-stimuleren-1791640983203.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zeevracht-waarom-marokko-deels-ontsnapt-aan-de-crisis-in-de-straat-van-hormuz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T14:14:56.961Z</news:publication_date>
-      <news:title>Zeevracht: waarom Marokko deels ontsnapt aan de crisis in de Straat van Hormuz</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zeevracht-waarom-marokko-deels-ontsnapt-aan-de-crisis-in-de-straat-van-hormuz-1791641313145.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/cas-buigt-zich-over-afrika-cup-finale-blijft-de-titel-bij-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T14:11:55.948Z</news:publication_date>
-      <news:title>CAS buigt zich over Afrika Cup-finale: blijft de titel bij Marokko?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cas-buigt-zich-over-afrika-cup-finale-blijft-de-titel-bij-marokko-1791641267060.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/politie-onderschept-4-1-ton-hasj-en-smokkelboten-bij-fez</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T14:08:46.797Z</news:publication_date>
-      <news:title>Politie onderschept 4,1 ton hasj en smokkelboten bij Fez</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politie-onderschept-4-1-ton-hasj-en-smokkelboten-bij-fez-1791640951017.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/afrika-cup-futsal-2026-marokko-jaagt-thuis-op-vierde-continentale-titel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T13:26:48.669Z</news:publication_date>
-      <news:title>Afrika Cup futsal 2026: Marokko jaagt thuis op vierde continentale titel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/afrika-cup-futsal-2026-marokko-jaagt-thuis-op-vierde-continentale-titel-1791638505901.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwinnen-winnen-oefenduel-met-oezbekistan-3-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T10:57:37.897Z</news:publication_date>
-      <news:title>Atlasleeuwinnen winnen oefenduel met Oezbekistan (3-1)</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwinnen-winnen-oefenduel-met-oezbekistan-3-1-1791628355829.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bondscoach-ouahbi-marokko-wil-als-eerste-afrikaanse-land-het-wk-winnen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T10:37:37.030Z</news:publication_date>
-      <news:title>Bondscoach Ouahbi: Marokko wil als eerste Afrikaanse land het WK winnen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bondscoach-ouahbi-marokko-wil-als-eerste-afrikaanse-land-het-wk-winnen-1791628325419.jpg</image:loc></image:image>
   </url>
 </urlset>
