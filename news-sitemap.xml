@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-oppositie-vreest-voor-luchtruimdeal-tussen-spanje-en-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T22:48:40.230Z</news:publication_date>
+      <news:title>Spaanse oppositie vreest voor luchtruimdeal tussen Spanje en Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-oppositie-vreest-voor-luchtruimdeal-tussen-spanje-en-marokko-1791756216822.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/algerije-arresteert-61-marokkanen-wegens-vermeende-sabotageplannen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T22:28:39.436Z</news:publication_date>
+      <news:title>Algerije arresteert 61 Marokkanen wegens vermeende sabotageplannen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/algerije-arresteert-61-marokkanen-wegens-vermeende-sabotageplannen-1791756176588.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-theater-rouwt-om-toneelschrijver-aziz-seghrouchni</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-11T22:08:38.098Z</news:publication_date>
+      <news:title>Marokkaans theater rouwt om toneelschrijver Aziz Seghrouchni</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-theater-rouwt-om-toneelschrijver-aziz-seghrouchni-1791756144105.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-maakt-start-van-maand-joumada-al-oula-bekend-dinsdag-13-oktober</loc>
     <news:news>
       <news:publication>
@@ -397,65 +433,5 @@
       <news:title>Marokkaans toerisme blijft stijgen: inkomsten groeien sneller dan het aantal bezoekers</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-toerisme-blijft-stijgen-inkomsten-groeien-sneller-dan-het-aantal-bezo-1791612139894.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/istiqlal-wil-sterke-samenhangende-regering-die-inspeelt-op-wensen-van-marokkanen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T23:25:20.355Z</news:publication_date>
-      <news:title>Istiqlal wil sterke, samenhangende regering die inspeelt op wensen van Marokkanen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/istiqlal-wil-sterke-samenhangende-regering-die-inspeelt-op-wensen-van-marokkanen-1791586818147.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/parlement-looft-inhoud-van-troonrede-bij-opening-nieuwe-zittingsperiode</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T23:05:19.426Z</news:publication_date>
-      <news:title>Parlement looft inhoud van troonrede bij opening nieuwe zittingsperiode</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/parlement-looft-inhoud-van-troonrede-bij-opening-nieuwe-zittingsperiode-1791586777491.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/israel-voor-het-eerst-aanwezig-op-luchtvaartbeurs-van-marrakech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T22:48:44.767Z</news:publication_date>
-      <news:title>Israël voor het eerst aanwezig op luchtvaartbeurs van Marrakech</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/israel-voor-het-eerst-aanwezig-op-luchtvaartbeurs-van-marrakech-1791583421803.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/chinees-techbedrijf-hangyu-kiest-marokko-boven-slowakije-voor-fabriek-van-105-mi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T22:28:43.963Z</news:publication_date>
-      <news:title>Chinees techbedrijf Hangyu kiest Marokko boven Slowakije voor fabriek van 105 miljoen euro</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinees-techbedrijf-hangyu-kiest-marokko-boven-slowakije-voor-fabriek-van-105-mi-1791583390834.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/washington-buigt-zich-over-toekomst-minurso-in-de-westelijke-sahara</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T22:08:42.982Z</news:publication_date>
-      <news:title>Washington buigt zich over toekomst MINURSO in de Westelijke Sahara</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/washington-buigt-zich-over-toekomst-minurso-in-de-westelijke-sahara-1791583349798.jpg</image:loc></image:image>
   </url>
 </urlset>
