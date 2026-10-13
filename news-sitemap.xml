@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/airbus-breidt-fabrieken-in-marokko-met-een-derde-uit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T06:08:27.724Z</news:publication_date>
+      <news:title>Airbus breidt fabrieken in Marokko met een derde uit</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/airbus-breidt-fabrieken-in-marokko-met-een-derde-uit-1791871366868.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/franse-extreemrechtse-leider-bardella-in-bezet-ceuta-stad-blijft-spaans</loc>
     <news:news>
       <news:publication>
@@ -397,29 +409,5 @@
       <news:title>Ontruiming stranden Ceuta: veel migranten keren terug naar Marokko, anderen duiken onder</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ontruiming-stranden-ceuta-veel-migranten-keren-terug-naar-marokko-anderen-duiken-1791711136479.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-wil-nieuwe-migratiedeal-met-de-eu-minder-grensbewaking-meer-e</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T06:28:12.723Z</news:publication_date>
-      <news:title>Koning Mohammed VI wil nieuwe migratiedeal met de EU: minder grensbewaking, meer eerlijkheid</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-wil-nieuwe-migratiedeal-met-de-eu-minder-grensbewaking-meer-e-1791698590421.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/volle-stuwdammen-geven-marokkaanse-landbouw-nieuwe-hoop-voor-seizoen-2026-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T06:08:11.860Z</news:publication_date>
-      <news:title>Volle stuwdammen geven Marokkaanse landbouw nieuwe hoop voor seizoen 2026-2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volle-stuwdammen-geven-marokkaanse-landbouw-nieuwe-hoop-voor-seizoen-2026-2027-1791698540000.jpg</image:loc></image:image>
   </url>
 </urlset>
