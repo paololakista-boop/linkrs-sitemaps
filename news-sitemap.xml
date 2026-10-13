@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-extreemrechtse-leider-bardella-in-bezet-ceuta-stad-blijft-spaans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T22:29:08.102Z</news:publication_date>
+      <news:title>Franse extreemrechtse leider Bardella in bezet Ceuta: stad blijft Spaans</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-extreemrechtse-leider-bardella-in-bezet-ceuta-stad-blijft-spaans-1791842607397.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/claude-mangin-opnieuw-geweigerd-op-luchthaven-van-marrakech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T22:09:07.282Z</news:publication_date>
+      <news:title>Claude Mangin opnieuw geweigerd op luchthaven van Marrakech</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/claude-mangin-opnieuw-geweigerd-op-luchthaven-van-marrakech-1791842563055.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/sanchez-bevestigt-marokkaanse-oorlogsschepen-voeren-eind-juli-de-wateren-van-ceu</loc>
     <news:news>
       <news:publication>
@@ -397,65 +421,5 @@
       <news:title>Volle stuwdammen geven Marokkaanse landbouw nieuwe hoop voor seizoen 2026-2027</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volle-stuwdammen-geven-marokkaanse-landbouw-nieuwe-hoop-voor-seizoen-2026-2027-1791698540000.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-partijen-zetten-vrouwen-aan-het-hoofd-van-parlementsfracties</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T22:48:31.808Z</news:publication_date>
-      <news:title>Marokkaanse partijen zetten vrouwen aan het hoofd van parlementsfracties</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-partijen-zetten-vrouwen-aan-het-hoofd-van-parlementsfracties-1791669808354.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hybride-en-elektrische-auto-s-winnen-terrein-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T22:33:41.558Z</news:publication_date>
-      <news:title>Hybride en elektrische auto&apos;s winnen terrein in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hybride-en-elektrische-auto-s-winnen-terrein-in-marokko-1791670119713.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-zaak-tabit-de-laatste-doodstraf-die-marokko-ooit-voltrok</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T22:28:31.003Z</news:publication_date>
-      <news:title>De zaak Tabit: de laatste doodstraf die Marokko ooit voltrok</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-zaak-tabit-de-laatste-doodstraf-die-marokko-ooit-voltrok-1791669774370.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/van-casablanca-naar-de-amerikaanse-sport-en-muziekwereld-het-parcours-van-hasnaa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T22:13:40.653Z</news:publication_date>
-      <news:title>Van Casablanca naar de Amerikaanse sport- en muziekwereld: het parcours van Hasnaa Chadi</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-casablanca-naar-de-amerikaanse-sport-en-muziekwereld-het-parcours-van-hasnaa-1791670079958.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amerikaans-gerecht-prijst-rol-marokkaanse-veiligheidsdienst-bij-oprollen-wapensm</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T22:08:29.685Z</news:publication_date>
-      <news:title>Amerikaans gerecht prijst rol Marokkaanse veiligheidsdienst bij oprollen wapensmokkelnetwerk naar Mexicaans kartel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaans-gerecht-prijst-rol-marokkaanse-veiligheidsdienst-bij-oprollen-wapensm-1791669737696.jpg</image:loc></image:image>
   </url>
 </urlset>
