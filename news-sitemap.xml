@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/man-65-opgesloten-na-dodelijke-messteekpartij-op-twee-zussen-in-khenifra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T22:49:09.523Z</news:publication_date>
+      <news:title>Man (65) opgesloten na dodelijke messteekpartij op twee zussen in Khénifra</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/man-65-opgesloten-na-dodelijke-messteekpartij-op-twee-zussen-in-khenifra-1791929046322.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marion-cotillard-leidt-de-jury-van-het-filmfestival-van-marrakech-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T22:29:08.716Z</news:publication_date>
+      <news:title>Marion Cotillard leidt de jury van het filmfestival van Marrakech 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marion-cotillard-leidt-de-jury-van-het-filmfestival-van-marrakech-2026-1791929016977.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-op-tweede-plaats-bij-regularisatie-van-migranten-in-spanje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T22:09:07.746Z</news:publication_date>
+      <news:title>Marokkanen op tweede plaats bij regularisatie van migranten in Spanje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-op-tweede-plaats-bij-regularisatie-van-migranten-in-spanje-1791928984549.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-spelen-in-november-twee-keer-tegen-niger-in-kwalificatie-can-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T21:37:17.977Z</news:publication_date>
+      <news:title>Atlasleeuwen spelen in november twee keer tegen Niger in kwalificatie CAN 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwen-spelen-in-november-twee-keer-tegen-niger-in-kwalificatie-can-2027-1791927136859.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/jonge-man-uit-sale-smeekt-koning-mohammed-vi-om-longtransplantatie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T19:38:10.003Z</news:publication_date>
+      <news:title>Jonge man uit Salé smeekt koning Mohammed VI om longtransplantatie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-man-uit-sale-smeekt-koning-mohammed-vi-om-longtransplantatie-1791919988278.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/chinees-industriebedrijf-verhuist-project-van-117-miljoen-dollar-naar-tanger</loc>
     <news:news>
       <news:publication>
@@ -349,53 +409,5 @@
       <news:title>Marokko wil Afrikaanse zaalvoetbaltitel verdedigen op eigen bodem</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-afrikaanse-zaalvoetbaltitel-verdedigen-op-eigen-bodem-1791784942958.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-oppositie-vreest-voor-luchtruimdeal-tussen-spanje-en-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T22:48:40.230Z</news:publication_date>
-      <news:title>Spaanse oppositie vreest voor luchtruimdeal tussen Spanje en Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-oppositie-vreest-voor-luchtruimdeal-tussen-spanje-en-marokko-1791756216822.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/algerije-arresteert-61-marokkanen-wegens-vermeende-sabotageplannen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T22:28:39.436Z</news:publication_date>
-      <news:title>Algerije arresteert 61 Marokkanen wegens vermeende sabotageplannen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/algerije-arresteert-61-marokkanen-wegens-vermeende-sabotageplannen-1791756176588.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-theater-rouwt-om-toneelschrijver-aziz-seghrouchni</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T22:08:38.098Z</news:publication_date>
-      <news:title>Marokkaans theater rouwt om toneelschrijver Aziz Seghrouchni</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-theater-rouwt-om-toneelschrijver-aziz-seghrouchni-1791756144105.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-maakt-start-van-maand-joumada-al-oula-bekend-dinsdag-13-oktober</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T20:37:19.531Z</news:publication_date>
-      <news:title>Marokko maakt start van maand Joumada al-Oula bekend: dinsdag 13 oktober</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-maakt-start-van-maand-joumada-al-oula-bekend-dinsdag-13-oktober-1791750738121.jpg</image:loc></image:image>
   </url>
 </urlset>
