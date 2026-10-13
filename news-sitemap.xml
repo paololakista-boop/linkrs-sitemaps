@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/chinees-industriebedrijf-verhuist-project-van-117-miljoen-dollar-naar-tanger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T16:15:31.099Z</news:publication_date>
+      <news:title>Chinees industriebedrijf verhuist project van 117 miljoen dollar naar Tanger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinees-industriebedrijf-verhuist-project-van-117-miljoen-dollar-naar-tanger-1791905427171.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-museum-over-marokkaans-joodse-cultuur-opent-in-de-mellah-van-fez</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T15:55:30.354Z</news:publication_date>
+      <news:title>Nieuw museum over Marokkaans-Joodse cultuur opent in de Mellah van Fez</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-museum-over-marokkaans-joodse-cultuur-opent-in-de-mellah-van-fez-1791905382278.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ilias-akhomach-reageert-op-de-rel-rond-het-sebta-shirt-voetbal-en-politiek-horen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T15:35:29.573Z</news:publication_date>
+      <news:title>Ilias Akhomach reageert op de rel rond het Sebta-shirt: &apos;Voetbal en politiek horen niet samen&apos;</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ilias-akhomach-reageert-op-de-rel-rond-het-sebta-shirt-voetbal-en-politiek-horen-1791905343486.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fatima-ezzahra-el-mansouri-vormt-centrumlinkse-coalitie-en-wordt-eerste-vrouweli</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T15:32:28.735Z</news:publication_date>
+      <news:title>Fatima Ezzahra El Mansouri vormt centrumlinkse coalitie en wordt eerste vrouwelijke premier van Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fatima-ezzahra-el-mansouri-vormt-centrumlinkse-coalitie-en-wordt-eerste-vrouweli-1791905303959.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wereldbank-prijst-marokko-om-zijn-aanpak-van-start-upfinanciering</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T14:49:28.419Z</news:publication_date>
+      <news:title>Wereldbank prijst Marokko om zijn aanpak van start-upfinanciering</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wereldbank-prijst-marokko-om-zijn-aanpak-van-start-upfinanciering-1791900264842.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/imf-verwacht-stevige-groei-marokkaanse-economie-in-2026-en-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T14:29:27.701Z</news:publication_date>
+      <news:title>IMF verwacht stevige groei Marokkaanse economie in 2026 en 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/imf-verwacht-stevige-groei-marokkaanse-economie-in-2026-en-2027-1791900230915.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wao-uitkering-en-verblijf-in-marokko-centrale-raad-verschuift-ingangsdatum-na-be</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T14:09:26.641Z</news:publication_date>
+      <news:title>WAO-uitkering en verblijf in Marokko: Centrale Raad verschuift ingangsdatum na bewijs</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wao-uitkering-en-verblijf-in-marokko-centrale-raad-verschuift-ingangsdatum-na-be-1791900194818.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rabat-bij-de-25-beste-reisbestemmingen-ter-wereld-voor-2027-volgens-lonely-plane</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T13:58:46.755Z</news:publication_date>
+      <news:title>Rabat bij de 25 beste reisbestemmingen ter wereld voor 2027 volgens Lonely Planet</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rabat-bij-de-25-beste-reisbestemmingen-ter-wereld-voor-2027-volgens-lonely-plane-1791898424020.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/brits-bedrijf-bouwt-mee-aan-afrika-s-eerste-soevereine-ai-fabriek-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T13:38:45.525Z</news:publication_date>
+      <news:title>Brits bedrijf bouwt mee aan Afrika&apos;s eerste soevereine AI-fabriek in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/brits-bedrijf-bouwt-mee-aan-afrika-s-eerste-soevereine-ai-fabriek-in-marokko-1791898384423.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-zijn-grootste-groep-buitenlandse-zelfstandige-ondernemers-in-italie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T11:37:35.925Z</news:publication_date>
+      <news:title>Marokkanen zijn grootste groep buitenlandse zelfstandige ondernemers in Italië</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-zijn-grootste-groep-buitenlandse-zelfstandige-ondernemers-in-italie-1791891154892.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/airbus-breidt-fabrieken-in-marokko-met-een-derde-uit</loc>
     <news:news>
       <news:publication>
@@ -277,137 +397,5 @@
       <news:title>Marokko maakt start van maand Joumada al-Oula bekend: dinsdag 13 oktober</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-maakt-start-van-maand-joumada-al-oula-bekend-dinsdag-13-oktober-1791750738121.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/haven-tanger-med-onderschept-ruim-3-5-ton-hasj-in-vrachtwagen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T17:34:32.554Z</news:publication_date>
-      <news:title>Haven Tanger Med onderschept ruim 3,5 ton hasj in vrachtwagen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/haven-tanger-med-onderschept-ruim-3-5-ton-hasj-in-vrachtwagen-1791739771411.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/asilah-debatteert-over-een-gezamenlijk-arabisch-standpunt-in-een-onzekere-wereld</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T15:18:44.599Z</news:publication_date>
-      <news:title>Asilah debatteert over een gezamenlijk Arabisch standpunt in een onzekere wereld</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/asilah-debatteert-over-een-gezamenlijk-arabisch-standpunt-in-een-onzekere-wereld-1791729221541.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/pps-houdt-cruciaal-overleg-vlak-voor-nieuwe-marokkaanse-regering</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T14:58:43.853Z</news:publication_date>
-      <news:title>PPS houdt cruciaal overleg vlak voor nieuwe Marokkaanse regering</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pps-houdt-cruciaal-overleg-vlak-voor-nieuwe-marokkaanse-regering-1791729176792.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belastingdienst-neemt-183-marokkaanse-bedrijven-onder-de-loep-om-boekhoudfraude</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T14:48:48.061Z</news:publication_date>
-      <news:title>Belastingdienst neemt 183 Marokkaanse bedrijven onder de loep om boekhoudfraude</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belastingdienst-neemt-183-marokkaanse-bedrijven-onder-de-loep-om-boekhoudfraude-1791727425161.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/washington-weegt-toekomst-van-vn-missie-minurso-in-de-westelijke-sahara</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T14:38:42.926Z</news:publication_date>
-      <news:title>Washington weegt toekomst van VN-missie MINURSO in de Westelijke Sahara</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/washington-weegt-toekomst-van-vn-missie-minurso-in-de-westelijke-sahara-1791729136416.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/unie-constitutionnelle-kiest-voor-kritische-steun-aan-nieuwe-marokkaanse-regerin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T14:28:47.338Z</news:publication_date>
-      <news:title>Unie Constitutionnelle kiest voor kritische steun aan nieuwe Marokkaanse regering</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/unie-constitutionnelle-kiest-voor-kritische-steun-aan-nieuwe-marokkaanse-regerin-1791727387249.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mehdi-benatia-in-beeld-bij-ac-milan-maar-met-vier-concurrenten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T14:08:46.301Z</news:publication_date>
-      <news:title>Mehdi Benatia in beeld bij AC Milan, maar met vier concurrenten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mehdi-benatia-in-beeld-bij-ac-milan-maar-met-vier-concurrenten-1791727342856.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bank-al-maghrib-onderzoekt-digitale-dirham-kansen-en-risico-s-op-een-rij</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T13:22:55.890Z</news:publication_date>
-      <news:title>Bank Al-Maghrib onderzoekt digitale dirham: kansen en risico&apos;s op een rij</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bank-al-maghrib-onderzoekt-digitale-dirham-kansen-en-risico-s-op-een-rij-1791722133273.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/amerikaanse-luchtmachttop-prijst-marokko-f-35-s-voor-het-eerst-boven-marrakech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T13:22:55.618Z</news:publication_date>
-      <news:title>Amerikaanse luchtmachttop prijst Marokko: F-35&apos;s voor het eerst boven Marrakech</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/amerikaanse-luchtmachttop-prijst-marokko-f-35-s-voor-het-eerst-boven-marrakech-1791722080376.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/jonge-marokkaanse-omgekomen-bij-droneaanval-in-saudi-arabie-begraven-in-mekka</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T12:34:05.315Z</news:publication_date>
-      <news:title>Jonge Marokkaanse omgekomen bij droneaanval in Saudi-Arabië begraven in Mekka</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-marokkaanse-omgekomen-bij-droneaanval-in-saudi-arabie-begraven-in-mekka-1791721921164.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ontruiming-stranden-ceuta-veel-migranten-keren-terug-naar-marokko-anderen-duiken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-11T09:37:17.630Z</news:publication_date>
-      <news:title>Ontruiming stranden Ceuta: veel migranten keren terug naar Marokko, anderen duiken onder</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ontruiming-stranden-ceuta-veel-migranten-keren-terug-naar-marokko-anderen-duiken-1791711136479.jpg</image:loc></image:image>
   </url>
 </urlset>
