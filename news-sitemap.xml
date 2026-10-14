@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/algerijnse-oppositie-noemt-verhaal-over-marokkaans-sabotagenetwerk-ongeloofwaard</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T06:29:51.515Z</news:publication_date>
+      <news:title>Algerijnse oppositie noemt verhaal over &apos;Marokkaans sabotagenetwerk&apos; ongeloofwaardig</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/algerijnse-oppositie-noemt-verhaal-over-marokkaans-sabotagenetwerk-ongeloofwaard-1791957889493.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/denemarken-legt-naturalisatie-stil-duizenden-migranten-in-onzekerheid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T06:09:50.593Z</news:publication_date>
+      <news:title>Denemarken legt naturalisatie stil: duizenden migranten in onzekerheid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/denemarken-legt-naturalisatie-stil-duizenden-migranten-in-onzekerheid-1791957846018.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/toenadering-marokko-en-oost-libie-maakt-algerije-nerveus</loc>
     <news:news>
       <news:publication>
@@ -397,29 +421,5 @@
       <news:title>Marokkaans parlement kiest dinsdag nieuwe voorzitter van Kamer van Afgevaardigden</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-parlement-kiest-dinsdag-nieuwe-voorzitter-van-kamer-van-afgevaardigde-1791797534429.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wetenschappers-verwachten-dat-een-zeer-giftige-schorpioen-zich-uitbreidt-in-maro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T06:28:10.625Z</news:publication_date>
-      <news:title>Wetenschappers verwachten dat een zeer giftige schorpioen zich uitbreidt in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wetenschappers-verwachten-dat-een-zeer-giftige-schorpioen-zich-uitbreidt-in-maro-1791784987783.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-afrikaanse-zaalvoetbaltitel-verdedigen-op-eigen-bodem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T06:08:09.324Z</news:publication_date>
-      <news:title>Marokko wil Afrikaanse zaalvoetbaltitel verdedigen op eigen bodem</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-afrikaanse-zaalvoetbaltitel-verdedigen-op-eigen-bodem-1791784942958.jpg</image:loc></image:image>
   </url>
 </urlset>
