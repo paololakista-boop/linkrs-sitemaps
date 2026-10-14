@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toenadering-marokko-en-oost-libie-maakt-algerije-nerveus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T23:17:04.202Z</news:publication_date>
+      <news:title>Toenadering Marokko en Oost-Libië maakt Algerije nerveus</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toenadering-marokko-en-oost-libie-maakt-algerije-nerveus-1791933122683.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/man-65-opgesloten-na-dodelijke-messteekpartij-op-twee-zussen-in-khenifra</loc>
     <news:news>
       <news:publication>
