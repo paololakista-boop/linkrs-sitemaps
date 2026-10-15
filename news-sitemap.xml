@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-regering-marokko-ouahbi-licht-toe-hoe-de-onderhandelingen-verlopen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T17:45:52.211Z</news:publication_date>
+      <news:title>Nieuwe regering Marokko: Ouahbi licht toe hoe de onderhandelingen verlopen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-regering-marokko-ouahbi-licht-toe-hoe-de-onderhandelingen-verlopen-1792085978869.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/youssef-21-vecht-om-adem-longtransplantatie-als-enige-hoop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T15:37:51.085Z</news:publication_date>
+      <news:title>Youssef (21) vecht om adem: longtransplantatie als enige hoop</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/youssef-21-vecht-om-adem-longtransplantatie-als-enige-hoop-1792078368517.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-47e-op-wereldwijde-hongerindex-2026-achtste-in-de-regio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T14:28:51.231Z</news:publication_date>
+      <news:title>Marokko 47e op wereldwijde hongerindex 2026, achtste in de regio</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-47e-op-wereldwijde-hongerindex-2026-achtste-in-de-regio-1792073024697.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gotion-bouwt-batterijfabriek-in-kenitra-in-recordtempo-af</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T13:58:46.474Z</news:publication_date>
+      <news:title>Gotion bouwt batterijfabriek in Kénitra in recordtempo af</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gotion-bouwt-batterijfabriek-in-kenitra-in-recordtempo-af-1792071224040.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/russische-diesel-onderweg-naar-marokko-na-amerikaans-groen-licht</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T13:46:52.966Z</news:publication_date>
+      <news:title>Russische diesel onderweg naar Marokko na Amerikaans groen licht</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/russische-diesel-onderweg-naar-marokko-na-amerikaans-groen-licht-1792069309951.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-kopen-minder-vastgoed-in-spanje-al-blijven-ze-de-grootste-buitenlands</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T13:38:45.243Z</news:publication_date>
+      <news:title>Marokkanen kopen minder vastgoed in Spanje, al blijven ze de grootste buitenlandse kopers</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-kopen-minder-vastgoed-in-spanje-al-blijven-ze-de-grootste-buitenlands-1792071184904.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalvrouwen-oefenen-tegen-venezuela-en-frankrijk-op-weg-naar-wk-2</loc>
     <news:news>
       <news:publication>
@@ -349,113 +421,5 @@
       <news:title>Jonge man uit Salé smeekt koning Mohammed VI om longtransplantatie</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jonge-man-uit-sale-smeekt-koning-mohammed-vi-om-longtransplantatie-1791919988278.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/chinees-industriebedrijf-verhuist-project-van-117-miljoen-dollar-naar-tanger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T16:15:31.099Z</news:publication_date>
-      <news:title>Chinees industriebedrijf verhuist project van 117 miljoen dollar naar Tanger</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/chinees-industriebedrijf-verhuist-project-van-117-miljoen-dollar-naar-tanger-1791905427171.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-museum-over-marokkaans-joodse-cultuur-opent-in-de-mellah-van-fez</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T15:55:30.354Z</news:publication_date>
-      <news:title>Nieuw museum over Marokkaans-Joodse cultuur opent in de Mellah van Fez</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-museum-over-marokkaans-joodse-cultuur-opent-in-de-mellah-van-fez-1791905382278.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ilias-akhomach-reageert-op-de-rel-rond-het-sebta-shirt-voetbal-en-politiek-horen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T15:35:29.573Z</news:publication_date>
-      <news:title>Ilias Akhomach reageert op de rel rond het Sebta-shirt: &apos;Voetbal en politiek horen niet samen&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ilias-akhomach-reageert-op-de-rel-rond-het-sebta-shirt-voetbal-en-politiek-horen-1791905343486.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fatima-ezzahra-el-mansouri-vormt-centrumlinkse-coalitie-en-wordt-eerste-vrouweli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T15:32:28.735Z</news:publication_date>
-      <news:title>Fatima Ezzahra El Mansouri vormt centrumlinkse coalitie en wordt eerste vrouwelijke premier van Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fatima-ezzahra-el-mansouri-vormt-centrumlinkse-coalitie-en-wordt-eerste-vrouweli-1791905303959.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wereldbank-prijst-marokko-om-zijn-aanpak-van-start-upfinanciering</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T14:49:28.419Z</news:publication_date>
-      <news:title>Wereldbank prijst Marokko om zijn aanpak van start-upfinanciering</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wereldbank-prijst-marokko-om-zijn-aanpak-van-start-upfinanciering-1791900264842.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/imf-verwacht-stevige-groei-marokkaanse-economie-in-2026-en-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T14:29:27.701Z</news:publication_date>
-      <news:title>IMF verwacht stevige groei Marokkaanse economie in 2026 en 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/imf-verwacht-stevige-groei-marokkaanse-economie-in-2026-en-2027-1791900230915.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wao-uitkering-en-verblijf-in-marokko-centrale-raad-verschuift-ingangsdatum-na-be</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T14:09:26.641Z</news:publication_date>
-      <news:title>WAO-uitkering en verblijf in Marokko: Centrale Raad verschuift ingangsdatum na bewijs</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wao-uitkering-en-verblijf-in-marokko-centrale-raad-verschuift-ingangsdatum-na-be-1791900194818.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rabat-bij-de-25-beste-reisbestemmingen-ter-wereld-voor-2027-volgens-lonely-plane</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T13:58:46.755Z</news:publication_date>
-      <news:title>Rabat bij de 25 beste reisbestemmingen ter wereld voor 2027 volgens Lonely Planet</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rabat-bij-de-25-beste-reisbestemmingen-ter-wereld-voor-2027-volgens-lonely-plane-1791898424020.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/brits-bedrijf-bouwt-mee-aan-afrika-s-eerste-soevereine-ai-fabriek-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T13:38:45.525Z</news:publication_date>
-      <news:title>Brits bedrijf bouwt mee aan Afrika&apos;s eerste soevereine AI-fabriek in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/brits-bedrijf-bouwt-mee-aan-afrika-s-eerste-soevereine-ai-fabriek-in-marokko-1791898384423.jpg</image:loc></image:image>
   </url>
 </urlset>
