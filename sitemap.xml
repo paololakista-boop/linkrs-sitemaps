@@ -32,6 +32,34 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ezzalzouli-scoort-mooiste-goal-van-speeldag-in-champions-league</loc>
+    <lastmod>2026-10-15T22:20:11.167Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ezzalzouli-scoort-mooiste-goal-van-speeldag-in-champions-league-1792101308863.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-blijft-op-europese-fiscale-volglijst-wat-betekent-dat</loc>
+    <lastmod>2026-10-15T22:00:10.254Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-blijft-op-europese-fiscale-volglijst-wat-betekent-dat-1792101275705.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/buitenlandse-handel-marokko-europa-verliest-terrein-aan-azie</loc>
+    <lastmod>2026-10-15T21:37:46.915Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/buitenlandse-handel-marokko-europa-verliest-terrein-aan-azie-1792099965504.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/druk-verkeer-op-marokkaanse-snelwegen-door-schoolvakantie-let-hierop</loc>
+    <lastmod>2026-10-15T18:25:57.920Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/druk-verkeer-op-marokkaanse-snelwegen-door-schoolvakantie-let-hierop-1792086050978.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-regering-marokko-ouahbi-licht-toe-hoe-de-onderhandelingen-verlopen</loc>
     <lastmod>2026-10-15T17:45:52.211Z</lastmod>
     <changefreq>daily</changefreq>
@@ -861,7 +889,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/de-zeven-heiligen-van-marrakech-sidi-abdelaziz-tebbaa-de-genezer</loc>
     <lastmod>2026-10-08T22:08:25.263Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-zeven-heiligen-van-marrakech-sidi-abdelaziz-tebbaa-de-genezer-1791496925246.jpg</image:loc></image:image>
   </url>
   <url>
@@ -15157,13 +15185,6 @@
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rijbewijs-omzetten-marokko-als-buitenlander-complete-gids-2026-1790953374520.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.linkrsmarokko.com/blogs/terugkeren-naar-marokko-als-marokkaan-in-nederland-praktische-gids-2026</loc>
-    <lastmod>2026-09-29T12:35:27.771Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/terugkeren-naar-marokko-als-marokkaan-in-nederland-praktische-gids-2026-1786356144802.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.linkrsmarokko.com/blogs/werkvergunning-marokko-als-buitenlander-alles-wat-je-moet-weten</loc>
     <lastmod>2026-09-26T13:23:49.583Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -15183,20 +15204,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/auto-importeren-naar-marokko-als-marokkaan-complete-gids-voor-de-diaspora-1790171537711.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/blogs/belastingen-betalen-in-marokko-als-buitenlander-complete-gids-2026</loc>
-    <lastmod>2026-09-22T13:41:05.548Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belastingen-betalen-in-marokko-als-buitenlander-complete-gids-2026-1783414152575.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/blogs/belastingen-betalen-in-marokko-als-expat-complete-praktische-gids-2026</loc>
-    <lastmod>2026-09-22T13:41:04.684Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belastingen-betalen-in-marokko-als-expat-complete-praktische-gids-2026-1790084457058.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/blogs/gezondheid-en-ziektekosten-marokko-als-expat-complete-praktische-gids</loc>
@@ -15225,13 +15232,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoe-open-je-een-bankrekening-in-marokko-als-buitenlander-1783418323190.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/blogs/belastingaangifte-doen-in-marokko-als-buitenlander-complete-gids-2026</loc>
-    <lastmod>2026-08-13T10:12:13.443Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belastingaangifte-doen-in-marokko-als-buitenlander-complete-gids-2026-1784803958960.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/blogs/klantenservice-zonder-ervaring-vaardigheden-marokko</loc>
@@ -15437,20 +15437,6 @@
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-blog-1766144366547.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.linkrsmarokko.com/blogs/hoeveel-geld-nodig-verhuizen-marokko</loc>
-    <lastmod>2025-12-18T10:03:02.879Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-blog-1766052106709.webp</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/blogs/emigreren-naar-marokko</loc>
-    <lastmod>2025-12-17T15:39:59.186Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-blog-1765985959750.webp</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.linkrsmarokko.com/blogs/wat-niet-te-doen-in-marokko</loc>
     <lastmod>2025-12-12T13:18:51.907Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -15484,13 +15470,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-blog-1765473237710.webp</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/blogs/kan-een-nederlander-in-marokko-wonen</loc>
-    <lastmod>2025-12-11T16:21:19.254Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-blog-1765469258387.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/blogs/welke-banen-verdienen-goed-in-marokko</loc>
@@ -15554,13 +15533,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-blog-1765213432566.webp</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/blogs/terug-naar-je-roots-verhuizen-voor-werk</loc>
-    <lastmod>2025-12-08T15:58:23.250Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/new-blog-1765208459231.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/blogs/documenten-werken-in-marokko-nederlanders-belgen</loc>
