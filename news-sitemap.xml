@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalvrouwen-oefenen-tegen-venezuela-en-frankrijk-op-weg-naar-wk-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T13:26:52.003Z</news:publication_date>
+      <news:title>Marokkaanse voetbalvrouwen oefenen tegen Venezuela en Frankrijk op weg naar WK 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-voetbalvrouwen-oefenen-tegen-venezuela-en-frankrijk-op-weg-naar-wk-2-1792069265148.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/finnair-hervat-rechtstreekse-vluchten-tussen-helsinki-en-agadir</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T13:06:51.029Z</news:publication_date>
+      <news:title>Finnair hervat rechtstreekse vluchten tussen Helsinki en Agadir</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/finnair-hervat-rechtstreekse-vluchten-tussen-helsinki-en-agadir-1792069223939.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-journalist-bedreigd-na-oproep-om-eilandjes-voor-marokkaanse-kust-terug-t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T12:58:39.449Z</news:publication_date>
+      <news:title>Spaanse journalist bedreigd na oproep om eilandjes voor Marokkaanse kust terug te geven</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-journalist-bedreigd-na-oproep-om-eilandjes-voor-marokkaanse-kust-terug-t-1792067616565.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bijna-alle-marokkaanse-gezinnen-voelen-duurdere-voeding-sparen-lukt-nauwelijks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T12:38:38.097Z</news:publication_date>
+      <news:title>Bijna alle Marokkaanse gezinnen voelen duurdere voeding, sparen lukt nauwelijks</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bijna-alle-marokkaanse-gezinnen-voelen-duurdere-voeding-sparen-lukt-nauwelijks-1792067573636.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-beleggingsfondsen-krimpen-tot-791-9-miljard-dirham</loc>
     <news:news>
       <news:publication>
@@ -409,17 +457,5 @@
       <news:title>Brits bedrijf bouwt mee aan Afrika&apos;s eerste soevereine AI-fabriek in Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/brits-bedrijf-bouwt-mee-aan-afrika-s-eerste-soevereine-ai-fabriek-in-marokko-1791898384423.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-zijn-grootste-groep-buitenlandse-zelfstandige-ondernemers-in-italie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T11:37:35.925Z</news:publication_date>
-      <news:title>Marokkanen zijn grootste groep buitenlandse zelfstandige ondernemers in Italië</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-zijn-grootste-groep-buitenlandse-zelfstandige-ondernemers-in-italie-1791891154892.jpg</image:loc></image:image>
   </url>
 </urlset>
