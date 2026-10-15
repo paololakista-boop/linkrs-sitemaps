@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/afrika-cup-futsal-in-marokko-libie-en-algerije-delen-de-punten-2-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T22:27:13.398Z</news:publication_date>
+      <news:title>Afrika Cup futsal in Marokko: Libië en Algerije delen de punten (2-2)</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/afrika-cup-futsal-in-marokko-libie-en-algerije-delen-de-punten-2-2-1792015330124.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-versnelt-groei-naar-4-7-procent-eind-2026-verwacht</loc>
     <news:news>
       <news:publication>
@@ -397,17 +409,5 @@
       <news:title>Airbus breidt fabrieken in Marokko met een derde uit</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/airbus-breidt-fabrieken-in-marokko-met-een-derde-uit-1791871366868.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/franse-extreemrechtse-leider-bardella-in-bezet-ceuta-stad-blijft-spaans</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T22:29:08.102Z</news:publication_date>
-      <news:title>Franse extreemrechtse leider Bardella in bezet Ceuta: stad blijft Spaans</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-extreemrechtse-leider-bardella-in-bezet-ceuta-stad-blijft-spaans-1791842607397.jpg</image:loc></image:image>
   </url>
 </urlset>
