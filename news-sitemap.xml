@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ooginjecties-in-tanger-toestand-van-de-15-patienten-verbetert</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T06:28:43.709Z</news:publication_date>
+      <news:title>Ooginjecties in Tanger: toestand van de 15 patiënten verbetert</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ooginjecties-in-tanger-toestand-van-de-15-patienten-verbetert-1792130621288.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-stopt-tomatenexport-prijzen-in-mauritanie-schieten-omhoog</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T06:08:42.542Z</news:publication_date>
+      <news:title>Marokko stopt tomatenexport: prijzen in Mauritanië schieten omhoog</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-stopt-tomatenexport-prijzen-in-mauritanie-schieten-omhoog-1792130585008.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ezzalzouli-scoort-mooiste-goal-van-speeldag-in-champions-league</loc>
     <news:news>
       <news:publication>
@@ -373,29 +397,5 @@
       <news:title>Noodkreet voor Marokkaanse gevangene in Irak: &apos;haar gezondheid gaat hard achteruit&apos;</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/noodkreet-voor-marokkaanse-gevangene-in-irak-haar-gezondheid-gaat-hard-achteruit-1791970469477.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/algerijnse-oppositie-noemt-verhaal-over-marokkaans-sabotagenetwerk-ongeloofwaard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T06:29:51.515Z</news:publication_date>
-      <news:title>Algerijnse oppositie noemt verhaal over &apos;Marokkaans sabotagenetwerk&apos; ongeloofwaardig</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/algerijnse-oppositie-noemt-verhaal-over-marokkaans-sabotagenetwerk-ongeloofwaard-1791957889493.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/denemarken-legt-naturalisatie-stil-duizenden-migranten-in-onzekerheid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T06:09:50.593Z</news:publication_date>
-      <news:title>Denemarken legt naturalisatie stil: duizenden migranten in onzekerheid</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/denemarken-legt-naturalisatie-stil-duizenden-migranten-in-onzekerheid-1791957846018.jpg</image:loc></image:image>
   </url>
 </urlset>
