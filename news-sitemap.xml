@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-opent-directe-lijn-casablanca-essaouira</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T07:37:37.044Z</news:publication_date>
+      <news:title>Royal Air Maroc opent directe lijn Casablanca-Essaouira</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-air-maroc-opent-directe-lijn-casablanca-essaouira-1792135955784.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ooginjecties-in-tanger-toestand-van-de-15-patienten-verbetert</loc>
     <news:news>
       <news:publication>
@@ -361,41 +373,5 @@
       <news:title>Britse toeriste (31) dood gevonden in hotel in Agadir, familie zamelt geld in voor repatriëring</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/britse-toeriste-31-dood-gevonden-in-hotel-in-agadir-familie-zamelt-geld-in-voor--1791983634352.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-dakloze-in-italie-aangetroffen-met-historische-munten-van-ruim-80-00</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T12:00:40.189Z</news:publication_date>
-      <news:title>Marokkaanse dakloze in Italië aangetroffen met historische munten van ruim 80.000 euro</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-dakloze-in-italie-aangetroffen-met-historische-munten-van-ruim-80-00-1791977737608.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vakbond-slaat-alarm-over-inhoudingen-op-lonen-bij-dienst-voor-marokkanen-in-het-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T11:40:38.934Z</news:publication_date>
-      <news:title>Vakbond slaat alarm over inhoudingen op lonen bij dienst voor Marokkanen in het buitenland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vakbond-slaat-alarm-over-inhoudingen-op-lonen-bij-dienst-voor-marokkanen-in-het--1791977700518.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/noodkreet-voor-marokkaanse-gevangene-in-irak-haar-gezondheid-gaat-hard-achteruit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T09:36:30.866Z</news:publication_date>
-      <news:title>Noodkreet voor Marokkaanse gevangene in Irak: &apos;haar gezondheid gaat hard achteruit&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/noodkreet-voor-marokkaanse-gevangene-in-irak-haar-gezondheid-gaat-hard-achteruit-1791970469477.jpg</image:loc></image:image>
   </url>
 </urlset>
