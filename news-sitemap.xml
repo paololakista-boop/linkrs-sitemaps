@@ -398,40 +398,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/denemarken-legt-naturalisatie-stil-duizenden-migranten-in-onzekerheid-1791957846018.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/toenadering-marokko-en-oost-libie-maakt-algerije-nerveus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T23:17:04.202Z</news:publication_date>
-      <news:title>Toenadering Marokko en Oost-Libië maakt Algerije nerveus</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toenadering-marokko-en-oost-libie-maakt-algerije-nerveus-1791933122683.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/man-65-opgesloten-na-dodelijke-messteekpartij-op-twee-zussen-in-khenifra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T22:49:09.523Z</news:publication_date>
-      <news:title>Man (65) opgesloten na dodelijke messteekpartij op twee zussen in Khénifra</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/man-65-opgesloten-na-dodelijke-messteekpartij-op-twee-zussen-in-khenifra-1791929046322.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marion-cotillard-leidt-de-jury-van-het-filmfestival-van-marrakech-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T22:29:08.716Z</news:publication_date>
-      <news:title>Marion Cotillard leidt de jury van het filmfestival van Marrakech 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marion-cotillard-leidt-de-jury-van-het-filmfestival-van-marrakech-2026-1791929016977.jpg</image:loc></image:image>
-  </url>
 </urlset>
