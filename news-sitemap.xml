@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fifa-straft-spanje-na-anti-islamitische-spreekkoren-lamine-yamal-veroordeelde-ze</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T17:14:26.869Z</news:publication_date>
+      <news:title>FIFA straft Spanje na anti-islamitische spreekkoren, Lamine Yamal veroordeelde ze</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-straft-spanje-na-anti-islamitische-spreekkoren-lamine-yamal-veroordeelde-ze-1792170499051.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/beurs-van-casablanca-opent-in-het-groen-masi-stijgt-verder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T13:40:43.615Z</news:publication_date>
+      <news:title>Beurs van Casablanca opent in het groen: MASI stijgt verder</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/beurs-van-casablanca-opent-in-het-groen-masi-stijgt-verder-1792155341120.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hami-eddine-ontkent-betrokkenheid-bij-dood-student-ait-el-jid-in-fez</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T13:20:42.947Z</news:publication_date>
+      <news:title>Hami Eddine ontkent betrokkenheid bij dood student Aït El Jid in Fez</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hami-eddine-ontkent-betrokkenheid-bij-dood-student-ait-el-jid-in-fez-1792155304211.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/yassine-khalifi-droomt-van-de-atlasleeuwen-en-het-wk-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T13:00:42.223Z</news:publication_date>
+      <news:title>Yassine Khalifi droomt van de Atlasleeuwen en het WK 2030</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassine-khalifi-droomt-van-de-atlasleeuwen-en-het-wk-2030-1792155266119.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-opent-directe-lijn-casablanca-essaouira</loc>
     <news:news>
       <news:publication>
@@ -289,89 +337,5 @@
       <news:title>Marokko investeert 134 miljard dirham in het spoornet tegen 2030</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-investeert-134-miljard-dirham-in-het-spoornet-tegen-2030-1791999164815.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/israir-stopt-verkoop-tickets-naar-marrakech-om-veiligheidsredenen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T15:38:13.335Z</news:publication_date>
-      <news:title>Israir stopt verkoop tickets naar Marrakech om veiligheidsredenen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/israir-stopt-verkoop-tickets-naar-marrakech-om-veiligheidsredenen-1791991990477.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/taghazout-bay-ontvangt-in-november-de-europese-surffinale-van-de-wsl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T14:50:03.599Z</news:publication_date>
-      <news:title>Taghazout Bay ontvangt in november de Europese surffinale van de WSL</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/taghazout-bay-ontvangt-in-november-de-europese-surffinale-van-de-wsl-1791986699790.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-marokkaanse-voedselparadox-verse-export-bewerkte-import</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T14:30:02.808Z</news:publication_date>
-      <news:title>De Marokkaanse voedselparadox: verse export, bewerkte import</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-marokkaanse-voedselparadox-verse-export-bewerkte-import-1791986659661.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vlaams-belang-politicus-dewinter-in-opspraak-na-handgemeen-op-belgisch-marokkaan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T14:10:01.886Z</news:publication_date>
-      <news:title>Vlaams Belang-politicus Dewinter in opspraak na handgemeen op Belgisch-Marokkaans huwelijk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vlaams-belang-politicus-dewinter-in-opspraak-na-handgemeen-op-belgisch-marokkaan-1791986612088.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/intersport-komt-naar-marokko-eerste-winkel-opent-in-2027-in-casablanca</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T13:40:46.233Z</news:publication_date>
-      <news:title>Intersport komt naar Marokko: eerste winkel opent in 2027 in Casablanca</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/intersport-komt-naar-marokko-eerste-winkel-opent-in-2027-in-casablanca-1791983739043.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/safran-breidt-fabriek-in-temara-uit-en-belooft-400-extra-banen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T13:20:45.543Z</news:publication_date>
-      <news:title>Safran breidt fabriek in Témara uit en belooft 400 extra banen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/safran-breidt-fabriek-in-temara-uit-en-belooft-400-extra-banen-1791983711372.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/britse-toeriste-31-dood-gevonden-in-hotel-in-agadir-familie-zamelt-geld-in-voor-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T13:17:40.269Z</news:publication_date>
-      <news:title>Britse toeriste (31) dood gevonden in hotel in Agadir, familie zamelt geld in voor repatriëring</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/britse-toeriste-31-dood-gevonden-in-hotel-in-agadir-familie-zamelt-geld-in-voor--1791983634352.jpg</image:loc></image:image>
   </url>
 </urlset>
