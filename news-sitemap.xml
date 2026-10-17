@@ -350,28 +350,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bijna-alle-marokkaanse-gezinnen-voelen-duurdere-voeding-sparen-lukt-nauwelijks-1792067573636.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-beleggingsfondsen-krimpen-tot-791-9-miljard-dirham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T06:28:35.372Z</news:publication_date>
-      <news:title>Marokkaanse beleggingsfondsen krimpen tot 791,9 miljard dirham</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-beleggingsfondsen-krimpen-tot-791-9-miljard-dirham-1792044212774.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/cbd-wint-terrein-in-marokko-van-chocolade-tot-voedingssupplementen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T06:08:33.969Z</news:publication_date>
-      <news:title>CBD wint terrein in Marokko: van chocolade tot voedingssupplementen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cbd-wint-terrein-in-marokko-van-chocolade-tot-voedingssupplementen-1792044174304.jpg</image:loc></image:image>
-  </url>
 </urlset>
