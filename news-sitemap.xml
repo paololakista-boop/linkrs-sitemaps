@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dirham-stijgt-tegenover-dollar-en-euro-wat-merk-je-ervan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:51:52.164Z</news:publication_date>
+      <news:title>Dirham stijgt tegenover dollar en euro: wat merk je ervan?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-stijgt-tegenover-dollar-en-euro-wat-merk-je-ervan-1792241210115.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fatima-ezzahra-el-mansouri-neemt-regeringsleiding-over-van-aziz-akhannouch</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:48:51.278Z</news:publication_date>
+      <news:title>Fatima Ezzahra El Mansouri neemt regeringsleiding over van Aziz Akhannouch</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fatima-ezzahra-el-mansouri-neemt-regeringsleiding-over-van-aziz-akhannouch-1792241176549.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/infantino-kondigt-wk-voor-vrouwen-onder-17-aan-als-groot-voetbalfeest-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:40:17.528Z</news:publication_date>
+      <news:title>Infantino kondigt WK voor vrouwen onder 17 aan als groot voetbalfeest in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/infantino-kondigt-wk-voor-vrouwen-onder-17-aan-als-groot-voetbalfeest-in-marokko-1792238114334.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/weeralarm-in-marokko-onweer-en-hagel-verwacht-dit-weekend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:20:16.686Z</news:publication_date>
+      <news:title>Weeralarm in Marokko: onweer en hagel verwacht dit weekend</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weeralarm-in-marokko-onweer-en-hagel-verwacht-dit-weekend-1792238081702.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-bouwvakker-dood-in-florence-italiaanse-vakbonden-kondigen-staking-aa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:00:15.710Z</news:publication_date>
+      <news:title>Marokkaanse bouwvakker dood in Florence: Italiaanse vakbonden kondigen staking aan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-bouwvakker-dood-in-florence-italiaanse-vakbonden-kondigen-staking-aa-1792238047075.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-grondwettelijk-hof-krijgt-38-bezwaren-tegen-verkiezingen-van-septembe</loc>
     <news:news>
       <news:publication>
@@ -265,89 +325,5 @@
       <news:title>Marokko 47e op wereldwijde hongerindex 2026, achtste in de regio</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-47e-op-wereldwijde-hongerindex-2026-achtste-in-de-regio-1792073024697.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/gotion-bouwt-batterijfabriek-in-kenitra-in-recordtempo-af</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:58:46.474Z</news:publication_date>
-      <news:title>Gotion bouwt batterijfabriek in Kénitra in recordtempo af</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gotion-bouwt-batterijfabriek-in-kenitra-in-recordtempo-af-1792071224040.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/russische-diesel-onderweg-naar-marokko-na-amerikaans-groen-licht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:46:52.966Z</news:publication_date>
-      <news:title>Russische diesel onderweg naar Marokko na Amerikaans groen licht</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/russische-diesel-onderweg-naar-marokko-na-amerikaans-groen-licht-1792069309951.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-kopen-minder-vastgoed-in-spanje-al-blijven-ze-de-grootste-buitenlands</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:38:45.243Z</news:publication_date>
-      <news:title>Marokkanen kopen minder vastgoed in Spanje, al blijven ze de grootste buitenlandse kopers</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-kopen-minder-vastgoed-in-spanje-al-blijven-ze-de-grootste-buitenlands-1792071184904.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalvrouwen-oefenen-tegen-venezuela-en-frankrijk-op-weg-naar-wk-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:26:52.003Z</news:publication_date>
-      <news:title>Marokkaanse voetbalvrouwen oefenen tegen Venezuela en Frankrijk op weg naar WK 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-voetbalvrouwen-oefenen-tegen-venezuela-en-frankrijk-op-weg-naar-wk-2-1792069265148.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/finnair-hervat-rechtstreekse-vluchten-tussen-helsinki-en-agadir</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:06:51.029Z</news:publication_date>
-      <news:title>Finnair hervat rechtstreekse vluchten tussen Helsinki en Agadir</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/finnair-hervat-rechtstreekse-vluchten-tussen-helsinki-en-agadir-1792069223939.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-journalist-bedreigd-na-oproep-om-eilandjes-voor-marokkaanse-kust-terug-t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T12:58:39.449Z</news:publication_date>
-      <news:title>Spaanse journalist bedreigd na oproep om eilandjes voor Marokkaanse kust terug te geven</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-journalist-bedreigd-na-oproep-om-eilandjes-voor-marokkaanse-kust-terug-t-1792067616565.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bijna-alle-marokkaanse-gezinnen-voelen-duurdere-voeding-sparen-lukt-nauwelijks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T12:38:38.097Z</news:publication_date>
-      <news:title>Bijna alle Marokkaanse gezinnen voelen duurdere voeding, sparen lukt nauwelijks</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bijna-alle-marokkaanse-gezinnen-voelen-duurdere-voeding-sparen-lukt-nauwelijks-1792067573636.jpg</image:loc></image:image>
   </url>
 </urlset>
