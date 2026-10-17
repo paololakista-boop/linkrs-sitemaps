@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-grondwettelijk-hof-krijgt-38-bezwaren-tegen-verkiezingen-van-septembe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T23:26:02.575Z</news:publication_date>
+      <news:title>Marokkaans Grondwettelijk Hof krijgt 38 bezwaren tegen verkiezingen van september</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-grondwettelijk-hof-krijgt-38-bezwaren-tegen-verkiezingen-van-septembe-1792192821520.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-consulaat-bij-parijs-beklad-drie-verdachten-opgepakt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T23:23:03.897Z</news:publication_date>
+      <news:title>Marokkaans consulaat bij Parijs beklad: drie verdachten opgepakt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-consulaat-bij-parijs-beklad-drie-verdachten-opgepakt-1792192861016.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/geweld-tegen-mannen-in-marokko-schokkende-getuigenissen-doorbreken-het-stilzwijg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T22:39:32.275Z</news:publication_date>
+      <news:title>Geweld tegen mannen in Marokko: schokkende getuigenissen doorbreken het stilzwijgen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/geweld-tegen-mannen-in-marokko-schokkende-getuigenissen-doorbreken-het-stilzwijg-1792187627595.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-keeper-adam-el-maach-tekent-eerste-profcontract-bij-helmond-sport</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T22:19:31.480Z</news:publication_date>
+      <news:title>Marokkaanse keeper Adam El Maach tekent eerste profcontract bij Helmond Sport</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-keeper-adam-el-maach-tekent-eerste-profcontract-bij-helmond-sport-1792187582856.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/aanslag-in-tanger-verijdeld-labo-bevestigt-vergevorderd-bomplan-van-verdachte</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T22:04:33.282Z</news:publication_date>
+      <news:title>Aanslag in Tanger verijdeld: labo bevestigt vergevorderd bomplan van verdachte</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/aanslag-in-tanger-verijdeld-labo-bevestigt-vergevorderd-bomplan-van-verdachte-1792187665373.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/uitslag-marokko-libie-zaalvoetbal-atlasleeuwen-winnen-met-6-0-op-afrika-cup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T21:59:26.399Z</news:publication_date>
+      <news:title>Uitslag Marokko-Libië zaalvoetbal: Atlasleeuwen winnen met 6-0 op Afrika Cup</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitslag-marokko-libie-zaalvoetbal-atlasleeuwen-winnen-met-6-0-op-afrika-cup-1792187517598.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/gdeim-izik-laatste-hongerstaker-onder-gevangenen-stopt-zijn-actie</loc>
     <news:news>
       <news:publication>
@@ -301,29 +373,5 @@
       <news:title>CBD wint terrein in Marokko: van chocolade tot voedingssupplementen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cbd-wint-terrein-in-marokko-van-chocolade-tot-voedingssupplementen-1792044174304.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/afrika-cup-futsal-in-marokko-libie-en-algerije-delen-de-punten-2-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T22:27:13.398Z</news:publication_date>
-      <news:title>Afrika Cup futsal in Marokko: Libië en Algerije delen de punten (2-2)</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/afrika-cup-futsal-in-marokko-libie-en-algerije-delen-de-punten-2-2-1792015330124.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-economie-versnelt-groei-naar-4-7-procent-eind-2026-verwacht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T22:07:12.658Z</news:publication_date>
-      <news:title>Marokkaanse economie versnelt: groei naar 4,7 procent eind 2026 verwacht</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-economie-versnelt-groei-naar-4-7-procent-eind-2026-verwacht-1792015303204.jpg</image:loc></image:image>
   </url>
 </urlset>
