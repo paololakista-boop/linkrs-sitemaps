@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/recordbedrag-van-250-miljoen-dollar-voor-marokkaanse-hotels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:51:52.888Z</news:publication_date>
+      <news:title>Recordbedrag van 250 miljoen dollar voor Marokkaanse hotels</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/recordbedrag-van-250-miljoen-dollar-voor-marokkaanse-hotels-1792253209998.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tien-marokkanen-keren-terug-uit-libie-na-maanden-gevangenschap</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:31:52.104Z</news:publication_date>
+      <news:title>Tien Marokkanen keren terug uit Libië na maanden gevangenschap</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tien-marokkanen-keren-terug-uit-libie-na-maanden-gevangenschap-1792253170260.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-keurt-grote-lijnen-begroting-2027-goed</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T16:11:51.293Z</news:publication_date>
+      <news:title>Koning Mohammed VI keurt grote lijnen begroting 2027 goed</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-keurt-grote-lijnen-begroting-2027-goed-1792253132073.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/dirham-stijgt-tegenover-dollar-en-euro-wat-merk-je-ervan</loc>
     <news:news>
       <news:publication>
@@ -301,29 +337,5 @@
       <news:title>Nieuwe regering Marokko: Ouahbi licht toe hoe de onderhandelingen verlopen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-regering-marokko-ouahbi-licht-toe-hoe-de-onderhandelingen-verlopen-1792085978869.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/youssef-21-vecht-om-adem-longtransplantatie-als-enige-hoop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T15:37:51.085Z</news:publication_date>
-      <news:title>Youssef (21) vecht om adem: longtransplantatie als enige hoop</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/youssef-21-vecht-om-adem-longtransplantatie-als-enige-hoop-1792078368517.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-47e-op-wereldwijde-hongerindex-2026-achtste-in-de-regio</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T14:28:51.231Z</news:publication_date>
-      <news:title>Marokko 47e op wereldwijde hongerindex 2026, achtste in de regio</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-47e-op-wereldwijde-hongerindex-2026-achtste-in-de-regio-1792073024697.jpg</image:loc></image:image>
   </url>
 </urlset>
