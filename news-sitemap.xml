@@ -170,40 +170,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitslag-marokko-libie-zaalvoetbal-atlasleeuwen-winnen-met-6-0-op-afrika-cup-1792187517598.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/gdeim-izik-laatste-hongerstaker-onder-gevangenen-stopt-zijn-actie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:54:28.569Z</news:publication_date>
-      <news:title>Gdeim Izik: laatste hongerstaker onder gevangenen stopt zijn actie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gdeim-izik-laatste-hongerstaker-onder-gevangenen-stopt-zijn-actie-1792170565831.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ayyoub-bouaddi-volgens-dave-appadoo-de-grote-spijt-van-het-franse-voetbal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:34:27.854Z</news:publication_date>
-      <news:title>Ayyoub Bouaddi: volgens Dave Appadoo de grote spijt van het Franse voetbal</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayyoub-bouaddi-volgens-dave-appadoo-de-grote-spijt-van-het-franse-voetbal-1792170532100.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fifa-straft-spanje-na-anti-islamitische-spreekkoren-lamine-yamal-veroordeelde-ze</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T17:14:26.869Z</news:publication_date>
-      <news:title>FIFA straft Spanje na anti-islamitische spreekkoren, Lamine Yamal veroordeelde ze</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-straft-spanje-na-anti-islamitische-spreekkoren-lamine-yamal-veroordeelde-ze-1792170499051.jpg</image:loc></image:image>
-  </url>
 </urlset>
