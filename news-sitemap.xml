@@ -206,40 +206,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-straft-spanje-na-anti-islamitische-spreekkoren-lamine-yamal-veroordeelde-ze-1792170499051.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/beurs-van-casablanca-opent-in-het-groen-masi-stijgt-verder</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:40:43.615Z</news:publication_date>
-      <news:title>Beurs van Casablanca opent in het groen: MASI stijgt verder</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/beurs-van-casablanca-opent-in-het-groen-masi-stijgt-verder-1792155341120.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hami-eddine-ontkent-betrokkenheid-bij-dood-student-ait-el-jid-in-fez</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:20:42.947Z</news:publication_date>
-      <news:title>Hami Eddine ontkent betrokkenheid bij dood student Aït El Jid in Fez</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hami-eddine-ontkent-betrokkenheid-bij-dood-student-ait-el-jid-in-fez-1792155304211.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/yassine-khalifi-droomt-van-de-atlasleeuwen-en-het-wk-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T13:00:42.223Z</news:publication_date>
-      <news:title>Yassine Khalifi droomt van de Atlasleeuwen en het WK 2030</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassine-khalifi-droomt-van-de-atlasleeuwen-en-het-wk-2030-1792155266119.jpg</image:loc></image:image>
-  </url>
 </urlset>
