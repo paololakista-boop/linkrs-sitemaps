@@ -242,40 +242,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassine-khalifi-droomt-van-de-atlasleeuwen-en-het-wk-2030-1792155266119.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-opent-directe-lijn-casablanca-essaouira</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T07:37:37.044Z</news:publication_date>
-      <news:title>Royal Air Maroc opent directe lijn Casablanca-Essaouira</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-air-maroc-opent-directe-lijn-casablanca-essaouira-1792135955784.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ooginjecties-in-tanger-toestand-van-de-15-patienten-verbetert</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T06:28:43.709Z</news:publication_date>
-      <news:title>Ooginjecties in Tanger: toestand van de 15 patiënten verbetert</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ooginjecties-in-tanger-toestand-van-de-15-patienten-verbetert-1792130621288.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-stopt-tomatenexport-prijzen-in-mauritanie-schieten-omhoog</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T06:08:42.542Z</news:publication_date>
-      <news:title>Marokko stopt tomatenexport: prijzen in Mauritanië schieten omhoog</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-stopt-tomatenexport-prijzen-in-mauritanie-schieten-omhoog-1792130585008.jpg</image:loc></image:image>
-  </url>
 </urlset>
