@@ -3,99 +3,123 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/recordbedrag-van-250-miljoen-dollar-voor-marokkaanse-hotels</loc>
+    <loc>https://www.linkrsmarokko.com/nieuws/harit-en-el-ouazzani-scoren-bij-ruime-zege-van-marseille-op-angers</loc>
     <news:news>
       <news:publication>
         <news:name>Linkrs Marokko</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T16:51:52.888Z</news:publication_date>
-      <news:title>Recordbedrag van 250 miljoen dollar voor Marokkaanse hotels</news:title>
+      <news:publication_date>2026-10-19T15:57:11.846Z</news:publication_date>
+      <news:title>Harit en El Ouazzani scoren bij ruime zege van Marseille op Angers</news:title>
     </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/recordbedrag-van-250-miljoen-dollar-voor-marokkaanse-hotels-1792253209998.jpg</image:loc></image:image>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/harit-en-el-ouazzani-scoren-bij-ruime-zege-van-marseille-op-angers-1792422728970.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tien-marokkanen-keren-terug-uit-libie-na-maanden-gevangenschap</loc>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-tegen-niger-in-casablanca-en-rabat-afcon-kwalificatie-in-november</loc>
     <news:news>
       <news:publication>
         <news:name>Linkrs Marokko</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T16:31:52.104Z</news:publication_date>
-      <news:title>Tien Marokkanen keren terug uit Libië na maanden gevangenschap</news:title>
+      <news:publication_date>2026-10-19T15:37:10.994Z</news:publication_date>
+      <news:title>Marokko tegen Niger in Casablanca en Rabat: AFCON-kwalificatie in november</news:title>
     </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tien-marokkanen-keren-terug-uit-libie-na-maanden-gevangenschap-1792253170260.jpg</image:loc></image:image>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-tegen-niger-in-casablanca-en-rabat-afcon-kwalificatie-in-november-1792422699838.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-keurt-grote-lijnen-begroting-2027-goed</loc>
+    <loc>https://www.linkrsmarokko.com/nieuws/bank-of-africa-versterkt-steun-aan-marokkaanse-kleine-en-middelgrote-onderneming</loc>
     <news:news>
       <news:publication>
         <news:name>Linkrs Marokko</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T16:11:51.293Z</news:publication_date>
-      <news:title>Koning Mohammed VI keurt grote lijnen begroting 2027 goed</news:title>
+      <news:publication_date>2026-10-19T15:24:54.983Z</news:publication_date>
+      <news:title>Bank of Africa versterkt steun aan Marokkaanse kleine en middelgrote ondernemingen</news:title>
     </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-keurt-grote-lijnen-begroting-2027-goed-1792253132073.jpg</image:loc></image:image>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bank-of-africa-versterkt-steun-aan-marokkaanse-kleine-en-middelgrote-onderneming-1792419590089.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dirham-stijgt-tegenover-dollar-en-euro-wat-merk-je-ervan</loc>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-beachsoccerploeg-plaatst-zich-voor-afrika-cup-na-zege-tegen-libie</loc>
     <news:news>
       <news:publication>
         <news:name>Linkrs Marokko</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T12:51:52.164Z</news:publication_date>
-      <news:title>Dirham stijgt tegenover dollar en euro: wat merk je ervan?</news:title>
+      <news:publication_date>2026-10-19T15:17:09.906Z</news:publication_date>
+      <news:title>Marokkaanse beachsoccerploeg plaatst zich voor Afrika Cup na zege tegen Libië</news:title>
     </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-stijgt-tegenover-dollar-en-euro-wat-merk-je-ervan-1792241210115.jpg</image:loc></image:image>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-beachsoccerploeg-plaatst-zich-voor-afrika-cup-na-zege-tegen-libie-1792422668065.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fatima-ezzahra-el-mansouri-neemt-regeringsleiding-over-van-aziz-akhannouch</loc>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaans-instituut-marokko-versterkt-strategische-greep-spanje-verliest-invloed-in</loc>
     <news:news>
       <news:publication>
         <news:name>Linkrs Marokko</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T12:48:51.278Z</news:publication_date>
-      <news:title>Fatima Ezzahra El Mansouri neemt regeringsleiding over van Aziz Akhannouch</news:title>
+      <news:publication_date>2026-10-19T15:04:54.109Z</news:publication_date>
+      <news:title>Spaans instituut: Marokko versterkt strategische greep, Spanje verliest invloed in Noord-Afrika</news:title>
     </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fatima-ezzahra-el-mansouri-neemt-regeringsleiding-over-van-aziz-akhannouch-1792241176549.jpg</image:loc></image:image>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaans-instituut-marokko-versterkt-strategische-greep-spanje-verliest-invloed-in-1792419555909.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/infantino-kondigt-wk-voor-vrouwen-onder-17-aan-als-groot-voetbalfeest-in-marokko</loc>
+    <loc>https://www.linkrsmarokko.com/nieuws/ismael-saibari-haalt-uit-naar-air-arabia-de-slechtste-maatschappij-ter-wereld</loc>
     <news:news>
       <news:publication>
         <news:name>Linkrs Marokko</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T12:40:17.528Z</news:publication_date>
-      <news:title>Infantino kondigt WK voor vrouwen onder 17 aan als groot voetbalfeest in Marokko</news:title>
+      <news:publication_date>2026-10-19T14:44:53.212Z</news:publication_date>
+      <news:title>Ismael Saibari haalt uit naar Air Arabia: &quot;De slechtste maatschappij ter wereld&quot;</news:title>
     </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/infantino-kondigt-wk-voor-vrouwen-onder-17-aan-als-groot-voetbalfeest-in-marokko-1792238114334.jpg</image:loc></image:image>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ismael-saibari-haalt-uit-naar-air-arabia-de-slechtste-maatschappij-ter-wereld-1792419512963.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/weeralarm-in-marokko-onweer-en-hagel-verwacht-dit-weekend</loc>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-beleggingen-in-amerikaanse-staatsschuld-stijgen-met-10-miljard-dirha</loc>
     <news:news>
       <news:publication>
         <news:name>Linkrs Marokko</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T12:20:16.686Z</news:publication_date>
-      <news:title>Weeralarm in Marokko: onweer en hagel verwacht dit weekend</news:title>
+      <news:publication_date>2026-10-19T14:42:00.895Z</news:publication_date>
+      <news:title>Marokkaanse beleggingen in Amerikaanse staatsschuld stijgen met 10 miljard dirham</news:title>
     </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weeralarm-in-marokko-onweer-en-hagel-verwacht-dit-weekend-1792238081702.jpg</image:loc></image:image>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-beleggingen-in-amerikaanse-staatsschuld-stijgen-met-10-miljard-dirha-1792418217492.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-bouwvakker-dood-in-florence-italiaanse-vakbonden-kondigen-staking-aa</loc>
+    <loc>https://www.linkrsmarokko.com/nieuws/visa-for-music-2026-rabat-wordt-kruispunt-van-afrikaanse-en-arabische-muziek</loc>
     <news:news>
       <news:publication>
         <news:name>Linkrs Marokko</news:name>
         <news:language>nl</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T12:00:15.710Z</news:publication_date>
-      <news:title>Marokkaanse bouwvakker dood in Florence: Italiaanse vakbonden kondigen staking aan</news:title>
+      <news:publication_date>2026-10-19T14:24:52.453Z</news:publication_date>
+      <news:title>Visa For Music 2026: Rabat wordt kruispunt van Afrikaanse en Arabische muziek</news:title>
     </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-bouwvakker-dood-in-florence-italiaanse-vakbonden-kondigen-staking-aa-1792238047075.jpg</image:loc></image:image>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/visa-for-music-2026-rabat-wordt-kruispunt-van-afrikaanse-en-arabische-muziek-1792419481754.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/moord-op-brusselse-agent-nordine-el-talbi-verdachten-opgepakt-op-weg-naar-marokk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:22:00.026Z</news:publication_date>
+      <news:title>Moord op Brusselse agent Nordine El Talbi: verdachten opgepakt op weg naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/moord-op-brusselse-agent-nordine-el-talbi-verdachten-opgepakt-op-weg-naar-marokk-1792418177094.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bouwkosten-in-marokko-schieten-omhoog-goedkope-woningen-bijna-onbetaalbaar-te-bo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:01:58.818Z</news:publication_date>
+      <news:title>Bouwkosten in Marokko schieten omhoog: goedkope woningen bijna onbetaalbaar te bouwen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bouwkosten-in-marokko-schieten-omhoog-goedkope-woningen-bijna-onbetaalbaar-te-bo-1792418139719.jpg</image:loc></image:image>
   </url>
 </urlset>
