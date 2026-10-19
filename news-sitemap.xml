@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/geweld-tegen-migranten-in-ceuta-spaanse-militairen-pochen-over-hun-klappen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T20:09:18.797Z</news:publication_date>
+      <news:title>Geweld tegen migranten in Ceuta: Spaanse militairen pochen over hun klappen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/geweld-tegen-migranten-in-ceuta-spaanse-militairen-pochen-over-hun-klappen-1792439053691.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/harit-en-el-ouazzani-scoren-bij-ruime-zege-van-marseille-op-angers</loc>
     <news:news>
       <news:publication>
