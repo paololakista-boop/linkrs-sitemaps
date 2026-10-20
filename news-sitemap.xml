@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-betaalt-200-miljoen-dirham-meer-voor-minder-europees-butagas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T13:38:19.410Z</news:publication_date>
+      <news:title>Marokko betaalt 200 miljoen dirham meer voor minder Europees butagas</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-betaalt-200-miljoen-dirham-meer-voor-minder-europees-butagas-1792501954622.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-parlementslid-wij-weten-wanneer-we-over-ceuta-en-melilla-gaan-onderha</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T09:42:08.177Z</news:publication_date>
+      <news:title>Marokkaans parlementslid: wij weten wanneer we over Ceuta en Melilla gaan onderhandelen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-parlementslid-wij-weten-wanneer-we-over-ceuta-en-melilla-gaan-onderha-1792487825955.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-mikt-op-26-miljoen-toeristen-tegen-2030-met-nieuwe-toeristische-routekaa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T09:22:07.253Z</news:publication_date>
+      <news:title>Marokko mikt op 26 miljoen toeristen tegen 2030 met nieuwe toeristische routekaart</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-mikt-op-26-miljoen-toeristen-tegen-2030-met-nieuwe-toeristische-routekaa-1792487783142.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/minderjarige-opgepakt-in-biougra-na-verdenking-van-aanranding-van-kleuter</loc>
     <news:news>
       <news:publication>
