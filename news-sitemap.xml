@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/minderjarige-opgepakt-in-biougra-na-verdenking-van-aanranding-van-kleuter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T23:29:23.798Z</news:publication_date>
+      <news:title>Minderjarige opgepakt in Biougra na verdenking van aanranding van kleuter</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/minderjarige-opgepakt-in-biougra-na-verdenking-van-aanranding-van-kleuter-1792449860702.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-vernedert-egypte-met-6-0-en-staat-in-de-finale-van-de-afrika-cup-futsal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T23:27:55.647Z</news:publication_date>
+      <news:title>Marokko vernedert Egypte met 6-0 en staat in de finale van de Afrika Cup futsal</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-vernedert-egypte-met-6-0-en-staat-in-de-finale-van-de-afrika-cup-futsal-1792452354134.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-luchthavens-verwerken-ruim-26-miljoen-reizigers-in-acht-maanden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T23:09:23.052Z</news:publication_date>
+      <news:title>Marokkaanse luchthavens verwerken ruim 26 miljoen reizigers in acht maanden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-luchthavens-verwerken-ruim-26-miljoen-reizigers-in-acht-maanden-1792449828018.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-belooft-100-000-plattelandswoningen-en-40-000-dirham-steun-per-gezin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T22:49:21.814Z</news:publication_date>
+      <news:title>Marokko belooft 100.000 plattelandswoningen en 40.000 dirham steun per gezin</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-belooft-100-000-plattelandswoningen-en-40-000-dirham-steun-per-gezin-1792449798015.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/geweld-tegen-migranten-in-ceuta-spaanse-militairen-pochen-over-hun-klappen</loc>
     <news:news>
       <news:publication>
