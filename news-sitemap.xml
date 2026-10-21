@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/uitslag-marokko-duitsland-u17-vrouwen-atlasleeuwinnen-verliezen-met-4-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T23:05:45.306Z</news:publication_date>
+      <news:title>Uitslag Marokko-Duitsland U17 vrouwen: Atlasleeuwinnen verliezen met 4-2</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitslag-marokko-duitsland-u17-vrouwen-atlasleeuwinnen-verliezen-met-4-2-1792537242013.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-parlement-stemt-donderdag-over-regeringsprogramma</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:47:41.791Z</news:publication_date>
+      <news:title>Marokkaans parlement stemt donderdag over regeringsprogramma</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-parlement-stemt-donderdag-over-regeringsprogramma-1792533759101.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toen-marokko-nog-een-eigen-grand-prix-had-het-verhaal-van-1958</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T22:27:41.035Z</news:publication_date>
+      <news:title>Toen Marokko nog een eigen Grand Prix had: het verhaal van 1958</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toen-marokko-nog-een-eigen-grand-prix-had-het-verhaal-van-1958-1792533730091.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/brahim-diaz-op-weg-naar-de-premier-league-arsenal-volgt-marokkaanse-internationa</loc>
     <news:news>
       <news:publication>
