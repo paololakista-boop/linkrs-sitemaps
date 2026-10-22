@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/migratie-naar-canarische-eilanden-stijgt-met-159-procent-marokko-belangrijk-vert</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T22:07:53.549Z</news:publication_date>
+      <news:title>Migratie naar Canarische Eilanden stijgt met 159 procent, Marokko belangrijk vertrekpunt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/migratie-naar-canarische-eilanden-stijgt-met-159-procent-marokko-belangrijk-vert-1792706503149.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-sociale-media-verbieden-voor-kinderen-onder-15-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T19:11:45.861Z</news:publication_date>
+      <news:title>Marokko wil sociale media verbieden voor kinderen onder 15 jaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-sociale-media-verbieden-voor-kinderen-onder-15-jaar-1792695968523.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/fatima-ezzahra-el-mansouri-wordt-eerste-vrouw-aan-het-hoofd-van-de-marokkaanse-r</loc>
     <news:news>
       <news:publication>
@@ -265,41 +289,5 @@
       <news:title>Toen Marokko nog een eigen Grand Prix had: het verhaal van 1958</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toen-marokko-nog-een-eigen-grand-prix-had-het-verhaal-van-1958-1792533730091.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/brahim-diaz-op-weg-naar-de-premier-league-arsenal-volgt-marokkaanse-internationa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T22:07:40.114Z</news:publication_date>
-      <news:title>Brahim Díaz op weg naar de Premier League? Arsenal volgt Marokkaanse international</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/brahim-diaz-op-weg-naar-de-premier-league-arsenal-volgt-marokkaanse-internationa-1792533692804.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-regering-belooft-5-000-dirham-steun-voor-jonge-koppels-die-trouwen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:27:56.814Z</news:publication_date>
-      <news:title>Marokkaanse regering belooft 5.000 dirham steun voor jonge koppels die trouwen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-regering-belooft-5-000-dirham-steun-voor-jonge-koppels-die-trouwen-1792522974864.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rabat-ontvangt-voorronde-van-play-offs-richting-wk-voetbal-vrouwen-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:07:55.968Z</news:publication_date>
-      <news:title>Rabat ontvangt voorronde van play-offs richting WK voetbal vrouwen 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rabat-ontvangt-voorronde-van-play-offs-richting-wk-voetbal-vrouwen-2027-1792522931907.jpg</image:loc></image:image>
   </url>
 </urlset>
