@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fatima-ezzahra-el-mansouri-wordt-eerste-vrouw-aan-het-hoofd-van-de-marokkaanse-r</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T14:29:11.990Z</news:publication_date>
+      <news:title>Fatima Ezzahra El Mansouri wordt eerste vrouw aan het hoofd van de Marokkaanse regering</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fatima-ezzahra-el-mansouri-wordt-eerste-vrouw-aan-het-hoofd-van-de-marokkaanse-r-1792677845481.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/meer-dan-154-000-echtscheidingen-in-marokko-roep-om-betere-begeleiding-van-koppe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T14:09:23.910Z</news:publication_date>
+      <news:title>Meer dan 154.000 echtscheidingen in Marokko: roep om betere begeleiding van koppels</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meer-dan-154-000-echtscheidingen-in-marokko-roep-om-betere-begeleiding-van-koppe-1792675453877.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dakar-rally-keert-in-2027-mogelijk-terug-naar-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T14:06:06.802Z</news:publication_date>
+      <news:title>Dakar Rally keert in 2027 mogelijk terug naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dakar-rally-keert-in-2027-mogelijk-terug-naar-marokko-1792677773636.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-bouwt-60-000-nieuwe-hotelbedden-voor-het-wk-maar-wie-vult-ze</loc>
     <news:news>
       <news:publication>
@@ -265,41 +301,5 @@
       <news:title>Rabat ontvangt voorronde van play-offs richting WK voetbal vrouwen 2027</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rabat-ontvangt-voorronde-van-play-offs-richting-wk-voetbal-vrouwen-2027-1792522931907.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/cas-velt-pas-eind-november-uitspraak-in-zaak-marokko-tegen-senegal-over-can-fina</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T15:18:24.685Z</news:publication_date>
-      <news:title>CAS velt pas eind november uitspraak in zaak Marokko tegen Senegal over CAN-finale</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cas-velt-pas-eind-november-uitspraak-in-zaak-marokko-tegen-senegal-over-can-fina-1792419425846.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-verliest-invaliditeitsuitkering-in-spanje-en-moet-33-000-euro-terugb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T14:52:54.328Z</news:publication_date>
-      <news:title>Marokkaanse verliest invaliditeitsuitkering in Spanje en moet 33.000 euro terugbetalen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-verliest-invaliditeitsuitkering-in-spanje-en-moet-33-000-euro-terugb-1792507672013.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/socioloog-elalaoui-over-jongerenprotest-wat-franse-en-marokkaanse-jeugd-verbindt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T13:58:20.371Z</news:publication_date>
-      <news:title>Socioloog Elalaoui over jongerenprotest: wat Franse en Marokkaanse jeugd verbindt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/socioloog-elalaoui-over-jongerenprotest-wat-franse-en-marokkaanse-jeugd-verbindt-1792501994022.jpg</image:loc></image:image>
   </url>
 </urlset>
