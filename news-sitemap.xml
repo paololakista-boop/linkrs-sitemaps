@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bouwt-60-000-nieuwe-hotelbedden-voor-het-wk-maar-wie-vult-ze</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T13:49:23.090Z</news:publication_date>
+      <news:title>Marokko bouwt 60.000 nieuwe hotelbedden voor het WK, maar wie vult ze?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bouwt-60-000-nieuwe-hotelbedden-voor-het-wk-maar-wie-vult-ze-1792675408705.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-beautyketen-primor-opent-in-2027-eerste-winkels-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T13:08:30.752Z</news:publication_date>
+      <news:title>Spaanse beautyketen Primor opent in 2027 eerste winkels in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-beautyketen-primor-opent-in-2027-eerste-winkels-in-marokko-1792671807476.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vs-bieden-voor-het-eerst-consulaire-diensten-aan-in-laayoune</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T12:48:29.870Z</news:publication_date>
+      <news:title>VS bieden voor het eerst consulaire diensten aan in Laâyoune</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vs-bieden-voor-het-eerst-consulaire-diensten-aan-in-laayoune-1792671773632.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/emsi-opent-in-casablanca-het-eerste-3dexperience-topcentrum-van-afrika</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T12:45:11.801Z</news:publication_date>
+      <news:title>EMSI opent in Casablanca het eerste 3Dexperience-topcentrum van Afrika</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/emsi-opent-in-casablanca-het-eerste-3dexperience-topcentrum-van-afrika-1792670406110.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-halen-460-miljard-dirham-cash-op-ondanks-opmars-digitaal-betalen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T12:28:28.991Z</news:publication_date>
+      <news:title>Marokkanen halen 460 miljard dirham cash op ondanks opmars digitaal betalen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-halen-460-miljard-dirham-cash-op-ondanks-opmars-digitaal-betalen-1792671742409.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/laayoune-maakt-zich-op-voor-eerste-dag-van-de-eenheid-en-de-groene-mars</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T12:25:10.985Z</news:publication_date>
+      <news:title>Laâyoune maakt zich op voor eerste Dag van de Eenheid en de Groene Mars</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/laayoune-maakt-zich-op-voor-eerste-dag-van-de-eenheid-en-de-groene-mars-1792670364026.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/europese-aankopen-van-marokkaanse-ertsen-en-metaalafval-ruim-verdubbeld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:58:52.334Z</news:publication_date>
+      <news:title>Europese aankopen van Marokkaanse ertsen en metaalafval ruim verdubbeld</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/europese-aankopen-van-marokkaanse-ertsen-en-metaalafval-ruim-verdubbeld-1792651304049.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/samira-said-komt-met-nieuw-album-van-14-nummers-egyptisch-en-marokkaans-dooreen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T11:58:52.108Z</news:publication_date>
+      <news:title>Samira Said komt met nieuw album van 14 nummers, Egyptisch en Marokkaans dooreen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/samira-said-komt-met-nieuw-album-van-14-nummers-egyptisch-en-marokkaans-dooreen-1792651340963.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/pink-october-in-marokko-acht-hardnekkige-mythes-over-borstkanker-ontkracht</loc>
     <news:news>
       <news:publication>
@@ -205,41 +301,5 @@
       <news:title>Socioloog Elalaoui over jongerenprotest: wat Franse en Marokkaanse jeugd verbindt</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/socioloog-elalaoui-over-jongerenprotest-wat-franse-en-marokkaanse-jeugd-verbindt-1792501994022.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-betaalt-200-miljoen-dirham-meer-voor-minder-europees-butagas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T13:38:19.410Z</news:publication_date>
-      <news:title>Marokko betaalt 200 miljoen dirham meer voor minder Europees butagas</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-betaalt-200-miljoen-dirham-meer-voor-minder-europees-butagas-1792501954622.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-parlementslid-wij-weten-wanneer-we-over-ceuta-en-melilla-gaan-onderha</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:42:08.177Z</news:publication_date>
-      <news:title>Marokkaans parlementslid: wij weten wanneer we over Ceuta en Melilla gaan onderhandelen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-parlementslid-wij-weten-wanneer-we-over-ceuta-en-melilla-gaan-onderha-1792487825955.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-mikt-op-26-miljoen-toeristen-tegen-2030-met-nieuwe-toeristische-routekaa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T09:22:07.253Z</news:publication_date>
-      <news:title>Marokko mikt op 26 miljoen toeristen tegen 2030 met nieuwe toeristische routekaart</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-mikt-op-26-miljoen-toeristen-tegen-2030-met-nieuwe-toeristische-routekaa-1792487783142.jpg</image:loc></image:image>
   </url>
 </urlset>
