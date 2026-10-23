@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ali-lmrabet-onder-vuur-activisten-verwijten-hem-slachtofferrol-en-complotverhale</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:14:55.327Z</news:publication_date>
+      <news:title>Ali Lmrabet onder vuur: activisten verwijten hem slachtofferrol en complotverhalen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ali-lmrabet-onder-vuur-activisten-verwijten-hem-slachtofferrol-en-complotverhale-1792792151635.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/noodkreet-om-marokkaanse-dichter-abderrahim-essayel-te-redden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:08:53.123Z</news:publication_date>
+      <news:title>Noodkreet om Marokkaanse dichter Abderrahim Essayel te redden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/noodkreet-om-marokkaanse-dichter-abderrahim-essayel-te-redden-1792792957875.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-betaalbare-huurwoningen-voor-jongeren-bij-universiteiten-en-werkplek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T18:33:04.130Z</news:publication_date>
+      <news:title>Marokko wil betaalbare huurwoningen voor jongeren bij universiteiten en werkplekken</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-betaalbare-huurwoningen-voor-jongeren-bij-universiteiten-en-werkplek-1792777680493.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/baby-ghalia-met-gat-in-het-hart-ouders-vragen-dringend-hulp-voor-levensreddende-</loc>
     <news:news>
       <news:publication>
@@ -337,17 +373,5 @@
       <news:title>Marokko strikt opnieuw jong talent voor het WK U17</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-strikt-opnieuw-jong-talent-voor-het-wk-u17-1792620282372.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verdachte-opgepakt-in-moordzaak-hajar-marokkaanse-vrouw-gevonden-in-koffer-in-am</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T19:13:31.187Z</news:publication_date>
-      <news:title>Verdachte opgepakt in moordzaak Hajar, Marokkaanse vrouw gevonden in koffer in Amsterdam</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verdachte-opgepakt-in-moordzaak-hajar-marokkaanse-vrouw-gevonden-in-koffer-in-am-1792609889125.jpg</image:loc></image:image>
   </url>
 </urlset>
