@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/baby-ghalia-met-gat-in-het-hart-ouders-vragen-dringend-hulp-voor-levensreddende-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T18:13:02.564Z</news:publication_date>
+      <news:title>Baby Ghalia met gat in het hart: ouders vragen dringend hulp voor levensreddende operatie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/baby-ghalia-met-gat-in-het-hart-ouders-vragen-dringend-hulp-voor-levensreddende--1792777606839.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verhoogt-minimumpensioen-naar-1-700-dirham-en-schrapt-belasting-voor-lon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:53:01.611Z</news:publication_date>
+      <news:title>Marokko verhoogt minimumpensioen naar 1.700 dirham en schrapt belasting voor lonen onder 10.000 dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verhoogt-minimumpensioen-naar-1-700-dirham-en-schrapt-belasting-voor-lon-1792777570544.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-argentinie-u17-vrouwen-hoe-laat-en-waar-kun-je-kijken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:50:03.385Z</news:publication_date>
+      <news:title>Marokko-Argentinië U17 vrouwen: hoe laat en waar kun je kijken?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-argentinie-u17-vrouwen-hoe-laat-en-waar-kun-je-kijken-1792777639612.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/maroc-telecom-telt-meer-dan-78-miljoen-klanten-eind-september</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:49:25.993Z</news:publication_date>
+      <news:title>Maroc Telecom telt meer dan 78 miljoen klanten eind september</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/maroc-telecom-telt-meer-dan-78-miljoen-klanten-eind-september-1792764262997.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/abdellah-ouazane-schittert-bij-ajax-en-voedt-discussie-over-speeltijd-bij-marokk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:29:25.296Z</news:publication_date>
+      <news:title>Abdellah Ouazane schittert bij Ajax en voedt discussie over speeltijd bij Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/abdellah-ouazane-schittert-bij-ajax-en-voedt-discussie-over-speeltijd-bij-marokk-1792764230214.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-financiert-wk-2030-infrastructuur-slim-100-miljard-dirham-minder-druk-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T14:09:24.252Z</news:publication_date>
+      <news:title>Marokko financiert WK 2030-infrastructuur slim: 100 miljard dirham minder druk op de begroting</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-financiert-wk-2030-infrastructuur-slim-100-miljard-dirham-minder-druk-op-1792764197015.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/prijs-marokkaanse-olijfolie-blijft-stabiel-bij-start-van-het-oogstseizoen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T13:46:47.363Z</news:publication_date>
+      <news:title>Prijs Marokkaanse olijfolie blijft stabiel bij start van het oogstseizoen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/prijs-marokkaanse-olijfolie-blijft-stabiel-bij-start-van-het-oogstseizoen-1792760494611.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/toerisme-in-saidia-breekt-records-bezetting-omhoog-en-nederland-in-het-vizier</loc>
     <news:news>
       <news:publication>
@@ -265,53 +349,5 @@
       <news:title>Verdachte opgepakt in moordzaak Hajar, Marokkaanse vrouw gevonden in koffer in Amsterdam</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verdachte-opgepakt-in-moordzaak-hajar-marokkaanse-vrouw-gevonden-in-koffer-in-am-1792609889125.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/busongeluk-bij-zagora-dodental-stijgt-naar-vijf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:35:03.366Z</news:publication_date>
-      <news:title>Busongeluk bij Zagora: dodental stijgt naar vijf</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/busongeluk-bij-zagora-dodental-stijgt-naar-vijf-1792592701501.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/israelische-luchtvaartmaatschappij-stopt-ticketverkoop-voor-marrakech-na-twee-ma</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:27:02.555Z</news:publication_date>
-      <news:title>Israëlische luchtvaartmaatschappij stopt ticketverkoop voor Marrakech na twee maanden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/israelische-luchtvaartmaatschappij-stopt-ticketverkoop-voor-marrakech-na-twee-ma-1792592663226.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/weeralarm-in-marokko-onweer-hagel-en-windstoten-op-woensdag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T14:08:11.136Z</news:publication_date>
-      <news:title>Weeralarm in Marokko: onweer, hagel en windstoten op woensdag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weeralarm-in-marokko-onweer-hagel-en-windstoten-op-woensdag-1792588988200.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-hervormt-inkomstenbelasting-drie-schijven-en-top-van-30-procent-tegen-20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T13:48:10.349Z</news:publication_date>
-      <news:title>Marokko hervormt inkomstenbelasting: drie schijven en top van 30 procent tegen 2031</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-hervormt-inkomstenbelasting-drie-schijven-en-top-van-30-procent-tegen-20-1792588954016.jpg</image:loc></image:image>
   </url>
 </urlset>
