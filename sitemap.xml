@@ -32,6 +32,20 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toerisme-in-saidia-breekt-records-bezetting-omhoog-en-nederland-in-het-vizier</loc>
+    <lastmod>2026-10-23T13:26:46.594Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toerisme-in-saidia-breekt-records-bezetting-omhoog-en-nederland-in-het-vizier-1792760459628.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-jongen-van-11-betrokken-bij-rellen-en-plunderingen-in-milaan</loc>
+    <lastmod>2026-10-23T13:06:45.432Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-jongen-van-11-betrokken-bij-rellen-en-plunderingen-in-milaan-1792760423809.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/tanger-kampt-met-personeelstekort-bedrijven-hopen-op-nieuwe-regering</loc>
     <lastmod>2026-10-23T06:28:34.201Z</lastmod>
     <changefreq>daily</changefreq>
@@ -525,14 +539,14 @@
     <loc>https://www.linkrsmarokko.com/nieuws/hami-eddine-ontkent-betrokkenheid-bij-dood-student-ait-el-jid-in-fez</loc>
     <lastmod>2026-10-16T13:20:42.947Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hami-eddine-ontkent-betrokkenheid-bij-dood-student-ait-el-jid-in-fez-1792155304211.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/yassine-khalifi-droomt-van-de-atlasleeuwen-en-het-wk-2030</loc>
     <lastmod>2026-10-16T13:00:42.223Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassine-khalifi-droomt-van-de-atlasleeuwen-en-het-wk-2030-1792155266119.jpg</image:loc></image:image>
   </url>
   <url>

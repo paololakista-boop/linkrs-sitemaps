@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toerisme-in-saidia-breekt-records-bezetting-omhoog-en-nederland-in-het-vizier</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T13:26:46.594Z</news:publication_date>
+      <news:title>Toerisme in Saïdia breekt records: bezetting omhoog en Nederland in het vizier</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toerisme-in-saidia-breekt-records-bezetting-omhoog-en-nederland-in-het-vizier-1792760459628.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-jongen-van-11-betrokken-bij-rellen-en-plunderingen-in-milaan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T13:06:45.432Z</news:publication_date>
+      <news:title>Marokkaanse jongen van 11 betrokken bij rellen en plunderingen in Milaan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-jongen-van-11-betrokken-bij-rellen-en-plunderingen-in-milaan-1792760423809.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/tanger-kampt-met-personeelstekort-bedrijven-hopen-op-nieuwe-regering</loc>
     <news:news>
       <news:publication>
@@ -289,17 +313,5 @@
       <news:title>Marokko hervormt inkomstenbelasting: drie schijven en top van 30 procent tegen 2031</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-hervormt-inkomstenbelasting-drie-schijven-en-top-van-30-procent-tegen-20-1792588954016.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/uitspraken-van-eric-zemmour-over-maghrebijnen-leiden-tot-gang-naar-justitie-in-f</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T13:28:09.108Z</news:publication_date>
-      <news:title>Uitspraken van Éric Zemmour over Maghrebijnen leiden tot gang naar justitie in Frankrijk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitspraken-van-eric-zemmour-over-maghrebijnen-leiden-tot-gang-naar-justitie-in-f-1792588914364.jpg</image:loc></image:image>
   </url>
 </urlset>
