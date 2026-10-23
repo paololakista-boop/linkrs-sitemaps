@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tanger-kampt-met-personeelstekort-bedrijven-hopen-op-nieuwe-regering</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T06:28:34.201Z</news:publication_date>
+      <news:title>Tanger kampt met personeelstekort: bedrijven hopen op nieuwe regering</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tanger-kampt-met-personeelstekort-bedrijven-hopen-op-nieuwe-regering-1792735411683.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/moussem-van-tan-tan-2026-nomadenfestival-van-30-oktober-tot-3-november</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T06:08:33.243Z</news:publication_date>
+      <news:title>Moussem van Tan-Tan 2026: nomadenfestival van 30 oktober tot 3 november</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/moussem-van-tan-tan-2026-nomadenfestival-van-30-oktober-tot-3-november-1792735371293.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vrouwenrechten-in-marokko-feministische-organisaties-lanceren-burgerwaakhond</loc>
     <news:news>
       <news:publication>
