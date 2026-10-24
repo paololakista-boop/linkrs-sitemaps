@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/boualem-sansal-noemt-algerijnse-steden-marokkaans-en-daagt-president-tebboune-ui</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:48:54.999Z</news:publication_date>
+      <news:title>Boualem Sansal noemt Algerijnse steden Marokkaans en daagt president Tebboune uit</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/boualem-sansal-noemt-algerijnse-steden-marokkaans-en-daagt-president-tebboune-ui-1792793031901.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/meisje-13-verdronken-in-waterbassin-in-bab-berred-familie-eist-onderzoek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:34:56.258Z</news:publication_date>
+      <news:title>Meisje (13) verdronken in waterbassin in Bab Berred: familie eist onderzoek</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meisje-13-verdronken-in-waterbassin-in-bab-berred-familie-eist-onderzoek-1792792188518.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rundvleesimport-marokko-invoerplafond-voor-2026-al-bereikt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T22:28:54.195Z</news:publication_date>
+      <news:title>Rundvleesimport Marokko: invoerplafond voor 2026 al bereikt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rundvleesimport-marokko-invoerplafond-voor-2026-al-bereikt-1792792993710.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ali-lmrabet-onder-vuur-activisten-verwijten-hem-slachtofferrol-en-complotverhale</loc>
     <news:news>
       <news:publication>
@@ -349,29 +385,5 @@
       <news:title>Samira Said komt met nieuw album van 14 nummers, Egyptisch en Marokkaans dooreen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/samira-said-komt-met-nieuw-album-van-14-nummers-egyptisch-en-marokkaans-dooreen-1792651340963.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/pink-october-in-marokko-acht-hardnekkige-mythes-over-borstkanker-ontkracht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:50:32.137Z</news:publication_date>
-      <news:title>Pink October in Marokko: acht hardnekkige mythes over borstkanker ontkracht</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pink-october-in-marokko-acht-hardnekkige-mythes-over-borstkanker-ontkracht-1792620325764.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-strikt-opnieuw-jong-talent-voor-het-wk-u17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T22:30:31.374Z</news:publication_date>
-      <news:title>Marokko strikt opnieuw jong talent voor het WK U17</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-strikt-opnieuw-jong-talent-voor-het-wk-u17-1792620282372.jpg</image:loc></image:image>
   </url>
 </urlset>
