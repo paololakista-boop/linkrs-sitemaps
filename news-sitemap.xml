@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-rekent-in-2027-op-195-miljoen-dirham-uit-gokken-en-weddenschappen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T14:29:38.485Z</news:publication_date>
+      <news:title>Marokko rekent in 2027 op 195 miljoen dirham uit gokken en weddenschappen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-rekent-in-2027-op-195-miljoen-dirham-uit-gokken-en-weddenschappen-1792850643231.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/uitslag-marokko-filipijnen-atlasleeuwjes-winnen-wk-onder-15-met-2-0</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T14:09:37.552Z</news:publication_date>
+      <news:title>Uitslag Marokko-Filipijnen: Atlasleeuwjes winnen WK onder 15 met 2-0</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitslag-marokko-filipijnen-atlasleeuwjes-winnen-wk-onder-15-met-2-0-1792850603759.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-rechter-spreekt-man-vrij-na-doodsbedreigingen-aan-koning-mohammed-vi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T13:09:40.494Z</news:publication_date>
+      <news:title>Franse rechter spreekt man vrij na doodsbedreigingen aan koning Mohammed VI</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-rechter-spreekt-man-vrij-na-doodsbedreigingen-aan-koning-mohammed-vi-1792844677236.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-regering-onder-fatima-zahra-el-mansouri-moet-investeringen-omzetten-in-ba</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:49:39.585Z</news:publication_date>
+      <news:title>Nieuwe regering onder Fatima Zahra El Mansouri moet investeringen omzetten in banen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-regering-onder-fatima-zahra-el-mansouri-moet-investeringen-omzetten-in-ba-1792844644811.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verhoogt-belasting-op-luxeauto-s-in-begroting-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:29:38.693Z</news:publication_date>
+      <news:title>Marokko verhoogt belasting op luxeauto&apos;s in begroting 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verhoogt-belasting-op-luxeauto-s-in-begroting-2027-1792844599248.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verlaagt-prijs-van-honderden-medicijnen-ook-kankerbehandelingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:22:51.311Z</news:publication_date>
+      <news:title>Marokko verlaagt prijs van honderden medicijnen, ook kankerbehandelingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verlaagt-prijs-van-honderden-medicijnen-ook-kankerbehandelingen-1792843069058.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-krijgen-meeste-italiaanse-verblijfsvergunningen-van-alle-niet-eu-ers-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T12:02:50.375Z</news:publication_date>
+      <news:title>Marokkanen krijgen meeste Italiaanse verblijfsvergunningen van alle niet-EU&apos;ers in 2025</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-krijgen-meeste-italiaanse-verblijfsvergunningen-van-alle-niet-eu-ers--1792843033306.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/geestelijke-gezondheid-in-marokko-6-5-miljoen-getroffen-85-procent-zonder-goede-</loc>
     <news:news>
       <news:publication>
@@ -277,137 +361,5 @@
       <news:title>Marokko wil sociale media verbieden voor kinderen onder 15 jaar</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-sociale-media-verbieden-voor-kinderen-onder-15-jaar-1792695968523.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fatima-ezzahra-el-mansouri-wordt-eerste-vrouw-aan-het-hoofd-van-de-marokkaanse-r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:29:11.990Z</news:publication_date>
-      <news:title>Fatima Ezzahra El Mansouri wordt eerste vrouw aan het hoofd van de Marokkaanse regering</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fatima-ezzahra-el-mansouri-wordt-eerste-vrouw-aan-het-hoofd-van-de-marokkaanse-r-1792677845481.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/meer-dan-154-000-echtscheidingen-in-marokko-roep-om-betere-begeleiding-van-koppe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:09:23.910Z</news:publication_date>
-      <news:title>Meer dan 154.000 echtscheidingen in Marokko: roep om betere begeleiding van koppels</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meer-dan-154-000-echtscheidingen-in-marokko-roep-om-betere-begeleiding-van-koppe-1792675453877.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dakar-rally-keert-in-2027-mogelijk-terug-naar-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:06:06.802Z</news:publication_date>
-      <news:title>Dakar Rally keert in 2027 mogelijk terug naar Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dakar-rally-keert-in-2027-mogelijk-terug-naar-marokko-1792677773636.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bouwt-60-000-nieuwe-hotelbedden-voor-het-wk-maar-wie-vult-ze</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:49:23.090Z</news:publication_date>
-      <news:title>Marokko bouwt 60.000 nieuwe hotelbedden voor het WK, maar wie vult ze?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bouwt-60-000-nieuwe-hotelbedden-voor-het-wk-maar-wie-vult-ze-1792675408705.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-beautyketen-primor-opent-in-2027-eerste-winkels-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T13:08:30.752Z</news:publication_date>
-      <news:title>Spaanse beautyketen Primor opent in 2027 eerste winkels in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-beautyketen-primor-opent-in-2027-eerste-winkels-in-marokko-1792671807476.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vs-bieden-voor-het-eerst-consulaire-diensten-aan-in-laayoune</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T12:48:29.870Z</news:publication_date>
-      <news:title>VS bieden voor het eerst consulaire diensten aan in Laâyoune</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vs-bieden-voor-het-eerst-consulaire-diensten-aan-in-laayoune-1792671773632.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/emsi-opent-in-casablanca-het-eerste-3dexperience-topcentrum-van-afrika</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T12:45:11.801Z</news:publication_date>
-      <news:title>EMSI opent in Casablanca het eerste 3Dexperience-topcentrum van Afrika</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/emsi-opent-in-casablanca-het-eerste-3dexperience-topcentrum-van-afrika-1792670406110.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-halen-460-miljard-dirham-cash-op-ondanks-opmars-digitaal-betalen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T12:28:28.991Z</news:publication_date>
-      <news:title>Marokkanen halen 460 miljard dirham cash op ondanks opmars digitaal betalen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-halen-460-miljard-dirham-cash-op-ondanks-opmars-digitaal-betalen-1792671742409.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/laayoune-maakt-zich-op-voor-eerste-dag-van-de-eenheid-en-de-groene-mars</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T12:25:10.985Z</news:publication_date>
-      <news:title>Laâyoune maakt zich op voor eerste Dag van de Eenheid en de Groene Mars</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/laayoune-maakt-zich-op-voor-eerste-dag-van-de-eenheid-en-de-groene-mars-1792670364026.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/europese-aankopen-van-marokkaanse-ertsen-en-metaalafval-ruim-verdubbeld</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T11:58:52.334Z</news:publication_date>
-      <news:title>Europese aankopen van Marokkaanse ertsen en metaalafval ruim verdubbeld</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/europese-aankopen-van-marokkaanse-ertsen-en-metaalafval-ruim-verdubbeld-1792651304049.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/samira-said-komt-met-nieuw-album-van-14-nummers-egyptisch-en-marokkaans-dooreen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T11:58:52.108Z</news:publication_date>
-      <news:title>Samira Said komt met nieuw album van 14 nummers, Egyptisch en Marokkaans dooreen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/samira-said-komt-met-nieuw-album-van-14-nummers-egyptisch-en-marokkaans-dooreen-1792651340963.jpg</image:loc></image:image>
   </url>
 </urlset>
