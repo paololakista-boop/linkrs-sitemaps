@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/geestelijke-gezondheid-in-marokko-6-5-miljoen-getroffen-85-procent-zonder-goede-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T06:28:17.332Z</news:publication_date>
+      <news:title>Geestelijke gezondheid in Marokko: 6,5 miljoen getroffen, 85 procent zonder goede zorg</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/geestelijke-gezondheid-in-marokko-6-5-miljoen-getroffen-85-procent-zonder-goede--1792821795237.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vogel-die-uit-spanje-verdween-keert-terug-dankzij-marokko-zes-kuikens-geboren</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T06:08:16.233Z</news:publication_date>
+      <news:title>Vogel die uit Spanje verdween keert terug dankzij Marokko: zes kuikens geboren</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vogel-die-uit-spanje-verdween-keert-terug-dankzij-marokko-zes-kuikens-geboren-1792821758009.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/boualem-sansal-noemt-algerijnse-steden-marokkaans-en-daagt-president-tebboune-ui</loc>
     <news:news>
       <news:publication>
