@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-staatsschuld-nadert-1-2-biljoen-dirham-rente-kost-45-miljard</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T22:08:19.771Z</news:publication_date>
+      <news:title>Marokkaanse staatsschuld nadert 1,2 biljoen dirham, rente kost 45 miljard</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-staatsschuld-nadert-1-2-biljoen-dirham-rente-kost-45-miljard-1792876995885.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vn-prijst-gaspijplijn-marokko-nigeria-als-strategische-as-voor-afrika</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T21:48:18.964Z</news:publication_date>
+      <news:title>VN prijst gaspijplijn Marokko-Nigeria als strategische as voor Afrika</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vn-prijst-gaspijplijn-marokko-nigeria-als-strategische-as-voor-afrika-1792876956241.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/uitslag-union-touarga-wydad-casablanca-wint-met-1-0-in-de-botola</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T21:28:17.922Z</news:publication_date>
+      <news:title>Uitslag Union Touarga-Wydad: Casablanca wint met 1-0 in de Botola</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitslag-union-touarga-wydad-casablanca-wint-met-1-0-in-de-botola-1792876917598.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/moustapha-souafi-de-belgisch-marokkaanse-influencer-die-viraal-gaat-met-zijn-oma</loc>
     <news:news>
       <news:publication>
@@ -373,41 +409,5 @@
       <news:title>Moussem van Tan-Tan 2026: nomadenfestival van 30 oktober tot 3 november</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/moussem-van-tan-tan-2026-nomadenfestival-van-30-oktober-tot-3-november-1792735371293.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vrouwenrechten-in-marokko-feministische-organisaties-lanceren-burgerwaakhond</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T22:47:55.611Z</news:publication_date>
-      <news:title>Vrouwenrechten in Marokko: feministische organisaties lanceren burgerwaakhond</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouwenrechten-in-marokko-feministische-organisaties-lanceren-burgerwaakhond-1792706571460.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/algerije-claimt-marokkaanse-monumenten-in-promovideo-van-defensie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T22:27:54.726Z</news:publication_date>
-      <news:title>Algerije claimt Marokkaanse monumenten in promovideo van Defensie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/algerije-claimt-marokkaanse-monumenten-in-promovideo-van-defensie-1792706537015.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/migratie-naar-canarische-eilanden-stijgt-met-159-procent-marokko-belangrijk-vert</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T22:07:53.549Z</news:publication_date>
-      <news:title>Migratie naar Canarische Eilanden stijgt met 159 procent, Marokko belangrijk vertrekpunt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/migratie-naar-canarische-eilanden-stijgt-met-159-procent-marokko-belangrijk-vert-1792706503149.jpg</image:loc></image:image>
   </url>
 </urlset>
