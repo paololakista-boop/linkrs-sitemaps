@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/coalitie-vraagt-heropening-samir-raffinaderij-en-prijsregulering-brandstof</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T17:42:56.756Z</news:publication_date>
+      <news:title>Coalitie vraagt heropening Samir-raffinaderij en prijsregulering brandstof</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/coalitie-vraagt-heropening-samir-raffinaderij-en-prijsregulering-brandstof-1792947473678.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-boekt-recordwinst-ondanks-miljardeninvesteringen-in-vloot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T17:22:55.904Z</news:publication_date>
+      <news:title>Royal Air Maroc boekt recordwinst ondanks miljardeninvesteringen in vloot</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-air-maroc-boekt-recordwinst-ondanks-miljardeninvesteringen-in-vloot-1792947437828.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-mikt-op-24-miljard-kubieke-meter-stuwmeercapaciteit-tegen-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T17:02:54.914Z</news:publication_date>
+      <news:title>Marokko mikt op 24 miljard kubieke meter stuwmeercapaciteit tegen 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-mikt-op-24-miljard-kubieke-meter-stuwmeercapaciteit-tegen-2027-1792947401958.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/netflix-filmt-derde-seizoen-van-the-gentlemen-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T15:49:15.605Z</news:publication_date>
+      <news:title>Netflix filmt derde seizoen van The Gentlemen in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/netflix-filmt-derde-seizoen-van-the-gentlemen-in-marokko-1792940649009.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zeevrachtreuzen-rekenen-marokkaanse-importeurs-meer-aan-dan-europeanen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T15:09:09.985Z</news:publication_date>
+      <news:title>Zeevrachtreuzen rekenen Marokkaanse importeurs meer aan dan Europeanen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zeevrachtreuzen-rekenen-marokkaanse-importeurs-meer-aan-dan-europeanen-1792940578735.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-geeft-fifa-speciaal-belastingregime-voor-wk-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T15:00:48.116Z</news:publication_date>
+      <news:title>Marokko geeft FIFA speciaal belastingregime voor WK 2030</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-geeft-fifa-speciaal-belastingregime-voor-wk-2030-1792940146026.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-hajar-29-dood-teruggevonden-in-koffer-in-amsterdam</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T14:57:47.043Z</news:publication_date>
+      <news:title>Marokkaanse Hajar (29) dood teruggevonden in koffer in Amsterdam</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-hajar-29-dood-teruggevonden-in-koffer-in-amsterdam-1792940112316.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/yassine-zabiri-schittert-in-la-liga-en-droomt-van-barcelona</loc>
     <news:news>
       <news:publication>
@@ -349,65 +433,5 @@
       <news:title>Marokko wil betaalbare huurwoningen voor jongeren bij universiteiten en werkplekken</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-betaalbare-huurwoningen-voor-jongeren-bij-universiteiten-en-werkplek-1792777680493.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/baby-ghalia-met-gat-in-het-hart-ouders-vragen-dringend-hulp-voor-levensreddende-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T18:13:02.564Z</news:publication_date>
-      <news:title>Baby Ghalia met gat in het hart: ouders vragen dringend hulp voor levensreddende operatie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/baby-ghalia-met-gat-in-het-hart-ouders-vragen-dringend-hulp-voor-levensreddende--1792777606839.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verhoogt-minimumpensioen-naar-1-700-dirham-en-schrapt-belasting-voor-lon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T17:53:01.611Z</news:publication_date>
-      <news:title>Marokko verhoogt minimumpensioen naar 1.700 dirham en schrapt belasting voor lonen onder 10.000 dirham</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verhoogt-minimumpensioen-naar-1-700-dirham-en-schrapt-belasting-voor-lon-1792777570544.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-argentinie-u17-vrouwen-hoe-laat-en-waar-kun-je-kijken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T17:50:03.385Z</news:publication_date>
-      <news:title>Marokko-Argentinië U17 vrouwen: hoe laat en waar kun je kijken?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-argentinie-u17-vrouwen-hoe-laat-en-waar-kun-je-kijken-1792777639612.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/maroc-telecom-telt-meer-dan-78-miljoen-klanten-eind-september</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:49:25.993Z</news:publication_date>
-      <news:title>Maroc Telecom telt meer dan 78 miljoen klanten eind september</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/maroc-telecom-telt-meer-dan-78-miljoen-klanten-eind-september-1792764262997.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/abdellah-ouazane-schittert-bij-ajax-en-voedt-discussie-over-speeltijd-bij-marokk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:29:25.296Z</news:publication_date>
-      <news:title>Abdellah Ouazane schittert bij Ajax en voedt discussie over speeltijd bij Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/abdellah-ouazane-schittert-bij-ajax-en-voedt-discussie-over-speeltijd-bij-marokk-1792764230214.jpg</image:loc></image:image>
   </url>
 </urlset>
