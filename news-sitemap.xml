@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/yassine-zabiri-schittert-in-la-liga-en-droomt-van-barcelona</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:39:34.655Z</news:publication_date>
+      <news:title>Yassine Zabiri schittert in La Liga en droomt van Barcelona</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassine-zabiri-schittert-in-la-liga-en-droomt-van-barcelona-1792932870952.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-importheffing-van-5-in-marokko-wakkert-vrees-voor-prijsstijgingen-aan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T13:19:33.728Z</news:publication_date>
+      <news:title>Nieuwe importheffing van 5% in Marokko wakkert vrees voor prijsstijgingen aan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-importheffing-van-5-in-marokko-wakkert-vrees-voor-prijsstijgingen-aan-1792932826462.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/italie-zet-marokkaanse-man-uit-na-celstraf-voor-dodelijke-steekpartij</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T12:59:32.474Z</news:publication_date>
+      <news:title>Italië zet Marokkaanse man uit na celstraf voor dodelijke steekpartij</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italie-zet-marokkaanse-man-uit-na-celstraf-voor-dodelijke-steekpartij-1792932789982.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-moskeeen-in-marokko-krijgen-verplicht-grotere-gebedsruimte-voor-vrouwen</loc>
     <news:news>
       <news:publication>
@@ -373,53 +409,5 @@
       <news:title>Abdellah Ouazane schittert bij Ajax en voedt discussie over speeltijd bij Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/abdellah-ouazane-schittert-bij-ajax-en-voedt-discussie-over-speeltijd-bij-marokk-1792764230214.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-financiert-wk-2030-infrastructuur-slim-100-miljard-dirham-minder-druk-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T14:09:24.252Z</news:publication_date>
-      <news:title>Marokko financiert WK 2030-infrastructuur slim: 100 miljard dirham minder druk op de begroting</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-financiert-wk-2030-infrastructuur-slim-100-miljard-dirham-minder-druk-op-1792764197015.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/prijs-marokkaanse-olijfolie-blijft-stabiel-bij-start-van-het-oogstseizoen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:46:47.363Z</news:publication_date>
-      <news:title>Prijs Marokkaanse olijfolie blijft stabiel bij start van het oogstseizoen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/prijs-marokkaanse-olijfolie-blijft-stabiel-bij-start-van-het-oogstseizoen-1792760494611.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/toerisme-in-saidia-breekt-records-bezetting-omhoog-en-nederland-in-het-vizier</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:26:46.594Z</news:publication_date>
-      <news:title>Toerisme in Saïdia breekt records: bezetting omhoog en Nederland in het vizier</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toerisme-in-saidia-breekt-records-bezetting-omhoog-en-nederland-in-het-vizier-1792760459628.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-jongen-van-11-betrokken-bij-rellen-en-plunderingen-in-milaan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T13:06:45.432Z</news:publication_date>
-      <news:title>Marokkaanse jongen van 11 betrokken bij rellen en plunderingen in Milaan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-jongen-van-11-betrokken-bij-rellen-en-plunderingen-in-milaan-1792760423809.jpg</image:loc></image:image>
   </url>
 </urlset>
