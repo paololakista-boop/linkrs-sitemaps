@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verdubbelt-taks-op-e-sigaretten-in-2027-ook-gewone-sigaretten-duurder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T21:48:12.324Z</news:publication_date>
+      <news:title>Marokko verdubbelt taks op e-sigaretten in 2027, ook gewone sigaretten duurder</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verdubbelt-taks-op-e-sigaretten-in-2027-ook-gewone-sigaretten-duurder-1792963362104.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-goed-vertegenwoordigd-bij-gouden-bal-hakimi-bounou-en-bouaddi-genomineer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T21:28:11.133Z</news:publication_date>
+      <news:title>Marokko goed vertegenwoordigd bij Gouden Bal: Hakimi, Bounou en Bouaddi genomineerd</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-goed-vertegenwoordigd-bij-gouden-bal-hakimi-bounou-en-bouaddi-genomineer-1792963327198.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/coalitie-vraagt-heropening-samir-raffinaderij-en-prijsregulering-brandstof</loc>
     <news:news>
       <news:publication>
@@ -421,17 +445,5 @@
       <news:title>Noodkreet om Marokkaanse dichter Abderrahim Essayel te redden</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/noodkreet-om-marokkaanse-dichter-abderrahim-essayel-te-redden-1792792957875.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-betaalbare-huurwoningen-voor-jongeren-bij-universiteiten-en-werkplek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T18:33:04.130Z</news:publication_date>
-      <news:title>Marokko wil betaalbare huurwoningen voor jongeren bij universiteiten en werkplekken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-betaalbare-huurwoningen-voor-jongeren-bij-universiteiten-en-werkplek-1792777680493.jpg</image:loc></image:image>
   </url>
 </urlset>
