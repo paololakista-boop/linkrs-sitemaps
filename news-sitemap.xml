@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-moskeeen-in-marokko-krijgen-verplicht-grotere-gebedsruimte-voor-vrouwen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T07:49:09.704Z</news:publication_date>
+      <news:title>Nieuwe moskeeën in Marokko krijgen verplicht grotere gebedsruimte voor vrouwen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-moskeeen-in-marokko-krijgen-verplicht-grotere-gebedsruimte-voor-vrouwen-1792911846646.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-visserijminister-mezouari-staat-voor-loodzware-dossiers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T07:29:08.928Z</news:publication_date>
+      <news:title>Nieuwe visserijminister Mezouari staat voor loodzware dossiers</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-visserijminister-mezouari-staat-voor-loodzware-dossiers-1792911805401.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-kmo-s-goed-voor-22-miljard-dollar-extra-groei-zegt-expothon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T07:09:07.938Z</news:publication_date>
+      <news:title>Marokkaanse kmo&apos;s goed voor 22 miljard dollar extra groei, zegt Expothon</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-kmo-s-goed-voor-22-miljard-dollar-extra-groei-zegt-expothon-1792911760456.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-staatsschuld-nadert-1-2-biljoen-dirham-rente-kost-45-miljard</loc>
     <news:news>
       <news:publication>
@@ -385,29 +421,5 @@
       <news:title>Marokkaanse jongen van 11 betrokken bij rellen en plunderingen in Milaan</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-jongen-van-11-betrokken-bij-rellen-en-plunderingen-in-milaan-1792760423809.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tanger-kampt-met-personeelstekort-bedrijven-hopen-op-nieuwe-regering</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T06:28:34.201Z</news:publication_date>
-      <news:title>Tanger kampt met personeelstekort: bedrijven hopen op nieuwe regering</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tanger-kampt-met-personeelstekort-bedrijven-hopen-op-nieuwe-regering-1792735411683.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/moussem-van-tan-tan-2026-nomadenfestival-van-30-oktober-tot-3-november</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T06:08:33.243Z</news:publication_date>
-      <news:title>Moussem van Tan-Tan 2026: nomadenfestival van 30 oktober tot 3 november</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/moussem-van-tan-tan-2026-nomadenfestival-van-30-oktober-tot-3-november-1792735371293.jpg</image:loc></image:image>
   </url>
 </urlset>
