@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tweedehandsauto-in-marokko-narsa-maakt-overschrijven-makkelijker</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T16:03:30.969Z</news:publication_date>
+      <news:title>Tweedehandsauto in Marokko: NARSA maakt overschrijven makkelijker</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tweedehandsauto-in-marokko-narsa-maakt-overschrijven-makkelijker-1793030267306.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-blauwe-bessen-dreigen-duurder-te-worden-in-het-verenigd-koninkrijk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:49:16.721Z</news:publication_date>
+      <news:title>Marokkaanse blauwe bessen dreigen duurder te worden in het Verenigd Koninkrijk</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-blauwe-bessen-dreigen-duurder-te-worden-in-het-verenigd-koninkrijk-1793027053057.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-luchthavens-verwerken-29-3-miljoen-reizigers-groei-van-8-7-procent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:30:19.645Z</news:publication_date>
+      <news:title>Marokkaanse luchthavens verwerken 29,3 miljoen reizigers, groei van 8,7 procent</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-luchthavens-verwerken-29-3-miljoen-reizigers-groei-van-8-7-procent-1793025916252.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/lied-vraagt-aandacht-voor-antonio-alonso-spaanse-gevangene-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:29:15.922Z</news:publication_date>
+      <news:title>Lied vraagt aandacht voor Antonio Alonso, Spaanse gevangene in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lied-vraagt-aandacht-voor-antonio-alonso-spaanse-gevangene-in-marokko-1793027013920.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-ophef-over-uitkeringen-marokkaans-gezin-na-uithuiszetting-in-vitoria</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:10:18.799Z</news:publication_date>
+      <news:title>Spanje: ophef over uitkeringen Marokkaans gezin na uithuiszetting in Vitoria</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-ophef-over-uitkeringen-marokkaans-gezin-na-uithuiszetting-in-vitoria-1793025879432.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/difterie-weer-opgedoken-in-marokko-na-dertig-jaar-wat-je-moet-weten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T15:09:14.967Z</news:publication_date>
+      <news:title>Difterie weer opgedoken in Marokko na dertig jaar: wat je moet weten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-weer-opgedoken-in-marokko-na-dertig-jaar-wat-je-moet-weten-1793026975609.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ryanair-opent-acht-nieuwe-winterroutes-vanuit-agadir-marrakech-en-rabat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T14:50:17.774Z</news:publication_date>
+      <news:title>Ryanair opent acht nieuwe winterroutes vanuit Agadir, Marrakech en Rabat</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ryanair-opent-acht-nieuwe-winterroutes-vanuit-agadir-marrakech-en-rabat-1793025842395.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/baouf-en-el-arguioui-scoren-bij-ruime-zege-cambuur-op-willem-ii-6-1</loc>
     <news:news>
       <news:publication>
@@ -289,77 +373,5 @@
       <news:title>Uitslag Union Touarga-Wydad: Casablanca wint met 1-0 in de Botola</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitslag-union-touarga-wydad-casablanca-wint-met-1-0-in-de-botola-1792876917598.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/moustapha-souafi-de-belgisch-marokkaanse-influencer-die-viraal-gaat-met-zijn-oma</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T18:45:39.222Z</news:publication_date>
-      <news:title>Moustapha Souafi, de Belgisch-Marokkaanse influencer die viraal gaat met zijn oma &apos;Mi&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/moustapha-souafi-de-belgisch-marokkaanse-influencer-die-viraal-gaat-met-zijn-oma-1792867202660.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vijf-vissers-vermist-voor-de-kust-van-safi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T18:42:40.063Z</news:publication_date>
-      <news:title>Vijf vissers vermist voor de kust van Safi</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vijf-vissers-vermist-voor-de-kust-van-safi-1792867238140.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/veestapel-in-marokko-nog-niet-hersteld-experts-waarschuwen-voor-aanhoudend-tekor</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T17:10:38.147Z</news:publication_date>
-      <news:title>Veestapel in Marokko nog niet hersteld: experts waarschuwen voor aanhoudend tekort</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/veestapel-in-marokko-nog-niet-hersteld-experts-waarschuwen-voor-aanhoudend-tekor-1792859135167.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/begroting-2027-marokko-34-454-nieuwe-overheidsbanen-gepland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T16:50:37.366Z</news:publication_date>
-      <news:title>Begroting 2027 Marokko: 34.454 nieuwe overheidsbanen gepland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/begroting-2027-marokko-34-454-nieuwe-overheidsbanen-gepland-1792859099725.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vn-stemming-over-de-sahara-hoe-liggen-de-verhoudingen-in-de-veiligheidsraad</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T16:30:36.452Z</news:publication_date>
-      <news:title>VN-stemming over de Sahara: hoe liggen de verhoudingen in de Veiligheidsraad?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vn-stemming-over-de-sahara-hoe-liggen-de-verhoudingen-in-de-veiligheidsraad-1792859063424.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-rekent-in-2027-op-195-miljoen-dirham-uit-gokken-en-weddenschappen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T14:29:38.485Z</news:publication_date>
-      <news:title>Marokko rekent in 2027 op 195 miljoen dirham uit gokken en weddenschappen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-rekent-in-2027-op-195-miljoen-dirham-uit-gokken-en-weddenschappen-1792850643231.jpg</image:loc></image:image>
   </url>
 </urlset>
