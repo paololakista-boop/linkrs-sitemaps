@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schaft-inkomstenbelasting-af-op-lonen-onder-10-000-dirham-vanaf-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T22:28:03.763Z</news:publication_date>
+      <news:title>Marokko schaft inkomstenbelasting af op lonen onder 10.000 dirham vanaf 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-schaft-inkomstenbelasting-af-op-lonen-onder-10-000-dirham-vanaf-2027-1792966982615.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/maghreb-fez-stoot-door-naar-groepsfase-caf-champions-league-na-late-zege-tegen-a</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T22:08:13.286Z</news:publication_date>
+      <news:title>Maghreb Fez stoot door naar groepsfase CAF Champions League na late zege tegen ASEC Mimosas</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/maghreb-fez-stoot-door-naar-groepsfase-caf-champions-league-na-late-zege-tegen-a-1792963389968.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-verdubbelt-taks-op-e-sigaretten-in-2027-ook-gewone-sigaretten-duurder</loc>
     <news:news>
       <news:publication>
@@ -385,65 +409,5 @@
       <news:title>Vogel die uit Spanje verdween keert terug dankzij Marokko: zes kuikens geboren</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vogel-die-uit-spanje-verdween-keert-terug-dankzij-marokko-zes-kuikens-geboren-1792821758009.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/boualem-sansal-noemt-algerijnse-steden-marokkaans-en-daagt-president-tebboune-ui</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:48:54.999Z</news:publication_date>
-      <news:title>Boualem Sansal noemt Algerijnse steden Marokkaans en daagt president Tebboune uit</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/boualem-sansal-noemt-algerijnse-steden-marokkaans-en-daagt-president-tebboune-ui-1792793031901.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/meisje-13-verdronken-in-waterbassin-in-bab-berred-familie-eist-onderzoek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:34:56.258Z</news:publication_date>
-      <news:title>Meisje (13) verdronken in waterbassin in Bab Berred: familie eist onderzoek</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meisje-13-verdronken-in-waterbassin-in-bab-berred-familie-eist-onderzoek-1792792188518.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rundvleesimport-marokko-invoerplafond-voor-2026-al-bereikt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:28:54.195Z</news:publication_date>
-      <news:title>Rundvleesimport Marokko: invoerplafond voor 2026 al bereikt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rundvleesimport-marokko-invoerplafond-voor-2026-al-bereikt-1792792993710.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ali-lmrabet-onder-vuur-activisten-verwijten-hem-slachtofferrol-en-complotverhale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:14:55.327Z</news:publication_date>
-      <news:title>Ali Lmrabet onder vuur: activisten verwijten hem slachtofferrol en complotverhalen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ali-lmrabet-onder-vuur-activisten-verwijten-hem-slachtofferrol-en-complotverhale-1792792151635.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/noodkreet-om-marokkaanse-dichter-abderrahim-essayel-te-redden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T22:08:53.123Z</news:publication_date>
-      <news:title>Noodkreet om Marokkaanse dichter Abderrahim Essayel te redden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/noodkreet-om-marokkaanse-dichter-abderrahim-essayel-te-redden-1792792957875.jpg</image:loc></image:image>
   </url>
 </urlset>
