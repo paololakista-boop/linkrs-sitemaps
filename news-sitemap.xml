@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/baouf-en-el-arguioui-scoren-bij-ruime-zege-cambuur-op-willem-ii-6-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T07:48:37.774Z</news:publication_date>
+      <news:title>Baouf en El Arguioui scoren bij ruime zege Cambuur op Willem II (6-1)</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/baouf-en-el-arguioui-scoren-bij-ruime-zege-cambuur-op-willem-ii-6-1-1792998214860.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-hoop-op-evacuatie-van-marokkanen-die-vastzitten-in-gaza</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T07:34:25.821Z</news:publication_date>
+      <news:title>Nieuwe hoop op evacuatie van Marokkanen die vastzitten in Gaza</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-hoop-op-evacuatie-van-marokkanen-die-vastzitten-in-gaza-1792999944335.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hamza-igamane-keert-in-december-terug-na-zware-knieblessure</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T07:28:36.949Z</news:publication_date>
+      <news:title>Hamza Igamane keert in december terug na zware knieblessure</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hamza-igamane-keert-in-december-terug-na-zware-knieblessure-1792998185323.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wisselkoers-euro-dirham-dirham-wint-licht-terrein-tegen-dollar-en-euro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T07:08:35.888Z</news:publication_date>
+      <news:title>Wisselkoers euro-dirham: dirham wint licht terrein tegen dollar en euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoers-euro-dirham-dirham-wint-licht-terrein-tegen-dollar-en-euro-1792998153870.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-schaft-inkomstenbelasting-af-op-lonen-onder-10-000-dirham-vanaf-2027</loc>
     <news:news>
       <news:publication>
@@ -313,89 +361,5 @@
       <news:title>Marokko rekent in 2027 op 195 miljoen dirham uit gokken en weddenschappen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-rekent-in-2027-op-195-miljoen-dirham-uit-gokken-en-weddenschappen-1792850643231.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/uitslag-marokko-filipijnen-atlasleeuwjes-winnen-wk-onder-15-met-2-0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T14:09:37.552Z</news:publication_date>
-      <news:title>Uitslag Marokko-Filipijnen: Atlasleeuwjes winnen WK onder 15 met 2-0</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitslag-marokko-filipijnen-atlasleeuwjes-winnen-wk-onder-15-met-2-0-1792850603759.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/franse-rechter-spreekt-man-vrij-na-doodsbedreigingen-aan-koning-mohammed-vi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T13:09:40.494Z</news:publication_date>
-      <news:title>Franse rechter spreekt man vrij na doodsbedreigingen aan koning Mohammed VI</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-rechter-spreekt-man-vrij-na-doodsbedreigingen-aan-koning-mohammed-vi-1792844677236.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-regering-onder-fatima-zahra-el-mansouri-moet-investeringen-omzetten-in-ba</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T12:49:39.585Z</news:publication_date>
-      <news:title>Nieuwe regering onder Fatima Zahra El Mansouri moet investeringen omzetten in banen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-regering-onder-fatima-zahra-el-mansouri-moet-investeringen-omzetten-in-ba-1792844644811.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verhoogt-belasting-op-luxeauto-s-in-begroting-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T12:29:38.693Z</news:publication_date>
-      <news:title>Marokko verhoogt belasting op luxeauto&apos;s in begroting 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verhoogt-belasting-op-luxeauto-s-in-begroting-2027-1792844599248.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verlaagt-prijs-van-honderden-medicijnen-ook-kankerbehandelingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T12:22:51.311Z</news:publication_date>
-      <news:title>Marokko verlaagt prijs van honderden medicijnen, ook kankerbehandelingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verlaagt-prijs-van-honderden-medicijnen-ook-kankerbehandelingen-1792843069058.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-krijgen-meeste-italiaanse-verblijfsvergunningen-van-alle-niet-eu-ers-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T12:02:50.375Z</news:publication_date>
-      <news:title>Marokkanen krijgen meeste Italiaanse verblijfsvergunningen van alle niet-EU&apos;ers in 2025</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-krijgen-meeste-italiaanse-verblijfsvergunningen-van-alle-niet-eu-ers--1792843033306.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/geestelijke-gezondheid-in-marokko-6-5-miljoen-getroffen-85-procent-zonder-goede-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T06:28:17.332Z</news:publication_date>
-      <news:title>Geestelijke gezondheid in Marokko: 6,5 miljoen getroffen, 85 procent zonder goede zorg</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/geestelijke-gezondheid-in-marokko-6-5-miljoen-getroffen-85-procent-zonder-goede--1792821795237.jpg</image:loc></image:image>
   </url>
 </urlset>
