@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gemiddeld-nettoloon-in-marokkaanse-ambtenarij-stijgt-naar-10-732-dirham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:49:30.234Z</news:publication_date>
+      <news:title>Gemiddeld nettoloon in Marokkaanse ambtenarij stijgt naar 10.732 dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gemiddeld-nettoloon-in-marokkaanse-ambtenarij-stijgt-naar-10-732-dirham-1793113467026.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-minister-miraoui-onder-vuur-om-uitspraak-in-parlement</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:29:29.488Z</news:publication_date>
+      <news:title>Marokkaanse minister Miraoui onder vuur om uitspraak in parlement</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-minister-miraoui-onder-vuur-om-uitspraak-in-parlement-1793113432603.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/el-moreno-opgepakt-in-marokko-spaanse-hasjbaron-ingerekend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T15:09:28.223Z</news:publication_date>
+      <news:title>&apos;El Moreno&apos; opgepakt in Marokko: Spaanse hasjbaron ingerekend</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/el-moreno-opgepakt-in-marokko-spaanse-hasjbaron-ingerekend-1793113389377.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-stoot-zuid-afrika-voorbij-als-investeringsbestemming-in-afrika</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:35:27.346Z</news:publication_date>
+      <news:title>Marokko stoot Zuid-Afrika voorbij als investeringsbestemming in Afrika</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-stoot-zuid-afrika-voorbij-als-investeringsbestemming-in-afrika-1793109024554.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouwen-leiden-amper-15-6-van-de-marokkaanse-bedrijven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T14:15:26.585Z</news:publication_date>
+      <news:title>Vrouwen leiden amper 15,6% van de Marokkaanse bedrijven</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouwen-leiden-amper-15-6-van-de-marokkaanse-bedrijven-1793108989821.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/youtuber-ben-nesnas-veroordeeld-drie-jaar-geen-content-maken-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T13:55:25.602Z</news:publication_date>
+      <news:title>YouTuber Ben Nesnas veroordeeld: drie jaar geen content maken in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/youtuber-ben-nesnas-veroordeeld-drie-jaar-geen-content-maken-in-marokko-1793108951932.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wederopbouw-na-aardbeving-al-haouz-dit-staat-erover-in-de-marokkaanse-begroting-</loc>
     <news:news>
       <news:publication>
@@ -289,101 +361,5 @@
       <news:title>Marokko goed vertegenwoordigd bij Gouden Bal: Hakimi, Bounou en Bouaddi genomineerd</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-goed-vertegenwoordigd-bij-gouden-bal-hakimi-bounou-en-bouaddi-genomineer-1792963327198.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/coalitie-vraagt-heropening-samir-raffinaderij-en-prijsregulering-brandstof</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T17:42:56.756Z</news:publication_date>
-      <news:title>Coalitie vraagt heropening Samir-raffinaderij en prijsregulering brandstof</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/coalitie-vraagt-heropening-samir-raffinaderij-en-prijsregulering-brandstof-1792947473678.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-boekt-recordwinst-ondanks-miljardeninvesteringen-in-vloot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T17:22:55.904Z</news:publication_date>
-      <news:title>Royal Air Maroc boekt recordwinst ondanks miljardeninvesteringen in vloot</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-air-maroc-boekt-recordwinst-ondanks-miljardeninvesteringen-in-vloot-1792947437828.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-mikt-op-24-miljard-kubieke-meter-stuwmeercapaciteit-tegen-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T17:02:54.914Z</news:publication_date>
-      <news:title>Marokko mikt op 24 miljard kubieke meter stuwmeercapaciteit tegen 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-mikt-op-24-miljard-kubieke-meter-stuwmeercapaciteit-tegen-2027-1792947401958.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/netflix-filmt-derde-seizoen-van-the-gentlemen-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T15:49:15.605Z</news:publication_date>
-      <news:title>Netflix filmt derde seizoen van The Gentlemen in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/netflix-filmt-derde-seizoen-van-the-gentlemen-in-marokko-1792940649009.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zeevrachtreuzen-rekenen-marokkaanse-importeurs-meer-aan-dan-europeanen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T15:09:09.985Z</news:publication_date>
-      <news:title>Zeevrachtreuzen rekenen Marokkaanse importeurs meer aan dan Europeanen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zeevrachtreuzen-rekenen-marokkaanse-importeurs-meer-aan-dan-europeanen-1792940578735.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-geeft-fifa-speciaal-belastingregime-voor-wk-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T15:00:48.116Z</news:publication_date>
-      <news:title>Marokko geeft FIFA speciaal belastingregime voor WK 2030</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-geeft-fifa-speciaal-belastingregime-voor-wk-2030-1792940146026.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-hajar-29-dood-teruggevonden-in-koffer-in-amsterdam</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T14:57:47.043Z</news:publication_date>
-      <news:title>Marokkaanse Hajar (29) dood teruggevonden in koffer in Amsterdam</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-hajar-29-dood-teruggevonden-in-koffer-in-amsterdam-1792940112316.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/yassine-zabiri-schittert-in-la-liga-en-droomt-van-barcelona</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T13:39:34.655Z</news:publication_date>
-      <news:title>Yassine Zabiri schittert in La Liga en droomt van Barcelona</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassine-zabiri-schittert-in-la-liga-en-droomt-van-barcelona-1792932870952.jpg</image:loc></image:image>
   </url>
 </urlset>
