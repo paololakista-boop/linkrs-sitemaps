@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-marokkaanse-ramadanserie-alach-la-van-mourad-el-khoudi-over-kinderontvoer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T06:09:26.358Z</news:publication_date>
+      <news:title>Nieuwe Marokkaanse ramadanserie &apos;Alach La&apos; van Mourad El Khoudi over kinderontvoering</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-marokkaanse-ramadanserie-alach-la-van-mourad-el-khoudi-over-kinderontvoer-1793081062654.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/gewapende-overval-op-geldkantoor-in-tanger-dieven-buitmaken-16-000-dirham</loc>
     <news:news>
       <news:publication>
