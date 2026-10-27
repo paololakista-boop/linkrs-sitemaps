@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wederopbouw-na-aardbeving-al-haouz-dit-staat-erover-in-de-marokkaanse-begroting-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T07:28:26.001Z</news:publication_date>
+      <news:title>Wederopbouw na aardbeving Al Haouz: dit staat erover in de Marokkaanse begroting voor 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wederopbouw-na-aardbeving-al-haouz-dit-staat-erover-in-de-marokkaanse-begroting--1793084603984.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-in-miami-eerste-editie-viert-marokkaanse-cultuur-en-handel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T07:08:25.143Z</news:publication_date>
+      <news:title>Marokko in Miami: eerste editie viert Marokkaanse cultuur en handel</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-in-miami-eerste-editie-viert-marokkaanse-cultuur-en-handel-1793084563544.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-marokkaanse-ramadanserie-alach-la-van-mourad-el-khoudi-over-kinderontvoer</loc>
     <news:news>
       <news:publication>
@@ -361,65 +385,5 @@
       <news:title>Yassine Zabiri schittert in La Liga en droomt van Barcelona</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassine-zabiri-schittert-in-la-liga-en-droomt-van-barcelona-1792932870952.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-importheffing-van-5-in-marokko-wakkert-vrees-voor-prijsstijgingen-aan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T13:19:33.728Z</news:publication_date>
-      <news:title>Nieuwe importheffing van 5% in Marokko wakkert vrees voor prijsstijgingen aan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-importheffing-van-5-in-marokko-wakkert-vrees-voor-prijsstijgingen-aan-1792932826462.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/italie-zet-marokkaanse-man-uit-na-celstraf-voor-dodelijke-steekpartij</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T12:59:32.474Z</news:publication_date>
-      <news:title>Italië zet Marokkaanse man uit na celstraf voor dodelijke steekpartij</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italie-zet-marokkaanse-man-uit-na-celstraf-voor-dodelijke-steekpartij-1792932789982.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-moskeeen-in-marokko-krijgen-verplicht-grotere-gebedsruimte-voor-vrouwen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T07:49:09.704Z</news:publication_date>
-      <news:title>Nieuwe moskeeën in Marokko krijgen verplicht grotere gebedsruimte voor vrouwen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-moskeeen-in-marokko-krijgen-verplicht-grotere-gebedsruimte-voor-vrouwen-1792911846646.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-visserijminister-mezouari-staat-voor-loodzware-dossiers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T07:29:08.928Z</news:publication_date>
-      <news:title>Nieuwe visserijminister Mezouari staat voor loodzware dossiers</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-visserijminister-mezouari-staat-voor-loodzware-dossiers-1792911805401.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-kmo-s-goed-voor-22-miljard-dollar-extra-groei-zegt-expothon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T07:09:07.938Z</news:publication_date>
-      <news:title>Marokkaanse kmo&apos;s goed voor 22 miljard dollar extra groei, zegt Expothon</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-kmo-s-goed-voor-22-miljard-dollar-extra-groei-zegt-expothon-1792911760456.jpg</image:loc></image:image>
   </url>
 </urlset>
