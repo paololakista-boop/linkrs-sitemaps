@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gewapende-overval-op-geldkantoor-in-tanger-dieven-buitmaken-16-000-dirham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T00:19:33.212Z</news:publication_date>
+      <news:title>Gewapende overval op geldkantoor in Tanger: dieven buitmaken 16.000 dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gewapende-overval-op-geldkantoor-in-tanger-dieven-buitmaken-16-000-dirham-1793060252001.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vivas-beschuldigt-marokko-in-spaanse-tv-show-van-bestorming-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T23:44:51.565Z</news:publication_date>
+      <news:title>Vivas beschuldigt Marokko in Spaanse tv-show van bestorming Ceuta</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vivas-beschuldigt-marokko-in-spaanse-tv-show-van-bestorming-ceuta-1793055588052.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/de-verrassende-geschiedenis-van-marokkaanse-joden-in-het-amazonegebied</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T23:24:50.716Z</news:publication_date>
+      <news:title>De verrassende geschiedenis van Marokkaanse Joden in het Amazonegebied</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-verrassende-geschiedenis-van-marokkaanse-joden-in-het-amazonegebied-1793055550277.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/het-monster-van-casablanca-de-seriemoordenaar-die-kinderen-ontvoerde-en-losgeld-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T23:04:49.590Z</news:publication_date>
+      <news:title>Het Monster van Casablanca: de seriemoordenaar die kinderen ontvoerde en losgeld eiste</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/het-monster-van-casablanca-de-seriemoordenaar-die-kinderen-ontvoerde-en-losgeld--1793055516496.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-kampt-met-tekort-van-400-000-studentenbedden-huren-rijzen-de-pan-uit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:22:34.223Z</news:publication_date>
+      <news:title>Marokko kampt met tekort van 400.000 studentenbedden, huren rijzen de pan uit</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-kampt-met-tekort-van-400-000-studentenbedden-huren-rijzen-de-pan-uit-1793048251805.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/onmt-trekt-in-2027-ruim-2-21-miljard-dirham-uit-voor-marokkaans-toerisme</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T21:02:33.008Z</news:publication_date>
+      <news:title>ONMT trekt in 2027 ruim 2,21 miljard dirham uit voor Marokkaans toerisme</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onmt-trekt-in-2027-ruim-2-21-miljard-dirham-uit-voor-marokkaans-toerisme-1793048215679.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/tweedehandsauto-in-marokko-narsa-maakt-overschrijven-makkelijker</loc>
     <news:news>
       <news:publication>
@@ -337,41 +409,5 @@
       <news:title>Marokkaanse kmo&apos;s goed voor 22 miljard dollar extra groei, zegt Expothon</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-kmo-s-goed-voor-22-miljard-dollar-extra-groei-zegt-expothon-1792911760456.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-staatsschuld-nadert-1-2-biljoen-dirham-rente-kost-45-miljard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T22:08:19.771Z</news:publication_date>
-      <news:title>Marokkaanse staatsschuld nadert 1,2 biljoen dirham, rente kost 45 miljard</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-staatsschuld-nadert-1-2-biljoen-dirham-rente-kost-45-miljard-1792876995885.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vn-prijst-gaspijplijn-marokko-nigeria-als-strategische-as-voor-afrika</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T21:48:18.964Z</news:publication_date>
-      <news:title>VN prijst gaspijplijn Marokko-Nigeria als strategische as voor Afrika</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vn-prijst-gaspijplijn-marokko-nigeria-als-strategische-as-voor-afrika-1792876956241.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/uitslag-union-touarga-wydad-casablanca-wint-met-1-0-in-de-botola</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T21:28:17.922Z</news:publication_date>
-      <news:title>Uitslag Union Touarga-Wydad: Casablanca wint met 1-0 in de Botola</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitslag-union-touarga-wydad-casablanca-wint-met-1-0-in-de-botola-1792876917598.jpg</image:loc></image:image>
   </url>
 </urlset>
