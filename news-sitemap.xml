@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ongeval-in-marokko-verzekeringsgeld-kan-rechtstreeks-naar-je-rekening-in-nederla</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T18:50:50.235Z</news:publication_date>
+      <news:title>Ongeval in Marokko: verzekeringsgeld kan rechtstreeks naar je rekening in Nederland of België</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ongeval-in-marokko-verzekeringsgeld-kan-rechtstreeks-naar-je-rekening-in-nederla-1793213115081.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-directe-vlucht-frankfurt-agadir-van-discover-airlines-van-start</loc>
     <news:news>
       <news:publication>
@@ -313,89 +325,5 @@
       <news:title>ONMT trekt in 2027 ruim 2,21 miljard dirham uit voor Marokkaans toerisme</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onmt-trekt-in-2027-ruim-2-21-miljard-dirham-uit-voor-marokkaans-toerisme-1793048215679.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tweedehandsauto-in-marokko-narsa-maakt-overschrijven-makkelijker</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T16:03:30.969Z</news:publication_date>
-      <news:title>Tweedehandsauto in Marokko: NARSA maakt overschrijven makkelijker</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tweedehandsauto-in-marokko-narsa-maakt-overschrijven-makkelijker-1793030267306.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-blauwe-bessen-dreigen-duurder-te-worden-in-het-verenigd-koninkrijk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T15:49:16.721Z</news:publication_date>
-      <news:title>Marokkaanse blauwe bessen dreigen duurder te worden in het Verenigd Koninkrijk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-blauwe-bessen-dreigen-duurder-te-worden-in-het-verenigd-koninkrijk-1793027053057.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-luchthavens-verwerken-29-3-miljoen-reizigers-groei-van-8-7-procent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T15:30:19.645Z</news:publication_date>
-      <news:title>Marokkaanse luchthavens verwerken 29,3 miljoen reizigers, groei van 8,7 procent</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-luchthavens-verwerken-29-3-miljoen-reizigers-groei-van-8-7-procent-1793025916252.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/lied-vraagt-aandacht-voor-antonio-alonso-spaanse-gevangene-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T15:29:15.922Z</news:publication_date>
-      <news:title>Lied vraagt aandacht voor Antonio Alonso, Spaanse gevangene in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lied-vraagt-aandacht-voor-antonio-alonso-spaanse-gevangene-in-marokko-1793027013920.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-ophef-over-uitkeringen-marokkaans-gezin-na-uithuiszetting-in-vitoria</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T15:10:18.799Z</news:publication_date>
-      <news:title>Spanje: ophef over uitkeringen Marokkaans gezin na uithuiszetting in Vitoria</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-ophef-over-uitkeringen-marokkaans-gezin-na-uithuiszetting-in-vitoria-1793025879432.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/difterie-weer-opgedoken-in-marokko-na-dertig-jaar-wat-je-moet-weten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T15:09:14.967Z</news:publication_date>
-      <news:title>Difterie weer opgedoken in Marokko na dertig jaar: wat je moet weten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-weer-opgedoken-in-marokko-na-dertig-jaar-wat-je-moet-weten-1793026975609.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ryanair-opent-acht-nieuwe-winterroutes-vanuit-agadir-marrakech-en-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T14:50:17.774Z</news:publication_date>
-      <news:title>Ryanair opent acht nieuwe winterroutes vanuit Agadir, Marrakech en Rabat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ryanair-opent-acht-nieuwe-winterroutes-vanuit-agadir-marrakech-en-rabat-1793025842395.jpg</image:loc></image:image>
   </url>
 </urlset>
