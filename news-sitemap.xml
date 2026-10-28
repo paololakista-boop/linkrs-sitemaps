@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verwacht-480-000-nieuwe-eigendomstitels-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T00:03:01.804Z</news:publication_date>
+      <news:title>Marokko verwacht 480.000 nieuwe eigendomstitels in 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verwacht-480-000-nieuwe-eigendomstitels-in-2026-1793144279047.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/oncf-mikt-op-100-miljoen-treinreizigers-in-marokko-tegen-2030</loc>
     <news:news>
       <news:publication>
