@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/samira-said-viert-bruiloft-van-zoon-chadi-in-rabat-en-pakt-zelf-de-microfoon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:37:37.743Z</news:publication_date>
+      <news:title>Samira Said viert bruiloft van zoon Chadi in Rabat en pakt zelf de microfoon</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/samira-said-viert-bruiloft-van-zoon-chadi-in-rabat-en-pakt-zelf-de-microfoon-1793223156721.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-en-vs-lanceren-route-250-digitale-bijscholing-voor-leraren</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T21:18:58.108Z</news:publication_date>
+      <news:title>Marokko en VS lanceren Route 250: digitale bijscholing voor leraren</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-en-vs-lanceren-route-250-digitale-bijscholing-voor-leraren-1793219634901.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-ontvangt-derde-levering-apache-gevechtshelikopters-uit-vs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T20:58:57.288Z</news:publication_date>
+      <news:title>Marokko ontvangt derde levering Apache-gevechtshelikopters uit VS</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-ontvangt-derde-levering-apache-gevechtshelikopters-uit-vs-1793219601185.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-gewond-door-paard-in-italiaanse-manege-werk-of-terug-naar-huis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T20:38:56.237Z</news:publication_date>
+      <news:title>Marokkaan gewond door paard in Italiaanse manege: werk of terug naar huis</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-gewond-door-paard-in-italiaanse-manege-werk-of-terug-naar-huis-1793219577119.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tweeling-el-guerrouni-wint-hyrox-abu-dhabi-onder-marokkaanse-vlag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T20:19:16.709Z</news:publication_date>
+      <news:title>Tweeling El Guerrouni wint HYROX Abu Dhabi onder Marokkaanse vlag</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tweeling-el-guerrouni-wint-hyrox-abu-dhabi-onder-marokkaanse-vlag-1793216052844.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u15-wint-met-4-1-van-kameroen-en-bereikt-achtste-finales-wk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:59:15.768Z</news:publication_date>
+      <news:title>Marokko U15 wint met 4-1 van Kameroen en bereikt achtste finales WK</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u15-wint-met-4-1-van-kameroen-en-bereikt-achtste-finales-wk-1793216022708.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-buigt-zich-over-havens-nador-west-med-en-tanger-med-3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:44:34.680Z</news:publication_date>
+      <news:title>Koning Mohammed VI buigt zich over havens Nador West Med en Tanger Med 3</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-buigt-zich-over-havens-nador-west-med-en-tanger-med-3-1793213970720.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nike-distributeur-opent-logistiek-centrum-in-tanger-voor-heel-afrika</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:39:14.350Z</news:publication_date>
+      <news:title>Nike-distributeur opent logistiek centrum in Tanger voor heel Afrika</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nike-distributeur-opent-logistiek-centrum-in-tanger-voor-heel-afrika-1793215994934.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-noord-korea-op-wk-onder-17-hoe-laat-kijken-en-kans-op-revanche</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:24:33.810Z</news:publication_date>
+      <news:title>Marokko-Noord-Korea op WK onder 17: hoe laat kijken en kans op revanche</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-noord-korea-op-wk-onder-17-hoe-laat-kijken-en-kans-op-revanche-1793213943368.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/karim-kreeg-te-laag-schooladvies-nu-staat-hij-zelf-voor-de-klas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:10:51.454Z</news:publication_date>
+      <news:title>Karim kreeg te laag schooladvies, nu staat hij zelf voor de klas</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/karim-kreeg-te-laag-schooladvies-nu-staat-hij-zelf-voor-de-klas-1793213149120.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-start-overleg-met-partijen-over-verkiezingen-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:04:33.031Z</news:publication_date>
+      <news:title>Marokko start overleg met partijen over verkiezingen in 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-start-overleg-met-partijen-over-verkiezingen-in-2027-1793213897369.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/drie-verdachten-aangeklaagd-na-video-van-man-vastgebonden-aan-boom-in-sidi-kacem</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T19:01:32.026Z</news:publication_date>
+      <news:title>Drie verdachten aangeklaagd na video van man vastgebonden aan boom in Sidi Kacem</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drie-verdachten-aangeklaagd-na-video-van-man-vastgebonden-aan-boom-in-sidi-kacem-1793213872654.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ongeval-in-marokko-verzekeringsgeld-kan-rechtstreeks-naar-je-rekening-in-nederla</loc>
     <news:news>
       <news:publication>
@@ -289,41 +433,5 @@
       <news:title>De verrassende geschiedenis van Marokkaanse Joden in het Amazonegebied</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-verrassende-geschiedenis-van-marokkaanse-joden-in-het-amazonegebied-1793055550277.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/het-monster-van-casablanca-de-seriemoordenaar-die-kinderen-ontvoerde-en-losgeld-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T23:04:49.590Z</news:publication_date>
-      <news:title>Het Monster van Casablanca: de seriemoordenaar die kinderen ontvoerde en losgeld eiste</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/het-monster-van-casablanca-de-seriemoordenaar-die-kinderen-ontvoerde-en-losgeld--1793055516496.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-kampt-met-tekort-van-400-000-studentenbedden-huren-rijzen-de-pan-uit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T21:22:34.223Z</news:publication_date>
-      <news:title>Marokko kampt met tekort van 400.000 studentenbedden, huren rijzen de pan uit</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-kampt-met-tekort-van-400-000-studentenbedden-huren-rijzen-de-pan-uit-1793048251805.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/onmt-trekt-in-2027-ruim-2-21-miljard-dirham-uit-voor-marokkaans-toerisme</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T21:02:33.008Z</news:publication_date>
-      <news:title>ONMT trekt in 2027 ruim 2,21 miljard dirham uit voor Marokkaans toerisme</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onmt-trekt-in-2027-ruim-2-21-miljard-dirham-uit-voor-marokkaans-toerisme-1793048215679.jpg</image:loc></image:image>
   </url>
 </urlset>
