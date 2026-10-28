@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-directe-vlucht-frankfurt-agadir-van-discover-airlines-van-start</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:31:13.004Z</news:publication_date>
+      <news:title>Nieuwe directe vlucht Frankfurt-Agadir van Discover Airlines van start</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-directe-vlucht-frankfurt-agadir-van-discover-airlines-van-start-1793185570881.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/azzedine-ounahi-geblesseerd-operatie-nodig-zorgen-bij-de-atlasleeuwen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T11:11:11.724Z</news:publication_date>
+      <news:title>Azzedine Ounahi geblesseerd: operatie nodig, zorgen bij de Atlasleeuwen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/azzedine-ounahi-geblesseerd-operatie-nodig-zorgen-bij-de-atlasleeuwen-1793185532852.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schrapt-22-315-opsporingsberichten-voor-gijzeling-om-schulden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T07:29:28.392Z</news:publication_date>
+      <news:title>Marokko schrapt 22.315 opsporingsberichten voor gijzeling om schulden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-schrapt-22-315-opsporingsberichten-voor-gijzeling-om-schulden-1793171021823.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-makaken-plunderen-boomgaarden-en-krijgen-meer-jongen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T07:09:27.179Z</news:publication_date>
+      <news:title>Marokkaanse makaken plunderen boomgaarden en krijgen meer jongen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-makaken-plunderen-boomgaarden-en-krijgen-meer-jongen-1793170986514.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-verwacht-480-000-nieuwe-eigendomstitels-in-2026</loc>
     <news:news>
       <news:publication>
@@ -349,53 +397,5 @@
       <news:title>Ryanair opent acht nieuwe winterroutes vanuit Agadir, Marrakech en Rabat</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ryanair-opent-acht-nieuwe-winterroutes-vanuit-agadir-marrakech-en-rabat-1793025842395.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/baouf-en-el-arguioui-scoren-bij-ruime-zege-cambuur-op-willem-ii-6-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T07:48:37.774Z</news:publication_date>
-      <news:title>Baouf en El Arguioui scoren bij ruime zege Cambuur op Willem II (6-1)</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/baouf-en-el-arguioui-scoren-bij-ruime-zege-cambuur-op-willem-ii-6-1-1792998214860.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-hoop-op-evacuatie-van-marokkanen-die-vastzitten-in-gaza</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T07:34:25.821Z</news:publication_date>
-      <news:title>Nieuwe hoop op evacuatie van Marokkanen die vastzitten in Gaza</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-hoop-op-evacuatie-van-marokkanen-die-vastzitten-in-gaza-1792999944335.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hamza-igamane-keert-in-december-terug-na-zware-knieblessure</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T07:28:36.949Z</news:publication_date>
-      <news:title>Hamza Igamane keert in december terug na zware knieblessure</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hamza-igamane-keert-in-december-terug-na-zware-knieblessure-1792998185323.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wisselkoers-euro-dirham-dirham-wint-licht-terrein-tegen-dollar-en-euro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T07:08:35.888Z</news:publication_date>
-      <news:title>Wisselkoers euro-dirham: dirham wint licht terrein tegen dollar en euro</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoers-euro-dirham-dirham-wint-licht-terrein-tegen-dollar-en-euro-1792998153870.jpg</image:loc></image:image>
   </url>
 </urlset>
