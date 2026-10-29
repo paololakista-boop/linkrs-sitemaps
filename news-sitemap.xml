@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-buschauffeur-105-dagen-onterecht-vast-krijgt-25-042-euro-van-franse-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T08:37:27.652Z</news:publication_date>
+      <news:title>Marokkaanse buschauffeur 105 dagen onterecht vast, krijgt 25.042 euro van Franse staat</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-buschauffeur-105-dagen-onterecht-vast-krijgt-25-042-euro-van-franse--1793262746877.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/100-000-euro-in-een-keer-naar-marokko-overmaken-mag-het-en-wat-doet-je-bank</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T07:37:39.666Z</news:publication_date>
+      <news:title>100.000 euro in één keer naar Marokko overmaken: mag het en wat doet je bank?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/100-000-euro-in-een-keer-naar-marokko-overmaken-mag-het-en-wat-doet-je-bank-1793259157055.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verhoogt-directe-sociale-steun-600-dirham-in-2027-1-000-dirham-in-2031</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T06:57:33.500Z</news:publication_date>
+      <news:title>Marokko verhoogt directe sociale steun: 600 dirham in 2027, 1.000 dirham in 2031</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verhoogt-directe-sociale-steun-600-dirham-in-2027-1-000-dirham-in-2031-1793255551950.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ridouan-taghi-mag-zoon-faissal-niet-zien-zelfs-geen-beeld-zonder-geluid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T06:37:32.689Z</news:publication_date>
+      <news:title>Ridouan Taghi mag zoon Faissal niet zien, zelfs geen beeld zonder geluid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ridouan-taghi-mag-zoon-faissal-niet-zien-zelfs-geen-beeld-zonder-geluid-1793255529863.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/samira-said-viert-bruiloft-van-zoon-chadi-in-rabat-en-pakt-zelf-de-microfoon</loc>
     <news:news>
       <news:publication>
@@ -361,41 +409,5 @@
       <news:title>YouTuber Ben Nesnas veroordeeld: drie jaar geen content maken in Marokko</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/youtuber-ben-nesnas-veroordeeld-drie-jaar-geen-content-maken-in-marokko-1793108951932.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wederopbouw-na-aardbeving-al-haouz-dit-staat-erover-in-de-marokkaanse-begroting-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T07:28:26.001Z</news:publication_date>
-      <news:title>Wederopbouw na aardbeving Al Haouz: dit staat erover in de Marokkaanse begroting voor 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wederopbouw-na-aardbeving-al-haouz-dit-staat-erover-in-de-marokkaanse-begroting--1793084603984.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-in-miami-eerste-editie-viert-marokkaanse-cultuur-en-handel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T07:08:25.143Z</news:publication_date>
-      <news:title>Marokko in Miami: eerste editie viert Marokkaanse cultuur en handel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-in-miami-eerste-editie-viert-marokkaanse-cultuur-en-handel-1793084563544.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-marokkaanse-ramadanserie-alach-la-van-mourad-el-khoudi-over-kinderontvoer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T06:09:26.358Z</news:publication_date>
-      <news:title>Nieuwe Marokkaanse ramadanserie &apos;Alach La&apos; van Mourad El Khoudi over kinderontvoering</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-marokkaanse-ramadanserie-alach-la-van-mourad-el-khoudi-over-kinderontvoer-1793081062654.jpg</image:loc></image:image>
   </url>
 </urlset>
