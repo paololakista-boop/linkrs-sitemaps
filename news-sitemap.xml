@@ -398,40 +398,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-marokkaanse-ramadanserie-alach-la-van-mourad-el-khoudi-over-kinderontvoer-1793081062654.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/gewapende-overval-op-geldkantoor-in-tanger-dieven-buitmaken-16-000-dirham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T00:19:33.212Z</news:publication_date>
-      <news:title>Gewapende overval op geldkantoor in Tanger: dieven buitmaken 16.000 dirham</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gewapende-overval-op-geldkantoor-in-tanger-dieven-buitmaken-16-000-dirham-1793060252001.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vivas-beschuldigt-marokko-in-spaanse-tv-show-van-bestorming-ceuta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T23:44:51.565Z</news:publication_date>
-      <news:title>Vivas beschuldigt Marokko in Spaanse tv-show van bestorming Ceuta</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vivas-beschuldigt-marokko-in-spaanse-tv-show-van-bestorming-ceuta-1793055588052.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/de-verrassende-geschiedenis-van-marokkaanse-joden-in-het-amazonegebied</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T23:24:50.716Z</news:publication_date>
-      <news:title>De verrassende geschiedenis van Marokkaanse Joden in het Amazonegebied</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/de-verrassende-geschiedenis-van-marokkaanse-joden-in-het-amazonegebied-1793055550277.jpg</image:loc></image:image>
-  </url>
 </urlset>
