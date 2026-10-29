@@ -32,6 +32,27 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/al-meer-dan-een-jaar-gezochte-marokkaan-opgepakt-in-tent-in-toscaans-bos</loc>
+    <lastmod>2026-10-29T19:37:13.101Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/al-meer-dan-een-jaar-gezochte-marokkaan-opgepakt-in-tent-in-toscaans-bos-1793302331946.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/meer-dan-170-bezwaren-tegen-uitslag-marokkaanse-parlementsverkiezingen</loc>
+    <lastmod>2026-10-29T18:37:51.363Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meer-dan-170-bezwaren-tegen-uitslag-marokkaanse-parlementsverkiezingen-1793298768824.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/adnane-abid-op-marokkaanse-voorlijst-belgie-belt-meteen-over-keuze</loc>
+    <lastmod>2026-10-29T17:37:24.142Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/adnane-abid-op-marokkaanse-voorlijst-belgie-belt-meteen-over-keuze-1793295142328.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/bouanou-hekelt-invoer-van-vee-prijzen-vlees-dalen-niet-voor-consument</loc>
     <lastmod>2026-10-29T16:37:32.053Z</lastmod>
     <changefreq>daily</changefreq>
@@ -861,7 +882,7 @@
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-sociale-media-verbieden-voor-kinderen-onder-15-jaar</loc>
     <lastmod>2026-10-22T19:11:45.861Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-sociale-media-verbieden-voor-kinderen-onder-15-jaar-1792695968523.jpg</image:loc></image:image>
   </url>
   <url>

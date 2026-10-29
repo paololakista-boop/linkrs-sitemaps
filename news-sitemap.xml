@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/al-meer-dan-een-jaar-gezochte-marokkaan-opgepakt-in-tent-in-toscaans-bos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T19:37:13.101Z</news:publication_date>
+      <news:title>Al meer dan een jaar gezochte Marokkaan opgepakt in tent in Toscaans bos</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/al-meer-dan-een-jaar-gezochte-marokkaan-opgepakt-in-tent-in-toscaans-bos-1793302331946.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/meer-dan-170-bezwaren-tegen-uitslag-marokkaanse-parlementsverkiezingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T18:37:51.363Z</news:publication_date>
+      <news:title>Meer dan 170 bezwaren tegen uitslag Marokkaanse parlementsverkiezingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meer-dan-170-bezwaren-tegen-uitslag-marokkaanse-parlementsverkiezingen-1793298768824.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/adnane-abid-op-marokkaanse-voorlijst-belgie-belt-meteen-over-keuze</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T17:37:24.142Z</news:publication_date>
+      <news:title>Adnane Abid op Marokkaanse voorlijst, België belt meteen over keuze</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/adnane-abid-op-marokkaanse-voorlijst-belgie-belt-meteen-over-keuze-1793295142328.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/bouanou-hekelt-invoer-van-vee-prijzen-vlees-dalen-niet-voor-consument</loc>
     <news:news>
       <news:publication>
