@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/van-150-euro-per-week-naar-transport-van-auto-s-van-4-miljoen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T19:37:49.835Z</news:publication_date>
+      <news:title>Van 150 euro per week naar transport van auto&apos;s van 4 miljoen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-150-euro-per-week-naar-transport-van-auto-s-van-4-miljoen-1793388768887.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nabil-doodgeschoten-in-saint-nicolas-bij-luik-verdachte-opgepakt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T18:57:51.058Z</news:publication_date>
+      <news:title>Nabil doodgeschoten in Saint-Nicolas bij Luik, verdachte opgepakt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nabil-doodgeschoten-in-saint-nicolas-bij-luik-verdachte-opgepakt-1793385169039.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rabat-zoekt-banden-met-marokkaanse-diaspora-via-conferentie-hem</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T18:37:50.096Z</news:publication_date>
+      <news:title>Rabat zoekt banden met Marokkaanse diaspora via conferentie HEM</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rabat-zoekt-banden-met-marokkaanse-diaspora-via-conferentie-hem-1793385144072.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bilal-chetouani-24-is-leraar-van-het-jaar-in-nederland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T16:37:19.447Z</news:publication_date>
+      <news:title>Bilal Chetouani (24) is Leraar van het Jaar in Nederland</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bilal-chetouani-24-is-leraar-van-het-jaar-in-nederland-1793377937941.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-u15-eindigt-13e-op-wk-na-3-1-tegen-egypte</loc>
     <news:news>
       <news:publication>
@@ -397,125 +445,5 @@
       <news:title>Marokko ontvangt derde levering Apache-gevechtshelikopters uit VS</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-ontvangt-derde-levering-apache-gevechtshelikopters-uit-vs-1793219601185.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-gewond-door-paard-in-italiaanse-manege-werk-of-terug-naar-huis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T20:38:56.237Z</news:publication_date>
-      <news:title>Marokkaan gewond door paard in Italiaanse manege: werk of terug naar huis</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-gewond-door-paard-in-italiaanse-manege-werk-of-terug-naar-huis-1793219577119.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tweeling-el-guerrouni-wint-hyrox-abu-dhabi-onder-marokkaanse-vlag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T20:19:16.709Z</news:publication_date>
-      <news:title>Tweeling El Guerrouni wint HYROX Abu Dhabi onder Marokkaanse vlag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tweeling-el-guerrouni-wint-hyrox-abu-dhabi-onder-marokkaanse-vlag-1793216052844.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u15-wint-met-4-1-van-kameroen-en-bereikt-achtste-finales-wk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:59:15.768Z</news:publication_date>
-      <news:title>Marokko U15 wint met 4-1 van Kameroen en bereikt achtste finales WK</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u15-wint-met-4-1-van-kameroen-en-bereikt-achtste-finales-wk-1793216022708.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-buigt-zich-over-havens-nador-west-med-en-tanger-med-3</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:44:34.680Z</news:publication_date>
-      <news:title>Koning Mohammed VI buigt zich over havens Nador West Med en Tanger Med 3</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-buigt-zich-over-havens-nador-west-med-en-tanger-med-3-1793213970720.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nike-distributeur-opent-logistiek-centrum-in-tanger-voor-heel-afrika</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:39:14.350Z</news:publication_date>
-      <news:title>Nike-distributeur opent logistiek centrum in Tanger voor heel Afrika</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nike-distributeur-opent-logistiek-centrum-in-tanger-voor-heel-afrika-1793215994934.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-noord-korea-op-wk-onder-17-hoe-laat-kijken-en-kans-op-revanche</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:24:33.810Z</news:publication_date>
-      <news:title>Marokko-Noord-Korea op WK onder 17: hoe laat kijken en kans op revanche</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-noord-korea-op-wk-onder-17-hoe-laat-kijken-en-kans-op-revanche-1793213943368.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/karim-kreeg-te-laag-schooladvies-nu-staat-hij-zelf-voor-de-klas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:10:51.454Z</news:publication_date>
-      <news:title>Karim kreeg te laag schooladvies, nu staat hij zelf voor de klas</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/karim-kreeg-te-laag-schooladvies-nu-staat-hij-zelf-voor-de-klas-1793213149120.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-start-overleg-met-partijen-over-verkiezingen-in-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:04:33.031Z</news:publication_date>
-      <news:title>Marokko start overleg met partijen over verkiezingen in 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-start-overleg-met-partijen-over-verkiezingen-in-2027-1793213897369.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/drie-verdachten-aangeklaagd-na-video-van-man-vastgebonden-aan-boom-in-sidi-kacem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T19:01:32.026Z</news:publication_date>
-      <news:title>Drie verdachten aangeklaagd na video van man vastgebonden aan boom in Sidi Kacem</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drie-verdachten-aangeklaagd-na-video-van-man-vastgebonden-aan-boom-in-sidi-kacem-1793213872654.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ongeval-in-marokko-verzekeringsgeld-kan-rechtstreeks-naar-je-rekening-in-nederla</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T18:50:50.235Z</news:publication_date>
-      <news:title>Ongeval in Marokko: verzekeringsgeld kan rechtstreeks naar je rekening in Nederland of België</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ongeval-in-marokko-verzekeringsgeld-kan-rechtstreeks-naar-je-rekening-in-nederla-1793213115081.jpg</image:loc></image:image>
   </url>
 </urlset>
