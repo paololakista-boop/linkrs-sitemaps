@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u15-eindigt-13e-op-wk-na-3-1-tegen-egypte</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T15:08:11.553Z</news:publication_date>
+      <news:title>Marokko U15 eindigt 13e op WK na 3-1 tegen Egypte</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u15-eindigt-13e-op-wk-na-3-1-tegen-egypte-1793372590060.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verkiezingen-2027-in-marokko-partijen-moeten-voorstellen-voor-15-november-indien</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:49:09.046Z</news:publication_date>
+      <news:title>Verkiezingen 2027 in Marokko: partijen moeten voorstellen voor 15 november indienen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkiezingen-2027-in-marokko-partijen-moeten-voorstellen-voor-15-november-indien-1793371447731.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ouahbi-maakt-op-4-november-selectie-bekend-voor-dubbel-duel-met-niger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T14:37:36.053Z</news:publication_date>
+      <news:title>Ouahbi maakt op 4 november selectie bekend voor dubbel duel met Niger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ouahbi-maakt-op-4-november-selectie-bekend-voor-dubbel-duel-met-niger-1793370750515.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-leraar-moet-frankrijk-uit-na-ontslag-uit-marokkaans-onderwijs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:57:55.796Z</news:publication_date>
+      <news:title>Marokkaanse leraar moet Frankrijk uit na ontslag uit Marokkaans onderwijs</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-leraar-moet-frankrijk-uit-na-ontslag-uit-marokkaans-onderwijs-1793367173201.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/als-tiener-alleen-naar-italie-nu-heeft-momo-zijn-eigen-bedrijf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T13:37:54.471Z</news:publication_date>
+      <news:title>Als tiener alleen naar Italië, nu heeft Momo zijn eigen bedrijf</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/als-tiener-alleen-naar-italie-nu-heeft-momo-zijn-eigen-bedrijf-1793367142412.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dakar-rally-2027-door-marokko-route-via-nador-agadir-en-marrakech-bekend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T11:37:46.641Z</news:publication_date>
+      <news:title>Dakar Rally 2027 door Marokko: route via Nador, Agadir en Marrakech bekend</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dakar-rally-2027-door-marokko-route-via-nador-agadir-en-marrakech-bekend-1793359964282.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/slapende-bankrekening-in-marokko-na-tien-jaar-gaat-je-geld-naar-de-staat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T10:37:46.452Z</news:publication_date>
+      <news:title>Slapende bankrekening in Marokko? Na tien jaar gaat je geld naar de staat</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/slapende-bankrekening-in-marokko-na-tien-jaar-gaat-je-geld-naar-de-staat-1793356340607.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dood-van-marokkaanse-hajar-in-amsterdam-leidt-tot-ophef-in-nederland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T10:34:47.729Z</news:publication_date>
+      <news:title>Dood van Marokkaanse Hajar in Amsterdam leidt tot ophef in Nederland</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dood-van-marokkaanse-hajar-in-amsterdam-leidt-tot-ophef-in-nederland-1793356364855.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/bondscoach-dekkik-mikt-met-marokko-op-wereldtitel-zaalvoetbal</loc>
     <news:news>
       <news:publication>
@@ -421,29 +517,5 @@
       <news:title>Ongeval in Marokko: verzekeringsgeld kan rechtstreeks naar je rekening in Nederland of België</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ongeval-in-marokko-verzekeringsgeld-kan-rechtstreeks-naar-je-rekening-in-nederla-1793213115081.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-directe-vlucht-frankfurt-agadir-van-discover-airlines-van-start</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T11:31:13.004Z</news:publication_date>
-      <news:title>Nieuwe directe vlucht Frankfurt-Agadir van Discover Airlines van start</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-directe-vlucht-frankfurt-agadir-van-discover-airlines-van-start-1793185570881.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/azzedine-ounahi-geblesseerd-operatie-nodig-zorgen-bij-de-atlasleeuwen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T11:11:11.724Z</news:publication_date>
-      <news:title>Azzedine Ounahi geblesseerd: operatie nodig, zorgen bij de Atlasleeuwen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/azzedine-ounahi-geblesseerd-operatie-nodig-zorgen-bij-de-atlasleeuwen-1793185532852.jpg</image:loc></image:image>
   </url>
 </urlset>
