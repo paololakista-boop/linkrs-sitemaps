@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bondscoach-dekkik-mikt-met-marokko-op-wereldtitel-zaalvoetbal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T08:19:20.243Z</news:publication_date>
+      <news:title>Bondscoach Dekkik mikt met Marokko op wereldtitel zaalvoetbal</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bondscoach-dekkik-mikt-met-marokko-op-wereldtitel-zaalvoetbal-1793348059152.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mijnramp-van-marcinelle-hoe-262-doden-de-marokkaanse-migratie-naar-belgie-op-gan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T07:07:48.015Z</news:publication_date>
+      <news:title>Mijnramp van Marcinelle: hoe 262 doden de Marokkaanse migratie naar België op gang bracht</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mijnramp-van-marcinelle-hoe-262-doden-de-marokkaanse-migratie-naar-belgie-op-gan-1793343766970.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-futsalploeg-u18-naar-jeugdspelen-in-dakar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T06:57:37.017Z</news:publication_date>
+      <news:title>Marokkaanse futsalploeg U18 naar Jeugdspelen in Dakar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-futsalploeg-u18-naar-jeugdspelen-in-dakar-1793341955219.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-struikelt-over-vragen-rond-napoleon-bij-franse-naturalisatie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T06:37:36.061Z</news:publication_date>
+      <news:title>Marokkaan struikelt over vragen rond Napoleon bij Franse naturalisatie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-struikelt-over-vragen-rond-napoleon-bij-franse-naturalisatie-1793341931174.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/difterie-duikt-weer-op-in-noord-marokko-25-verdachte-gevallen-in-zeven-provincie</loc>
     <news:news>
       <news:publication>
@@ -397,29 +445,5 @@
       <news:title>Azzedine Ounahi geblesseerd: operatie nodig, zorgen bij de Atlasleeuwen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/azzedine-ounahi-geblesseerd-operatie-nodig-zorgen-bij-de-atlasleeuwen-1793185532852.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-schrapt-22-315-opsporingsberichten-voor-gijzeling-om-schulden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T07:29:28.392Z</news:publication_date>
-      <news:title>Marokko schrapt 22.315 opsporingsberichten voor gijzeling om schulden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-schrapt-22-315-opsporingsberichten-voor-gijzeling-om-schulden-1793171021823.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-makaken-plunderen-boomgaarden-en-krijgen-meer-jongen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T07:09:27.179Z</news:publication_date>
-      <news:title>Marokkaanse makaken plunderen boomgaarden en krijgen meer jongen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-makaken-plunderen-boomgaarden-en-krijgen-meer-jongen-1793170986514.jpg</image:loc></image:image>
   </url>
 </urlset>
