@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/difterie-duikt-weer-op-in-noord-marokko-25-verdachte-gevallen-in-zeven-provincie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T23:04:40.656Z</news:publication_date>
+      <news:title>Difterie duikt weer op in Noord-Marokko: 25 verdachte gevallen in zeven provincies</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-duikt-weer-op-in-noord-marokko-25-verdachte-gevallen-in-zeven-provincie-1793314959356.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/al-meer-dan-een-jaar-gezochte-marokkaan-opgepakt-in-tent-in-toscaans-bos</loc>
     <news:news>
       <news:publication>
@@ -409,89 +421,5 @@
       <news:title>Marokkaanse makaken plunderen boomgaarden en krijgen meer jongen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-makaken-plunderen-boomgaarden-en-krijgen-meer-jongen-1793170986514.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verwacht-480-000-nieuwe-eigendomstitels-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:03:01.804Z</news:publication_date>
-      <news:title>Marokko verwacht 480.000 nieuwe eigendomstitels in 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verwacht-480-000-nieuwe-eigendomstitels-in-2026-1793144279047.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/oncf-mikt-op-100-miljoen-treinreizigers-in-marokko-tegen-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:49:15.362Z</news:publication_date>
-      <news:title>ONCF mikt op 100 miljoen treinreizigers in Marokko tegen 2030</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oncf-mikt-op-100-miljoen-treinreizigers-in-marokko-tegen-2030-1793142251737.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fifa-inspecteert-zes-marokkaanse-steden-in-strijd-om-wk-finale-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:43:00.515Z</news:publication_date>
-      <news:title>FIFA inspecteert zes Marokkaanse steden in strijd om WK-finale 2030</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-inspecteert-zes-marokkaanse-steden-in-strijd-om-wk-finale-2030-1793144243133.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/oproep-tot-kippenboycot-in-marokko-na-prijsstijging-naar-30-dirham-per-kilo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:34:32.733Z</news:publication_date>
-      <news:title>Oproep tot kippenboycot in Marokko na prijsstijging naar 30 dirham per kilo</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oproep-tot-kippenboycot-in-marokko-na-prijsstijging-naar-30-dirham-per-kilo-1793141366221.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-studenten-moeten-vaakst-beurs-terugbetalen-in-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:29:14.423Z</news:publication_date>
-      <news:title>Marokkaanse studenten moeten vaakst beurs terugbetalen in Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-studenten-moeten-vaakst-beurs-terugbetalen-in-spanje-1793142214758.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/lichaam-van-marokkaanse-hajar-29-in-koffer-gevonden-in-amsterdam-verdachte-opgep</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T23:09:13.148Z</news:publication_date>
-      <news:title>Lichaam van Marokkaanse Hajar (29) in koffer gevonden in Amsterdam, verdachte opgepakt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lichaam-van-marokkaanse-hajar-29-in-koffer-gevonden-in-amsterdam-verdachte-opgep-1793142178448.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaans-consulaat-in-rabat-verandert-procedure-voor-visumafspraken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T22:54:27.881Z</news:publication_date>
-      <news:title>Spaans consulaat in Rabat verandert procedure voor visumafspraken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaans-consulaat-in-rabat-verandert-procedure-voor-visumafspraken-1793141288730.jpg</image:loc></image:image>
   </url>
 </urlset>
