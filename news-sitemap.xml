@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/waarom-steeds-meer-marokkaanse-nederlanders-naar-marokko-vertrekken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T06:37:45.833Z</news:publication_date>
+      <news:title>Waarom steeds meer Marokkaanse Nederlanders naar Marokko vertrekken</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-steeds-meer-marokkaanse-nederlanders-naar-marokko-vertrekken-1793428330872.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/hakimi-scoort-hattrick-en-historische-psg-goal-tegen-le-havre</loc>
     <news:news>
       <news:publication>
@@ -421,29 +433,5 @@
       <news:title>100.000 euro in één keer naar Marokko overmaken: mag het en wat doet je bank?</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/100-000-euro-in-een-keer-naar-marokko-overmaken-mag-het-en-wat-doet-je-bank-1793259157055.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verhoogt-directe-sociale-steun-600-dirham-in-2027-1-000-dirham-in-2031</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T06:57:33.500Z</news:publication_date>
-      <news:title>Marokko verhoogt directe sociale steun: 600 dirham in 2027, 1.000 dirham in 2031</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verhoogt-directe-sociale-steun-600-dirham-in-2027-1-000-dirham-in-2031-1793255551950.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ridouan-taghi-mag-zoon-faissal-niet-zien-zelfs-geen-beeld-zonder-geluid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T06:37:32.689Z</news:publication_date>
-      <news:title>Ridouan Taghi mag zoon Faissal niet zien, zelfs geen beeld zonder geluid</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ridouan-taghi-mag-zoon-faissal-niet-zien-zelfs-geen-beeld-zonder-geluid-1793255529863.jpg</image:loc></image:image>
   </url>
 </urlset>
