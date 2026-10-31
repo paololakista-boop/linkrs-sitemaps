@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verkeersdoden-in-marokko-stijgen-met-19-procent-augustus-dodelijkst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T13:31:35.474Z</news:publication_date>
+      <news:title>Verkeersdoden in Marokko stijgen met 19 procent, augustus dodelijkst</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkeersdoden-in-marokko-stijgen-met-19-procent-augustus-dodelijkst-1793453165648.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/uitgelachen-om-zijn-hockey-nu-speelt-safwan-kayan-voor-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T12:37:17.785Z</news:publication_date>
+      <news:title>Uitgelachen om zijn hockey, nu speelt Safwan Kayan voor Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitgelachen-om-zijn-hockey-nu-speelt-safwan-kayan-voor-marokko-1793449936609.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/lange-wachttijden-aan-de-grens-tussen-ceuta-en-marokko-tijdens-schoolvakantie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T11:37:20.443Z</news:publication_date>
+      <news:title>Lange wachttijden aan de grens tussen Ceuta en Marokko tijdens schoolvakantie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lange-wachttijden-aan-de-grens-tussen-ceuta-en-marokko-tijdens-schoolvakantie-1793446339422.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-consulaat-weigert-visum-34-jarige-mag-zieke-echtgenoot-82-niet-begeleiden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T10:37:23.719Z</news:publication_date>
+      <news:title>Franse consulaat weigert visum: 34-jarige mag zieke echtgenoot (82) niet begeleiden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-consulaat-weigert-visum-34-jarige-mag-zieke-echtgenoot-82-niet-begeleiden-1793442742681.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dochter-van-marokkaanse-arbeider-leidt-nu-6000-werknemers-bij-kiabi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T09:37:23.848Z</news:publication_date>
+      <news:title>Dochter van Marokkaanse arbeider leidt nu 6000 werknemers bij Kiabi</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dochter-van-marokkaanse-arbeider-leidt-nu-6000-werknemers-bij-kiabi-1793439142532.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/adnane-abid-voorgeselecteerd-door-marokko-ook-belgie-polst-standard-aanvaller</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T08:37:11.027Z</news:publication_date>
+      <news:title>Adnane Abid voorgeselecteerd door Marokko, ook België polst Standard-aanvaller</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/adnane-abid-voorgeselecteerd-door-marokko-ook-belgie-polst-standard-aanvaller-1793435529990.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belastingdienst-dgi-2-november-2026-is-deadline-voor-meerdere-belastingaangiften</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T07:28:14.703Z</news:publication_date>
+      <news:title>Belastingdienst DGI: 2 november 2026 is deadline voor meerdere belastingaangiften</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belastingdienst-dgi-2-november-2026-is-deadline-voor-meerdere-belastingaangiften-1793430192389.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vanuit-marokko-naar-de-vs-zonder-deze-verklaring-kom-je-niet-aan-boord</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T07:08:13.375Z</news:publication_date>
+      <news:title>Vanuit Marokko naar de VS: zonder deze verklaring kom je niet aan boord</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vanuit-marokko-naar-de-vs-zonder-deze-verklaring-kom-je-niet-aan-boord-1793430161496.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/waarom-steeds-meer-marokkaanse-nederlanders-naar-marokko-vertrekken</loc>
     <news:news>
       <news:publication>
@@ -349,89 +445,5 @@
       <news:title>China belooft meer dan 10 miljard dollar aan Marokko, maar bouwt nog geen auto&apos;s</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/china-belooft-meer-dan-10-miljard-dollar-aan-marokko-maar-bouwt-nog-geen-auto-s-1793280791462.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/raja-en-wydad-gaan-spelen-in-nieuw-grand-stade-hassan-ii-voor-wk-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T13:38:12.710Z</news:publication_date>
-      <news:title>Raja en Wydad gaan spelen in nieuw Grand Stade Hassan II voor WK 2030</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/raja-en-wydad-gaan-spelen-in-nieuw-grand-stade-hassan-ii-voor-wk-2030-1793280756982.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hadji-haalt-uit-naar-amrabat-je-speelt-voor-marokko-niet-voor-ouahbi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T12:58:07.691Z</news:publication_date>
-      <news:title>Hadji haalt uit naar Amrabat: &quot;Je speelt voor Marokko, niet voor Ouahbi&quot;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hadji-haalt-uit-naar-amrabat-je-speelt-voor-marokko-niet-voor-ouahbi-1793277184919.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/frankrijk-en-duitsland-willen-in-marokko-gebouwde-auto-s-uitsluiten-van-eu-steun</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T12:38:06.387Z</news:publication_date>
-      <news:title>Frankrijk en Duitsland willen in Marokko gebouwde auto&apos;s uitsluiten van EU-steun</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/frankrijk-en-duitsland-willen-in-marokko-gebouwde-auto-s-uitsluiten-van-eu-steun-1793277148487.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/royal-air-maroc-opent-vluchten-casablanca-essaouira-voor-vaste-prijs-van-400-dir</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T11:37:24.556Z</news:publication_date>
-      <news:title>Royal Air Maroc opent vluchten Casablanca-Essaouira voor vaste prijs van 400 dirham</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/royal-air-maroc-opent-vluchten-casablanca-essaouira-voor-vaste-prijs-van-400-dir-1793273542266.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/euro-naar-dirham-wisselkoersen-van-donderdag-29-oktober</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T10:37:22.018Z</news:publication_date>
-      <news:title>Euro naar dirham: wisselkoersen van donderdag 29 oktober</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/euro-naar-dirham-wisselkoersen-van-donderdag-29-oktober-1793269940050.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-buschauffeur-105-dagen-onterecht-vast-krijgt-25-042-euro-van-franse-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T08:37:27.652Z</news:publication_date>
-      <news:title>Marokkaanse buschauffeur 105 dagen onterecht vast, krijgt 25.042 euro van Franse staat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-buschauffeur-105-dagen-onterecht-vast-krijgt-25-042-euro-van-franse--1793262746877.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/100-000-euro-in-een-keer-naar-marokko-overmaken-mag-het-en-wat-doet-je-bank</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T07:37:39.666Z</news:publication_date>
-      <news:title>100.000 euro in één keer naar Marokko overmaken: mag het en wat doet je bank?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/100-000-euro-in-een-keer-naar-marokko-overmaken-mag-het-en-wat-doet-je-bank-1793259157055.jpg</image:loc></image:image>
   </url>
 </urlset>
