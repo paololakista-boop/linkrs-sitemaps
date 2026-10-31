@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/juwelen-van-koning-mohammed-vi-aan-zapatero-duiken-op-in-spaans-miljoenenonderzo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T20:37:50.289Z</news:publication_date>
+      <news:title>Juwelen van koning Mohammed VI aan Zapatero duiken op in Spaans miljoenenonderzoek</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/juwelen-van-koning-mohammed-vi-aan-zapatero-duiken-op-in-spaans-miljoenenonderzo-1793478768619.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/saibari-geblesseerd-uitgevallen-bij-bayern-zorgen-bij-de-atlasleeuwen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T20:34:49.381Z</news:publication_date>
+      <news:title>Saibari geblesseerd uitgevallen bij Bayern, zorgen bij de Atlasleeuwen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/saibari-geblesseerd-uitgevallen-bij-bayern-zorgen-bij-de-atlasleeuwen-1793478736301.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rook-aan-boord-ryanair-vlucht-agadir-marseille-keert-na-37-minuten-terug</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T19:34:59.093Z</news:publication_date>
+      <news:title>Rook aan boord: Ryanair-vlucht Agadir-Marseille keert na 37 minuten terug</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rook-aan-boord-ryanair-vlucht-agadir-marseille-keert-na-37-minuten-terug-1793475173684.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/bouaddi-noemt-wk-met-marokko-mooiste-ervaring-van-zijn-leven</loc>
     <news:news>
       <news:publication>
@@ -433,17 +469,5 @@
       <news:title>Difterie duikt weer op in Noord-Marokko: 25 verdachte gevallen in zeven provincies</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-duikt-weer-op-in-noord-marokko-25-verdachte-gevallen-in-zeven-provincie-1793314959356.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/al-meer-dan-een-jaar-gezochte-marokkaan-opgepakt-in-tent-in-toscaans-bos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T19:37:13.101Z</news:publication_date>
-      <news:title>Al meer dan een jaar gezochte Marokkaan opgepakt in tent in Toscaans bos</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/al-meer-dan-een-jaar-gezochte-marokkaan-opgepakt-in-tent-in-toscaans-bos-1793302331946.jpg</image:loc></image:image>
   </url>
 </urlset>
