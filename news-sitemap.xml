@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bouaddi-noemt-wk-met-marokko-mooiste-ervaring-van-zijn-leven</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T18:24:14.918Z</news:publication_date>
+      <news:title>Bouaddi noemt WK met Marokko mooiste ervaring van zijn leven</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bouaddi-noemt-wk-met-marokko-mooiste-ervaring-van-zijn-leven-1793470754189.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/lekjaa-verdedigt-groeiraming-van-3-7-procent-en-hogere-belasting-op-oliebedrijve</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T17:57:49.664Z</news:publication_date>
+      <news:title>Lekjaa verdedigt groeiraming van 3,7 procent en hogere belasting op oliebedrijven</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lekjaa-verdedigt-groeiraming-van-3-7-procent-en-hogere-belasting-op-oliebedrijve-1793467967247.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-kandidaat-om-wk-voor-clubs-van-2029-te-organiseren</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T17:37:48.498Z</news:publication_date>
+      <news:title>Marokko kandidaat om WK voor clubs van 2029 te organiseren</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-kandidaat-om-wk-voor-clubs-van-2029-te-organiseren-1793467928149.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouw-doodgereden-door-marokkaanse-truckchauffeur-in-genua-familie-krijgt-miljoe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T15:07:49.085Z</news:publication_date>
+      <news:title>Vrouw doodgereden door Marokkaanse truckchauffeur in Genua, familie krijgt miljoen euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouw-doodgereden-door-marokkaanse-truckchauffeur-in-genua-familie-krijgt-miljoe-1793458967035.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vermist-in-marrakech-familie-zoekt-12-jarig-meisje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:34:41.411Z</news:publication_date>
+      <news:title>Vermist in Marrakech: familie zoekt 12-jarig meisje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vermist-in-marrakech-familie-zoekt-12-jarig-meisje-1793457160327.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-wint-rechtszaak-in-frankrijk-maar-verliest-toch-zijn-salaris</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T14:11:57.022Z</news:publication_date>
+      <news:title>Marokkaan wint rechtszaak in Frankrijk maar verliest toch zijn salaris</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-wint-rechtszaak-in-frankrijk-maar-verliest-toch-zijn-salaris-1793455615590.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/sunday-oliseh-en-zijn-marokkaanse-vrouw-hafida-32-jaar-na-een-toevallige-regenbu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T13:51:36.692Z</news:publication_date>
+      <news:title>Sunday Oliseh en zijn Marokkaanse vrouw Hafida: 32 jaar na een toevallige regenbui nog samen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sunday-oliseh-en-zijn-marokkaanse-vrouw-hafida-32-jaar-na-een-toevallige-regenbu-1793453194110.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/verkeersdoden-in-marokko-stijgen-met-19-procent-augustus-dodelijkst</loc>
     <news:news>
       <news:publication>
@@ -361,89 +445,5 @@
       <news:title>Al meer dan een jaar gezochte Marokkaan opgepakt in tent in Toscaans bos</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/al-meer-dan-een-jaar-gezochte-marokkaan-opgepakt-in-tent-in-toscaans-bos-1793302331946.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/meer-dan-170-bezwaren-tegen-uitslag-marokkaanse-parlementsverkiezingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T18:37:51.363Z</news:publication_date>
-      <news:title>Meer dan 170 bezwaren tegen uitslag Marokkaanse parlementsverkiezingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/meer-dan-170-bezwaren-tegen-uitslag-marokkaanse-parlementsverkiezingen-1793298768824.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/adnane-abid-op-marokkaanse-voorlijst-belgie-belt-meteen-over-keuze</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T17:37:24.142Z</news:publication_date>
-      <news:title>Adnane Abid op Marokkaanse voorlijst, België belt meteen over keuze</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/adnane-abid-op-marokkaanse-voorlijst-belgie-belt-meteen-over-keuze-1793295142328.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bouanou-hekelt-invoer-van-vee-prijzen-vlees-dalen-niet-voor-consument</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T16:37:32.053Z</news:publication_date>
-      <news:title>Bouanou hekelt invoer van vee: &apos;Prijzen vlees dalen niet voor consument&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bouanou-hekelt-invoer-van-vee-prijzen-vlees-dalen-niet-voor-consument-1793291550399.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/20-42-op-20-op-het-bac-en-toch-70-sollicitaties-nodig-voor-een-stage</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T15:07:48.924Z</news:publication_date>
-      <news:title>20,42 op 20 op het bac en toch 70 sollicitaties nodig voor één stage</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/20-42-op-20-op-het-bac-en-toch-70-sollicitaties-nodig-voor-een-stage-1793286167705.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-en-brazilie-versterken-samenwerking-onder-vierde-termijn-lula</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T14:56:39.737Z</news:publication_date>
-      <news:title>Marokko en Brazilië versterken samenwerking onder vierde termijn Lula</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-en-brazilie-versterken-samenwerking-onder-vierde-termijn-lula-1793285497126.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verdachte-van-racistische-aanslag-bij-parijs-opgesloten-slachtoffers-waren-mosli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T14:53:38.402Z</news:publication_date>
-      <news:title>Verdachte van racistische aanslag bij Parijs opgesloten, slachtoffers waren moslims en Noord-Afrikanen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verdachte-van-racistische-aanslag-bij-parijs-opgesloten-slachtoffers-waren-mosli-1793285462044.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/china-belooft-meer-dan-10-miljard-dollar-aan-marokko-maar-bouwt-nog-geen-auto-s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T13:58:13.708Z</news:publication_date>
-      <news:title>China belooft meer dan 10 miljard dollar aan Marokko, maar bouwt nog geen auto&apos;s</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/china-belooft-meer-dan-10-miljard-dollar-aan-marokko-maar-bouwt-nog-geen-auto-s-1793280791462.jpg</image:loc></image:image>
   </url>
 </urlset>
