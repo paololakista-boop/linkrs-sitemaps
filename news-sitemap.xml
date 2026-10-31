@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hakimi-scoort-hattrick-en-historische-psg-goal-tegen-le-havre</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T22:43:01.393Z</news:publication_date>
+      <news:title>Hakimi scoort hattrick en historische PSG-goal tegen Le Havre</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hakimi-scoort-hattrick-en-historische-psg-goal-tegen-le-havre-1793399579233.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dubbel-veto-in-vn-veiligheidsraad-mandaat-minurso-in-sahara-niet-verlengd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T22:35:00.455Z</news:publication_date>
+      <news:title>Dubbel veto in VN-Veiligheidsraad: mandaat MINURSO in Sahara niet verlengd</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dubbel-veto-in-vn-veiligheidsraad-mandaat-minurso-in-sahara-niet-verlengd-1793399538319.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rusland-verrast-vn-veiligheidsraad-met-eigen-resolutie-over-de-sahara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T21:34:23.552Z</news:publication_date>
+      <news:title>Rusland verrast VN-Veiligheidsraad met eigen resolutie over de Sahara</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rusland-verrast-vn-veiligheidsraad-met-eigen-resolutie-over-de-sahara-1793395939449.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/van-150-euro-per-week-naar-transport-van-auto-s-van-4-miljoen</loc>
     <news:news>
       <news:publication>
@@ -409,41 +445,5 @@
       <news:title>Ridouan Taghi mag zoon Faissal niet zien, zelfs geen beeld zonder geluid</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ridouan-taghi-mag-zoon-faissal-niet-zien-zelfs-geen-beeld-zonder-geluid-1793255529863.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/samira-said-viert-bruiloft-van-zoon-chadi-in-rabat-en-pakt-zelf-de-microfoon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:37:37.743Z</news:publication_date>
-      <news:title>Samira Said viert bruiloft van zoon Chadi in Rabat en pakt zelf de microfoon</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/samira-said-viert-bruiloft-van-zoon-chadi-in-rabat-en-pakt-zelf-de-microfoon-1793223156721.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-en-vs-lanceren-route-250-digitale-bijscholing-voor-leraren</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T21:18:58.108Z</news:publication_date>
-      <news:title>Marokko en VS lanceren Route 250: digitale bijscholing voor leraren</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-en-vs-lanceren-route-250-digitale-bijscholing-voor-leraren-1793219634901.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-ontvangt-derde-levering-apache-gevechtshelikopters-uit-vs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T20:58:57.288Z</news:publication_date>
-      <news:title>Marokko ontvangt derde levering Apache-gevechtshelikopters uit VS</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-ontvangt-derde-levering-apache-gevechtshelikopters-uit-vs-1793219601185.jpg</image:loc></image:image>
   </url>
 </urlset>
