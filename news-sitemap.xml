@@ -458,16 +458,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-struikelt-over-vragen-rond-napoleon-bij-franse-naturalisatie-1793341931174.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/difterie-duikt-weer-op-in-noord-marokko-25-verdachte-gevallen-in-zeven-provincie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T23:04:40.656Z</news:publication_date>
-      <news:title>Difterie duikt weer op in Noord-Marokko: 25 verdachte gevallen in zeven provincies</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/difterie-duikt-weer-op-in-noord-marokko-25-verdachte-gevallen-in-zeven-provincie-1793314959356.jpg</image:loc></image:image>
-  </url>
 </urlset>
