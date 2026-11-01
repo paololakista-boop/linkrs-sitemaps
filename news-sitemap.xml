@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vrouw-in-frankrijk-zei-gescheiden-te-zijn-man-woonde-in-marokko-6330-euro-terugv</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T20:37:22.890Z</news:publication_date>
+      <news:title>Vrouw in Frankrijk zei gescheiden te zijn, man woonde in Marokko: 6330 euro terugvorderen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouw-in-frankrijk-zei-gescheiden-te-zijn-man-woonde-in-marokko-6330-euro-terugv-1793565141939.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/couscous-en-dafina-in-het-amazonegebied-hoe-marokkaanse-keuken-daar-al-bijna-twe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T19:58:07.512Z</news:publication_date>
+      <news:title>Couscous en dafina in het Amazonegebied: hoe Marokkaanse keuken daar al bijna twee eeuwen standhoudt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/couscous-en-dafina-in-het-amazonegebied-hoe-marokkaanse-keuken-daar-al-bijna-twe-1793561582231.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-kopen-nu-meeste-huizen-in-spanje-britten-voorbijgestreefd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T18:37:27.941Z</news:publication_date>
+      <news:title>Marokkanen kopen nu meeste huizen in Spanje, Britten voorbijgestreefd</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-kopen-nu-meeste-huizen-in-spanje-britten-voorbijgestreefd-1793557945535.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-ethiopie-u23-data-en-tijdstippen-van-de-kwalificatieduels</loc>
     <news:news>
       <news:publication>
@@ -445,41 +481,5 @@
       <news:title>Rusland verrast VN-Veiligheidsraad met eigen resolutie over de Sahara</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rusland-verrast-vn-veiligheidsraad-met-eigen-resolutie-over-de-sahara-1793395939449.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/van-150-euro-per-week-naar-transport-van-auto-s-van-4-miljoen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T19:37:49.835Z</news:publication_date>
-      <news:title>Van 150 euro per week naar transport van auto&apos;s van 4 miljoen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-150-euro-per-week-naar-transport-van-auto-s-van-4-miljoen-1793388768887.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nabil-doodgeschoten-in-saint-nicolas-bij-luik-verdachte-opgepakt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T18:57:51.058Z</news:publication_date>
-      <news:title>Nabil doodgeschoten in Saint-Nicolas bij Luik, verdachte opgepakt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nabil-doodgeschoten-in-saint-nicolas-bij-luik-verdachte-opgepakt-1793385169039.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rabat-zoekt-banden-met-marokkaanse-diaspora-via-conferentie-hem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T18:37:50.096Z</news:publication_date>
-      <news:title>Rabat zoekt banden met Marokkaanse diaspora via conferentie HEM</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rabat-zoekt-banden-met-marokkaanse-diaspora-via-conferentie-hem-1793385144072.jpg</image:loc></image:image>
   </url>
 </urlset>
