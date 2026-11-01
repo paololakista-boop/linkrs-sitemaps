@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nederland-overweegt-3-miljoen-euro-voor-opvangcentrum-in-marokko-voor-400-minder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T08:57:53.376Z</news:publication_date>
+      <news:title>Nederland overweegt 3 miljoen euro voor opvangcentrum in Marokko voor 400 minderjarigen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederland-overweegt-3-miljoen-euro-voor-opvangcentrum-in-marokko-voor-400-minder-1793521970977.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diaspora-stuurt-al-meer-dan-103-miljard-dirham-naar-huis-in-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T08:37:52.382Z</news:publication_date>
+      <news:title>Marokkaanse diaspora stuurt al meer dan 103 miljard dirham naar huis in 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-diaspora-stuurt-al-meer-dan-103-miljard-dirham-naar-huis-in-2026-1793521940873.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-airbnb-regels-raken-marokkaanse-verhuurders-schoonmaak-niet-meer-voor-de-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T07:48:56.336Z</news:publication_date>
+      <news:title>Nieuwe Airbnb-regels raken Marokkaanse verhuurders: schoonmaak niet meer voor de gast</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-airbnb-regels-raken-marokkaanse-verhuurders-schoonmaak-niet-meer-voor-de--1793516628934.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/werk-weigeren-om-religie-kan-in-belgie-je-leefloon-kosten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T07:28:55.082Z</news:publication_date>
+      <news:title>Werk weigeren om religie kan in België je leefloon kosten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/werk-weigeren-om-religie-kan-in-belgie-je-leefloon-kosten-1793516585032.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/juwelen-van-koning-mohammed-vi-aan-zapatero-duiken-op-in-spaans-miljoenenonderzo</loc>
     <news:news>
       <news:publication>
@@ -409,53 +457,5 @@
       <news:title>Dood van Marokkaanse Hajar in Amsterdam leidt tot ophef in Nederland</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dood-van-marokkaanse-hajar-in-amsterdam-leidt-tot-ophef-in-nederland-1793356364855.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bondscoach-dekkik-mikt-met-marokko-op-wereldtitel-zaalvoetbal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T08:19:20.243Z</news:publication_date>
-      <news:title>Bondscoach Dekkik mikt met Marokko op wereldtitel zaalvoetbal</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bondscoach-dekkik-mikt-met-marokko-op-wereldtitel-zaalvoetbal-1793348059152.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mijnramp-van-marcinelle-hoe-262-doden-de-marokkaanse-migratie-naar-belgie-op-gan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T07:07:48.015Z</news:publication_date>
-      <news:title>Mijnramp van Marcinelle: hoe 262 doden de Marokkaanse migratie naar België op gang bracht</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mijnramp-van-marcinelle-hoe-262-doden-de-marokkaanse-migratie-naar-belgie-op-gan-1793343766970.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-futsalploeg-u18-naar-jeugdspelen-in-dakar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T06:57:37.017Z</news:publication_date>
-      <news:title>Marokkaanse futsalploeg U18 naar Jeugdspelen in Dakar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-futsalploeg-u18-naar-jeugdspelen-in-dakar-1793341955219.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-struikelt-over-vragen-rond-napoleon-bij-franse-naturalisatie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T06:37:36.061Z</news:publication_date>
-      <news:title>Marokkaan struikelt over vragen rond Napoleon bij Franse naturalisatie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-struikelt-over-vragen-rond-napoleon-bij-franse-naturalisatie-1793341931174.jpg</image:loc></image:image>
   </url>
 </urlset>
