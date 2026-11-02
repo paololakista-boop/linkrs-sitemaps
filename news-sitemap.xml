@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rania-kissi-van-ongedocumenteerd-meisje-uit-marokko-tot-parijse-gemeenteraadslid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T18:03:50.318Z</news:publication_date>
+      <news:title>Rania Kissi: van ongedocumenteerd meisje uit Marokko tot Parijse gemeenteraadslid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rania-kissi-van-ongedocumenteerd-meisje-uit-marokko-tot-parijse-gemeenteraadslid-1793641123217.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/begroting-2027-marokko-investeert-vooral-in-spoor-en-logistiek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T17:38:21.241Z</news:publication_date>
+      <news:title>Begroting 2027: Marokko investeert vooral in spoor en logistiek</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/begroting-2027-marokko-investeert-vooral-in-spoor-en-logistiek-1793640774031.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/raja-casablanca-ontslaat-trainer-paco-jemez-na-slechts-zeven-duels</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T17:35:22.154Z</news:publication_date>
+      <news:title>Raja Casablanca ontslaat trainer Paco Jemez na slechts zeven duels</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/raja-casablanca-ontslaat-trainer-paco-jemez-na-slechts-zeven-duels-1793640799984.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-parlement-over-sahara-van-beheer-naar-verandering</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T15:09:02.980Z</news:publication_date>
+      <news:title>Marokkaans parlement over Sahara: van beheer naar verandering</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-parlement-over-sahara-van-beheer-naar-verandering-1793631795876.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/diesel-in-marokko-boven-17-dirham-economen-eisen-uitleg-over-prijzen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T14:38:07.985Z</news:publication_date>
+      <news:title>Diesel in Marokko boven 17 dirham: economen eisen uitleg over prijzen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/diesel-in-marokko-boven-17-dirham-economen-eisen-uitleg-over-prijzen-1793629962731.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ismael-saibari-aan-enkel-geopereerd-maanden-uit-de-roulatie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T14:35:08.945Z</news:publication_date>
+      <news:title>Ismaël Saibari aan enkel geopereerd, maanden uit de roulatie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ismael-saibari-aan-enkel-geopereerd-maanden-uit-de-roulatie-1793629987265.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gratis-stroom-onder-100-dirham-marokkaanse-diaspora-valt-buiten-de-regeling</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T13:38:12.465Z</news:publication_date>
+      <news:title>Gratis stroom onder 100 dirham: Marokkaanse diaspora valt buiten de regeling</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gratis-stroom-onder-100-dirham-marokkaanse-diaspora-valt-buiten-de-regeling-1793626361471.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nederland-is-grootste-eu-afnemer-van-marokkaanse-autobanden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T12:37:40.594Z</news:publication_date>
+      <news:title>Nederland is grootste EU-afnemer van Marokkaanse autobanden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederland-is-grootste-eu-afnemer-van-marokkaanse-autobanden-1793622759656.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bezorger-hamza-redde-man-uit-zwembad-bij-toulouse-en-verdween-drie-maanden-later</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T11:37:40.002Z</news:publication_date>
+      <news:title>Bezorger Hamza redde man uit zwembad bij Toulouse en verdween, drie maanden later teruggevonden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bezorger-hamza-redde-man-uit-zwembad-bij-toulouse-en-verdween-drie-maanden-later-1793619158929.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-moderniseert-grensovergang-beni-enzar-bij-melilla</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:37:08.691Z</news:publication_date>
+      <news:title>Marokko moderniseert grensovergang Beni Enzar bij Melilla</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-moderniseert-grensovergang-beni-enzar-bij-melilla-1793611926777.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/reiziger-met-beperking-blijft-onderaan-vliegtuigtrap-achter-op-weg-naar-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T08:58:08.664Z</news:publication_date>
+      <news:title>Reiziger met beperking blijft onderaan vliegtuigtrap achter op weg naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/reiziger-met-beperking-blijft-onderaan-vliegtuigtrap-achter-op-weg-naar-marokko-1793608386649.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nederlandse-volgt-verdwenen-bagage-met-airtag-naar-casablanca-krijgt-1225-euro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T08:38:07.728Z</news:publication_date>
+      <news:title>Nederlandse volgt verdwenen bagage met AirTag naar Casablanca, krijgt 1225 euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederlandse-volgt-verdwenen-bagage-met-airtag-naar-casablanca-krijgt-1225-euro-1793608350501.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/cartoonist-22-veroordeeld-tot-4-jaar-cel-in-marokko-om-spotprenten-van-koning</loc>
     <news:news>
       <news:publication>
@@ -277,161 +421,5 @@
       <news:title>Rook aan boord: Ryanair-vlucht Agadir-Marseille keert na 37 minuten terug</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rook-aan-boord-ryanair-vlucht-agadir-marseille-keert-na-37-minuten-terug-1793475173684.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bouaddi-noemt-wk-met-marokko-mooiste-ervaring-van-zijn-leven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T18:24:14.918Z</news:publication_date>
-      <news:title>Bouaddi noemt WK met Marokko mooiste ervaring van zijn leven</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bouaddi-noemt-wk-met-marokko-mooiste-ervaring-van-zijn-leven-1793470754189.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/lekjaa-verdedigt-groeiraming-van-3-7-procent-en-hogere-belasting-op-oliebedrijve</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T17:57:49.664Z</news:publication_date>
-      <news:title>Lekjaa verdedigt groeiraming van 3,7 procent en hogere belasting op oliebedrijven</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lekjaa-verdedigt-groeiraming-van-3-7-procent-en-hogere-belasting-op-oliebedrijve-1793467967247.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-kandidaat-om-wk-voor-clubs-van-2029-te-organiseren</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T17:37:48.498Z</news:publication_date>
-      <news:title>Marokko kandidaat om WK voor clubs van 2029 te organiseren</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-kandidaat-om-wk-voor-clubs-van-2029-te-organiseren-1793467928149.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vrouw-doodgereden-door-marokkaanse-truckchauffeur-in-genua-familie-krijgt-miljoe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T15:07:49.085Z</news:publication_date>
-      <news:title>Vrouw doodgereden door Marokkaanse truckchauffeur in Genua, familie krijgt miljoen euro</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouw-doodgereden-door-marokkaanse-truckchauffeur-in-genua-familie-krijgt-miljoe-1793458967035.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vermist-in-marrakech-familie-zoekt-12-jarig-meisje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T14:34:41.411Z</news:publication_date>
-      <news:title>Vermist in Marrakech: familie zoekt 12-jarig meisje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vermist-in-marrakech-familie-zoekt-12-jarig-meisje-1793457160327.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-wint-rechtszaak-in-frankrijk-maar-verliest-toch-zijn-salaris</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T14:11:57.022Z</news:publication_date>
-      <news:title>Marokkaan wint rechtszaak in Frankrijk maar verliest toch zijn salaris</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-wint-rechtszaak-in-frankrijk-maar-verliest-toch-zijn-salaris-1793455615590.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/sunday-oliseh-en-zijn-marokkaanse-vrouw-hafida-32-jaar-na-een-toevallige-regenbu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T13:51:36.692Z</news:publication_date>
-      <news:title>Sunday Oliseh en zijn Marokkaanse vrouw Hafida: 32 jaar na een toevallige regenbui nog samen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sunday-oliseh-en-zijn-marokkaanse-vrouw-hafida-32-jaar-na-een-toevallige-regenbu-1793453194110.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verkeersdoden-in-marokko-stijgen-met-19-procent-augustus-dodelijkst</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T13:31:35.474Z</news:publication_date>
-      <news:title>Verkeersdoden in Marokko stijgen met 19 procent, augustus dodelijkst</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verkeersdoden-in-marokko-stijgen-met-19-procent-augustus-dodelijkst-1793453165648.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/uitgelachen-om-zijn-hockey-nu-speelt-safwan-kayan-voor-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T12:37:17.785Z</news:publication_date>
-      <news:title>Uitgelachen om zijn hockey, nu speelt Safwan Kayan voor Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitgelachen-om-zijn-hockey-nu-speelt-safwan-kayan-voor-marokko-1793449936609.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/lange-wachttijden-aan-de-grens-tussen-ceuta-en-marokko-tijdens-schoolvakantie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T11:37:20.443Z</news:publication_date>
-      <news:title>Lange wachttijden aan de grens tussen Ceuta en Marokko tijdens schoolvakantie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lange-wachttijden-aan-de-grens-tussen-ceuta-en-marokko-tijdens-schoolvakantie-1793446339422.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/franse-consulaat-weigert-visum-34-jarige-mag-zieke-echtgenoot-82-niet-begeleiden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T10:37:23.719Z</news:publication_date>
-      <news:title>Franse consulaat weigert visum: 34-jarige mag zieke echtgenoot (82) niet begeleiden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-consulaat-weigert-visum-34-jarige-mag-zieke-echtgenoot-82-niet-begeleiden-1793442742681.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dochter-van-marokkaanse-arbeider-leidt-nu-6000-werknemers-bij-kiabi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T09:37:23.848Z</news:publication_date>
-      <news:title>Dochter van Marokkaanse arbeider leidt nu 6000 werknemers bij Kiabi</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dochter-van-marokkaanse-arbeider-leidt-nu-6000-werknemers-bij-kiabi-1793439142532.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/adnane-abid-voorgeselecteerd-door-marokko-ook-belgie-polst-standard-aanvaller</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T08:37:11.027Z</news:publication_date>
-      <news:title>Adnane Abid voorgeselecteerd door Marokko, ook België polst Standard-aanvaller</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/adnane-abid-voorgeselecteerd-door-marokko-ook-belgie-polst-standard-aanvaller-1793435529990.jpg</image:loc></image:image>
   </url>
 </urlset>
