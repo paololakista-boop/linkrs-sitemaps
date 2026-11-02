@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/cartoonist-22-veroordeeld-tot-4-jaar-cel-in-marokko-om-spotprenten-van-koning</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T07:38:00.408Z</news:publication_date>
+      <news:title>Cartoonist (22) veroordeeld tot 4 jaar cel in Marokko om spotprenten van koning</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cartoonist-22-veroordeeld-tot-4-jaar-cel-in-marokko-om-spotprenten-van-koning-1793604739358.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-rijbewijs-inschrijving-voor-rijexamen-loopt-vanaf-1-november-via-digi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T06:57:44.371Z</news:publication_date>
+      <news:title>Marokkaans rijbewijs: inschrijving voor rijexamen loopt vanaf 1 november via digitaal platform</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-rijbewijs-inschrijving-voor-rijexamen-loopt-vanaf-1-november-via-digi-1793601159196.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vrouw-in-frankrijk-zei-gescheiden-te-zijn-man-woonde-in-marokko-6330-euro-terugv</loc>
     <news:news>
       <news:publication>
@@ -409,41 +433,5 @@
       <news:title>Adnane Abid voorgeselecteerd door Marokko, ook België polst Standard-aanvaller</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/adnane-abid-voorgeselecteerd-door-marokko-ook-belgie-polst-standard-aanvaller-1793435529990.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belastingdienst-dgi-2-november-2026-is-deadline-voor-meerdere-belastingaangiften</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T07:28:14.703Z</news:publication_date>
-      <news:title>Belastingdienst DGI: 2 november 2026 is deadline voor meerdere belastingaangiften</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belastingdienst-dgi-2-november-2026-is-deadline-voor-meerdere-belastingaangiften-1793430192389.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vanuit-marokko-naar-de-vs-zonder-deze-verklaring-kom-je-niet-aan-boord</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T07:08:13.375Z</news:publication_date>
-      <news:title>Vanuit Marokko naar de VS: zonder deze verklaring kom je niet aan boord</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vanuit-marokko-naar-de-vs-zonder-deze-verklaring-kom-je-niet-aan-boord-1793430161496.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/waarom-steeds-meer-marokkaanse-nederlanders-naar-marokko-vertrekken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T06:37:45.833Z</news:publication_date>
-      <news:title>Waarom steeds meer Marokkaanse Nederlanders naar Marokko vertrekken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-steeds-meer-marokkaanse-nederlanders-naar-marokko-vertrekken-1793428330872.jpg</image:loc></image:image>
   </url>
 </urlset>
