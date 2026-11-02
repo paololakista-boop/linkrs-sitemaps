@@ -446,40 +446,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/waarom-steeds-meer-marokkaanse-nederlanders-naar-marokko-vertrekken-1793428330872.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hakimi-scoort-hattrick-en-historische-psg-goal-tegen-le-havre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T22:43:01.393Z</news:publication_date>
-      <news:title>Hakimi scoort hattrick en historische PSG-goal tegen Le Havre</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hakimi-scoort-hattrick-en-historische-psg-goal-tegen-le-havre-1793399579233.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dubbel-veto-in-vn-veiligheidsraad-mandaat-minurso-in-sahara-niet-verlengd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T22:35:00.455Z</news:publication_date>
-      <news:title>Dubbel veto in VN-Veiligheidsraad: mandaat MINURSO in Sahara niet verlengd</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dubbel-veto-in-vn-veiligheidsraad-mandaat-minurso-in-sahara-niet-verlengd-1793399538319.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rusland-verrast-vn-veiligheidsraad-met-eigen-resolutie-over-de-sahara</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T21:34:23.552Z</news:publication_date>
-      <news:title>Rusland verrast VN-Veiligheidsraad met eigen resolutie over de Sahara</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rusland-verrast-vn-veiligheidsraad-met-eigen-resolutie-over-de-sahara-1793395939449.jpg</image:loc></image:image>
-  </url>
 </urlset>
