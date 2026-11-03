@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-koppel-verliest-zich-in-de-rechtbank-en-wordt-afwezig-verklaard</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T22:37:51.864Z</news:publication_date>
+      <news:title>Marokkaans koppel verliest zich in de rechtbank en wordt afwezig verklaard</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-koppel-verliest-zich-in-de-rechtbank-en-wordt-afwezig-verklaard-1793745170051.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bijna-een-ton-cocaine-onderschept-in-haven-tanger-med</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T21:35:29.144Z</news:publication_date>
+      <news:title>Bijna een ton cocaïne onderschept in haven Tanger Med</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bijna-een-ton-cocaine-onderschept-in-haven-tanger-med-1793741603453.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-lekjaa-onthult-plannen-voor-stadions-banen-en-casablanca-als-kloppend-ha</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T20:58:42.042Z</news:publication_date>
+      <news:title>WK 2030: Lekjaa onthult plannen voor stadions, banen en Casablanca als &apos;kloppend hart&apos;</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-2030-lekjaa-onthult-plannen-voor-stadions-banen-en-casablanca-als-kloppend-ha-1793738015622.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-26-trouwt-in-geneve-met-italiaan-58-vijf-dagen-later-wil-hij-al-sche</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T19:38:46.096Z</news:publication_date>
+      <news:title>Marokkaanse (26) trouwt in Genève met Italiaan (58), vijf dagen later wil hij al scheiden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-26-trouwt-in-geneve-met-italiaan-58-vijf-dagen-later-wil-hij-al-sche-1793734390035.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-hotels-tellen-30-9-miljoen-overnachtingen-tot-eind-augustus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T18:22:30.478Z</news:publication_date>
+      <news:title>Marokkaanse hotels tellen 30,9 miljoen overnachtingen tot eind augustus</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-hotels-tellen-30-9-miljoen-overnachtingen-tot-eind-augustus-1793729848859.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/shell-koopt-duurzame-vliegtuigbrandstof-uit-nieuwe-fabriek-in-haven-van-nador</loc>
     <news:news>
       <news:publication>
@@ -349,41 +409,5 @@
       <news:title>Marokkaans rijbewijs: inschrijving voor rijexamen loopt vanaf 1 november via digitaal platform</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-rijbewijs-inschrijving-voor-rijexamen-loopt-vanaf-1-november-via-digi-1793601159196.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vrouw-in-frankrijk-zei-gescheiden-te-zijn-man-woonde-in-marokko-6330-euro-terugv</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T20:37:22.890Z</news:publication_date>
-      <news:title>Vrouw in Frankrijk zei gescheiden te zijn, man woonde in Marokko: 6330 euro terugvorderen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vrouw-in-frankrijk-zei-gescheiden-te-zijn-man-woonde-in-marokko-6330-euro-terugv-1793565141939.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/couscous-en-dafina-in-het-amazonegebied-hoe-marokkaanse-keuken-daar-al-bijna-twe</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T19:58:07.512Z</news:publication_date>
-      <news:title>Couscous en dafina in het Amazonegebied: hoe Marokkaanse keuken daar al bijna twee eeuwen standhoudt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/couscous-en-dafina-in-het-amazonegebied-hoe-marokkaanse-keuken-daar-al-bijna-twe-1793561582231.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-kopen-nu-meeste-huizen-in-spanje-britten-voorbijgestreefd</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T18:37:27.941Z</news:publication_date>
-      <news:title>Marokkanen kopen nu meeste huizen in Spanje, Britten voorbijgestreefd</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-kopen-nu-meeste-huizen-in-spanje-britten-voorbijgestreefd-1793557945535.jpg</image:loc></image:image>
   </url>
 </urlset>
