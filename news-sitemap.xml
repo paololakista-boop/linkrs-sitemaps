@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/stellantis-lanceert-binnenkort-fiat-made-in-morocco-uit-fabriek-kenitra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T09:37:21.997Z</news:publication_date>
+      <news:title>Stellantis lanceert binnenkort &apos;Fiat made in Morocco&apos; uit fabriek Kénitra</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/stellantis-lanceert-binnenkort-fiat-made-in-morocco-uit-fabriek-kenitra-1793698340787.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hafida-20-vangt-baby-op-na-bevalling-in-bus-in-bologna</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T07:08:41.166Z</news:publication_date>
+      <news:title>Hafida (20) vangt baby op na bevalling in bus in Bologna</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hafida-20-vangt-baby-op-na-bevalling-in-bus-in-bologna-1793689380998.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vader-mag-dochter-meenemen-naar-trouwfeest-in-marokko-moeder-riskeert-boete-om-p</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T06:37:46.177Z</news:publication_date>
+      <news:title>Vader mag dochter meenemen naar trouwfeest in Marokko, moeder riskeert boete om paspoort</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vader-mag-dochter-meenemen-naar-trouwfeest-in-marokko-moeder-riskeert-boete-om-p-1793687562977.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/adnane-abid-in-voorselectie-marokko-belgie-probeert-hem-alsnog-te-overtuigen</loc>
     <news:news>
       <news:publication>
@@ -361,65 +397,5 @@
       <news:title>Dood van Hajar (29) uit Amsterdam: Kamerlid wil uitleg over niet-urgente vermissing</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dood-van-hajar-29-uit-amsterdam-kamerlid-wil-uitleg-over-niet-urgente-vermissing-1793529145657.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-megahaven-nador-west-med-van-start-5-miljard-euro-en-eerste-terminal-open</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T09:37:24.538Z</news:publication_date>
-      <news:title>Nieuwe megahaven Nador West Med van start: 5 miljard euro en eerste terminal open</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-megahaven-nador-west-med-van-start-5-miljard-euro-en-eerste-terminal-open-1793525543608.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nederland-overweegt-3-miljoen-euro-voor-opvangcentrum-in-marokko-voor-400-minder</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T08:57:53.376Z</news:publication_date>
-      <news:title>Nederland overweegt 3 miljoen euro voor opvangcentrum in Marokko voor 400 minderjarigen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederland-overweegt-3-miljoen-euro-voor-opvangcentrum-in-marokko-voor-400-minder-1793521970977.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-diaspora-stuurt-al-meer-dan-103-miljard-dirham-naar-huis-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T08:37:52.382Z</news:publication_date>
-      <news:title>Marokkaanse diaspora stuurt al meer dan 103 miljard dirham naar huis in 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-diaspora-stuurt-al-meer-dan-103-miljard-dirham-naar-huis-in-2026-1793521940873.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-airbnb-regels-raken-marokkaanse-verhuurders-schoonmaak-niet-meer-voor-de-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T07:48:56.336Z</news:publication_date>
-      <news:title>Nieuwe Airbnb-regels raken Marokkaanse verhuurders: schoonmaak niet meer voor de gast</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-airbnb-regels-raken-marokkaanse-verhuurders-schoonmaak-niet-meer-voor-de--1793516628934.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/werk-weigeren-om-religie-kan-in-belgie-je-leefloon-kosten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T07:28:55.082Z</news:publication_date>
-      <news:title>Werk weigeren om religie kan in België je leefloon kosten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/werk-weigeren-om-religie-kan-in-belgie-je-leefloon-kosten-1793516585032.jpg</image:loc></image:image>
   </url>
 </urlset>
