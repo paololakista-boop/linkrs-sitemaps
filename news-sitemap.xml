@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-het-buitenland-vragen-strafblad-voortaan-online-aan-vanaf-9-novemb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T17:37:20.766Z</news:publication_date>
+      <news:title>Marokkanen in het buitenland vragen strafblad voortaan online aan vanaf 9 november</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-in-het-buitenland-vragen-strafblad-voortaan-online-aan-vanaf-9-novemb-1793899939395.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hiba-alif-op-haar-20e-wethouder-in-italie-daarna-de-beledigingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T16:37:44.114Z</news:publication_date>
+      <news:title>Hiba Alif op haar 20e wethouder in Italië, daarna de beledigingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hiba-alif-op-haar-20e-wethouder-in-italie-daarna-de-beledigingen-1793896362519.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/caf-awards-2026-marokko-sterk-vertegenwoordigd-met-hakimi-regragui-en-bounou</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T15:37:16.149Z</news:publication_date>
+      <news:title>CAF Awards 2026: Marokko sterk vertegenwoordigd met Hakimi, Regragui en Bounou</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-awards-2026-marokko-sterk-vertegenwoordigd-met-hakimi-regragui-en-bounou-1793892735198.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/volkszangeres-chikha-trax-veroordeeld-tot-acht-maanden-cel-in-marrakech</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T15:28:42.696Z</news:publication_date>
+      <news:title>Volkszangeres Chikha Trax veroordeeld tot acht maanden cel in Marrakech</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volkszangeres-chikha-trax-veroordeeld-tot-acht-maanden-cel-in-marrakech-1793891017390.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-futsalploeg-naar-japan-dguig-selecteert-20-spelers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T13:37:10.111Z</news:publication_date>
+      <news:title>Marokkaanse futsalploeg naar Japan: Dguig selecteert 20 spelers</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-futsalploeg-naar-japan-dguig-selecteert-20-spelers-1793885527471.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wael-mohya-kiest-voor-duitsland-en-wijst-marokko-af-klopp-roept-hem-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:37:38.974Z</news:publication_date>
+      <news:title>Wael Mohya kiest voor Duitsland en wijst Marokko af, Klopp roept hem op</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wael-mohya-kiest-voor-duitsland-en-wijst-marokko-af-klopp-roept-hem-op-1793881957710.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-naam-vermindert-kans-op-huurwoning-in-nederland-blijkt-uit-onderzoek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T11:37:21.351Z</news:publication_date>
+      <news:title>Marokkaanse naam vermindert kans op huurwoning in Nederland, blijkt uit onderzoek</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-naam-vermindert-kans-op-huurwoning-in-nederland-blijkt-uit-onderzoek-1793878340343.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/mourad-saber-redde-zijn-amsterdamse-bakkerij-met-eigen-spaargeld-nu-zeven-keer-m</loc>
     <news:news>
       <news:publication>
@@ -349,125 +433,5 @@
       <news:title>Marokkaanse (26) trouwt in Genève met Italiaan (58), vijf dagen later wil hij al scheiden</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-26-trouwt-in-geneve-met-italiaan-58-vijf-dagen-later-wil-hij-al-sche-1793734390035.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-hotels-tellen-30-9-miljoen-overnachtingen-tot-eind-augustus</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T18:22:30.478Z</news:publication_date>
-      <news:title>Marokkaanse hotels tellen 30,9 miljoen overnachtingen tot eind augustus</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-hotels-tellen-30-9-miljoen-overnachtingen-tot-eind-augustus-1793729848859.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/shell-koopt-duurzame-vliegtuigbrandstof-uit-nieuwe-fabriek-in-haven-van-nador</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:27:07.092Z</news:publication_date>
-      <news:title>Shell koopt duurzame vliegtuigbrandstof uit nieuwe fabriek in haven van Nador</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/shell-koopt-duurzame-vliegtuigbrandstof-uit-nieuwe-fabriek-in-haven-van-nador-1793720523836.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/gastegenslag-in-guercif-proefput-van-predator-levert-geen-gas-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T16:07:06.313Z</news:publication_date>
-      <news:title>Gastegenslag in Guercif: proefput van Predator levert geen gas op</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gastegenslag-in-guercif-proefput-van-predator-levert-geen-gas-op-1793720490593.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-rolt-twee-terreurcellen-op-en-voert-controle-op-casino-s-en-verenigingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:49:01.578Z</news:publication_date>
-      <news:title>Marokko rolt twee terreurcellen op en voert controle op casino&apos;s en verenigingen op</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-rolt-twee-terreurcellen-op-en-voert-controle-op-casino-s-en-verenigingen-1793718238596.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-lanceert-nieuwe-waterstrategie-meer-dammen-ontzilting-en-bescherming-teg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:47:05.091Z</news:publication_date>
-      <news:title>Marokko lanceert nieuwe waterstrategie: meer dammen, ontzilting en bescherming tegen overstromingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-lanceert-nieuwe-waterstrategie-meer-dammen-ontzilting-en-bescherming-teg-1793720443574.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vn-missie-minurso-vertrekt-uit-de-sahara-maar-24-mijnenvelden-blijven-liggen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:38:08.363Z</news:publication_date>
-      <news:title>VN-missie Minurso vertrekt uit de Sahara, maar 24 mijnenvelden blijven liggen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vn-missie-minurso-vertrekt-uit-de-sahara-maar-24-mijnenvelden-blijven-liggen-1793719987220.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-wetenschapper-rachid-yazami-laadt-batterijcel-op-in-zeven-minuten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:29:00.780Z</news:publication_date>
-      <news:title>Marokkaanse wetenschapper Rachid Yazami laadt batterijcel op in zeven minuten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-wetenschapper-rachid-yazami-laadt-batterijcel-op-in-zeven-minuten-1793718194678.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-exporteur-beschuldigt-marokkaans-oud-parlementslid-van-schapenfraude-voo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:08:59.767Z</news:publication_date>
-      <news:title>Spaanse exporteur beschuldigt Marokkaans oud-parlementslid van schapenfraude voor 280.000 euro</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-exporteur-beschuldigt-marokkaans-oud-parlementslid-van-schapenfraude-voo-1793718164201.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/werkloosheid-in-marokko-stijgt-naar-10-5-procent-in-derde-kwartaal-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:57:56.231Z</news:publication_date>
-      <news:title>Werkloosheid in Marokko stijgt naar 10,5 procent in derde kwartaal 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/werkloosheid-in-marokko-stijgt-naar-10-5-procent-in-derde-kwartaal-2026-1793709174152.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-u17-kantari-maakt-selectie-van-21-jonge-atlasleeuwen-bekend</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:37:55.368Z</news:publication_date>
-      <news:title>WK U17: Kantari maakt selectie van 21 jonge Atlasleeuwen bekend</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-u17-kantari-maakt-selectie-van-21-jonge-atlasleeuwen-bekend-1793709141744.jpg</image:loc></image:image>
   </url>
 </urlset>
