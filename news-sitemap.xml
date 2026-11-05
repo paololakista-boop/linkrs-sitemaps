@@ -3,6 +3,78 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mourad-saber-redde-zijn-amsterdamse-bakkerij-met-eigen-spaargeld-nu-zeven-keer-m</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T10:58:08.965Z</news:publication_date>
+      <news:title>Mourad Saber redde zijn Amsterdamse bakkerij met eigen spaargeld, nu zeven keer meer omzet</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mourad-saber-redde-zijn-amsterdamse-bakkerij-met-eigen-spaargeld-nu-zeven-keer-m-1793874786973.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tunnel-onder-straat-van-gibraltar-tien-mensen-sturen-miljoenenproject-aan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T10:38:07.942Z</news:publication_date>
+      <news:title>Tunnel onder Straat van Gibraltar: tien mensen sturen miljoenenproject aan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tunnel-onder-straat-van-gibraltar-tien-mensen-sturen-miljoenenproject-aan-1793874754917.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/standard-talent-adnane-abid-gewild-door-marokko-een-factor-geeft-de-doorslag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T09:58:46.615Z</news:publication_date>
+      <news:title>Standard-talent Adnane Abid gewild door Marokko: één factor geeft de doorslag</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/standard-talent-adnane-abid-gewild-door-marokko-een-factor-geeft-de-doorslag-1793871220993.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-kan-marokko-meer-dan-840-000-banen-opleveren-zegt-minister-bensaid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T08:37:13.766Z</news:publication_date>
+      <news:title>WK 2030 kan Marokko meer dan 840.000 banen opleveren, zegt minister Bensaid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-2030-kan-marokko-meer-dan-840-000-banen-opleveren-zegt-minister-bensaid-1793867532665.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/extra-koffer-bij-royal-air-maroc-890-dirham-de-tweede-loopt-op-tot-1905</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T06:58:04.436Z</news:publication_date>
+      <news:title>Extra koffer bij Royal Air Maroc: 890 dirham, de tweede loopt op tot 1905</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/extra-koffer-bij-royal-air-maroc-890-dirham-de-tweede-loopt-op-tot-1905-1793860381926.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wilders-verwijt-premier-jetten-dat-hij-nederland-tot-half-arabisch-land-maakt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T06:38:03.447Z</news:publication_date>
+      <news:title>Wilders verwijt premier Jetten dat hij Nederland tot &apos;half-Arabisch land&apos; maakt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wilders-verwijt-premier-jetten-dat-hij-nederland-tot-half-arabisch-land-maakt-1793860345795.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/voedingsexpert-mohamed-el-fayed-vervolgd-in-marokko-voor-aanzetten-tot-haat</loc>
     <news:news>
       <news:publication>
@@ -397,41 +469,5 @@
       <news:title>WK U17: Kantari maakt selectie van 21 jonge Atlasleeuwen bekend</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-u17-kantari-maakt-selectie-van-21-jonge-atlasleeuwen-bekend-1793709141744.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/stellantis-lanceert-binnenkort-fiat-made-in-morocco-uit-fabriek-kenitra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T09:37:21.997Z</news:publication_date>
-      <news:title>Stellantis lanceert binnenkort &apos;Fiat made in Morocco&apos; uit fabriek Kénitra</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/stellantis-lanceert-binnenkort-fiat-made-in-morocco-uit-fabriek-kenitra-1793698340787.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hafida-20-vangt-baby-op-na-bevalling-in-bus-in-bologna</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T07:08:41.166Z</news:publication_date>
-      <news:title>Hafida (20) vangt baby op na bevalling in bus in Bologna</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hafida-20-vangt-baby-op-na-bevalling-in-bus-in-bologna-1793689380998.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vader-mag-dochter-meenemen-naar-trouwfeest-in-marokko-moeder-riskeert-boete-om-p</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T06:37:46.177Z</news:publication_date>
-      <news:title>Vader mag dochter meenemen naar trouwfeest in Marokko, moeder riskeert boete om paspoort</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vader-mag-dochter-meenemen-naar-trouwfeest-in-marokko-moeder-riskeert-boete-om-p-1793687562977.jpg</image:loc></image:image>
   </url>
 </urlset>
