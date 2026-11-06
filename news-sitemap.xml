@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/air-france-ontloopt-boete-van-10-000-euro-na-vlucht-met-vals-document-uit-casabl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T20:37:18.075Z</news:publication_date>
+      <news:title>Air France ontloopt boete van 10.000 euro na vlucht met vals document uit Casablanca</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/air-france-ontloopt-boete-van-10-000-euro-na-vlucht-met-vals-document-uit-casabl-1793997136459.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/oud-werknemer-chaabi-bank-uit-oujda-na-jaren-strijd-100-arbeidsongeschikt-verkla</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T19:58:25.251Z</news:publication_date>
+      <news:title>Oud-werknemer Chaabi Bank uit Oujda na jaren strijd 100% arbeidsongeschikt verklaard</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oud-werknemer-chaabi-bank-uit-oujda-na-jaren-strijd-100-arbeidsongeschikt-verkla-1793993602938.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/met-diploma-uit-marokko-naar-parijs-zakaria-belandde-dakloos-in-een-tent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T19:38:24.087Z</news:publication_date>
+      <news:title>Met diploma uit Marokko naar Parijs: Zakaria belandde dakloos in een tent</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/met-diploma-uit-marokko-naar-parijs-zakaria-belandde-dakloos-in-een-tent-1793993568091.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/settat-en-kenitra-krijgen-academisch-ziekenhuis-nieuw-groot-umc-voor-casablanca</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T16:37:26.221Z</news:publication_date>
+      <news:title>Settat en Kenitra krijgen academisch ziekenhuis, nieuw groot UMC voor Casablanca</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/settat-en-kenitra-krijgen-academisch-ziekenhuis-nieuw-groot-umc-voor-casablanca-1793982744342.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ontzilt-zeewater-redt-jonge-tomatenteler-bij-agadir</loc>
     <news:news>
       <news:publication>
@@ -349,77 +397,5 @@
       <news:title>Wilders verwijt premier Jetten dat hij Nederland tot &apos;half-Arabisch land&apos; maakt</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wilders-verwijt-premier-jetten-dat-hij-nederland-tot-half-arabisch-land-maakt-1793860345795.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/voedingsexpert-mohamed-el-fayed-vervolgd-in-marokko-voor-aanzetten-tot-haat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T20:34:28.040Z</news:publication_date>
-      <news:title>Voedingsexpert Mohamed El Fayed vervolgd in Marokko voor aanzetten tot haat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/voedingsexpert-mohamed-el-fayed-vervolgd-in-marokko-voor-aanzetten-tot-haat-1793824346715.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voedingsdeskundige-mohamed-faid-krijgt-reisverbod-na-omstreden-uitsp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:34:33.939Z</news:publication_date>
-      <news:title>Marokkaanse voedingsdeskundige Mohamed Faid krijgt reisverbod na omstreden uitspraken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-voedingsdeskundige-mohamed-faid-krijgt-reisverbod-na-omstreden-uitsp-1793820752498.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-bevestigt-staakt-het-vuren-in-de-sahara-na-einde-minurso</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T18:34:53.100Z</news:publication_date>
-      <news:title>Koning Mohammed VI bevestigt staakt-het-vuren in de Sahara na einde MINURSO</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-bevestigt-staakt-het-vuren-in-de-sahara-na-einde-minurso-1793817171963.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/onderzoek-marokkaanse-naam-verkleint-kans-op-huurwoning-behalve-in-amsterdam</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T17:37:56.008Z</news:publication_date>
-      <news:title>Onderzoek: Marokkaanse naam verkleint kans op huurwoning, behalve in Amsterdam</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onderzoek-marokkaanse-naam-verkleint-kans-op-huurwoning-behalve-in-amsterdam-1793813550488.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/drama-in-fez-man-doodt-vrouw-en-pleegt-zelfmoord-met-jachtgeweer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T17:34:57.435Z</news:publication_date>
-      <news:title>Drama in Fez: man doodt vrouw en pleegt zelfmoord met jachtgeweer</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drama-in-fez-man-doodt-vrouw-en-pleegt-zelfmoord-met-jachtgeweer-1793813574566.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-3-11-november-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T17:31:42.087Z</news:publication_date>
-      <news:title>Marokko-Niger: hoe laat, waar kijken en uitslag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-3-11-november-2026-1793813499991.jpg</image:loc></image:image>
   </url>
 </urlset>
