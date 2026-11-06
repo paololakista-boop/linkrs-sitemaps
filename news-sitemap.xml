@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/na-300-afgewezen-sollicitaties-coacht-moustafa-nu-wie-buiten-de-boot-valt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T23:07:42.038Z</news:publication_date>
+      <news:title>Na 300 afgewezen sollicitaties coacht Moustafa nu wie buiten de boot valt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/na-300-afgewezen-sollicitaties-coacht-moustafa-nu-wie-buiten-de-boot-valt-1793919760678.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-arbeider-abdelhafid-dood-na-val-op-franse-werf-bedrijf-al-geschrapt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T20:37:39.990Z</news:publication_date>
+      <news:title>Marokkaanse arbeider Abdelhafid dood na val op Franse werf, bedrijf al geschrapt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-arbeider-abdelhafid-dood-na-val-op-franse-werf-bedrijf-al-geschrapt-1793910758492.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-het-buitenland-vragen-strafblad-voortaan-online-aan-vanaf-9-novemb</loc>
     <news:news>
       <news:publication>
@@ -385,53 +409,5 @@
       <news:title>Turkije mikt op WK 2030 in Marokko: export moet naar 100 miljoen dollar</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/turkije-mikt-op-wk-2030-in-marokko-export-moet-naar-100-miljoen-dollar-1793773969959.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-koppel-verliest-zich-in-de-rechtbank-en-wordt-afwezig-verklaard</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:37:51.864Z</news:publication_date>
-      <news:title>Marokkaans echtpaar naar verkeerde rechtszaal gestuurd en eerst als afwezig genoteerd</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-koppel-verliest-zich-in-de-rechtbank-en-wordt-afwezig-verklaard-1793745170051.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bijna-een-ton-cocaine-onderschept-in-haven-tanger-med</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T21:35:29.144Z</news:publication_date>
-      <news:title>Bijna een ton cocaïne onderschept in haven Tanger Med</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bijna-een-ton-cocaine-onderschept-in-haven-tanger-med-1793741603453.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-lekjaa-onthult-plannen-voor-stadions-banen-en-casablanca-als-kloppend-ha</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T20:58:42.042Z</news:publication_date>
-      <news:title>WK 2030: Lekjaa onthult plannen voor stadions, banen en Casablanca als &apos;kloppend hart&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-2030-lekjaa-onthult-plannen-voor-stadions-banen-en-casablanca-als-kloppend-ha-1793738015622.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-26-trouwt-in-geneve-met-italiaan-58-vijf-dagen-later-wil-hij-al-sche</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T19:38:46.096Z</news:publication_date>
-      <news:title>Marokkaanse (26) trouwt in Genève met Italiaan (58), vijf dagen later wil hij al scheiden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-26-trouwt-in-geneve-met-italiaan-58-vijf-dagen-later-wil-hij-al-sche-1793734390035.jpg</image:loc></image:image>
   </url>
 </urlset>
