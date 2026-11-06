@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ontzilt-zeewater-redt-jonge-tomatenteler-bij-agadir</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T15:07:41.926Z</news:publication_date>
+      <news:title>Ontzilt zeewater redt jonge tomatenteler bij Agadir</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ontzilt-zeewater-redt-jonge-tomatenteler-bij-agadir-1793977360735.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-loopt-tegen-energierekening-aan-15-miljard-dirham-duurder-in-half-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T14:57:48.145Z</news:publication_date>
+      <news:title>Marokko loopt tegen energierekening aan: 15 miljard dirham duurder in half jaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-loopt-tegen-energierekening-aan-15-miljard-dirham-duurder-in-half-jaar-1793975566000.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-oppositieleider-feijoo-dreigt-met-vertrek-uit-wk-2030-als-marokko-de-fin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T14:37:47.051Z</news:publication_date>
+      <news:title>Spaanse oppositieleider Feijóo dreigt met vertrek uit WK 2030 als Marokko de finale krijgt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-oppositieleider-feijoo-dreigt-met-vertrek-uit-wk-2030-als-marokko-de-fin-1793975530420.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wereldrecord-in-marokkaanse-woestijn-4x4-maakt-14-koprollen-voor-film-met-john-c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T13:37:57.104Z</news:publication_date>
+      <news:title>Wereldrecord in Marokkaanse woestijn: 4x4 maakt 14 koprollen voor film met John Cena</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wereldrecord-in-marokkaanse-woestijn-4x4-maakt-14-koprollen-voor-film-met-john-c-1793971952254.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rapper-maes-in-hoger-beroep-celstraf-van-zeven-jaar-teruggebracht-naar-een-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T13:34:58.087Z</news:publication_date>
+      <news:title>Rapper Maes in hoger beroep: celstraf van zeven jaar teruggebracht naar één jaar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rapper-maes-in-hoger-beroep-celstraf-van-zeven-jaar-teruggebracht-naar-een-jaar-1793971975693.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ayoub-oufkir-kiest-voor-marokko-az-talent-opgeroepen-voor-duels-met-niger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:37:23.090Z</news:publication_date>
+      <news:title>Ayoub Oufkir kiest voor Marokko: AZ-talent opgeroepen voor duels met Niger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayoub-oufkir-kiest-voor-marokko-az-talent-opgeroepen-voor-duels-met-niger-1793968341796.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-herdenkt-51-jaar-groene-mars-met-focus-op-de-sahara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T11:37:28.699Z</news:publication_date>
+      <news:title>Marokko herdenkt 51 jaar Groene Mars met focus op de Sahara</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-herdenkt-51-jaar-groene-mars-met-focus-op-de-sahara-1793964746879.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/advocaten-in-marokko-openen-gratis-terugkeerlijn-voor-mensen-in-kampen-tindouf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:57:43.139Z</news:publication_date>
+      <news:title>Advocaten in Marokko openen gratis &apos;terugkeerlijn&apos; voor mensen in kampen Tindouf</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/advocaten-in-marokko-openen-gratis-terugkeerlijn-voor-mensen-in-kampen-tindouf-1793961161464.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-koploper-in-afrika-met-15-caf-goedgekeurde-stadions</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:37:42.235Z</news:publication_date>
+      <news:title>Marokko koploper in Afrika met 15 CAF-goedgekeurde stadions</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-koploper-in-afrika-met-15-caf-goedgekeurde-stadions-1793961127439.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/agent-die-pochte-over-geweld-tegen-marokkanen-schoot-abderrahim-dood-in-milaan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T09:37:23.695Z</news:publication_date>
+      <news:title>Agent die pochte over geweld tegen Marokkanen schoot Abderrahim dood in Milaan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/agent-die-pochte-over-geweld-tegen-marokkanen-schoot-abderrahim-dood-in-milaan-1793957542518.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zakaria-aboukhlal-doelwit-van-racisme-na-blessure-tegenstander</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T08:34:26.404Z</news:publication_date>
+      <news:title>Zakaria Aboukhlal doelwit van racisme na blessure tegenstander</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zakaria-aboukhlal-doelwit-van-racisme-na-blessure-tegenstander-1793953943940.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nederland-breidt-trekvogelprogramma-in-marokko-uit-naar-drie-nieuwe-gebieden</loc>
     <news:news>
       <news:publication>
@@ -289,125 +421,5 @@
       <news:title>Marokko-Niger: hoe laat, waar kijken en uitslag</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-3-11-november-2026-1793813499991.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/visum-spanje-bls-in-rabat-schrapt-afspraak-voor-sommige-aanvragers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T15:58:33.962Z</news:publication_date>
-      <news:title>Visum Spanje: BLS in Rabat schrapt afspraak voor sommige aanvragers</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/visum-spanje-bls-in-rabat-schrapt-afspraak-voor-sommige-aanvragers-1793807612851.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/as-far-tegen-raja-casablanca-hoe-laat-en-waar-kun-je-de-classico-kijken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T15:49:00.217Z</news:publication_date>
-      <news:title>AS FAR tegen Raja Casablanca: hoe laat en waar kun je de Classico kijken?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/as-far-tegen-raja-casablanca-hoe-laat-en-waar-kun-je-de-classico-kijken-1793804636740.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/portugees-opgepakt-in-marrakech-voor-moord-in-frankrijk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T15:28:59.291Z</news:publication_date>
-      <news:title>Portugees opgepakt in Marrakech voor moord in Frankrijk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/portugees-opgepakt-in-marrakech-voor-moord-in-frankrijk-1793804609643.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/italiaanse-stad-wil-anti-maranza-eenheid-bewoner-met-marokkaanse-roots-voert-act</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T15:08:58.057Z</news:publication_date>
-      <news:title>Italiaanse stad wil &apos;anti-maranza&apos;-eenheid, bewoner met Marokkaanse roots voert actie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italiaanse-stad-wil-anti-maranza-eenheid-bewoner-met-marokkaanse-roots-voert-act-1793804584118.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vermiste-vissersboot-lalla-khadija-gezonken-teruggevonden-bij-safi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T14:35:04.510Z</news:publication_date>
-      <news:title>Vermiste vissersboot Lalla Khadija gezonken teruggevonden bij Safi</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vermiste-vissersboot-lalla-khadija-gezonken-teruggevonden-bij-safi-1793802783322.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ryanair-breidt-fors-uit-in-marokko-580-000-extra-stoelen-deze-winter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T13:37:52.969Z</news:publication_date>
-      <news:title>Ryanair breidt fors uit in Marokko: 580.000 extra stoelen deze winter</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ryanair-breidt-fors-uit-in-marokko-580-000-extra-stoelen-deze-winter-1793799170297.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-algerije-opgepakt-slachtoffers-van-de-spanningen-met-rabat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T11:58:12.563Z</news:publication_date>
-      <news:title>Marokkanen in Algerije opgepakt: slachtoffers van de spanningen met Rabat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-in-algerije-opgepakt-slachtoffers-van-de-spanningen-met-rabat-1793791990190.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bounou-en-tagnaouti-genomineerd-voor-beste-afrikaanse-doelman-van-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T11:38:11.396Z</news:publication_date>
-      <news:title>Bounou en Tagnaouti genomineerd voor beste Afrikaanse doelman van 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bounou-en-tagnaouti-genomineerd-voor-beste-afrikaanse-doelman-van-2026-1793791958868.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hammouchi-ontvangt-veiligheidschef-van-qatar-in-rabat-over-wk-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T09:37:13.583Z</news:publication_date>
-      <news:title>Hammouchi ontvangt veiligheidschef van Qatar in Rabat over WK 2030</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hammouchi-ontvangt-veiligheidschef-van-qatar-in-rabat-over-wk-2030-1793784731800.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/abdul-el-sayed-met-egyptische-wortels-eerste-moslim-in-amerikaanse-senaat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T08:34:21.077Z</news:publication_date>
-      <news:title>Abdul El-Sayed, met Egyptische wortels eerste moslim in Amerikaanse Senaat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/abdul-el-sayed-met-egyptische-wortels-eerste-moslim-in-amerikaanse-senaat-1793781140096.jpg</image:loc></image:image>
   </url>
 </urlset>
