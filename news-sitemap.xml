@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nederland-breidt-trekvogelprogramma-in-marokko-uit-naar-drie-nieuwe-gebieden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T07:28:13.382Z</news:publication_date>
+      <news:title>Nederland breidt trekvogelprogramma in Marokko uit naar drie nieuwe gebieden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederland-breidt-trekvogelprogramma-in-marokko-uit-naar-drie-nieuwe-gebieden-1793948591080.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dirham-daalt-tegenover-euro-en-dollar-meldt-bank-al-maghrib</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T07:08:12.285Z</news:publication_date>
+      <news:title>Dirham daalt tegenover euro en dollar, meldt Bank Al-Maghrib</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-daalt-tegenover-euro-en-dollar-meldt-bank-al-maghrib-1793948554745.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-uit-dusseldorf-nodigen-duitse-minister-dobrindt-uit-na-uitspraak-over</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T06:37:40.078Z</news:publication_date>
+      <news:title>Marokkanen uit Düsseldorf nodigen Duitse minister Dobrindt uit na uitspraak over migranten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-uit-dusseldorf-nodigen-duitse-minister-dobrindt-uit-na-uitspraak-over-1793946758279.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/na-300-afgewezen-sollicitaties-coacht-moustafa-nu-wie-buiten-de-boot-valt</loc>
     <news:news>
       <news:publication>
@@ -373,41 +409,5 @@
       <news:title>Abdul El-Sayed, met Egyptische wortels eerste moslim in Amerikaanse Senaat</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/abdul-el-sayed-met-egyptische-wortels-eerste-moslim-in-amerikaanse-senaat-1793781140096.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kinderbijslag-voor-kinderen-in-marokko-terugwerkende-kracht-blijft-beperkt-tot-e</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T07:28:25.416Z</news:publication_date>
-      <news:title>Kinderbijslag voor kinderen in Marokko: terugwerkende kracht blijft beperkt tot één jaar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kinderbijslag-voor-kinderen-in-marokko-terugwerkende-kracht-blijft-beperkt-tot-e-1793775802970.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-gezin-met-zieke-kinderen-wacht-in-computerlokaal-in-ceuta-op-asiel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T07:08:24.168Z</news:publication_date>
-      <news:title>Marokkaans gezin met zieke kinderen wacht in computerlokaal in Ceuta op asiel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-gezin-met-zieke-kinderen-wacht-in-computerlokaal-in-ceuta-op-asiel-1793775768571.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/turkije-mikt-op-wk-2030-in-marokko-export-moet-naar-100-miljoen-dollar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T06:37:51.621Z</news:publication_date>
-      <news:title>Turkije mikt op WK 2030 in Marokko: export moet naar 100 miljoen dollar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/turkije-mikt-op-wk-2030-in-marokko-export-moet-naar-100-miljoen-dollar-1793773969959.jpg</image:loc></image:image>
   </url>
 </urlset>
