@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marseille-coach-vol-lof-over-marokkaan-nayef-aguerd-na-zege-op-leverkusen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T15:27:59.855Z</news:publication_date>
+      <news:title>Marseille-coach vol lof over Marokkaan Nayef Aguerd na zege op Leverkusen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marseille-coach-vol-lof-over-marokkaan-nayef-aguerd-na-zege-op-leverkusen-1794063757695.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/yassir-zabiri-scoort-opnieuw-marokkaan-staat-op-negen-goals-in-la-liga</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T15:07:58.881Z</news:publication_date>
+      <news:title>Yassir Zabiri scoort opnieuw: Marokkaan staat op negen goals in La Liga</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassir-zabiri-scoort-opnieuw-marokkaan-staat-op-negen-goals-in-la-liga-1794063737365.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hoe-een-italiaanse-gravin-haar-kaftan-uittrok-voor-een-marokkaanse-prinses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:37:05.436Z</news:publication_date>
+      <news:title>Hoe een Italiaanse gravin haar kaftan uittrok voor een Marokkaanse prinses</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoe-een-italiaanse-gravin-haar-kaftan-uittrok-voor-een-marokkaanse-prinses-1794047523876.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ilyass-uit-imzouren-verkocht-zijn-auto-voor-een-donutzaak-nu-heeft-dreams-donuts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T09:57:59.536Z</news:publication_date>
+      <news:title>Ilyass uit Imzouren verkocht zijn auto voor een donutzaak, nu heeft Dreams Donuts bijna 140 verkooppunten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ilyass-uit-imzouren-verkocht-zijn-auto-voor-een-donutzaak-nu-heeft-dreams-donuts-1794043977256.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/roemenie-wil-snel-weer-schapen-uitvoeren-naar-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T09:37:58.486Z</news:publication_date>
+      <news:title>Roemenië wil snel weer schapen uitvoeren naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/roemenie-wil-snel-weer-schapen-uitvoeren-naar-marokko-1794043940225.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-mimespeler-van-ceuta-belandt-in-de-cel</loc>
     <news:news>
       <news:publication>
@@ -313,101 +373,5 @@
       <news:title>Hiba Alif op haar 20e wethouder in Italië, daarna de beledigingen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hiba-alif-op-haar-20e-wethouder-in-italie-daarna-de-beledigingen-1793896362519.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/caf-awards-2026-marokko-sterk-vertegenwoordigd-met-hakimi-regragui-en-bounou</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:37:16.149Z</news:publication_date>
-      <news:title>CAF Awards 2026: Marokko sterk vertegenwoordigd met Hakimi, Regragui en Bounou</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-awards-2026-marokko-sterk-vertegenwoordigd-met-hakimi-regragui-en-bounou-1793892735198.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/volkszangeres-chikha-trax-veroordeeld-tot-acht-maanden-cel-in-marrakech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T15:28:42.696Z</news:publication_date>
-      <news:title>Volkszangeres Chikha Trax veroordeeld tot acht maanden cel in Marrakech</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volkszangeres-chikha-trax-veroordeeld-tot-acht-maanden-cel-in-marrakech-1793891017390.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-futsalploeg-naar-japan-dguig-selecteert-20-spelers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T13:37:10.111Z</news:publication_date>
-      <news:title>Marokkaanse futsalploeg naar Japan: Dguig selecteert 20 spelers</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-futsalploeg-naar-japan-dguig-selecteert-20-spelers-1793885527471.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wael-mohya-kiest-voor-duitsland-en-wijst-marokko-af-klopp-roept-hem-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:37:38.974Z</news:publication_date>
-      <news:title>Wael Mohya kiest voor Duitsland en wijst Marokko af, Klopp roept hem op</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wael-mohya-kiest-voor-duitsland-en-wijst-marokko-af-klopp-roept-hem-op-1793881957710.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-naam-vermindert-kans-op-huurwoning-in-nederland-blijkt-uit-onderzoek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T11:37:21.351Z</news:publication_date>
-      <news:title>Marokkaanse naam vermindert kans op huurwoning in Nederland, blijkt uit onderzoek</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-naam-vermindert-kans-op-huurwoning-in-nederland-blijkt-uit-onderzoek-1793878340343.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mourad-saber-redde-zijn-amsterdamse-bakkerij-met-eigen-spaargeld-nu-zeven-keer-m</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:58:08.965Z</news:publication_date>
-      <news:title>Mourad Saber redde zijn Amsterdamse bakkerij met eigen spaargeld, nu zeven keer meer omzet</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mourad-saber-redde-zijn-amsterdamse-bakkerij-met-eigen-spaargeld-nu-zeven-keer-m-1793874786973.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tunnel-onder-straat-van-gibraltar-tien-mensen-sturen-miljoenenproject-aan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T10:38:07.942Z</news:publication_date>
-      <news:title>Tunnel onder Straat van Gibraltar: tien mensen sturen miljoenenproject aan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tunnel-onder-straat-van-gibraltar-tien-mensen-sturen-miljoenenproject-aan-1793874754917.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/standard-talent-adnane-abid-gewild-door-marokko-een-factor-geeft-de-doorslag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T09:58:46.615Z</news:publication_date>
-      <news:title>Standard-talent Adnane Abid gewild door Marokko: één factor geeft de doorslag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/standard-talent-adnane-abid-gewild-door-marokko-een-factor-geeft-de-doorslag-1793871220993.jpg</image:loc></image:image>
   </url>
 </urlset>
