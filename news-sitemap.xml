@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/yassine-rafik-29-koopt-meerderheid-in-bedrijf-achter-batibouw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T22:33:03.927Z</news:publication_date>
+      <news:title>Yassine Rafik (29) koopt meerderheid in bedrijf achter Batibouw</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassine-rafik-29-koopt-meerderheid-in-bedrijf-achter-batibouw-1794090483097.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/tanger-med-3-en-nador-west-med-wat-marokko-investeert-en-hoeveel-banen-dat-moet-</loc>
     <news:news>
       <news:publication>
@@ -421,29 +433,5 @@
       <news:title>Marokkanen uit Düsseldorf nodigen Duitse minister Dobrindt uit na uitspraak over migranten</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-uit-dusseldorf-nodigen-duitse-minister-dobrindt-uit-na-uitspraak-over-1793946758279.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/na-300-afgewezen-sollicitaties-coacht-moustafa-nu-wie-buiten-de-boot-valt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T23:07:42.038Z</news:publication_date>
-      <news:title>Na 300 afgewezen sollicitaties coacht Moustafa nu wie buiten de boot valt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/na-300-afgewezen-sollicitaties-coacht-moustafa-nu-wie-buiten-de-boot-valt-1793919760678.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-arbeider-abdelhafid-dood-na-val-op-franse-werf-bedrijf-al-geschrapt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T20:37:39.990Z</news:publication_date>
-      <news:title>Marokkaanse arbeider Abdelhafid dood na val op Franse werf, bedrijf al geschrapt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-arbeider-abdelhafid-dood-na-val-op-franse-werf-bedrijf-al-geschrapt-1793910758492.jpg</image:loc></image:image>
   </url>
 </urlset>
