@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tanger-med-3-en-nador-west-med-wat-marokko-investeert-en-hoeveel-banen-dat-moet-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T20:04:54.766Z</news:publication_date>
+      <news:title>Tanger Med 3 en Nador West Med: wat Marokko investeert en hoeveel banen dat moet opleveren</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tanger-med-3-en-nador-west-med-wat-marokko-investeert-en-hoeveel-banen-dat-moet--1794081592387.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-futsaljongeren-naar-halve-finale-jeugd-spelen-na-15-1-tegen-salomons</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T20:01:53.562Z</news:publication_date>
+      <news:title>Marokkaanse futsaljongeren naar halve finale Jeugd Spelen na 15-1 tegen Salomonseilanden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-futsaljongeren-naar-halve-finale-jeugd-spelen-na-15-1-tegen-salomons-1794081548002.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mc-rene-duitse-rappionier-met-marokkaanse-roots-blikt-terug-in-autobiografie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T19:37:43.331Z</news:publication_date>
+      <news:title>MC Rene, Duitse rappionier met Marokkaanse roots, blikt terug in autobiografie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mc-rene-duitse-rappionier-met-marokkaanse-roots-blikt-terug-in-autobiografie-1794079961564.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zoon-verdwenen-bij-aardbeving-agadir-tv-uitzending-onthult-pijnlijke-vergissing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T18:37:56.826Z</news:publication_date>
+      <news:title>Zoon verdwenen bij aardbeving Agadir: tv-uitzending onthult pijnlijke vergissing</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zoon-verdwenen-bij-aardbeving-agadir-tv-uitzending-onthult-pijnlijke-vergissing-1794076375114.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/van-schoonmaakwerk-in-parijs-tot-modehuis-casablanca-het-verhaal-van-charaf-taje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T17:37:24.065Z</news:publication_date>
+      <news:title>Van schoonmaakwerk in Parijs tot modehuis Casablanca: het verhaal van Charaf Tajer</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-schoonmaakwerk-in-parijs-tot-modehuis-casablanca-het-verhaal-van-charaf-taje-1794072741434.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/huis-gekocht-voor-zijn-pensioen-in-marokko-maar-hassan-83-keert-niet-meer-terug</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T16:58:11.477Z</news:publication_date>
+      <news:title>Huis gekocht voor zijn pensioen in Marokko, maar Hassan (83) keert niet meer terug</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/huis-gekocht-voor-zijn-pensioen-in-marokko-maar-hassan-83-keert-niet-meer-terug-1794069189198.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/oufkir-kiest-voor-marokko-in-99-van-de-100-gevallen-gaat-het-zo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T16:38:10.336Z</news:publication_date>
+      <news:title>Oufkir kiest voor Marokko: &apos;In 99 van de 100 gevallen gaat het zo&apos;</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oufkir-kiest-voor-marokko-in-99-van-de-100-gevallen-gaat-het-zo-1794069147250.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/younes-idder-18-voor-het-eerst-opgeroepen-bij-eerste-elftal-psg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T15:48:00.630Z</news:publication_date>
+      <news:title>Younes Idder (18) voor het eerst opgeroepen bij eerste elftal PSG</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/younes-idder-18-voor-het-eerst-opgeroepen-bij-eerste-elftal-psg-1794063777712.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marseille-coach-vol-lof-over-marokkaan-nayef-aguerd-na-zege-op-leverkusen</loc>
     <news:news>
       <news:publication>
@@ -349,29 +445,5 @@
       <news:title>Marokkaanse arbeider Abdelhafid dood na val op Franse werf, bedrijf al geschrapt</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-arbeider-abdelhafid-dood-na-val-op-franse-werf-bedrijf-al-geschrapt-1793910758492.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-het-buitenland-vragen-strafblad-voortaan-online-aan-vanaf-9-novemb</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T17:37:20.766Z</news:publication_date>
-      <news:title>Marokkanen in het buitenland vragen strafblad voortaan online aan vanaf 9 november</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-in-het-buitenland-vragen-strafblad-voortaan-online-aan-vanaf-9-novemb-1793899939395.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hiba-alif-op-haar-20e-wethouder-in-italie-daarna-de-beledigingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T16:37:44.114Z</news:publication_date>
-      <news:title>Hiba Alif op haar 20e wethouder in Italië, daarna de beledigingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hiba-alif-op-haar-20e-wethouder-in-italie-daarna-de-beledigingen-1793896362519.jpg</image:loc></image:image>
   </url>
 </urlset>
