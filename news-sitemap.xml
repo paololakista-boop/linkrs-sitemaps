@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/gasproductie-marokko-stijgt-met-25-procent-acht-nieuwe-oliekansen-in-zicht</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T13:37:55.611Z</news:publication_date>
+      <news:title>Gasproductie Marokko stijgt met 25 procent, acht nieuwe oliekansen in zicht</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gasproductie-marokko-stijgt-met-25-procent-acht-nieuwe-oliekansen-in-zicht-1794144736046.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-start-landbouwseizoen-2026-27-met-bijna-5-miljoen-hectare-granen-en-veev</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T12:37:17.821Z</news:publication_date>
+      <news:title>Marokko start landbouwseizoen 2026/27 met bijna 5 miljoen hectare granen en veevoer</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-start-landbouwseizoen-2026-27-met-bijna-5-miljoen-hectare-granen-en-veev-1794141136739.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/frans-marokkaanse-ondernemer-ramdane-touhami-beleeft-nachtmerrie-met-droomhuis-i</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T07:28:25.381Z</news:publication_date>
+      <news:title>Frans-Marokkaanse ondernemer Ramdane Touhami beleeft &apos;nachtmerrie&apos; met droomhuis in Tokio</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/frans-marokkaanse-ondernemer-ramdane-touhami-beleeft-nachtmerrie-met-droomhuis-i-1794121403318.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-gezin-betaalt-al-maanden-500-euro-voor-appartement-waar-het-niet-meer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T07:08:24.426Z</news:publication_date>
+      <news:title>Marokkaans gezin betaalt al maanden 500 euro voor appartement waar het niet meer in mag</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-gezin-betaalt-al-maanden-500-euro-voor-appartement-waar-het-niet-meer-1794121362121.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/faouzia-moest-kiezen-tussen-haar-vriend-en-muziek-breuk-werd-hit-met-150-miljoen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T06:38:00.463Z</news:publication_date>
+      <news:title>Faouzia moest kiezen tussen haar vriend en muziek: breuk werd hit met 150 miljoen streams</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/faouzia-moest-kiezen-tussen-haar-vriend-en-muziek-breuk-werd-hit-met-150-miljoen-1794119542823.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/yassine-rafik-29-koopt-meerderheid-in-bedrijf-achter-batibouw</loc>
     <news:news>
       <news:publication>
@@ -301,137 +361,5 @@
       <news:title>Spaanse oppositieleider Feijóo dreigt met vertrek uit WK 2030 als Marokko de finale krijgt</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-oppositieleider-feijoo-dreigt-met-vertrek-uit-wk-2030-als-marokko-de-fin-1793975530420.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wereldrecord-in-marokkaanse-woestijn-4x4-maakt-14-koprollen-voor-film-met-john-c</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T13:37:57.104Z</news:publication_date>
-      <news:title>Wereldrecord in Marokkaanse woestijn: 4x4 maakt 14 koprollen voor film met John Cena</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wereldrecord-in-marokkaanse-woestijn-4x4-maakt-14-koprollen-voor-film-met-john-c-1793971952254.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rapper-maes-in-hoger-beroep-celstraf-van-zeven-jaar-teruggebracht-naar-een-jaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T13:34:58.087Z</news:publication_date>
-      <news:title>Rapper Maes in hoger beroep: celstraf van zeven jaar teruggebracht naar één jaar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rapper-maes-in-hoger-beroep-celstraf-van-zeven-jaar-teruggebracht-naar-een-jaar-1793971975693.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ayoub-oufkir-kiest-voor-marokko-az-talent-opgeroepen-voor-duels-met-niger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:37:23.090Z</news:publication_date>
-      <news:title>Ayoub Oufkir kiest voor Marokko: AZ-talent opgeroepen voor duels met Niger</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayoub-oufkir-kiest-voor-marokko-az-talent-opgeroepen-voor-duels-met-niger-1793968341796.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-herdenkt-51-jaar-groene-mars-met-focus-op-de-sahara</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T11:37:28.699Z</news:publication_date>
-      <news:title>Marokko herdenkt 51 jaar Groene Mars met focus op de Sahara</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-herdenkt-51-jaar-groene-mars-met-focus-op-de-sahara-1793964746879.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/advocaten-in-marokko-openen-gratis-terugkeerlijn-voor-mensen-in-kampen-tindouf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:57:43.139Z</news:publication_date>
-      <news:title>Advocaten in Marokko openen gratis &apos;terugkeerlijn&apos; voor mensen in kampen Tindouf</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/advocaten-in-marokko-openen-gratis-terugkeerlijn-voor-mensen-in-kampen-tindouf-1793961161464.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-koploper-in-afrika-met-15-caf-goedgekeurde-stadions</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T10:37:42.235Z</news:publication_date>
-      <news:title>Marokko koploper in Afrika met 15 CAF-goedgekeurde stadions</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-koploper-in-afrika-met-15-caf-goedgekeurde-stadions-1793961127439.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/agent-die-pochte-over-geweld-tegen-marokkanen-schoot-abderrahim-dood-in-milaan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T09:37:23.695Z</news:publication_date>
-      <news:title>Agent die pochte over geweld tegen Marokkanen schoot Abderrahim dood in Milaan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/agent-die-pochte-over-geweld-tegen-marokkanen-schoot-abderrahim-dood-in-milaan-1793957542518.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zakaria-aboukhlal-doelwit-van-racisme-na-blessure-tegenstander</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T08:34:26.404Z</news:publication_date>
-      <news:title>Zakaria Aboukhlal doelwit van racisme na blessure tegenstander</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zakaria-aboukhlal-doelwit-van-racisme-na-blessure-tegenstander-1793953943940.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nederland-breidt-trekvogelprogramma-in-marokko-uit-naar-drie-nieuwe-gebieden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T07:28:13.382Z</news:publication_date>
-      <news:title>Nederland breidt trekvogelprogramma in Marokko uit naar drie nieuwe gebieden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederland-breidt-trekvogelprogramma-in-marokko-uit-naar-drie-nieuwe-gebieden-1793948591080.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dirham-daalt-tegenover-euro-en-dollar-meldt-bank-al-maghrib</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T07:08:12.285Z</news:publication_date>
-      <news:title>Dirham daalt tegenover euro en dollar, meldt Bank Al-Maghrib</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-daalt-tegenover-euro-en-dollar-meldt-bank-al-maghrib-1793948554745.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-uit-dusseldorf-nodigen-duitse-minister-dobrindt-uit-na-uitspraak-over</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T06:37:40.078Z</news:publication_date>
-      <news:title>Marokkanen uit Düsseldorf nodigen Duitse minister Dobrindt uit na uitspraak over migranten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-uit-dusseldorf-nodigen-duitse-minister-dobrindt-uit-na-uitspraak-over-1793946758279.jpg</image:loc></image:image>
   </url>
 </urlset>
