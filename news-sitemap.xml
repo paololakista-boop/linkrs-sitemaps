@@ -3,6 +3,150 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-breidt-vanaf-17-november-zeebarrieres-bij-ceuta-uit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T18:37:31.099Z</news:publication_date>
+      <news:title>Spanje breidt vanaf 17 november zeebarrières bij Ceuta uit</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-breidt-vanaf-17-november-zeebarrieres-bij-ceuta-uit-1794162750136.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-4-15-november-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T17:31:54.541Z</news:publication_date>
+      <news:title>Niger-Marokko: hoe laat, waar kijken en uitslag</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-4-15-november-2026-1794159112869.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/eisenkot-mag-israelische-regering-vormen-mogelijk-eerste-premier-van-marokkaanse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T16:37:38.880Z</news:publication_date>
+      <news:title>Eisenkot mag Israëlische regering vormen, mogelijk eerste premier van Marokkaanse afkomst</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eisenkot-mag-israelische-regering-vormen-mogelijk-eerste-premier-van-marokkaanse-1794155557861.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/groot-vakantiehotel-met-waterpark-in-marrakech-verkocht-aan-geheime-investeerder</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T15:49:28.937Z</news:publication_date>
+      <news:title>Groot vakantiehotel met waterpark in Marrakech verkocht aan geheime investeerder</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/groot-vakantiehotel-met-waterpark-in-marrakech-verkocht-aan-geheime-investeerder-1794150264833.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-parlementsleden-eisen-opheldering-over-verdwijning-ben-barka-61-jaar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T15:29:28.211Z</news:publication_date>
+      <news:title>Marokkaanse parlementsleden eisen opheldering over verdwijning Ben Barka, 61 jaar later</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-parlementsleden-eisen-opheldering-over-verdwijning-ben-barka-61-jaar-1794150229886.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rabat-verrast-buitenlandse-journalist-verse-sap-voor-10-dirham-en-verkopers-die-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T15:27:21.689Z</news:publication_date>
+      <news:title>Rabat verrast buitenlandse journalist: verse sap voor 10 dirham en verkopers die je met rust laten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rabat-verrast-buitenlandse-journalist-verse-sap-voor-10-dirham-en-verkopers-die--1794148938168.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-stopt-tijdelijk-met-groente-export-naar-afrika-prijzen-dalen-meteen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T15:09:27.341Z</news:publication_date>
+      <news:title>Marokko stopt tijdelijk met groente-export naar Afrika, prijzen dalen meteen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-stopt-tijdelijk-met-groente-export-naar-afrika-prijzen-dalen-meteen-1794150198234.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-meldt-349-miljoen-ton-potas-en-veelbelovende-goud-en-lithiumvondsten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T15:07:20.968Z</news:publication_date>
+      <news:title>Marokko meldt 349 miljoen ton potas en veelbelovende goud- en lithiumvondsten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-meldt-349-miljoen-ton-potas-en-veelbelovende-goud-en-lithiumvondsten-1794148897452.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nigeria-wint-wk-onder-17-voor-meisjes-in-marokko-na-2-1-tegen-japan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T15:06:26.090Z</news:publication_date>
+      <news:title>Nigeria wint WK onder 17 voor meisjes in Marokko na 2-1 tegen Japan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nigeria-wint-wk-onder-17-voor-meisjes-in-marokko-na-2-1-tegen-japan-1794150164764.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hamza-igamane-verlengt-tot-2031-bij-lille-ondanks-knieblessure</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T14:47:20.196Z</news:publication_date>
+      <news:title>Hamza Igamane verlengt tot 2031 bij Lille ondanks knieblessure</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hamza-igamane-verlengt-tot-2031-bij-lille-ondanks-knieblessure-1794148855876.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verslaat-egypte-en-staat-in-finale-arab-cup-beachsoccer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T14:44:19.294Z</news:publication_date>
+      <news:title>Marokko verslaat Egypte en staat in finale Arab Cup beachsoccer</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verslaat-egypte-en-staat-in-finale-arab-cup-beachsoccer-1794148820562.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/toestel-air-arabia-maroc-scheerde-na-vertrek-vlak-boven-de-zee-onderzoek-wijst-o</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T14:34:39.621Z</news:publication_date>
+      <news:title>Toestel Air Arabia Maroc scheerde na vertrek vlak boven de zee, onderzoek wijst op pilotenfouten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/toestel-air-arabia-maroc-scheerde-na-vertrek-vlak-boven-de-zee-onderzoek-wijst-o-1794148357154.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/gasproductie-marokko-stijgt-met-25-procent-acht-nieuwe-oliekansen-in-zicht</loc>
     <news:news>
       <news:publication>
@@ -313,53 +457,5 @@
       <news:title>Met diploma uit Marokko naar Parijs: Zakaria belandde dakloos in een tent</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/met-diploma-uit-marokko-naar-parijs-zakaria-belandde-dakloos-in-een-tent-1793993568091.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/settat-en-kenitra-krijgen-academisch-ziekenhuis-nieuw-groot-umc-voor-casablanca</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T16:37:26.221Z</news:publication_date>
-      <news:title>Settat en Kenitra krijgen academisch ziekenhuis, nieuw groot UMC voor Casablanca</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/settat-en-kenitra-krijgen-academisch-ziekenhuis-nieuw-groot-umc-voor-casablanca-1793982744342.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ontzilt-zeewater-redt-jonge-tomatenteler-bij-agadir</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T15:07:41.926Z</news:publication_date>
-      <news:title>Ontzilt zeewater redt jonge tomatenteler bij Agadir</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ontzilt-zeewater-redt-jonge-tomatenteler-bij-agadir-1793977360735.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-loopt-tegen-energierekening-aan-15-miljard-dirham-duurder-in-half-jaar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:57:48.145Z</news:publication_date>
-      <news:title>Marokko loopt tegen energierekening aan: 15 miljard dirham duurder in half jaar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-loopt-tegen-energierekening-aan-15-miljard-dirham-duurder-in-half-jaar-1793975566000.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-oppositieleider-feijoo-dreigt-met-vertrek-uit-wk-2030-als-marokko-de-fin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:37:47.051Z</news:publication_date>
-      <news:title>Spaanse oppositieleider Feijóo dreigt met vertrek uit WK 2030 als Marokko de finale krijgt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-oppositieleider-feijoo-dreigt-met-vertrek-uit-wk-2030-als-marokko-de-fin-1793975530420.jpg</image:loc></image:image>
   </url>
 </urlset>
