@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verklaring-van-goed-gedrag-nu-ook-online-aan-te-vragen-voor-marokkanen-in-het-bu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T11:37:52.756Z</news:publication_date>
+      <news:title>Verklaring van goed gedrag nu ook online aan te vragen voor Marokkanen in het buitenland</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verklaring-van-goed-gedrag-nu-ook-online-aan-te-vragen-voor-marokkanen-in-het-bu-1794223970894.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ouders-oud-in-marokko-kinderen-in-europa-wie-zorgt-er-straks-voor-hen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T09:46:34.859Z</news:publication_date>
+      <news:title>Ouders oud in Marokko, kinderen in Europa: wie zorgt er straks voor hen?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ouders-oud-in-marokko-kinderen-in-europa-wie-zorgt-er-straks-voor-hen-1794216092633.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-gemeenschap-in-regio-parijs-viert-51-jaar-groene-mars</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T09:26:33.681Z</news:publication_date>
+      <news:title>Marokkaanse gemeenschap in regio Parijs viert 51 jaar Groene Mars</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-gemeenschap-in-regio-parijs-viert-51-jaar-groene-mars-1794216047287.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ayoub-oufkir-kiest-definitief-voor-marokko-en-laat-knvb-links-liggen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T08:37:36.653Z</news:publication_date>
+      <news:title>Ayoub Oufkir kiest definitief voor Marokko en laat KNVB links liggen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayoub-oufkir-kiest-definitief-voor-marokko-en-laat-knvb-links-liggen-1794213155369.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vs-zetten-miljoen-dollar-in-op-antidronetest-in-tan-tan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T07:07:29.775Z</news:publication_date>
+      <news:title>VS zetten miljoen dollar in op antidronetest in Tan-Tan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vs-zetten-miljoen-dollar-in-op-antidronetest-in-tan-tan-1794207748424.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/blauwe-kaart-belgie-maakt-werken-voor-hoogopgeleide-marokkanen-makkelijker</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T06:58:00.331Z</news:publication_date>
+      <news:title>Blauwe kaart: België maakt werken voor hoogopgeleide Marokkanen makkelijker</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/blauwe-kaart-belgie-maakt-werken-voor-hoogopgeleide-marokkanen-makkelijker-1794205978422.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belgie-wil-politie-laten-binnenvallen-bij-uitzettingen-ook-bij-vrienden-thuis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T06:37:59.177Z</news:publication_date>
+      <news:title>België wil politie laten binnenvallen bij uitzettingen, ook bij vrienden thuis</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-wil-politie-laten-binnenvallen-bij-uitzettingen-ook-bij-vrienden-thuis-1794205937505.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-informaticus-mohamed-arnouss-vertrekt-naar-new-york-university</loc>
     <news:news>
       <news:publication>
@@ -385,77 +469,5 @@
       <news:title>Yassir Zabiri scoort opnieuw: Marokkaan staat op negen goals in La Liga</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassir-zabiri-scoort-opnieuw-marokkaan-staat-op-negen-goals-in-la-liga-1794063737365.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hoe-een-italiaanse-gravin-haar-kaftan-uittrok-voor-een-marokkaanse-prinses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T10:37:05.436Z</news:publication_date>
-      <news:title>Hoe een Italiaanse gravin haar kaftan uittrok voor een Marokkaanse prinses</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoe-een-italiaanse-gravin-haar-kaftan-uittrok-voor-een-marokkaanse-prinses-1794047523876.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ilyass-uit-imzouren-verkocht-zijn-auto-voor-een-donutzaak-nu-heeft-dreams-donuts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T09:57:59.536Z</news:publication_date>
-      <news:title>Ilyass uit Imzouren verkocht zijn auto voor een donutzaak, nu heeft Dreams Donuts bijna 140 verkooppunten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ilyass-uit-imzouren-verkocht-zijn-auto-voor-een-donutzaak-nu-heeft-dreams-donuts-1794043977256.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/roemenie-wil-snel-weer-schapen-uitvoeren-naar-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T09:37:58.486Z</news:publication_date>
-      <news:title>Roemenië wil snel weer schapen uitvoeren naar Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/roemenie-wil-snel-weer-schapen-uitvoeren-naar-marokko-1794043940225.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-mimespeler-van-ceuta-belandt-in-de-cel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T07:07:25.640Z</news:publication_date>
-      <news:title>Marokkaanse &apos;mimespeler van Ceuta&apos; belandt in de cel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-mimespeler-van-ceuta-belandt-in-de-cel-1794034943953.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nigeriaanse-rapper-zlatan-trouwt-in-marrakech-met-marokkaanse-bruiloftsrituelen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T06:57:52.687Z</news:publication_date>
-      <news:title>Nigeriaanse rapper Zlatan trouwt in Marrakech met Marokkaanse bruiloftsrituelen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nigeriaanse-rapper-zlatan-trouwt-in-marrakech-met-marokkaanse-bruiloftsrituelen-1794033169990.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgie-wil-politie-toegang-geven-tot-woningen-van-uitgeprocedeerde-migranten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T06:37:51.637Z</news:publication_date>
-      <news:title>België wil politie toegang geven tot woningen van uitgeprocedeerde migranten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-wil-politie-toegang-geven-tot-woningen-van-uitgeprocedeerde-migranten-1794033134400.jpg</image:loc></image:image>
   </url>
 </urlset>
