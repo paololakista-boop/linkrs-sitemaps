@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-informaticus-mohamed-arnouss-vertrekt-naar-new-york-university</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T23:02:32.774Z</news:publication_date>
+      <news:title>Marokkaanse informaticus Mohamed Arnouss vertrekt naar New York University</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-informaticus-mohamed-arnouss-vertrekt-naar-new-york-university-1794177451210.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/as-far-vrouwen-naar-halve-finale-caf-champions-league-na-2-0-tegen-ampem-darkoa</loc>
     <news:news>
       <news:publication>
