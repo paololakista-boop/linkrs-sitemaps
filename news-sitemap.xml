@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/127-000-marokkanen-kregen-woonsteun-regeling-huurwet-op-komst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T12:23:48.937Z</news:publication_date>
+      <news:title>127.000 Marokkanen kregen woonsteun, regeling huurwet op komst</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/127-000-marokkanen-kregen-woonsteun-regeling-huurwet-op-komst-1794313082138.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-starten-voorbereiding-op-dubbele-interland-tegen-niger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T11:58:09.977Z</news:publication_date>
+      <news:title>Atlasleeuwen starten voorbereiding op dubbele interland tegen Niger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwen-starten-voorbereiding-op-dubbele-interland-tegen-niger-1794310385287.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/achraf-hakimi-voor-derde-keer-gekozen-in-fifpro-wereldelftal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T09:37:33.717Z</news:publication_date>
+      <news:title>Achraf Hakimi voor derde keer gekozen in FIFPRO-wereldelftal</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/achraf-hakimi-voor-derde-keer-gekozen-in-fifpro-wereldelftal-1794303152650.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/steeds-meer-marokkaanse-brusselaars-begraven-in-belgie-maar-plek-raakt-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T08:37:41.284Z</news:publication_date>
+      <news:title>Steeds meer Marokkaanse Brusselaars begraven in België, maar plek raakt op</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/steeds-meer-marokkaanse-brusselaars-begraven-in-belgie-maar-plek-raakt-op-1794299560202.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rechter-geeft-franse-prefectuur-zeven-dagen-voor-verblijfskaart-marokkaanse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T07:37:24.663Z</news:publication_date>
+      <news:title>Rechter geeft Franse prefectuur zeven dagen voor verblijfskaart Marokkaanse</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rechter-geeft-franse-prefectuur-zeven-dagen-voor-verblijfskaart-marokkaanse-1794295943486.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verhoogt-brandstofsteun-voor-wegvervoer-met-60-procent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T07:28:15.220Z</news:publication_date>
+      <news:title>Marokko verhoogt brandstofsteun voor wegvervoer met 60 procent</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verhoogt-brandstofsteun-voor-wegvervoer-met-60-procent-1794294189649.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hoog-loodgehalte-in-marokkaanse-zellige-wat-betekent-dat-voor-jou</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T06:38:01.003Z</news:publication_date>
+      <news:title>Hoog loodgehalte in Marokkaanse zellige: wat betekent dat voor jou?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoog-loodgehalte-in-marokkaanse-zellige-wat-betekent-dat-voor-jou-1794292343304.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-3-13-november-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T05:31:55.935Z</news:publication_date>
+      <news:title>Marokko-Niger: hoe laat, waar kijken en uitslag</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-3-13-november-2026-1794288714336.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ceuta-kampt-met-tekort-aan-koelruimte-voor-overleden-migranten</loc>
     <news:news>
       <news:publication>
@@ -457,53 +553,5 @@
       <news:title>Gasproductie Marokko stijgt met 25 procent, acht nieuwe oliekansen in zicht</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/gasproductie-marokko-stijgt-met-25-procent-acht-nieuwe-oliekansen-in-zicht-1794144736046.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-start-landbouwseizoen-2026-27-met-bijna-5-miljoen-hectare-granen-en-veev</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T12:37:17.821Z</news:publication_date>
-      <news:title>Marokko start landbouwseizoen 2026/27 met bijna 5 miljoen hectare granen en veevoer</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-start-landbouwseizoen-2026-27-met-bijna-5-miljoen-hectare-granen-en-veev-1794141136739.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/frans-marokkaanse-ondernemer-ramdane-touhami-beleeft-nachtmerrie-met-droomhuis-i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T07:28:25.381Z</news:publication_date>
-      <news:title>Frans-Marokkaanse ondernemer Ramdane Touhami beleeft &apos;nachtmerrie&apos; met droomhuis in Tokio</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/frans-marokkaanse-ondernemer-ramdane-touhami-beleeft-nachtmerrie-met-droomhuis-i-1794121403318.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-gezin-betaalt-al-maanden-500-euro-voor-appartement-waar-het-niet-meer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T07:08:24.426Z</news:publication_date>
-      <news:title>Marokkaans gezin betaalt al maanden 500 euro voor appartement waar het niet meer in mag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-gezin-betaalt-al-maanden-500-euro-voor-appartement-waar-het-niet-meer-1794121362121.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/faouzia-moest-kiezen-tussen-haar-vriend-en-muziek-breuk-werd-hit-met-150-miljoen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T06:38:00.463Z</news:publication_date>
-      <news:title>Faouzia moest kiezen tussen haar vriend en muziek: breuk werd hit met 150 miljoen streams</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/faouzia-moest-kiezen-tussen-haar-vriend-en-muziek-breuk-werd-hit-met-150-miljoen-1794119542823.jpg</image:loc></image:image>
   </url>
 </urlset>
