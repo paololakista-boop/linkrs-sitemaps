@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ceuta-kampt-met-tekort-aan-koelruimte-voor-overleden-migranten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T01:51:57.871Z</news:publication_date>
+      <news:title>Ceuta kampt met tekort aan koelruimte voor overleden migranten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ceuta-kampt-met-tekort-aan-koelruimte-voor-overleden-migranten-1794275396737.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verliest-futsalhalve-finale-van-argentinie-en-speelt-om-brons-tegen-afgh</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T00:34:26.625Z</news:publication_date>
+      <news:title>Marokko verliest futsalhalve finale van Argentinië en speelt om brons tegen Afghanistan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verliest-futsalhalve-finale-van-argentinie-en-speelt-om-brons-tegen-afgh-1794270745296.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-hervat-groente-export-naar-afrika-maar-niet-voor-tomaten-uien-en-aardapp</loc>
     <news:news>
       <news:publication>
@@ -481,17 +505,5 @@
       <news:title>Faouzia moest kiezen tussen haar vriend en muziek: breuk werd hit met 150 miljoen streams</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/faouzia-moest-kiezen-tussen-haar-vriend-en-muziek-breuk-werd-hit-met-150-miljoen-1794119542823.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/yassine-rafik-29-koopt-meerderheid-in-bedrijf-achter-batibouw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T22:33:03.927Z</news:publication_date>
-      <news:title>Yassine Rafik (29) koopt meerderheid in bedrijf achter Batibouw</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/yassine-rafik-29-koopt-meerderheid-in-bedrijf-achter-batibouw-1794090483097.jpg</image:loc></image:image>
   </url>
 </urlset>
