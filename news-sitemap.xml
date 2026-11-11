@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/safaa-zoubaa-bokskampioene-van-marokko-wil-terug-de-ring-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T16:11:02.730Z</news:publication_date>
+      <news:title>Safaa Zoubaa, bokskampioene van Marokko, wil terug de ring in</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/safaa-zoubaa-bokskampioene-van-marokko-wil-terug-de-ring-in-1794411920971.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vleesprijs-marokko-minister-hatimi-wil-invoer-afremmen-om-veestapel-te-redden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T15:51:01.591Z</news:publication_date>
+      <news:title>Vleesprijs Marokko: minister Hatimi wil invoer afremmen om veestapel te redden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vleesprijs-marokko-minister-hatimi-wil-invoer-afremmen-om-veestapel-te-redden-1794411898784.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/elhousine-elazzaoui-voor-derde-keer-op-rij-wereldkampioen-trailrunning</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T15:09:10.511Z</news:publication_date>
+      <news:title>Elhousine Elazzaoui voor derde keer op rij wereldkampioen trailrunning</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/elhousine-elazzaoui-voor-derde-keer-op-rij-wereldkampioen-trailrunning-1794409368460.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/drie-jongeren-uit-edingen-reizen-met-1200-kilo-bagage-naar-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:58:26.219Z</news:publication_date>
+      <news:title>Drie jongeren uit Edingen reizen met 1200 kilo bagage naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drie-jongeren-uit-edingen-reizen-met-1200-kilo-bagage-naar-marokko-1794400404131.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-15-671-migranten-teruggekeerd-naar-marokko-sinds-eind-augustus</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T12:38:25.324Z</news:publication_date>
+      <news:title>Spanje: 15.671 migranten teruggekeerd naar Marokko sinds eind augustus</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-15-671-migranten-teruggekeerd-naar-marokko-sinds-eind-augustus-1794400373143.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-beachsoccerteam-wint-voor-het-eerst-de-arab-cup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T10:34:53.353Z</news:publication_date>
+      <news:title>Marokkaans beachsoccerteam wint voor het eerst de Arab Cup</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-beachsoccerteam-wint-voor-het-eerst-de-arab-cup-1794393133293.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-haalt-188-000-ton-olijfolie-uit-de-markt-terwijl-import-uit-marokko-doorg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T08:37:34.849Z</news:publication_date>
+      <news:title>Spanje haalt 188.000 ton olijfolie uit de markt, terwijl import uit Marokko doorgaat</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-haalt-188-000-ton-olijfolie-uit-de-markt-terwijl-import-uit-marokko-doorg-1794385953525.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/dakar-rally-keert-in-2027-na-twintig-jaar-terug-naar-marokko</loc>
     <news:news>
       <news:publication>
@@ -361,125 +445,5 @@
       <news:title>Marokko wint voor het eerst de Arabische Cup beachsoccer</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wint-voor-het-eerst-de-arabische-cup-beachsoccer-1794245547085.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hamza-ighman-verlengt-contract-bij-lille-tot-2031</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T15:58:08.577Z</news:publication_date>
-      <news:title>Hamza Ighman verlengt contract bij Lille tot 2031</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hamza-ighman-verlengt-contract-bij-lille-tot-2031-1794238386064.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/attijariwafa-bank-zet-eerste-stap-in-engelstalig-afrika-met-overname-in-ghana</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T15:49:44.354Z</news:publication_date>
-      <news:title>Attijariwafa Bank zet eerste stap in Engelstalig Afrika met overname in Ghana</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/attijariwafa-bank-zet-eerste-stap-in-engelstalig-afrika-met-overname-in-ghana-1794236642306.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-citrusoogst-daalt-met-20-procent-door-extreme-zomerhitte</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T15:38:07.329Z</news:publication_date>
-      <news:title>Marokkaanse citrusoogst daalt met 20 procent door extreme zomerhitte</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-citrusoogst-daalt-met-20-procent-door-extreme-zomerhitte-1794238357928.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/aardbeving-van-4-4-in-provincie-azilal-meer-seismische-activiteit-in-regio-beni-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T15:06:45.302Z</news:publication_date>
-      <news:title>Aardbeving van 4,4 in provincie Azilal: meer seismische activiteit in regio Beni Mellal</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/aardbeving-van-4-4-in-provincie-azilal-meer-seismische-activiteit-in-regio-beni--1794236675731.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/franse-rechter-past-marokkaans-recht-toe-maar-vrouw-krijgt-geen-bruidsschat-na-s</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:38:04.525Z</news:publication_date>
-      <news:title>Franse rechter past Marokkaans recht toe, maar vrouw krijgt geen bruidsschat na scheiding</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-rechter-past-marokkaans-recht-toe-maar-vrouw-krijgt-geen-bruidsschat-na-s-1794234746638.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/jeugdwerker-uit-antwerpen-veroordeeld-voor-cocainehandel-15-maanden-voorwaardeli</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T13:38:07.528Z</news:publication_date>
-      <news:title>Jeugdwerker uit Antwerpen veroordeeld voor cocaïnehandel: 15 maanden voorwaardelijk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jeugdwerker-uit-antwerpen-veroordeeld-voor-cocainehandel-15-maanden-voorwaardeli-1794231149996.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verklaring-van-goed-gedrag-nu-ook-online-aan-te-vragen-voor-marokkanen-in-het-bu</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T11:37:52.756Z</news:publication_date>
-      <news:title>Verklaring van goed gedrag nu ook online aan te vragen voor Marokkanen in het buitenland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verklaring-van-goed-gedrag-nu-ook-online-aan-te-vragen-voor-marokkanen-in-het-bu-1794223970894.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ouders-oud-in-marokko-kinderen-in-europa-wie-zorgt-er-straks-voor-hen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T09:46:34.859Z</news:publication_date>
-      <news:title>Ouders oud in Marokko, kinderen in Europa: wie zorgt er straks voor hen?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ouders-oud-in-marokko-kinderen-in-europa-wie-zorgt-er-straks-voor-hen-1794216092633.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-gemeenschap-in-regio-parijs-viert-51-jaar-groene-mars</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T09:26:33.681Z</news:publication_date>
-      <news:title>Marokkaanse gemeenschap in regio Parijs viert 51 jaar Groene Mars</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-gemeenschap-in-regio-parijs-viert-51-jaar-groene-mars-1794216047287.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ayoub-oufkir-kiest-definitief-voor-marokko-en-laat-knvb-links-liggen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T08:37:36.653Z</news:publication_date>
-      <news:title>Ayoub Oufkir kiest definitief voor Marokko en laat KNVB links liggen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayoub-oufkir-kiest-definitief-voor-marokko-en-laat-knvb-links-liggen-1794213155369.jpg</image:loc></image:image>
   </url>
 </urlset>
