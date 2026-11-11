@@ -494,40 +494,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-wil-politie-laten-binnenvallen-bij-uitzettingen-ook-bij-vrienden-thuis-1794205937505.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-informaticus-mohamed-arnouss-vertrekt-naar-new-york-university</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T23:02:32.774Z</news:publication_date>
-      <news:title>Marokkaanse informaticus Mohamed Arnouss vertrekt naar New York University</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-informaticus-mohamed-arnouss-vertrekt-naar-new-york-university-1794177451210.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/as-far-vrouwen-naar-halve-finale-caf-champions-league-na-2-0-tegen-ampem-darkoa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T22:42:32.076Z</news:publication_date>
-      <news:title>AS FAR vrouwen naar halve finale CAF Champions League na 2-0 tegen Ampem Darkoa</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/as-far-vrouwen-naar-halve-finale-caf-champions-league-na-2-0-tegen-ampem-darkoa-1794177413247.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vlucht-casablanca-istanbul-week-uit-naar-barcelona-om-zieke-baby</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T22:34:15.156Z</news:publication_date>
-      <news:title>Vlucht Casablanca-Istanbul week uit naar Barcelona om zieke baby</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vlucht-casablanca-istanbul-week-uit-naar-barcelona-om-zieke-baby-1794177134137.jpg</image:loc></image:image>
-  </url>
 </urlset>
