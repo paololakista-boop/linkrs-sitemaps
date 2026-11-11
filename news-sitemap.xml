@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dakar-rally-keert-in-2027-na-twintig-jaar-terug-naar-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T07:08:37.840Z</news:publication_date>
+      <news:title>Dakar Rally keert in 2027 na twintig jaar terug naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dakar-rally-keert-in-2027-na-twintig-jaar-terug-naar-marokko-1794380615871.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/weer-in-marokko-woensdag-11-november-hevige-regen-en-storm-boven-de-rif</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T06:38:04.132Z</news:publication_date>
+      <news:title>Weer in Marokko woensdag 11 november: hevige regen en storm boven de Rif</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weer-in-marokko-woensdag-11-november-hevige-regen-en-storm-boven-de-rif-1794378738628.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-islamitische-maand-joemada-al-thani-begint-woensdag-in-marokko</loc>
     <news:news>
       <news:publication>
@@ -457,41 +481,5 @@
       <news:title>Ayoub Oufkir kiest definitief voor Marokko en laat KNVB links liggen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayoub-oufkir-kiest-definitief-voor-marokko-en-laat-knvb-links-liggen-1794213155369.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vs-zetten-miljoen-dollar-in-op-antidronetest-in-tan-tan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T07:07:29.775Z</news:publication_date>
-      <news:title>VS zetten miljoen dollar in op antidronetest in Tan-Tan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vs-zetten-miljoen-dollar-in-op-antidronetest-in-tan-tan-1794207748424.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/blauwe-kaart-belgie-maakt-werken-voor-hoogopgeleide-marokkanen-makkelijker</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T06:58:00.331Z</news:publication_date>
-      <news:title>Blauwe kaart: België maakt werken voor hoogopgeleide Marokkanen makkelijker</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/blauwe-kaart-belgie-maakt-werken-voor-hoogopgeleide-marokkanen-makkelijker-1794205978422.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgie-wil-politie-laten-binnenvallen-bij-uitzettingen-ook-bij-vrienden-thuis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T06:37:59.177Z</news:publication_date>
-      <news:title>België wil politie laten binnenvallen bij uitzettingen, ook bij vrienden thuis</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-wil-politie-laten-binnenvallen-bij-uitzettingen-ook-bij-vrienden-thuis-1794205937505.jpg</image:loc></image:image>
   </url>
 </urlset>
