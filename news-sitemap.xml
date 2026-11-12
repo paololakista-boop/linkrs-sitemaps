@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/adil-ramzi-ontkent-dat-hij-talenten-weglokt-bij-marokko-voor-oranje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T11:38:11.360Z</news:publication_date>
+      <news:title>Adil Ramzi ontkent dat hij talenten weglokt bij Marokko voor Oranje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/adil-ramzi-ontkent-dat-hij-talenten-weglokt-bij-marokko-voor-oranje-1794483183141.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/italiaanse-moeder-doet-aangifte-zoontje-van-3-na-bezoek-bij-vader-in-marokko-geb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T10:37:26.259Z</news:publication_date>
+      <news:title>Italiaanse moeder doet aangifte: zoontje van 3 na bezoek bij vader in Marokko gebleven</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/italiaanse-moeder-doet-aangifte-zoontje-van-3-na-bezoek-bij-vader-in-marokko-geb-1794479544521.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-ethiopie-u23-hoe-laat-en-waar-kun-je-kijken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T09:37:31.191Z</news:publication_date>
+      <news:title>Marokko-Ethiopië U23: hoe laat en waar kun je kijken?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-ethiopie-u23-hoe-laat-en-waar-kun-je-kijken-1794475949991.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zweden-maakt-intrekken-van-nationaliteit-bij-dubbele-paspoorthouders-mogelijk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T08:37:14.257Z</news:publication_date>
+      <news:title>Zweden maakt intrekken van nationaliteit bij dubbele paspoorthouders mogelijk</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zweden-maakt-intrekken-van-nationaliteit-bij-dubbele-paspoorthouders-mogelijk-1794472333018.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ayyoub-bouaddi-19-nu-meest-waardevolle-marokkaanse-voetballer-boven-hakimi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T08:06:51.768Z</news:publication_date>
+      <news:title>Ayyoub Bouaddi (19) nu meest waardevolle Marokkaanse voetballer, boven Hakimi</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayyoub-bouaddi-19-nu-meest-waardevolle-marokkaanse-voetballer-boven-hakimi-1794470510442.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-auto-industrie-exporteert-voor-159-miljard-dirham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T07:29:05.138Z</news:publication_date>
+      <news:title>Marokkaanse auto-industrie exporteert voor 159 miljard dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-auto-industrie-exporteert-voor-159-miljard-dirham-1794467038734.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaans-marokkaanse-man-springt-in-nederland-uit-rijdende-auto-na-tien-dagen-gijz</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T07:06:00.066Z</news:publication_date>
+      <news:title>Spaans-Marokkaanse man springt in Nederland uit rijdende auto na tien dagen gijzeling</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaans-marokkaanse-man-springt-in-nederland-uit-rijdende-auto-na-tien-dagen-gijz-1794466966369.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hoge-raad-vernietigt-drugsveroordeling-marokkaan-wie-belde-met-dat-telefoonnumme</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T06:37:53.867Z</news:publication_date>
+      <news:title>Hoge Raad vernietigt drugsveroordeling Marokkaan: wie belde met dat telefoonnummer?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoge-raad-vernietigt-drugsveroordeling-marokkaan-wie-belde-met-dat-telefoonnumme-1794465168424.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/verenigde-staten-trekken-zich-terug-uit-wk-u17-in-qatar-algerije-in-dezelfde-pou</loc>
     <news:news>
       <news:publication>
@@ -337,101 +433,5 @@
       <news:title>Saadia (72) klaagt Marokkaanse staat aan: ontslagen, dakloos en zonder paspoort</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/saadia-72-klaagt-marokkaanse-staat-aan-ontslagen-dakloos-en-zonder-paspoort-1794317624102.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/127-000-marokkanen-kregen-woonsteun-regeling-huurwet-op-komst</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T12:23:48.937Z</news:publication_date>
-      <news:title>127.000 Marokkanen kregen woonsteun, regeling huurwet op komst</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/127-000-marokkanen-kregen-woonsteun-regeling-huurwet-op-komst-1794313082138.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-starten-voorbereiding-op-dubbele-interland-tegen-niger</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:58:09.977Z</news:publication_date>
-      <news:title>Atlasleeuwen starten voorbereiding op dubbele interland tegen Niger</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwen-starten-voorbereiding-op-dubbele-interland-tegen-niger-1794310385287.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/achraf-hakimi-voor-derde-keer-gekozen-in-fifpro-wereldelftal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T09:37:33.717Z</news:publication_date>
-      <news:title>Achraf Hakimi voor derde keer gekozen in FIFPRO-wereldelftal</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/achraf-hakimi-voor-derde-keer-gekozen-in-fifpro-wereldelftal-1794303152650.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/steeds-meer-marokkaanse-brusselaars-begraven-in-belgie-maar-plek-raakt-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T08:37:41.284Z</news:publication_date>
-      <news:title>Steeds meer Marokkaanse Brusselaars begraven in België, maar plek raakt op</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/steeds-meer-marokkaanse-brusselaars-begraven-in-belgie-maar-plek-raakt-op-1794299560202.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rechter-geeft-franse-prefectuur-zeven-dagen-voor-verblijfskaart-marokkaanse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T07:37:24.663Z</news:publication_date>
-      <news:title>Rechter geeft Franse prefectuur zeven dagen voor verblijfskaart Marokkaanse</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rechter-geeft-franse-prefectuur-zeven-dagen-voor-verblijfskaart-marokkaanse-1794295943486.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verhoogt-brandstofsteun-voor-wegvervoer-met-60-procent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T07:28:15.220Z</news:publication_date>
-      <news:title>Marokko verhoogt brandstofsteun voor wegvervoer met 60 procent</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verhoogt-brandstofsteun-voor-wegvervoer-met-60-procent-1794294189649.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hoog-loodgehalte-in-marokkaanse-zellige-wat-betekent-dat-voor-jou</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T06:38:01.003Z</news:publication_date>
-      <news:title>Hoog loodgehalte in Marokkaanse zellige: wat betekent dat voor jou?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoog-loodgehalte-in-marokkaanse-zellige-wat-betekent-dat-voor-jou-1794292343304.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-3-13-november-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T05:31:55.935Z</news:publication_date>
-      <news:title>Marokko-Niger: hoe laat, waar kijken en uitslag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-3-13-november-2026-1794288714336.jpg</image:loc></image:image>
   </url>
 </urlset>
