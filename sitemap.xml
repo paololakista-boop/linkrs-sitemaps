@@ -32,6 +32,62 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-gaat-onderdelen-maken-voor-boeing-737-max-en-777x</loc>
+    <lastmod>2026-11-12T20:37:49.128Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-gaat-onderdelen-maken-voor-boeing-737-max-en-777x-1794515567762.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tui-fly-schrapt-vier-marokko-routes-vanuit-lille</loc>
+    <lastmod>2026-11-12T18:34:44.965Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tui-fly-schrapt-vier-marokko-routes-vanuit-lille-1794508364160.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/sara-carbonero-verblijft-in-noord-marokko-luxeweekend-aan-tamuda-bay-en-tetouan</loc>
+    <lastmod>2026-11-12T16:35:03.839Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sara-carbonero-verblijft-in-noord-marokko-luxeweekend-aan-tamuda-bay-en-tetouan-1794500981414.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/frans-colas-rail-wint-contract-van-29-miljoen-euro-voor-hogesnelheidslijn-kenitr</loc>
+    <lastmod>2026-11-12T15:29:29.187Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/frans-colas-rail-wint-contract-van-29-miljoen-euro-voor-hogesnelheidslijn-kenitr-1794495804909.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/egyptische-exporteur-geeft-toe-marokkaanse-mandarijnen-zijn-beter</loc>
+    <lastmod>2026-11-12T15:09:27.762Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/egyptische-exporteur-geeft-toe-marokkaanse-mandarijnen-zijn-beter-1794495777704.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/stroomuitval-in-casablanca-na-storm-charles-gemeente-wijst-verantwoordelijkheid-</loc>
+    <lastmod>2026-11-12T15:06:34.273Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/stroomuitval-in-casablanca-na-storm-charles-gemeente-wijst-verantwoordelijkheid--1794495866373.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/strijd-om-wk-finale-2030-casablanca-maakt-serieuze-kans-op-megastadion</loc>
+    <lastmod>2026-11-12T14:37:32.035Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/strijd-om-wk-finale-2030-casablanca-maakt-serieuze-kans-op-megastadion-1794493949797.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/drie-lichamen-gevonden-in-beruchte-bossen-van-mohammedia</loc>
+    <lastmod>2026-11-12T13:37:53.025Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drie-lichamen-gevonden-in-beruchte-bossen-van-mohammedia-1794490349233.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/adil-ramzi-ontkent-dat-hij-talenten-weglokt-bij-marokko-voor-oranje</loc>
     <lastmod>2026-11-12T11:38:11.360Z</lastmod>
     <changefreq>daily</changefreq>
@@ -889,42 +945,42 @@
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-arbeider-abdelhafid-dood-na-val-op-franse-werf-bedrijf-al-geschrapt</loc>
     <lastmod>2026-11-05T20:37:39.990Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-arbeider-abdelhafid-dood-na-val-op-franse-werf-bedrijf-al-geschrapt-1793910758492.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-het-buitenland-vragen-strafblad-voortaan-online-aan-vanaf-9-novemb</loc>
     <lastmod>2026-11-05T17:37:20.766Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-in-het-buitenland-vragen-strafblad-voortaan-online-aan-vanaf-9-novemb-1793899939395.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/hiba-alif-op-haar-20e-wethouder-in-italie-daarna-de-beledigingen</loc>
     <lastmod>2026-11-05T16:37:44.114Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hiba-alif-op-haar-20e-wethouder-in-italie-daarna-de-beledigingen-1793896362519.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/caf-awards-2026-marokko-sterk-vertegenwoordigd-met-hakimi-regragui-en-bounou</loc>
     <lastmod>2026-11-05T15:37:16.149Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-awards-2026-marokko-sterk-vertegenwoordigd-met-hakimi-regragui-en-bounou-1793892735198.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/volkszangeres-chikha-trax-veroordeeld-tot-acht-maanden-cel-in-marrakech</loc>
     <lastmod>2026-11-05T15:28:42.696Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/volkszangeres-chikha-trax-veroordeeld-tot-acht-maanden-cel-in-marrakech-1793891017390.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-futsalploeg-naar-japan-dguig-selecteert-20-spelers</loc>
     <lastmod>2026-11-05T13:37:10.111Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-futsalploeg-naar-japan-dguig-selecteert-20-spelers-1793885527471.jpg</image:loc></image:image>
   </url>
   <url>

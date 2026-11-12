@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-gaat-onderdelen-maken-voor-boeing-737-max-en-777x</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T20:37:49.128Z</news:publication_date>
+      <news:title>Marokko gaat onderdelen maken voor Boeing 737 MAX en 777X</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-gaat-onderdelen-maken-voor-boeing-737-max-en-777x-1794515567762.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tui-fly-schrapt-vier-marokko-routes-vanuit-lille</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:34:44.965Z</news:publication_date>
+      <news:title>TUI fly schrapt vier Marokko-routes vanuit Lille</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tui-fly-schrapt-vier-marokko-routes-vanuit-lille-1794508364160.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/sara-carbonero-verblijft-in-noord-marokko-luxeweekend-aan-tamuda-bay-en-tetouan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T16:35:03.839Z</news:publication_date>
+      <news:title>Sara Carbonero verblijft in Noord-Marokko: luxeweekend aan Tamuda Bay en Tetouan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sara-carbonero-verblijft-in-noord-marokko-luxeweekend-aan-tamuda-bay-en-tetouan-1794500981414.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/frans-colas-rail-wint-contract-van-29-miljoen-euro-voor-hogesnelheidslijn-kenitr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T15:29:29.187Z</news:publication_date>
+      <news:title>Frans Colas Rail wint contract van 29 miljoen euro voor hogesnelheidslijn Kenitra-Marrakech</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/frans-colas-rail-wint-contract-van-29-miljoen-euro-voor-hogesnelheidslijn-kenitr-1794495804909.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/egyptische-exporteur-geeft-toe-marokkaanse-mandarijnen-zijn-beter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T15:09:27.762Z</news:publication_date>
+      <news:title>Egyptische exporteur geeft toe: Marokkaanse mandarijnen zijn beter</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/egyptische-exporteur-geeft-toe-marokkaanse-mandarijnen-zijn-beter-1794495777704.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/stroomuitval-in-casablanca-na-storm-charles-gemeente-wijst-verantwoordelijkheid-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T15:06:34.273Z</news:publication_date>
+      <news:title>Stroomuitval in Casablanca na storm Charles: gemeente wijst verantwoordelijkheid af</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/stroomuitval-in-casablanca-na-storm-charles-gemeente-wijst-verantwoordelijkheid--1794495866373.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/strijd-om-wk-finale-2030-casablanca-maakt-serieuze-kans-op-megastadion</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T14:37:32.035Z</news:publication_date>
+      <news:title>Strijd om WK-finale 2030: Casablanca maakt serieuze kans op megastadion</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/strijd-om-wk-finale-2030-casablanca-maakt-serieuze-kans-op-megastadion-1794493949797.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/drie-lichamen-gevonden-in-beruchte-bossen-van-mohammedia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:37:53.025Z</news:publication_date>
+      <news:title>Drie lichamen gevonden in beruchte bossen van Mohammedia</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/drie-lichamen-gevonden-in-beruchte-bossen-van-mohammedia-1794490349233.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/adil-ramzi-ontkent-dat-hij-talenten-weglokt-bij-marokko-voor-oranje</loc>
     <news:news>
       <news:publication>
@@ -289,149 +385,5 @@
       <news:title>Weer in Marokko woensdag 11 november: hevige regen en storm boven de Rif</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weer-in-marokko-woensdag-11-november-hevige-regen-en-storm-boven-de-rif-1794378738628.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-islamitische-maand-joemada-al-thani-begint-woensdag-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T20:37:40.612Z</news:publication_date>
-      <news:title>Nieuwe islamitische maand Joemada al-Thani begint woensdag in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-islamitische-maand-joemada-al-thani-begint-woensdag-in-marokko-1794342759839.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-4-17-november-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T20:32:05.712Z</news:publication_date>
-      <news:title>Niger-Marokko: hoe laat, waar kijken en uitslag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-niger-kwalificatie-afrika-cup-2027-groep-a-speeldag-4-17-november-2026-1794342724225.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-bouwvakker-24-op-40-meter-hoogte-in-spanje-iedereen-aan-het-werk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T18:38:56.082Z</news:publication_date>
-      <news:title>Marokkaanse bouwvakker (24) op 40 meter hoogte in Spanje: &quot;Iedereen aan het werk&quot;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-bouwvakker-24-op-40-meter-hoogte-in-spanje-iedereen-aan-het-werk-1794335633658.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-in-marokko-houdt-48-landen-infantino-schrapt-plan-voor-64-deelnemers</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T18:35:55.145Z</news:publication_date>
-      <news:title>WK 2030 in Marokko houdt 48 landen: Infantino schrapt plan voor 64 deelnemers</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-2030-in-marokko-houdt-48-landen-infantino-schrapt-plan-voor-64-deelnemers-1794335595825.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ayoub-oufkir-kiest-voor-marokko-en-voedt-oud-debat-in-nederland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:37:28.211Z</news:publication_date>
-      <news:title>Ayoub Oufkir kiest voor Marokko en voedt oud debat in Nederland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayoub-oufkir-kiest-voor-marokko-en-voedt-oud-debat-in-nederland-1794328347069.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/pjd-waarom-ontbreken-goedkope-medicijnen-van-16-dirham-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:50:06.947Z</news:publication_date>
-      <news:title>PJD: waarom ontbreken goedkope medicijnen van 16 dirham in Marokko?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/pjd-waarom-ontbreken-goedkope-medicijnen-van-16-dirham-in-marokko-1794323072856.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/moslimlyceum-averroes-in-lille-vecht-om-voortbestaan-na-stopzetting-staatssteun</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:37:34.704Z</news:publication_date>
-      <news:title>Moslimlyceum Averroès in Lille vecht om voortbestaan na stopzetting staatssteun</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/moslimlyceum-averroes-in-lille-vecht-om-voortbestaan-na-stopzetting-staatssteun-1794324753093.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/caf-awards-2026-op-2-december-in-lagos-wat-betekent-dit-voor-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:30:06.049Z</news:publication_date>
-      <news:title>CAF Awards 2026 op 2 december in Lagos: wat betekent dit voor Marokko?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-awards-2026-op-2-december-in-lagos-wat-betekent-dit-voor-marokko-1794323029276.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/van-verstekeling-onder-een-vrachtwagen-tot-spanjaard-het-verhaal-van-moha-uit-ma</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:10:04.690Z</news:publication_date>
-      <news:title>Van verstekeling onder een vrachtwagen tot Spanjaard: het verhaal van Moha uit Marrakech</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-verstekeling-onder-een-vrachtwagen-tot-spanjaard-het-verhaal-van-moha-uit-ma-1794323006480.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/politie-ahfir-pakt-bestuurder-op-die-agent-probeerde-te-overrijden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T15:07:07.759Z</news:publication_date>
-      <news:title>Politie Ahfir pakt bestuurder op die agent probeerde te overrijden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/politie-ahfir-pakt-bestuurder-op-die-agent-probeerde-te-overrijden-1794323103673.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-algerije-u17-hoe-laat-en-waar-kun-je-kijken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T14:35:31.620Z</news:publication_date>
-      <news:title>Marokko-Algerije U17: hoe laat en waar kun je kijken?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-algerije-u17-hoe-laat-en-waar-kun-je-kijken-1794321205657.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/saadia-72-klaagt-marokkaanse-staat-aan-ontslagen-dakloos-en-zonder-paspoort</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:58:49.472Z</news:publication_date>
-      <news:title>Saadia (72) klaagt Marokkaanse staat aan: ontslagen, dakloos en zonder paspoort</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/saadia-72-klaagt-marokkaanse-staat-aan-ontslagen-dakloos-en-zonder-paspoort-1794317624102.jpg</image:loc></image:image>
   </url>
 </urlset>
