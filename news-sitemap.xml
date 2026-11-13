@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bilal-el-khannouss-plots-20-miljoen-euro-goedkoper-stuttgart-wil-praten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T23:07:56.089Z</news:publication_date>
+      <news:title>Bilal El Khannouss plots 20 miljoen euro goedkoper: Stuttgart wil praten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bilal-el-khannouss-plots-20-miljoen-euro-goedkoper-stuttgart-wil-praten-1794524574756.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/algerije-draagt-30-jonge-marokkanen-over-via-grenspost-oujda-maghnia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T22:37:36.408Z</news:publication_date>
+      <news:title>Algerije draagt 30 jonge Marokkanen over via grenspost Oujda-Maghnia</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/algerije-draagt-30-jonge-marokkanen-over-via-grenspost-oujda-maghnia-1794522754545.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-gaat-onderdelen-maken-voor-boeing-737-max-en-777x</loc>
     <news:news>
       <news:publication>
