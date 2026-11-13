@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wisselkoersen-dirham-van-vrijdag-13-november-dit-geeft-bank-al-maghrib</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T09:37:32.416Z</news:publication_date>
+      <news:title>Wisselkoersen dirham van vrijdag 13 november: dit geeft Bank Al-Maghrib</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoersen-dirham-van-vrijdag-13-november-dit-geeft-bank-al-maghrib-1794562351048.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rapport-waarschuwt-marokkaanse-groene-stroom-mag-eigen-land-niet-tekortdoen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T07:08:04.850Z</news:publication_date>
+      <news:title>Rapport waarschuwt: Marokkaanse groene stroom mag eigen land niet tekortdoen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rapport-waarschuwt-marokkaanse-groene-stroom-mag-eigen-land-niet-tekortdoen-1794553383805.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/elgrandetoto-vult-zalen-in-europa-maar-heeft-nog-geen-verblijfsvergunning</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T06:58:00.547Z</news:publication_date>
+      <news:title>ElGrandeToto vult zalen in Europa, maar heeft nog geen verblijfsvergunning</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/elgrandetoto-vult-zalen-in-europa-maar-heeft-nog-geen-verblijfsvergunning-1794551577379.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-quizkandidaat-maakt-vlaamse-tv-studio-aan-het-lachen-met-taalgrap</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T06:37:59.437Z</news:publication_date>
+      <news:title>Marokkaanse quizkandidaat maakt Vlaamse tv-studio aan het lachen met taalgrap</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-quizkandidaat-maakt-vlaamse-tv-studio-aan-het-lachen-met-taalgrap-1794551540869.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/bilal-el-khannouss-plots-20-miljoen-euro-goedkoper-stuttgart-wil-praten</loc>
     <news:news>
       <news:publication>
@@ -373,41 +421,5 @@
       <news:title>Marokkaans beachsoccerteam wint voor het eerst de Arab Cup</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-beachsoccerteam-wint-voor-het-eerst-de-arab-cup-1794393133293.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-haalt-188-000-ton-olijfolie-uit-de-markt-terwijl-import-uit-marokko-doorg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T08:37:34.849Z</news:publication_date>
-      <news:title>Spanje haalt 188.000 ton olijfolie uit de markt, terwijl import uit Marokko doorgaat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-haalt-188-000-ton-olijfolie-uit-de-markt-terwijl-import-uit-marokko-doorg-1794385953525.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dakar-rally-keert-in-2027-na-twintig-jaar-terug-naar-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T07:08:37.840Z</news:publication_date>
-      <news:title>Dakar Rally keert in 2027 na twintig jaar terug naar Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dakar-rally-keert-in-2027-na-twintig-jaar-terug-naar-marokko-1794380615871.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/weer-in-marokko-woensdag-11-november-hevige-regen-en-storm-boven-de-rif</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T06:38:04.132Z</news:publication_date>
-      <news:title>Weer in Marokko woensdag 11 november: hevige regen en storm boven de Rif</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weer-in-marokko-woensdag-11-november-hevige-regen-en-storm-boven-de-rif-1794378738628.jpg</image:loc></image:image>
   </url>
 </urlset>
