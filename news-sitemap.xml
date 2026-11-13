@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/grondwettelijk-hof-buigt-zich-over-170-bezwaren-tegen-verkiezingen-van-23-septem</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T21:41:22.826Z</news:publication_date>
+      <news:title>Grondwettelijk Hof buigt zich over 170 bezwaren tegen verkiezingen van 23 september</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/grondwettelijk-hof-buigt-zich-over-170-bezwaren-tegen-verkiezingen-van-23-septem-1794604580851.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nederlandse-broers-masoudi-op-europese-most-wanted-lijst-na-overval-voor-200-eur</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T21:21:21.908Z</news:publication_date>
+      <news:title>Nederlandse broers Masoudi op Europese Most Wanted-lijst na overval voor 200 euro</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederlandse-broers-masoudi-op-europese-most-wanted-lijst-na-overval-voor-200-eur-1794604549920.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ayoub-oufkir-fifa-keurt-overstap-naar-marokko-nog-niet-goed</loc>
     <news:news>
       <news:publication>
@@ -409,53 +433,5 @@
       <news:title>Hoge Raad vernietigt drugsveroordeling Marokkaan: wie belde met dat telefoonnummer?</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoge-raad-vernietigt-drugsveroordeling-marokkaan-wie-belde-met-dat-telefoonnumme-1794465168424.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verenigde-staten-trekken-zich-terug-uit-wk-u17-in-qatar-algerije-in-dezelfde-pou</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T22:34:52.963Z</news:publication_date>
-      <news:title>Verenigde Staten trekken zich terug uit WK U17 in Qatar, Algerije in dezelfde poule</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verenigde-staten-trekken-zich-terug-uit-wk-u17-in-qatar-algerije-in-dezelfde-pou-1794436329070.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ruim-109-000-marokkanen-wachten-nog-op-woonsteun-van-de-staat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T21:57:55.847Z</news:publication_date>
-      <news:title>Ruim 109.000 Marokkanen wachten nog op woonsteun van de staat</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ruim-109-000-marokkanen-wachten-nog-op-woonsteun-van-de-staat-1794432773602.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/redouan-el-yaakoubi-krijgt-groen-licht-van-utrecht-na-onderzoek-naar-zijn-sticht</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T21:37:54.737Z</news:publication_date>
-      <news:title>Redouan El Yaakoubi krijgt groen licht van Utrecht na onderzoek naar zijn stichting</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/redouan-el-yaakoubi-krijgt-groen-licht-van-utrecht-na-onderzoek-naar-zijn-sticht-1794432742696.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-vraagt-moeder-8-000-euro-om-zoon-legaal-te-laten-overkomen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T19:37:57.597Z</news:publication_date>
-      <news:title>Spanje vraagt moeder 8.000 euro om zoon legaal te laten overkomen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-vraagt-moeder-8-000-euro-om-zoon-legaal-te-laten-overkomen-1794425576593.jpg</image:loc></image:image>
   </url>
 </urlset>
