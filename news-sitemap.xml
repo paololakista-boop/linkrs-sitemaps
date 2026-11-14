@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/23-geldkantoren-in-een-stadje-zo-houdt-de-diaspora-bouarfa-overeind</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T06:38:02.235Z</news:publication_date>
+      <news:title>23 geldkantoren in één stadje: zo houdt de diaspora Bouarfa overeind</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/23-geldkantoren-in-een-stadje-zo-houdt-de-diaspora-bouarfa-overeind-1794637957748.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/oufkir-scoort-bij-debuut-voor-marokko-tegen-niger-5-1</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T00:07:22.996Z</news:publication_date>
+      <news:title>Oufkir scoort bij debuut voor Marokko tegen Niger (5-1)</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oufkir-scoort-bij-debuut-voor-marokko-tegen-niger-5-1-1794614722024.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/grondwettelijk-hof-buigt-zich-over-170-bezwaren-tegen-verkiezingen-van-23-septem</loc>
     <news:news>
       <news:publication>
@@ -421,17 +445,5 @@
       <news:title>Spaans-Marokkaanse man springt in Nederland uit rijdende auto na tien dagen gijzeling</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaans-marokkaanse-man-springt-in-nederland-uit-rijdende-auto-na-tien-dagen-gijz-1794466966369.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hoge-raad-vernietigt-drugsveroordeling-marokkaan-wie-belde-met-dat-telefoonnumme</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T06:37:53.867Z</news:publication_date>
-      <news:title>Hoge Raad vernietigt drugsveroordeling Marokkaan: wie belde met dat telefoonnummer?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoge-raad-vernietigt-drugsveroordeling-marokkaan-wie-belde-met-dat-telefoonnumme-1794465168424.jpg</image:loc></image:image>
   </url>
 </urlset>
