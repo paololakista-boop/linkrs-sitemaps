@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/duitse-bakkers-halen-jonge-marokkanen-binnen-tegen-personeelstekort</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T18:38:38.697Z</news:publication_date>
+      <news:title>Duitse bakkers halen jonge Marokkanen binnen tegen personeelstekort</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/duitse-bakkers-halen-jonge-marokkanen-binnen-tegen-personeelstekort-1794681172238.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bounou-speelt-honderdste-interland-voor-marokko-tegen-niger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T14:58:04.626Z</news:publication_date>
+      <news:title>Bounou speelt honderdste interland voor Marokko tegen Niger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bounou-speelt-honderdste-interland-voor-marokko-tegen-niger-1794666782657.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wegenwerken-nekken-zijn-restaurant-ibrahim-haalt-klanten-nu-zelf-met-de-auto-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T14:38:03.424Z</news:publication_date>
+      <news:title>Wegenwerken nekken zijn restaurant: Ibrahim haalt klanten nu zelf met de auto op</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wegenwerken-nekken-zijn-restaurant-ibrahim-haalt-klanten-nu-zelf-met-de-auto-op-1794666757605.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vs-houdt-reisadvies-voor-marokko-op-niveau-2-net-als-frankrijk-en-italie</loc>
     <news:news>
       <news:publication>
@@ -373,77 +409,5 @@
       <news:title>Marokko gaat onderdelen maken voor Boeing 737 MAX en 777X</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-gaat-onderdelen-maken-voor-boeing-737-max-en-777x-1794515567762.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tui-fly-schrapt-vier-marokko-routes-vanuit-lille</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T18:34:44.965Z</news:publication_date>
-      <news:title>TUI fly schrapt vier Marokko-routes vanuit Lille</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tui-fly-schrapt-vier-marokko-routes-vanuit-lille-1794508364160.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/sara-carbonero-verblijft-in-noord-marokko-luxeweekend-aan-tamuda-bay-en-tetouan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T16:35:03.839Z</news:publication_date>
-      <news:title>Sara Carbonero verblijft in Noord-Marokko: luxeweekend aan Tamuda Bay en Tetouan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sara-carbonero-verblijft-in-noord-marokko-luxeweekend-aan-tamuda-bay-en-tetouan-1794500981414.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/frans-colas-rail-wint-contract-van-29-miljoen-euro-voor-hogesnelheidslijn-kenitr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T15:29:29.187Z</news:publication_date>
-      <news:title>Frans Colas Rail wint contract van 29 miljoen euro voor hogesnelheidslijn Kenitra-Marrakech</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/frans-colas-rail-wint-contract-van-29-miljoen-euro-voor-hogesnelheidslijn-kenitr-1794495804909.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/egyptische-exporteur-geeft-toe-marokkaanse-mandarijnen-zijn-beter</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T15:09:27.762Z</news:publication_date>
-      <news:title>Egyptische exporteur geeft toe: Marokkaanse mandarijnen zijn beter</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/egyptische-exporteur-geeft-toe-marokkaanse-mandarijnen-zijn-beter-1794495777704.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/stroomuitval-in-casablanca-na-storm-charles-gemeente-wijst-verantwoordelijkheid-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T15:06:34.273Z</news:publication_date>
-      <news:title>Stroomuitval in Casablanca na storm Charles: gemeente wijst verantwoordelijkheid af</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/stroomuitval-in-casablanca-na-storm-charles-gemeente-wijst-verantwoordelijkheid--1794495866373.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/strijd-om-wk-finale-2030-casablanca-maakt-serieuze-kans-op-megastadion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T14:37:32.035Z</news:publication_date>
-      <news:title>Strijd om WK-finale 2030: Casablanca maakt serieuze kans op megastadion</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/strijd-om-wk-finale-2030-casablanca-maakt-serieuze-kans-op-megastadion-1794493949797.jpg</image:loc></image:image>
   </url>
 </urlset>
