@@ -458,16 +458,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-quizkandidaat-maakt-vlaamse-tv-studio-aan-het-lachen-met-taalgrap-1794551540869.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bilal-el-khannouss-plots-20-miljoen-euro-goedkoper-stuttgart-wil-praten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T23:07:56.089Z</news:publication_date>
-      <news:title>Bilal El Khannouss plots 20 miljoen euro goedkoper: Stuttgart wil praten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bilal-el-khannouss-plots-20-miljoen-euro-goedkoper-stuttgart-wil-praten-1794524574756.jpg</image:loc></image:image>
-  </url>
 </urlset>
