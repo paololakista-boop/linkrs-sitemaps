@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-klimt-naar-voorlopige-vijfde-plaats-op-fifa-ranglijst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T10:38:08.577Z</news:publication_date>
+      <news:title>Marokko klimt naar voorlopige vijfde plaats op FIFA-ranglijst</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-klimt-naar-voorlopige-vijfde-plaats-op-fifa-ranglijst-1794738786783.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vox-wil-belasting-op-geld-dat-marokkanen-vanuit-spanje-naar-familie-sturen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T10:35:07.738Z</news:publication_date>
+      <news:title>Vox wil belasting op geld dat Marokkanen vanuit Spanje naar familie sturen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vox-wil-belasting-op-geld-dat-marokkanen-vanuit-spanje-naar-familie-sturen-1794738750366.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zangeres-chaba-maria-over-haar-jaren-in-europa-uitbuiting-en-verraad</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T07:49:06.819Z</news:publication_date>
+      <news:title>Zangeres Chaba Maria over haar jaren in Europa, uitbuiting en verraad</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zangeres-chaba-maria-over-haar-jaren-in-europa-uitbuiting-en-verraad-1794726241200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-paspoort-op-een-na-laatste-plaats-in-happy-passports-index-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T07:37:35.246Z</news:publication_date>
+      <news:title>Marokkaans paspoort op een-na-laatste plaats in Happy Passports Index 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-paspoort-op-een-na-laatste-plaats-in-happy-passports-index-2026-1794727953965.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/alistair-overeem-bokst-in-dubai-ruim-vier-jaar-na-beladen-duel-met-badr-hari</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T07:29:06.065Z</news:publication_date>
+      <news:title>Alistair Overeem bokst in Dubai, ruim vier jaar na beladen duel met Badr Hari</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/alistair-overeem-bokst-in-dubai-ruim-vier-jaar-na-beladen-duel-met-badr-hari-1794726196294.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/sanchez-over-marokko-en-de-crisis-van-ceuta-ik-heb-geen-bewijs-om-een-heel-land-</loc>
     <news:news>
       <news:publication>
@@ -397,65 +457,5 @@
       <news:title>Lamsvlees te duur voor tajine: restaurant in Toronto schrapt het gerecht</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lamsvlees-te-duur-voor-tajine-restaurant-in-toronto-schrapt-het-gerecht-1794569567517.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nacim-22-nummer-een-in-jiu-jitsu-en-nachtwaker-in-frans-opvanghuis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T10:37:27.064Z</news:publication_date>
-      <news:title>Nacim (22): nummer één in jiu-jitsu én nachtwaker in Frans opvanghuis</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nacim-22-nummer-een-in-jiu-jitsu-en-nachtwaker-in-frans-opvanghuis-1794565943907.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wisselkoersen-dirham-van-vrijdag-13-november-dit-geeft-bank-al-maghrib</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T09:37:32.416Z</news:publication_date>
-      <news:title>Wisselkoersen dirham van vrijdag 13 november: dit geeft Bank Al-Maghrib</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wisselkoersen-dirham-van-vrijdag-13-november-dit-geeft-bank-al-maghrib-1794562351048.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rapport-waarschuwt-marokkaanse-groene-stroom-mag-eigen-land-niet-tekortdoen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T07:08:04.850Z</news:publication_date>
-      <news:title>Rapport waarschuwt: Marokkaanse groene stroom mag eigen land niet tekortdoen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rapport-waarschuwt-marokkaanse-groene-stroom-mag-eigen-land-niet-tekortdoen-1794553383805.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/elgrandetoto-vult-zalen-in-europa-maar-heeft-nog-geen-verblijfsvergunning</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T06:58:00.547Z</news:publication_date>
-      <news:title>ElGrandeToto vult zalen in Europa, maar heeft nog geen verblijfsvergunning</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/elgrandetoto-vult-zalen-in-europa-maar-heeft-nog-geen-verblijfsvergunning-1794551577379.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-quizkandidaat-maakt-vlaamse-tv-studio-aan-het-lachen-met-taalgrap</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T06:37:59.437Z</news:publication_date>
-      <news:title>Marokkaanse quizkandidaat maakt Vlaamse tv-studio aan het lachen met taalgrap</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-quizkandidaat-maakt-vlaamse-tv-studio-aan-het-lachen-met-taalgrap-1794551540869.jpg</image:loc></image:image>
   </url>
 </urlset>
