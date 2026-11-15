@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/17-uur-per-dag-voor-500-euro-marokkaanse-valt-flauw-tijdens-rechtszaak-in-bobign</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T19:58:16.960Z</news:publication_date>
+      <news:title>17 uur per dag voor 500 euro: Marokkaanse valt flauw tijdens rechtszaak in Bobigny</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/17-uur-per-dag-voor-500-euro-marokkaanse-valt-flauw-tijdens-rechtszaak-in-bobign-1794771194511.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/benatia-haalt-uit-naar-scheidsrechter-in-finale-afrika-cup-grote-chaos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T19:38:15.749Z</news:publication_date>
+      <news:title>Benatia haalt uit naar scheidsrechter in finale Afrika Cup: &apos;Grote chaos&apos;</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/benatia-haalt-uit-naar-scheidsrechter-in-finale-afrika-cup-grote-chaos-1794771155873.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/ruim-2-200-migranten-bereiken-canarische-eilanden-in-twee-dagen</loc>
     <news:news>
       <news:publication>
@@ -457,29 +481,5 @@
       <news:title>Oufkir scoort bij debuut voor Marokko tegen Niger (5-1)</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oufkir-scoort-bij-debuut-voor-marokko-tegen-niger-5-1-1794614722024.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/grondwettelijk-hof-buigt-zich-over-170-bezwaren-tegen-verkiezingen-van-23-septem</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T21:41:22.826Z</news:publication_date>
-      <news:title>Grondwettelijk Hof buigt zich over 170 bezwaren tegen verkiezingen van 23 september</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/grondwettelijk-hof-buigt-zich-over-170-bezwaren-tegen-verkiezingen-van-23-septem-1794604580851.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nederlandse-broers-masoudi-op-europese-most-wanted-lijst-na-overval-voor-200-eur</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T21:21:21.908Z</news:publication_date>
-      <news:title>Nederlandse broers Masoudi op Europese Most Wanted-lijst na overval voor 200 euro</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederlandse-broers-masoudi-op-europese-most-wanted-lijst-na-overval-voor-200-eur-1794604549920.jpg</image:loc></image:image>
   </url>
 </urlset>
