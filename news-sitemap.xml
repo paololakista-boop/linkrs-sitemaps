@@ -470,16 +470,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/23-geldkantoren-in-een-stadje-zo-houdt-de-diaspora-bouarfa-overeind-1794637957748.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/oufkir-scoort-bij-debuut-voor-marokko-tegen-niger-5-1</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T00:07:22.996Z</news:publication_date>
-      <news:title>Oufkir scoort bij debuut voor Marokko tegen Niger (5-1)</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oufkir-scoort-bij-debuut-voor-marokko-tegen-niger-5-1-1794614722024.jpg</image:loc></image:image>
-  </url>
 </urlset>
