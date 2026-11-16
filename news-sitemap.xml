@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dirham-stijgt-0-9-tegen-de-euro-wat-is-1-euro-nu-in-dirham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T10:57:36.613Z</news:publication_date>
+      <news:title>Dirham stijgt 0,9% tegen de euro: wat is 1 euro nu in dirham?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-stijgt-0-9-tegen-de-euro-wat-is-1-euro-nu-in-dirham-1794825154863.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-geeerd-in-italie-omdat-hij-kind-van-verdrinking-redde-in-comomeer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T10:37:35.804Z</news:publication_date>
+      <news:title>Marokkaan geëerd in Italië omdat hij kind van verdrinking redde in Comomeer</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-geeerd-in-italie-omdat-hij-kind-van-verdrinking-redde-in-comomeer-1794825125807.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/melilla-wil-nieuwe-douaneafspraken-met-marokko-bij-grens-beni-ansar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T07:07:50.957Z</news:publication_date>
+      <news:title>Melilla wil nieuwe douaneafspraken met Marokko bij grens Beni Ansar</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/melilla-wil-nieuwe-douaneafspraken-met-marokko-bij-grens-beni-ansar-1794812569681.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ruim-500-000-marokkanen-kregen-in-vijf-jaar-een-buitenlandse-nationaliteit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T06:58:18.344Z</news:publication_date>
+      <news:title>Ruim 500.000 Marokkanen kregen in vijf jaar een buitenlandse nationaliteit</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ruim-500-000-marokkanen-kregen-in-vijf-jaar-een-buitenlandse-nationaliteit-1794810796472.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nederlands-paspoort-aanvragen-in-marokko-ambassade-in-rabat-zit-vol-tot-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T06:38:17.513Z</news:publication_date>
+      <news:title>Nederlands paspoort aanvragen in Marokko? Ambassade in Rabat zit vol tot 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederlands-paspoort-aanvragen-in-marokko-ambassade-in-rabat-zit-vol-tot-2027-1794810755019.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/17-uur-per-dag-voor-500-euro-marokkaanse-valt-flauw-tijdens-rechtszaak-in-bobign</loc>
     <news:news>
       <news:publication>
@@ -385,89 +445,5 @@
       <news:title>Etihad schrapt begin 2027 tijdelijk bijna 30% van vluchten naar Casablanca</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/etihad-schrapt-begin-2027-tijdelijk-bijna-30-van-vluchten-naar-casablanca-1794659557981.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/visum-geweigerd-om-schijnhuwelijk-schoondochter-en-buren-redden-marokkaan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T11:37:48.176Z</news:publication_date>
-      <news:title>Visum geweigerd om schijnhuwelijk: schoondochter en buren redden Marokkaan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/visum-geweigerd-om-schijnhuwelijk-schoondochter-en-buren-redden-marokkaan-1794655966987.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-koploper-onder-migranten-die-via-de-westelijke-balkan-naar-west-europ</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T10:37:13.259Z</news:publication_date>
-      <news:title>Marokkanen koploper onder migranten die via de westelijke Balkan naar West-Europa trekken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-koploper-onder-migranten-die-via-de-westelijke-balkan-naar-west-europ-1794652332395.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bijna-helft-vrouwen-met-noord-afrikaanse-roots-in-belgie-zonder-werk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T09:57:57.364Z</news:publication_date>
-      <news:title>Bijna helft vrouwen met Noord-Afrikaanse roots in België zonder werk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bijna-helft-vrouwen-met-noord-afrikaanse-roots-in-belgie-zonder-werk-1794648774993.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/van-afgekraakte-koffie-tot-bekroonde-barista-het-verhaal-van-nabila-in-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T09:37:56.380Z</news:publication_date>
-      <news:title>Van afgekraakte koffie tot bekroonde barista: het verhaal van Nabila in Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/van-afgekraakte-koffie-tot-bekroonde-barista-het-verhaal-van-nabila-in-spanje-1794648739900.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/majida-67-kreeg-kanker-en-werd-door-haar-werkgever-op-straat-gezet-in-barcelona</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T07:07:28.283Z</news:publication_date>
-      <news:title>Majida (67) kreeg kanker en werd door haar werkgever op straat gezet in Barcelona</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/majida-67-kreeg-kanker-en-werd-door-haar-werkgever-op-straat-gezet-in-barcelona-1794639747098.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/uitslag-marokko-niger-atlasleeuwen-winnen-met-5-1-in-kwalificatie-can-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:58:03.203Z</news:publication_date>
-      <news:title>Uitslag Marokko-Niger: Atlasleeuwen winnen met 5-1 in kwalificatie CAN 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/uitslag-marokko-niger-atlasleeuwen-winnen-met-5-1-in-kwalificatie-can-2027-1794637981121.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/23-geldkantoren-in-een-stadje-zo-houdt-de-diaspora-bouarfa-overeind</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T06:38:02.235Z</news:publication_date>
-      <news:title>23 geldkantoren in één stadje: zo houdt de diaspora Bouarfa overeind</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/23-geldkantoren-in-een-stadje-zo-houdt-de-diaspora-bouarfa-overeind-1794637957748.jpg</image:loc></image:image>
   </url>
 </urlset>
