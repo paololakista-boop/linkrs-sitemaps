@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/kleuterleidsters-in-marokko-staken-tegen-onzekere-banen-en-trekken-naar-parlemen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T14:34:32.374Z</news:publication_date>
+      <news:title>Kleuterleidsters in Marokko staken tegen onzekere banen en trekken naar parlement</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kleuterleidsters-in-marokko-staken-tegen-onzekere-banen-en-trekken-naar-parlemen-1794925950449.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-u17-in-qatar-dit-is-het-speelschema-van-marokko-in-groep-h</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T13:38:16.556Z</news:publication_date>
+      <news:title>WK U17 in Qatar: dit is het speelschema van Marokko in groep H</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-u17-in-qatar-dit-is-het-speelschema-van-marokko-in-groep-h-1794922343007.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/eerste-marokkaanse-medicijn-uit-hennep-tegen-ernstige-epilepsie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T09:37:42.337Z</news:publication_date>
+      <news:title>Eerste Marokkaanse medicijn uit hennep tegen ernstige epilepsie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eerste-marokkaanse-medicijn-uit-hennep-tegen-ernstige-epilepsie-1794907960804.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/franse-thriller-badh-grotendeels-gedraaid-in-marokko-nummer-1-op-netflix</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T08:37:46.501Z</news:publication_date>
+      <news:title>Franse thriller Badh, grotendeels gedraaid in Marokko, nummer 1 op Netflix</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/franse-thriller-badh-grotendeels-gedraaid-in-marokko-nummer-1-op-netflix-1794904364929.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-en-frankrijk-goed-voor-bijna-twee-derde-van-marokkaanse-export-naar-eu</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T07:07:29.390Z</news:publication_date>
+      <news:title>Spanje en Frankrijk goed voor bijna twee derde van Marokkaanse export naar EU</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-en-frankrijk-goed-voor-bijna-twee-derde-van-marokkaanse-export-naar-eu-1794898948222.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/67-marokkaanse-migranten-al-meer-dan-een-jaar-vast-in-libie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T06:58:07.827Z</news:publication_date>
+      <news:title>67 Marokkaanse migranten al meer dan een jaar vast in Libië</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/67-marokkaanse-migranten-al-meer-dan-een-jaar-vast-in-libie-1794897185841.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/5-2-miljard-dirham-aan-buitenlandse-pensioenen-en-kinderbijslag-naar-marokko-in-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T06:38:06.950Z</news:publication_date>
+      <news:title>5,2 miljard dirham aan buitenlandse pensioenen en kinderbijslag naar Marokko in 2025</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/5-2-miljard-dirham-aan-buitenlandse-pensioenen-en-kinderbijslag-naar-marokko-in--1794897149522.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vn-missie-minurso-begint-vertrek-uit-laayoune-na-35-jaar-in-de-sahara</loc>
     <news:news>
       <news:publication>
@@ -337,125 +421,5 @@
       <news:title>Huis gehuurd van de Marokkaanse staat? Je mag het nu kopen</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/huis-gehuurd-van-de-marokkaanse-staat-je-mag-het-nu-kopen-1794753187457.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-brengt-eerste-eigen-cannabismedicijn-tegen-epilepsie-op-de-markt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T14:38:08.672Z</news:publication_date>
-      <news:title>Marokko brengt eerste eigen cannabismedicijn tegen epilepsie op de markt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-brengt-eerste-eigen-cannabismedicijn-tegen-epilepsie-op-de-markt-1794753150974.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/finale-vrouwenvoetbal-as-far-tegen-sundowns-om-historische-derde-titel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T13:35:22.197Z</news:publication_date>
-      <news:title>Finale vrouwenvoetbal: AS FAR tegen Sundowns om historische derde titel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/finale-vrouwenvoetbal-as-far-tegen-sundowns-om-historische-derde-titel-1794749597283.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/futsalcoach-hicham-dguig-geeerd-voor-successen-met-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T12:37:31.231Z</news:publication_date>
-      <news:title>Futsalcoach Hicham Dguig geëerd voor successen met Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/futsalcoach-hicham-dguig-geeerd-voor-successen-met-marokko-1794745950075.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-elftal-onder-17-geland-in-qatar-voor-wk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T11:58:07.537Z</news:publication_date>
-      <news:title>Marokkaans elftal onder 17 geland in Qatar voor WK</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-elftal-onder-17-geland-in-qatar-voor-wk-1794742385154.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/malek-amrani-stopte-met-geneeskunde-en-bouwde-een-californisch-wijnmerk-uit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T11:38:06.288Z</news:publication_date>
-      <news:title>Malek Amrani stopte met geneeskunde en bouwde een Californisch wijnmerk uit</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/malek-amrani-stopte-met-geneeskunde-en-bouwde-een-californisch-wijnmerk-uit-1794742362072.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-klimt-naar-voorlopige-vijfde-plaats-op-fifa-ranglijst</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T10:38:08.577Z</news:publication_date>
-      <news:title>Marokko klimt naar voorlopige vijfde plaats op FIFA-ranglijst</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-klimt-naar-voorlopige-vijfde-plaats-op-fifa-ranglijst-1794738786783.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vox-wil-belasting-op-geld-dat-marokkanen-vanuit-spanje-naar-familie-sturen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T10:35:07.738Z</news:publication_date>
-      <news:title>Vox wil belasting op geld dat Marokkanen vanuit Spanje naar familie sturen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vox-wil-belasting-op-geld-dat-marokkanen-vanuit-spanje-naar-familie-sturen-1794738750366.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zangeres-chaba-maria-over-haar-jaren-in-europa-uitbuiting-en-verraad</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T07:49:06.819Z</news:publication_date>
-      <news:title>Zangeres Chaba Maria over haar jaren in Europa, uitbuiting en verraad</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zangeres-chaba-maria-over-haar-jaren-in-europa-uitbuiting-en-verraad-1794726241200.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-paspoort-op-een-na-laatste-plaats-in-happy-passports-index-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T07:37:35.246Z</news:publication_date>
-      <news:title>Marokkaans paspoort op een-na-laatste plaats in Happy Passports Index 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-paspoort-op-een-na-laatste-plaats-in-happy-passports-index-2026-1794727953965.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/alistair-overeem-bokst-in-dubai-ruim-vier-jaar-na-beladen-duel-met-badr-hari</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T07:29:06.065Z</news:publication_date>
-      <news:title>Alistair Overeem bokst in Dubai, ruim vier jaar na beladen duel met Badr Hari</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/alistair-overeem-bokst-in-dubai-ruim-vier-jaar-na-beladen-duel-met-badr-hari-1794726196294.jpg</image:loc></image:image>
   </url>
 </urlset>
