@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vn-missie-minurso-begint-vertrek-uit-laayoune-na-35-jaar-in-de-sahara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T01:34:31.434Z</news:publication_date>
+      <news:title>VN-missie MINURSO begint vertrek uit Laâyoune na 35 jaar in de Sahara</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vn-missie-minurso-begint-vertrek-uit-laayoune-na-35-jaar-in-de-sahara-1794879149972.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-inlichtingendienst-marokko-had-geen-rol-bij-massale-grensovergang-naar-c</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T23:48:43.935Z</news:publication_date>
+      <news:title>Spaanse inlichtingendienst: Marokko had geen rol bij massale grensovergang naar Ceuta</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-inlichtingendienst-marokko-had-geen-rol-bij-massale-grensovergang-naar-c-1794870221224.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-investeert-3-5-miljard-dirham-in-200-lokale-toerismeprojecten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T23:28:43.188Z</news:publication_date>
+      <news:title>Marokko investeert 3,5 miljard dirham in 200 lokale toerismeprojecten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-investeert-3-5-miljard-dirham-in-200-lokale-toerismeprojecten-1794870194078.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-minister-binnenlands-toerisme-is-geen-bijzaak-maar-prioriteit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T23:08:42.251Z</news:publication_date>
+      <news:title>Marokkaanse minister: binnenlands toerisme is geen bijzaak, maar prioriteit</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-minister-binnenlands-toerisme-is-geen-bijzaak-maar-prioriteit-1794870167521.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vox-wil-spaanse-nationaliteit-van-300-000-marokkanen-tegen-het-licht-houden</loc>
     <news:news>
       <news:publication>
@@ -409,29 +457,5 @@
       <news:title>Alistair Overeem bokst in Dubai, ruim vier jaar na beladen duel met Badr Hari</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/alistair-overeem-bokst-in-dubai-ruim-vier-jaar-na-beladen-duel-met-badr-hari-1794726196294.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/sanchez-over-marokko-en-de-crisis-van-ceuta-ik-heb-geen-bewijs-om-een-heel-land-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T23:05:06.106Z</news:publication_date>
-      <news:title>Sánchez over Marokko en de crisis van Ceuta: &quot;Ik heb geen bewijs om een heel land te beschuldigen&quot;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sanchez-over-marokko-en-de-crisis-van-ceuta-ik-heb-geen-bewijs-om-een-heel-land--1794697384894.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/docent-nouhaila-el-guebli-op-theatertournee-over-leven-tussen-twee-culturen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T22:55:58.509Z</news:publication_date>
-      <news:title>Docent Nouhaila el Guebli op theatertournee over leven tussen twee culturen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/docent-nouhaila-el-guebli-op-theatertournee-over-leven-tussen-twee-culturen-1794696657556.jpg</image:loc></image:image>
   </url>
 </urlset>
