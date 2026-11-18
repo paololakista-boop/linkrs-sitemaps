@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-passeert-in-2026-de-grens-van-5-000-dollar-bbp-per-inwoner</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T21:39:05.171Z</news:publication_date>
+      <news:title>Marokko passeert in 2026 de grens van 5.000 dollar bbp per inwoner</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-passeert-in-2026-de-grens-van-5-000-dollar-bbp-per-inwoner-1795037642555.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rif-activist-reda-benzaza-in-spanje-neergestoken-twaalf-messteken-in-fuengirola</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T21:36:03.989Z</news:publication_date>
+      <news:title>Rif-activist Reda Benzaza in Spanje neergestoken: twaalf messteken in Fuengirola</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rif-activist-reda-benzaza-in-spanje-neergestoken-twaalf-messteken-in-fuengirola-1795037608169.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/baas-ford-europa-waarschuwt-marokko-buiten-made-in-europe-schaadt-auto-industrie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T17:38:28.144Z</news:publication_date>
+      <news:title>Baas Ford Europa waarschuwt: Marokko buiten &apos;Made in Europe&apos; schaadt auto-industrie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/baas-ford-europa-waarschuwt-marokko-buiten-made-in-europe-schaadt-auto-industrie-1795020776827.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/slager-dood-aangetroffen-in-zijn-winkel-in-settat-onderzoek-geopend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T16:55:28.966Z</news:publication_date>
+      <news:title>Slager dood aangetroffen in zijn winkel in Settat, onderzoek geopend</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/slager-dood-aangetroffen-in-zijn-winkel-in-settat-onderzoek-geopend-1795020799516.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-toeristen-blijven-weg-10-procent-minder-naar-marokko-in-september</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T15:49:14.751Z</news:publication_date>
+      <news:title>Spaanse toeristen blijven weg: 10 procent minder naar Marokko in september</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-toeristen-blijven-weg-10-procent-minder-naar-marokko-in-september-1795014251458.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-vrouwenorganisaties-eisen-strengere-wet-tegen-geweld-op-vrouwen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T15:29:14.031Z</news:publication_date>
+      <news:title>Marokkaanse vrouwenorganisaties eisen strengere wet tegen geweld op vrouwen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-vrouwenorganisaties-eisen-strengere-wet-tegen-geweld-op-vrouwen-1795014220453.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/sahara-na-het-russische-veto-staat-marokko-voor-een-nieuw-diplomatiek-krachtensp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T15:09:13.099Z</news:publication_date>
+      <news:title>Sahara: na het Russische veto staat Marokko voor een nieuw diplomatiek krachtenspel</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sahara-na-het-russische-veto-staat-marokko-voor-een-nieuw-diplomatiek-krachtensp-1795014176137.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/aardbeving-van-4-8-treft-provincie-boulemane-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T14:35:14.742Z</news:publication_date>
+      <news:title>Aardbeving van 4.8 treft provincie Boulemane in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/aardbeving-van-4-8-treft-provincie-boulemane-in-marokko-1795012389074.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-geeft-premie-aan-wie-via-directe-sociale-steun-een-aangegeven-baan-vindt</loc>
     <news:news>
       <news:publication>
@@ -385,101 +481,5 @@
       <news:title>Marokkaanse minister: binnenlands toerisme is geen bijzaak, maar prioriteit</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-minister-binnenlands-toerisme-is-geen-bijzaak-maar-prioriteit-1794870167521.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vox-wil-spaanse-nationaliteit-van-300-000-marokkanen-tegen-het-licht-houden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T19:37:54.860Z</news:publication_date>
-      <news:title>Vox wil Spaanse nationaliteit van 300.000 Marokkanen tegen het licht houden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vox-wil-spaanse-nationaliteit-van-300-000-marokkanen-tegen-het-licht-houden-1794857573532.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-tunesie-u17-atlasleeuwtjes-winnen-met-5-1-maar-grijpen-naast-afcon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T18:34:57.534Z</news:publication_date>
-      <news:title>Marokko-Tunesië U17: Atlasleeuwtjes winnen met 5-1 maar grijpen naast AFCON</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-tunesie-u17-atlasleeuwtjes-winnen-met-5-1-maar-grijpen-naast-afcon-1794853975095.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bilal-el-khannouss-gewild-liverpool-en-newcastle-azen-op-de-marokkaan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T18:28:52.892Z</news:publication_date>
-      <news:title>Bilal El Khannouss gewild: Liverpool en Newcastle azen op de Marokkaan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bilal-el-khannouss-gewild-liverpool-en-newcastle-azen-op-de-marokkaan-1794851026353.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-telt-ruim-21-000-vluchtelingen-vn-kampt-met-groot-geldtekort</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T18:08:51.865Z</news:publication_date>
-      <news:title>Marokko telt ruim 21.000 vluchtelingen, VN kampt met groot geldtekort</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-telt-ruim-21-000-vluchtelingen-vn-kampt-met-groot-geldtekort-1794851003726.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/onderzoek-casablanca-62-geintimideerd-in-de-bus-69-online</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T15:49:03.302Z</news:publication_date>
-      <news:title>Onderzoek Casablanca: 62% geïntimideerd in de bus, 69% online</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onderzoek-casablanca-62-geintimideerd-in-de-bus-69-online-1794841440903.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-heeft-record-in-handen-langste-reeks-overwinningen-ooit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T15:37:31.704Z</news:publication_date>
-      <news:title>Marokko heeft record in handen: langste reeks overwinningen ooit</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-heeft-record-in-handen-langste-reeks-overwinningen-ooit-1794843150130.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-zanger-nouamane-lahlou-treedt-op-voor-diaspora-in-duitsland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T15:29:02.641Z</news:publication_date>
-      <news:title>Marokkaanse zanger Nouamane Lahlou treedt op voor diaspora in Duitsland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-zanger-nouamane-lahlou-treedt-op-voor-diaspora-in-duitsland-1794841403628.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/asraf-beno-wint-supervivientes-all-stars-3-en-gaat-met-50-000-euro-naar-huis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T15:09:01.885Z</news:publication_date>
-      <news:title>Asraf Beno wint Supervivientes All Stars 3 en gaat met 50.000 euro naar huis</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/asraf-beno-wint-supervivientes-all-stars-3-en-gaat-met-50-000-euro-naar-huis-1794841373839.jpg</image:loc></image:image>
   </url>
 </urlset>
