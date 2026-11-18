@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-geeft-premie-aan-wie-via-directe-sociale-steun-een-aangegeven-baan-vindt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T13:58:39.172Z</news:publication_date>
+      <news:title>Marokko geeft premie aan wie via directe sociale steun een aangegeven baan vindt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-geeft-premie-aan-wie-via-directe-sociale-steun-een-aangegeven-baan-vindt-1795008816959.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/deense-premier-noemt-hoofddoek-onderdrukking-en-wil-verbod-op-scholen-bespreken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T13:38:38.385Z</news:publication_date>
+      <news:title>Deense premier noemt hoofddoek onderdrukking en wil verbod op scholen bespreken</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/deense-premier-noemt-hoofddoek-onderdrukking-en-wil-verbod-op-scholen-bespreken-1795008792399.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-plaatst-zich-voor-afrika-cup-2027-na-zege-op-niger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T11:58:02.865Z</news:publication_date>
+      <news:title>Marokko plaatst zich voor Afrika Cup 2027 na zege op Niger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-plaatst-zich-voor-afrika-cup-2027-na-zege-op-niger-1795001581008.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/woonsteun-marokko-bijna-131-000-mensen-geholpen-sinds-begin-2024</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T11:38:02.081Z</news:publication_date>
+      <news:title>Woonsteun Marokko: bijna 131.000 mensen geholpen sinds begin 2024</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/woonsteun-marokko-bijna-131-000-mensen-geholpen-sinds-begin-2024-1795001547200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-voor-het-eerst-vijfde-op-fifa-ranglijst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T09:34:26.186Z</news:publication_date>
+      <news:title>Marokko voor het eerst vijfde op FIFA-ranglijst</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-voor-het-eerst-vijfde-op-fifa-ranglijst-1794994344248.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/f-35-voor-marokko-oud-cia-agent-waarschuwt-voor-amerikaanse-greep</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T07:08:17.102Z</news:publication_date>
+      <news:title>F-35 voor Marokko: oud-CIA-agent waarschuwt voor Amerikaanse greep</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/f-35-voor-marokko-oud-cia-agent-waarschuwt-voor-amerikaanse-greep-1794985395494.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ouazane-schiet-marokko-naar-afrika-cup-bij-basisdebuut-tegen-niger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T07:05:16.165Z</news:publication_date>
+      <news:title>Ouazane schiet Marokko naar Afrika Cup bij basisdebuut tegen Niger</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ouazane-schiet-marokko-naar-afrika-cup-bij-basisdebuut-tegen-niger-1794985355808.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-paspoort-veel-beperkter-72-landen-zonder-visum-nederland-scoort-bijna</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T06:58:07.889Z</news:publication_date>
+      <news:title>Marokkaans paspoort veel beperkter: 72 landen zonder visum, Nederland scoort bijna 100</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-paspoort-veel-beperkter-72-landen-zonder-visum-nederland-scoort-bijna-1794983585935.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/cafebaas-in-koekelberg-voor-assisen-na-dodelijke-schoten-op-veroordeelde-marokka</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T06:38:06.984Z</news:publication_date>
+      <news:title>Cafébaas in Koekelberg voor assisen na dodelijke schoten op veroordeelde Marokkaan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cafebaas-in-koekelberg-voor-assisen-na-dodelijke-schoten-op-veroordeelde-marokka-1794983548779.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vlucht-naar-marokko-wijkt-uit-naar-rome-passagiers-veinzen-noodgeval-en-vluchten</loc>
     <news:news>
       <news:publication>
@@ -373,77 +481,5 @@
       <news:title>Asraf Beno wint Supervivientes All Stars 3 en gaat met 50.000 euro naar huis</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/asraf-beno-wint-supervivientes-all-stars-3-en-gaat-met-50-000-euro-naar-huis-1794841373839.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-protesteren-in-barcelona-tegen-racisme-en-haatzaaien</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T12:37:15.355Z</news:publication_date>
-      <news:title>Marokkanen protesteren in Barcelona tegen racisme en haatzaaien</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-protesteren-in-barcelona-tegen-racisme-en-haatzaaien-1794832332644.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dirham-stijgt-0-9-tegen-de-euro-wat-is-1-euro-nu-in-dirham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T10:57:36.613Z</news:publication_date>
-      <news:title>Dirham stijgt 0,9% tegen de euro: wat is 1 euro nu in dirham?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-stijgt-0-9-tegen-de-euro-wat-is-1-euro-nu-in-dirham-1794825154863.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaan-geeerd-in-italie-omdat-hij-kind-van-verdrinking-redde-in-comomeer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T10:37:35.804Z</news:publication_date>
-      <news:title>Marokkaan geëerd in Italië omdat hij kind van verdrinking redde in Comomeer</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaan-geeerd-in-italie-omdat-hij-kind-van-verdrinking-redde-in-comomeer-1794825125807.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/melilla-wil-nieuwe-douaneafspraken-met-marokko-bij-grens-beni-ansar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T07:07:50.957Z</news:publication_date>
-      <news:title>Melilla wil nieuwe douaneafspraken met Marokko bij grens Beni Ansar</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/melilla-wil-nieuwe-douaneafspraken-met-marokko-bij-grens-beni-ansar-1794812569681.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ruim-500-000-marokkanen-kregen-in-vijf-jaar-een-buitenlandse-nationaliteit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T06:58:18.344Z</news:publication_date>
-      <news:title>Ruim 500.000 Marokkanen kregen in vijf jaar een buitenlandse nationaliteit</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ruim-500-000-marokkanen-kregen-in-vijf-jaar-een-buitenlandse-nationaliteit-1794810796472.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nederlands-paspoort-aanvragen-in-marokko-ambassade-in-rabat-zit-vol-tot-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T06:38:17.513Z</news:publication_date>
-      <news:title>Nederlands paspoort aanvragen in Marokko? Ambassade in Rabat zit vol tot 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederlands-paspoort-aanvragen-in-marokko-ambassade-in-rabat-zit-vol-tot-2027-1794810755019.jpg</image:loc></image:image>
   </url>
 </urlset>
