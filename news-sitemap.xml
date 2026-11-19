@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-winstmarges-brandstofbedrijven-aan-banden-leggen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T18:35:12.989Z</news:publication_date>
+      <news:title>Marokko wil winstmarges brandstofbedrijven aan banden leggen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-winstmarges-brandstofbedrijven-aan-banden-leggen-1795113191633.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wandelaarster-25-omgekomen-op-de-toubkal-had-het-drama-voorkomen-kunnen-worden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:38:10.431Z</news:publication_date>
+      <news:title>Wandelaarster (25) omgekomen op de Toubkal: had het drama voorkomen kunnen worden?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wandelaarster-25-omgekomen-op-de-toubkal-had-het-drama-voorkomen-kunnen-worden-1795109556837.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/twee-marokkaanse-journalisten-in-nador-tot-vier-jaar-cel-veroordeeld</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:35:11.146Z</news:publication_date>
+      <news:title>Twee Marokkaanse journalisten in Nador tot vier jaar cel veroordeeld</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-marokkaanse-journalisten-in-nador-tot-vier-jaar-cel-veroordeeld-1795109589194.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-levert-verdachte-van-beleggingsfraude-uit-aan-nederland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:24:05.034Z</news:publication_date>
+      <news:title>Marokko levert verdachte van beleggingsfraude uit aan Nederland</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-levert-verdachte-van-beleggingsfraude-uit-aan-nederland-1795107543480.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hakimi-bono-en-rahimi-genomineerd-voor-globe-soccer-awards-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:04:04.283Z</news:publication_date>
+      <news:title>Hakimi, Bono en Rahimi genomineerd voor Globe Soccer Awards 2026</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hakimi-bono-en-rahimi-genomineerd-voor-globe-soccer-awards-2026-1795107522568.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mocrobol-de-oliebol-met-marokkaanse-zoetigheid-die-online-veel-losmaakt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T16:37:41.130Z</news:publication_date>
+      <news:title>Mocrobol: de oliebol met Marokkaanse zoetigheid die online veel losmaakt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mocrobol-de-oliebol-met-marokkaanse-zoetigheid-die-online-veel-losmaakt-1795105959673.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-houdt-invoer-van-tunesische-dadels-tegen-om-eigen-recordoogst</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T15:49:30.986Z</news:publication_date>
+      <news:title>Marokko houdt invoer van Tunesische dadels tegen om eigen recordoogst</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-houdt-invoer-van-tunesische-dadels-tegen-om-eigen-recordoogst-1795100666937.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rechtbank-casablanca-veroordeelt-marokkaans-bedrijf-voor-namaak-fifa-merken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T15:29:30.116Z</news:publication_date>
+      <news:title>Rechtbank Casablanca veroordeelt Marokkaans bedrijf voor namaak FIFA-merken</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rechtbank-casablanca-veroordeelt-marokkaans-bedrijf-voor-namaak-fifa-merken-1795100624851.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/op-cruise-vanuit-marokko-dit-kost-een-reis-in-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T15:09:29.274Z</news:publication_date>
+      <news:title>Op cruise vanuit Marokko: dit kost een reis in 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/op-cruise-vanuit-marokko-dit-kost-een-reis-in-2027-1795100594833.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/video-van-mishandeling-in-internaat-el-jadida-leidt-tot-dubbel-onderzoek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T15:06:28.309Z</news:publication_date>
+      <news:title>Video van mishandeling in internaat El Jadida leidt tot dubbel onderzoek</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/video-van-mishandeling-in-internaat-el-jadida-leidt-tot-dubbel-onderzoek-1795100569862.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-trekt-4-9-miljoen-uit-voor-bewaking-van-eilanden-en-rotsen-bij-marokkaans</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T13:34:46.023Z</news:publication_date>
+      <news:title>Spanje trekt 4,9 miljoen uit voor bewaking van eilanden en rotsen bij Marokkaanse kust</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-trekt-4-9-miljoen-uit-voor-bewaking-van-eilanden-en-rotsen-bij-marokkaans-1795095164893.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/verdachte-van-dodelijk-geweld-in-overasselt-opgepakt-na-vlucht-naar-marokko</loc>
     <news:news>
       <news:publication>
@@ -349,173 +481,5 @@
       <news:title>Cafébaas in Koekelberg voor assisen na dodelijke schoten op veroordeelde Marokkaan</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cafebaas-in-koekelberg-voor-assisen-na-dodelijke-schoten-op-veroordeelde-marokka-1794983548779.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vlucht-naar-marokko-wijkt-uit-naar-rome-passagiers-veinzen-noodgeval-en-vluchten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T20:34:37.568Z</news:publication_date>
-      <news:title>Vlucht naar Marokko wijkt uit naar Rome: passagiers veinzen noodgeval en vluchten weg</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vlucht-naar-marokko-wijkt-uit-naar-rome-passagiers-veinzen-noodgeval-en-vluchten-1794947556179.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u23-wint-met-5-3-van-ethiopie-in-doelpuntrijk-duel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T19:37:33.411Z</news:publication_date>
-      <news:title>Marokko U23 wint met 5-3 van Ethiopië in doelpuntrijk duel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u23-wint-met-5-3-van-ethiopie-in-doelpuntrijk-duel-1794943951050.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nederlandse-kamerleden-eisen-opheldering-van-google-over-racistische-zoekresulta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T18:35:09.863Z</news:publication_date>
-      <news:title>Nederlandse Kamerleden eisen opheldering van Google over racistische zoekresultaten over Marokkanen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederlandse-kamerleden-eisen-opheldering-van-google-over-racistische-zoekresulta-1794940386832.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/boudriqa-opnieuw-voor-de-rechter-nieuwe-zaken-na-akkoord-duitsland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T18:02:25.721Z</news:publication_date>
-      <news:title>Boudriqa opnieuw voor de rechter: nieuwe zaken na akkoord Duitsland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/boudriqa-opnieuw-voor-de-rechter-nieuwe-zaken-na-akkoord-duitsland-1794935838517.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/russische-chocolade-alyonka-wil-gaan-produceren-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T17:42:24.925Z</news:publication_date>
-      <news:title>Russische chocolade Alyonka wil gaan produceren in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/russische-chocolade-alyonka-wil-gaan-produceren-in-marokko-1794935805703.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-man-doodgeschoten-teruggevonden-in-bos-bij-milaan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T17:22:23.955Z</news:publication_date>
-      <news:title>Marokkaanse man doodgeschoten teruggevonden in bos bij Milaan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-man-doodgeschoten-teruggevonden-in-bos-bij-milaan-1794935781600.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-aan-kop-in-wk-poule-gabon-onderuit-tegen-lesotho</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:57:55.142Z</news:publication_date>
-      <news:title>Marokko aan kop in WK-poule: Gabon onderuit tegen Lesotho</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-aan-kop-in-wk-poule-gabon-onderuit-tegen-lesotho-1794933173030.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kamerleden-willen-remigratiewet-heropenen-voor-nieuwe-aanvragen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:37:54.275Z</news:publication_date>
-      <news:title>Kamerleden willen Remigratiewet heropenen voor nieuwe aanvragen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kamerleden-willen-remigratiewet-heropenen-voor-nieuwe-aanvragen-1794933149938.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuwe-batterijfabriek-gotion-volkswagen-in-marokko-levert-aan-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:48:49.381Z</news:publication_date>
-      <news:title>Nieuwe batterijfabriek Gotion-Volkswagen in Marokko levert aan Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuwe-batterijfabriek-gotion-volkswagen-in-marokko-levert-aan-spanje-1794927826870.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-viert-71-jaar-onafhankelijkheid-op-18-november</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:34:32.734Z</news:publication_date>
-      <news:title>Marokko viert 71 jaar onafhankelijkheid op 18 november</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-viert-71-jaar-onafhankelijkheid-op-18-november-1794929551212.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/atlasleeuwen-krijgen-premie-voor-kwartfinale-wk-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:28:48.633Z</news:publication_date>
-      <news:title>Atlasleeuwen krijgen premie voor kwartfinale WK 2026</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/atlasleeuwen-krijgen-premie-voor-kwartfinale-wk-2026-1794927798236.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-citrusoogst-kan-dit-seizoen-met-20-procent-dalen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T15:08:47.659Z</news:publication_date>
-      <news:title>Marokkaanse citrusoogst kan dit seizoen met 20 procent dalen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-citrusoogst-kan-dit-seizoen-met-20-procent-dalen-1794927777668.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kleuterleidsters-in-marokko-staken-tegen-onzekere-banen-en-trekken-naar-parlemen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T14:34:32.374Z</news:publication_date>
-      <news:title>Kleuterleidsters in Marokko staken tegen onzekere banen en trekken naar parlement</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kleuterleidsters-in-marokko-staken-tegen-onzekere-banen-en-trekken-naar-parlemen-1794925950449.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-u17-in-qatar-dit-is-het-speelschema-van-marokko-in-groep-h</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T13:38:16.556Z</news:publication_date>
-      <news:title>WK U17 in Qatar: dit is het speelschema van Marokko in groep H</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-u17-in-qatar-dit-is-het-speelschema-van-marokko-in-groep-h-1794922343007.jpg</image:loc></image:image>
   </url>
 </urlset>
