@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verslaat-italie-met-4-1-en-bereikt-kwartfinale-wk-amputatievoetbal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T00:34:27.353Z</news:publication_date>
+      <news:title>Marokko verslaat Italië met 4-1 en bereikt kwartfinale WK amputatievoetbal</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verslaat-italie-met-4-1-en-bereikt-kwartfinale-wk-amputatievoetbal-1795048345554.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-eigen-defensie-industrie-40-van-legerbehoefte-uit-eigen-land-tegen-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T23:49:12.997Z</news:publication_date>
+      <news:title>Marokko wil eigen defensie-industrie: 40% van legerbehoefte uit eigen land tegen 2035</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-eigen-defensie-industrie-40-van-legerbehoefte-uit-eigen-land-tegen-2-1795043049983.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-universitair-ziekenhuis-mohammed-vi-geopend-in-dakhla</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T23:29:12.212Z</news:publication_date>
+      <news:title>Nieuw universitair ziekenhuis Mohammed VI geopend in Dakhla</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-universitair-ziekenhuis-mohammed-vi-geopend-in-dakhla-1795043021948.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/caf-legt-stemprocedure-uit-voor-afrikaanse-voetbalprijzen-2026-in-lagos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T23:09:11.260Z</news:publication_date>
+      <news:title>CAF legt stemprocedure uit voor Afrikaanse voetbalprijzen 2026 in Lagos</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-legt-stemprocedure-uit-voor-afrikaanse-voetbalprijzen-2026-in-lagos-1795042986462.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-passeert-in-2026-de-grens-van-5-000-dollar-bbp-per-inwoner</loc>
     <news:news>
       <news:publication>
@@ -433,53 +481,5 @@
       <news:title>5,2 miljard dirham aan buitenlandse pensioenen en kinderbijslag naar Marokko in 2025</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/5-2-miljard-dirham-aan-buitenlandse-pensioenen-en-kinderbijslag-naar-marokko-in--1794897149522.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vn-missie-minurso-begint-vertrek-uit-laayoune-na-35-jaar-in-de-sahara</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T01:34:31.434Z</news:publication_date>
-      <news:title>VN-missie MINURSO begint vertrek uit Laâyoune na 35 jaar in de Sahara</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vn-missie-minurso-begint-vertrek-uit-laayoune-na-35-jaar-in-de-sahara-1794879149972.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-inlichtingendienst-marokko-had-geen-rol-bij-massale-grensovergang-naar-c</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T23:48:43.935Z</news:publication_date>
-      <news:title>Spaanse inlichtingendienst: Marokko had geen rol bij massale grensovergang naar Ceuta</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-inlichtingendienst-marokko-had-geen-rol-bij-massale-grensovergang-naar-c-1794870221224.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-investeert-3-5-miljard-dirham-in-200-lokale-toerismeprojecten</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T23:28:43.188Z</news:publication_date>
-      <news:title>Marokko investeert 3,5 miljard dirham in 200 lokale toerismeprojecten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-investeert-3-5-miljard-dirham-in-200-lokale-toerismeprojecten-1794870194078.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-minister-binnenlands-toerisme-is-geen-bijzaak-maar-prioriteit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T23:08:42.251Z</news:publication_date>
-      <news:title>Marokkaanse minister: binnenlands toerisme is geen bijzaak, maar prioriteit</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-minister-binnenlands-toerisme-is-geen-bijzaak-maar-prioriteit-1794870167521.jpg</image:loc></image:image>
   </url>
 </urlset>
