@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dollar-wint-1-38-op-de-dirham-wat-de-koers-usd-mad-betekent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T19:37:36.529Z</news:publication_date>
+      <news:title>Dollar wint 1,38% op de dirham: wat de koers USD/MAD betekent</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dollar-wint-1-38-op-de-dirham-wat-de-koers-usd-mad-betekent-1795203155105.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/visum-voor-marokko-bls-waarschuwt-voor-oplichting-met-valse-sites-en-nepafsprake</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T16:38:16.540Z</news:publication_date>
+      <news:title>Visum voor Marokko? BLS waarschuwt voor oplichting met valse sites en nepafspraken</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/visum-voor-marokko-bls-waarschuwt-voor-oplichting-met-valse-sites-en-nepafsprake-1795192395025.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-sociale-media-verbieden-voor-kinderen-onder-15</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T15:48:59.580Z</news:publication_date>
+      <news:title>Marokko wil sociale media verbieden voor kinderen onder 15</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-sociale-media-verbieden-voor-kinderen-onder-15-1795187033807.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/mediapart-zakendeals-teddy-riner-met-koning-mohammed-vi-leverden-miljoenen-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T15:37:27.675Z</news:publication_date>
+      <news:title>Mediapart: zakendeals Teddy Riner met koning Mohammed VI leverden miljoenen op</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mediapart-zakendeals-teddy-riner-met-koning-mohammed-vi-leverden-miljoenen-op-1795188724991.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-fiji-op-het-wk-onder-17-hoe-laat-en-waar-kun-je-kijken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T15:34:28.344Z</news:publication_date>
+      <news:title>Marokko-Fiji op het WK onder 17: hoe laat en waar kun je kijken?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-fiji-op-het-wk-onder-17-hoe-laat-en-waar-kun-je-kijken-1795188746901.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-grootste-auto-exporteur-van-afrika-en-topleverancier-eu-aldus-ebrd</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T15:28:58.599Z</news:publication_date>
+      <news:title>Marokko grootste auto-exporteur van Afrika en topleverancier EU, aldus EBRD</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-grootste-auto-exporteur-van-afrika-en-topleverancier-eu-aldus-ebrd-1795186999951.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/weduwen-en-pensioenuitkeringen-in-marokko-gaan-vanaf-januari-2027-omhoog</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T13:38:09.991Z</news:publication_date>
+      <news:title>Weduwen- en pensioenuitkeringen in Marokko gaan vanaf januari 2027 omhoog</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/weduwen-en-pensioenuitkeringen-in-marokko-gaan-vanaf-januari-2027-omhoog-1795181587676.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/inflatie-in-marokko-stijgt-naar-1-9-procent-door-duurdere-groente-vlees-en-brand</loc>
     <news:news>
       <news:publication>
@@ -397,101 +481,5 @@
       <news:title>Rif-activist Reda Benzaza in Spanje neergestoken: twaalf messteken in Fuengirola</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rif-activist-reda-benzaza-in-spanje-neergestoken-twaalf-messteken-in-fuengirola-1795037608169.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/baas-ford-europa-waarschuwt-marokko-buiten-made-in-europe-schaadt-auto-industrie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T17:38:28.144Z</news:publication_date>
-      <news:title>Baas Ford Europa waarschuwt: Marokko buiten &apos;Made in Europe&apos; schaadt auto-industrie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/baas-ford-europa-waarschuwt-marokko-buiten-made-in-europe-schaadt-auto-industrie-1795020776827.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/slager-dood-aangetroffen-in-zijn-winkel-in-settat-onderzoek-geopend</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T16:55:28.966Z</news:publication_date>
-      <news:title>Slager dood aangetroffen in zijn winkel in Settat, onderzoek geopend</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/slager-dood-aangetroffen-in-zijn-winkel-in-settat-onderzoek-geopend-1795020799516.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-toeristen-blijven-weg-10-procent-minder-naar-marokko-in-september</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T15:49:14.751Z</news:publication_date>
-      <news:title>Spaanse toeristen blijven weg: 10 procent minder naar Marokko in september</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-toeristen-blijven-weg-10-procent-minder-naar-marokko-in-september-1795014251458.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-vrouwenorganisaties-eisen-strengere-wet-tegen-geweld-op-vrouwen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T15:29:14.031Z</news:publication_date>
-      <news:title>Marokkaanse vrouwenorganisaties eisen strengere wet tegen geweld op vrouwen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-vrouwenorganisaties-eisen-strengere-wet-tegen-geweld-op-vrouwen-1795014220453.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/sahara-na-het-russische-veto-staat-marokko-voor-een-nieuw-diplomatiek-krachtensp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T15:09:13.099Z</news:publication_date>
-      <news:title>Sahara: na het Russische veto staat Marokko voor een nieuw diplomatiek krachtenspel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/sahara-na-het-russische-veto-staat-marokko-voor-een-nieuw-diplomatiek-krachtensp-1795014176137.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/aardbeving-van-4-8-treft-provincie-boulemane-in-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T14:35:14.742Z</news:publication_date>
-      <news:title>Aardbeving van 4.8 treft provincie Boulemane in Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/aardbeving-van-4-8-treft-provincie-boulemane-in-marokko-1795012389074.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-geeft-premie-aan-wie-via-directe-sociale-steun-een-aangegeven-baan-vindt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:58:39.172Z</news:publication_date>
-      <news:title>Marokko geeft premie aan wie via directe sociale steun een aangegeven baan vindt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-geeft-premie-aan-wie-via-directe-sociale-steun-een-aangegeven-baan-vindt-1795008816959.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/deense-premier-noemt-hoofddoek-onderdrukking-en-wil-verbod-op-scholen-bespreken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:38:38.385Z</news:publication_date>
-      <news:title>Deense premier noemt hoofddoek onderdrukking en wil verbod op scholen bespreken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/deense-premier-noemt-hoofddoek-onderdrukking-en-wil-verbod-op-scholen-bespreken-1795008792399.jpg</image:loc></image:image>
   </url>
 </urlset>
