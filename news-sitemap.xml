@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/regragui-dicht-bij-bondscoachschap-qatar-dit-is-bekend-over-de-onderhandelingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T01:01:40.240Z</news:publication_date>
+      <news:title>Regragui dicht bij bondscoachschap Qatar: dit is bekend over de onderhandelingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/regragui-dicht-bij-bondscoachschap-qatar-dit-is-bekend-over-de-onderhandelingen-1795136379332.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-winstmarges-brandstofbedrijven-aan-banden-leggen</loc>
     <news:news>
       <news:publication>
