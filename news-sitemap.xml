@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-zijn-na-de-britten-de-grootste-buitenlandse-huizenkopers-in-spanje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T23:08:31.125Z</news:publication_date>
+      <news:title>Marokkanen zijn na de Britten de grootste buitenlandse huizenkopers in Spanje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-zijn-na-de-britten-de-grootste-buitenlandse-huizenkopers-in-spanje-1795215808933.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-voetbal-voor-kleine-mensen-in-marokko-atlasleeuwen-spelen-voor-eigen-publiek</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T23:05:30.195Z</news:publication_date>
+      <news:title>WK voetbal voor kleine mensen in Marokko: Atlasleeuwen spelen voor eigen publiek</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-voetbal-voor-kleine-mensen-in-marokko-atlasleeuwen-spelen-voor-eigen-publiek-1795215768677.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bereidt-verkiezingen-van-2027-voor-binnenland-overlegt-met-partijen-over</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T22:35:38.377Z</news:publication_date>
+      <news:title>Marokko bereidt verkiezingen van 2027 voor: binnenland overlegt met partijen over nieuwe kieswetten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bereidt-verkiezingen-van-2027-voor-binnenland-overlegt-met-partijen-over-1795213981614.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/dollar-wint-1-38-op-de-dirham-wat-de-koers-usd-mad-betekent</loc>
     <news:news>
       <news:publication>
@@ -409,77 +445,5 @@
       <news:title>&quot;Ik zag mezelf als een domme Marokkaan&quot;: hoe Lev filosoof werd in Nederland</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ik-zag-mezelf-als-een-domme-marokkaan-hoe-lev-filosoof-werd-in-nederland-1795069941824.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-verslaat-italie-met-4-1-en-bereikt-kwartfinale-wk-amputatievoetbal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T00:34:27.353Z</news:publication_date>
-      <news:title>Marokko verslaat Italië met 4-1 en bereikt kwartfinale WK amputatievoetbal</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-verslaat-italie-met-4-1-en-bereikt-kwartfinale-wk-amputatievoetbal-1795048345554.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-eigen-defensie-industrie-40-van-legerbehoefte-uit-eigen-land-tegen-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T23:49:12.997Z</news:publication_date>
-      <news:title>Marokko wil eigen defensie-industrie: 40% van legerbehoefte uit eigen land tegen 2035</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-eigen-defensie-industrie-40-van-legerbehoefte-uit-eigen-land-tegen-2-1795043049983.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-universitair-ziekenhuis-mohammed-vi-geopend-in-dakhla</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T23:29:12.212Z</news:publication_date>
-      <news:title>Nieuw universitair ziekenhuis Mohammed VI geopend in Dakhla</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-universitair-ziekenhuis-mohammed-vi-geopend-in-dakhla-1795043021948.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/caf-legt-stemprocedure-uit-voor-afrikaanse-voetbalprijzen-2026-in-lagos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T23:09:11.260Z</news:publication_date>
-      <news:title>CAF legt stemprocedure uit voor Afrikaanse voetbalprijzen 2026 in Lagos</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-legt-stemprocedure-uit-voor-afrikaanse-voetbalprijzen-2026-in-lagos-1795042986462.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-passeert-in-2026-de-grens-van-5-000-dollar-bbp-per-inwoner</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T21:39:05.171Z</news:publication_date>
-      <news:title>Marokko passeert in 2026 de grens van 5.000 dollar bbp per inwoner</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-passeert-in-2026-de-grens-van-5-000-dollar-bbp-per-inwoner-1795037642555.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rif-activist-reda-benzaza-in-spanje-neergestoken-twaalf-messteken-in-fuengirola</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T21:36:03.989Z</news:publication_date>
-      <news:title>Rif-activist Reda Benzaza in Spanje neergestoken: twaalf messteken in Fuengirola</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rif-activist-reda-benzaza-in-spanje-neergestoken-twaalf-messteken-in-fuengirola-1795037608169.jpg</image:loc></image:image>
   </url>
 </urlset>
