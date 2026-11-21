@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tamwilcom-lanceert-goedkope-lening-tegen-2-voor-bedrijven-en-diaspora</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T10:58:22.491Z</news:publication_date>
+      <news:title>Tamwilcom lanceert goedkope lening tegen 2% voor bedrijven en diaspora</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tamwilcom-lanceert-goedkope-lening-tegen-2-voor-bedrijven-en-diaspora-1795257200245.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fransman-39-vanuit-marokko-uitgeleverd-aan-nederland-voor-ontvoering-in-zeist</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T10:38:21.366Z</news:publication_date>
+      <news:title>Fransman (39) vanuit Marokko uitgeleverd aan Nederland voor ontvoering in Zeist</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fransman-39-vanuit-marokko-uitgeleverd-aan-nederland-voor-ontvoering-in-zeist-1795257159793.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zorgbedrijf-ayganzorg-failliet-330-marokkaanse-en-turkse-ouderen-moeten-op-zoek-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T08:34:25.424Z</news:publication_date>
+      <news:title>Zorgbedrijf AyganZorg failliet: 330 Marokkaanse en Turkse ouderen moeten op zoek naar andere zorg</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zorgbedrijf-ayganzorg-failliet-330-marokkaanse-en-turkse-ouderen-moeten-op-zoek--1795249944418.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bedrijf-uit-casablanca-haalt-ingenieurs-uit-bangladesh-naar-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T07:08:25.149Z</news:publication_date>
+      <news:title>Bedrijf uit Casablanca haalt ingenieurs uit Bangladesh naar Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bedrijf-uit-casablanca-haalt-ingenieurs-uit-bangladesh-naar-marokko-1795244565062.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/dood-van-marokkaans-meisje-uit-1987-voor-franse-rechtbank-ouders-terechtstaan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T06:37:29.234Z</news:publication_date>
+      <news:title>Dood van Marokkaans meisje uit 1987 voor Franse rechtbank: ouders terechtstaan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dood-van-marokkaans-meisje-uit-1987-voor-franse-rechtbank-ouders-terechtstaan-1795242747869.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-zijn-na-de-britten-de-grootste-buitenlandse-huizenkopers-in-spanje</loc>
     <news:news>
       <news:publication>
@@ -385,65 +445,5 @@
       <news:title>Noord-Afrika is nu de drukste luchtroute vanuit Europa, Marokko profiteert mee</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/noord-afrika-is-nu-de-drukste-luchtroute-vanuit-europa-marokko-profiteert-mee-1795087609138.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nederlandse-veiling-zon-wil-tomaten-uit-marokko-halen-in-plaats-van-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T10:38:03.669Z</news:publication_date>
-      <news:title>Nederlandse veiling ZON wil tomaten uit Marokko halen in plaats van Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederlandse-veiling-zon-wil-tomaten-uit-marokko-halen-in-plaats-van-spanje-1795084358509.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fifa-kiest-in-maart-2027-voorzitter-in-rabat-drie-kandidaten-strijden-om-de-top</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T10:35:04.500Z</news:publication_date>
-      <news:title>FIFA kiest in maart 2027 voorzitter in Rabat: drie kandidaten strijden om de top</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-kiest-in-maart-2027-voorzitter-in-rabat-drie-kandidaten-strijden-om-de-top-1795084382658.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/soufyan-ahannach-over-het-voetbalvuur-in-marokko-oorverdovend-gezang-en-fans-die</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T07:28:27.236Z</news:publication_date>
-      <news:title>Soufyan Ahannach over het voetbalvuur in Marokko: &apos;Oorverdovend gezang en fans die honderden kilometers reizen&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/soufyan-ahannach-over-het-voetbalvuur-in-marokko-oorverdovend-gezang-en-fans-die-1795071805328.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u17-op-het-wk-in-qatar-deze-drie-aanvallers-zijn-de-troeven</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T07:08:26.431Z</news:publication_date>
-      <news:title>Marokko U17 op het WK in Qatar: deze drie aanvallers zijn de troeven</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u17-op-het-wk-in-qatar-deze-drie-aanvallers-zijn-de-troeven-1795071767847.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ik-zag-mezelf-als-een-domme-marokkaan-hoe-lev-filosoof-werd-in-nederland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T06:37:24.256Z</news:publication_date>
-      <news:title>&quot;Ik zag mezelf als een domme Marokkaan&quot;: hoe Lev filosoof werd in Nederland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ik-zag-mezelf-als-een-domme-marokkaan-hoe-lev-filosoof-werd-in-nederland-1795069941824.jpg</image:loc></image:image>
   </url>
 </urlset>
