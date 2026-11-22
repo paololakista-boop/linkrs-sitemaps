@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-kinderen-in-eu-top-41-442-kregen-een-eerste-verblijfsvergunning</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T07:07:45.630Z</news:publication_date>
+      <news:title>Marokkaanse kinderen in EU-top: 41.442 kregen een eerste verblijfsvergunning</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-kinderen-in-eu-top-41-442-kregen-een-eerste-verblijfsvergunning-1795330964483.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ondernemer-verliest-75-van-omzet-nadat-hij-zich-uitsprak-tegen-wilders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T06:58:17.734Z</news:publication_date>
+      <news:title>Ondernemer verliest 75% van omzet nadat hij zich uitsprak tegen Wilders</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ondernemer-verliest-75-van-omzet-nadat-hij-zich-uitsprak-tegen-wilders-1795329195528.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/club-brugge-aast-op-marokkaanse-messi-ibrahim-rabbaj-op-wk-u17</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T06:38:16.830Z</news:publication_date>
+      <news:title>Club Brugge aast op &apos;Marokkaanse Messi&apos; Ibrahim Rabbaj op WK U17</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/club-brugge-aast-op-marokkaanse-messi-ibrahim-rabbaj-op-wk-u17-1795329158937.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-ghana-in-wk-finale-amputatievoetbal-hoe-laat-en-waar-kun-je-kijken</loc>
     <news:news>
       <news:publication>
@@ -421,41 +457,5 @@
       <news:title>Op zijn 12e naar Frankrijk zonder Frans, nu succesvol met eigen notenpasta Buenut&apos;s</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/op-zijn-12e-naar-frankrijk-zonder-frans-nu-succesvol-met-eigen-notenpasta-buenut-1795170766897.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-bondsbaas-claimt-wk-finale-2030-en-zet-marokko-buitenspel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T07:28:52.018Z</news:publication_date>
-      <news:title>Spaanse bondsbaas claimt WK-finale 2030 en zet Marokko buitenspel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-bondsbaas-claimt-wk-finale-2030-en-zet-marokko-buitenspel-1795158191345.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/abdellah-ouazane-kiest-voor-marokko-keiharde-dreun-voor-oranje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T07:08:51.116Z</news:publication_date>
-      <news:title>Abdellah Ouazane kiest voor Marokko: &apos;Keiharde dreun voor Oranje&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/abdellah-ouazane-kiest-voor-marokko-keiharde-dreun-voor-oranje-1795158166875.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/regragui-dicht-bij-bondscoachschap-qatar-dit-is-bekend-over-de-onderhandelingen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T01:01:40.240Z</news:publication_date>
-      <news:title>Regragui dicht bij bondscoachschap Qatar: dit is bekend over de onderhandelingen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/regragui-dicht-bij-bondscoachschap-qatar-dit-is-bekend-over-de-onderhandelingen-1795136379332.jpg</image:loc></image:image>
   </url>
 </urlset>
