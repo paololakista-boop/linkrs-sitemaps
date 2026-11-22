@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belgie-zette-in-2025-ruim-1-200-marokkanen-gedwongen-uit</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T21:37:48.369Z</news:publication_date>
+      <news:title>België zette in 2025 ruim 1.200 Marokkanen gedwongen uit</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-zette-in-2025-ruim-1-200-marokkanen-gedwongen-uit-1795383166555.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/8-kilo-cocaine-onderschept-in-haven-tanger-marokkaan-uit-spanje-opgepakt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T19:37:48.896Z</news:publication_date>
+      <news:title>8 kilo cocaïne onderschept in haven Tanger, Marokkaan uit Spanje opgepakt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/8-kilo-cocaine-onderschept-in-haven-tanger-marokkaan-uit-spanje-opgepakt-1795375967556.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanje-koopt-bijna-twee-keer-zoveel-marokkaanse-auto-onderdelen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T16:29:50.827Z</news:publication_date>
+      <news:title>Spanje koopt bijna twee keer zoveel Marokkaanse auto-onderdelen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-koopt-bijna-twee-keer-zoveel-marokkaanse-auto-onderdelen-1795359887544.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/kopen-om-te-verhuren-in-marokko-is-het-nog-rendabel</loc>
     <news:news>
       <news:publication>
@@ -445,29 +481,5 @@
       <news:title>Marokko bereidt verkiezingen van 2027 voor: binnenland overlegt met partijen over nieuwe kieswetten</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bereidt-verkiezingen-van-2027-voor-binnenland-overlegt-met-partijen-over-1795213981614.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dollar-wint-1-38-op-de-dirham-wat-de-koers-usd-mad-betekent</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T19:37:36.529Z</news:publication_date>
-      <news:title>Dollar wint 1,38% op de dirham: wat de koers USD/MAD betekent</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dollar-wint-1-38-op-de-dirham-wat-de-koers-usd-mad-betekent-1795203155105.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/visum-voor-marokko-bls-waarschuwt-voor-oplichting-met-valse-sites-en-nepafsprake</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T16:38:16.540Z</news:publication_date>
-      <news:title>Visum voor Marokko? BLS waarschuwt voor oplichting met valse sites en nepafspraken</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/visum-voor-marokko-bls-waarschuwt-voor-oplichting-met-valse-sites-en-nepafsprake-1795192395025.jpg</image:loc></image:image>
   </url>
 </urlset>
