@@ -3,6 +3,42 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-ghana-in-wk-finale-amputatievoetbal-hoe-laat-en-waar-kun-je-kijken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T23:34:23.105Z</news:publication_date>
+      <news:title>Marokko-Ghana in WK-finale amputatievoetbal: hoe laat en waar kun je kijken?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-ghana-in-wk-finale-amputatievoetbal-hoe-laat-en-waar-kun-je-kijken-1795303942119.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/caf-lanceert-wk-voor-vrouwen-onder-17-kandidaten-gezocht-voor-wafcon-2028</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T21:58:06.235Z</news:publication_date>
+      <news:title>CAF lanceert WK voor vrouwen onder 17, kandidaten gezocht voor WAFCON 2028</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-lanceert-wk-voor-vrouwen-onder-17-kandidaten-gezocht-voor-wafcon-2028-1795296783555.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-zoekt-ingenieurs-in-nederland-en-belgie-voor-zijn-defensie-industrie</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T21:38:04.888Z</news:publication_date>
+      <news:title>Marokko zoekt ingenieurs in Nederland en België voor zijn defensie-industrie</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-zoekt-ingenieurs-in-nederland-en-belgie-voor-zijn-defensie-industrie-1795296757414.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/arkia-hervat-in-januari-rechtstreekse-vluchten-tussen-israel-en-marrakech</loc>
     <news:news>
       <news:publication>
