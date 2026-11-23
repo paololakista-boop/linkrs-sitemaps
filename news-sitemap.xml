@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vier-doden-bij-zware-aanrijding-nabij-el-jadida</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T00:34:32.248Z</news:publication_date>
+      <news:title>Vier doden bij zware aanrijding nabij El Jadida</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vier-doden-bij-zware-aanrijding-nabij-el-jadida-1795393950854.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/fifa-verkiezing-in-rabat-infantino-koerst-af-op-vierde-termijn</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T23:07:57.103Z</news:publication_date>
+      <news:title>FIFA-verkiezing in Rabat: Infantino koerst af op vierde termijn</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-verkiezing-in-rabat-infantino-koerst-af-op-vierde-termijn-1795388576116.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ayoub-oufkir-over-zijn-keuze-voor-marokko-een-uitzonderlijke-ervaring</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T22:38:13.900Z</news:publication_date>
+      <news:title>Ayoub Oufkir over zijn keuze voor Marokko: &quot;Een uitzonderlijke ervaring&quot;</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayoub-oufkir-over-zijn-keuze-voor-marokko-een-uitzonderlijke-ervaring-1795386755378.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/verdachte-van-ontvoering-in-zeist-door-marokko-uitgeleverd-aan-nederland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T22:35:14.752Z</news:publication_date>
+      <news:title>Verdachte van ontvoering in Zeist door Marokko uitgeleverd aan Nederland</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verdachte-van-ontvoering-in-zeist-door-marokko-uitgeleverd-aan-nederland-1795386792579.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/belgie-zette-in-2025-ruim-1-200-marokkanen-gedwongen-uit</loc>
     <news:news>
       <news:publication>
@@ -445,41 +493,5 @@
       <news:title>Dood van Marokkaans meisje uit 1987 voor Franse rechtbank: ouders terechtstaan</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dood-van-marokkaans-meisje-uit-1987-voor-franse-rechtbank-ouders-terechtstaan-1795242747869.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-zijn-na-de-britten-de-grootste-buitenlandse-huizenkopers-in-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T23:08:31.125Z</news:publication_date>
-      <news:title>Marokkanen zijn na de Britten de grootste buitenlandse huizenkopers in Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-zijn-na-de-britten-de-grootste-buitenlandse-huizenkopers-in-spanje-1795215808933.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-voetbal-voor-kleine-mensen-in-marokko-atlasleeuwen-spelen-voor-eigen-publiek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T23:05:30.195Z</news:publication_date>
-      <news:title>WK voetbal voor kleine mensen in Marokko: Atlasleeuwen spelen voor eigen publiek</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-voetbal-voor-kleine-mensen-in-marokko-atlasleeuwen-spelen-voor-eigen-publiek-1795215768677.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bereidt-verkiezingen-van-2027-voor-binnenland-overlegt-met-partijen-over</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T22:35:38.377Z</news:publication_date>
-      <news:title>Marokko bereidt verkiezingen van 2027 voor: binnenland overlegt met partijen over nieuwe kieswetten</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bereidt-verkiezingen-van-2027-voor-binnenland-overlegt-met-partijen-over-1795213981614.jpg</image:loc></image:image>
   </url>
 </urlset>
