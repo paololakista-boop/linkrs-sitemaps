@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hoe-een-simpele-telefoon-dakloze-jongeren-in-barcelona-vooruithelpt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T13:37:28.524Z</news:publication_date>
+      <news:title>Hoe een simpele telefoon dakloze jongeren in Barcelona vooruithelpt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoe-een-simpele-telefoon-dakloze-jongeren-in-barcelona-vooruithelpt-1795440747623.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/klacht-tegen-kamal-kharmach-in-belgie-wegens-grensoverschrijdend-gedrag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T10:38:17.058Z</news:publication_date>
+      <news:title>Klacht tegen Kamal Kharmach in België wegens grensoverschrijdend gedrag</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/klacht-tegen-kamal-kharmach-in-belgie-wegens-grensoverschrijdend-gedrag-1795429994638.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/cas-beslist-dinsdag-over-bezwaar-senegal-verliest-marokko-zijn-afrikaanse-titel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T10:35:16.102Z</news:publication_date>
+      <news:title>CAS beslist dinsdag over bezwaar Senegal: verliest Marokko zijn Afrikaanse titel?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cas-beslist-dinsdag-over-bezwaar-senegal-verliest-marokko-zijn-afrikaanse-titel-1795429958245.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/belgie-wil-gedetineerden-terugsturen-naar-marokko-maar-tientallen-dossiers-ligge</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T09:37:53.617Z</news:publication_date>
+      <news:title>België wil gedetineerden terugsturen naar Marokko, maar tientallen dossiers liggen al meer dan een jaar stil</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-wil-gedetineerden-terugsturen-naar-marokko-maar-tientallen-dossiers-ligge-1795426341762.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vliegtuigje-met-50-kilo-hasj-neergestort-in-italie-piloot-omgekomen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T08:34:36.354Z</news:publication_date>
+      <news:title>Vliegtuigje met 50 kilo hasj neergestort in Italië, piloot omgekomen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vliegtuigje-met-50-kilo-hasj-neergestort-in-italie-piloot-omgekomen-1795422755556.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/experts-waarschuwen-voor-terreurcorridor-tussen-sahel-marokko-en-spanje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T07:34:15.603Z</news:publication_date>
+      <news:title>Experts waarschuwen voor terreurcorridor tussen Sahel, Marokko en Spanje</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/experts-waarschuwen-voor-terreurcorridor-tussen-sahel-marokko-en-spanje-1795419133273.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/lee-murray-brein-achter-securitas-roof-zou-doodziek-zijn-in-marokkaanse-cel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T07:28:30.381Z</news:publication_date>
+      <news:title>Lee Murray, brein achter Securitas-roof, zou doodziek zijn in Marokkaanse cel</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lee-murray-brein-achter-securitas-roof-zou-doodziek-zijn-in-marokkaanse-cel-1795417407453.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/reizen-vanuit-marokko-naar-ivoorkust-qr-gezondheidscode-nu-verplicht-ook-bij-ove</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T07:08:29.201Z</news:publication_date>
+      <news:title>Reizen vanuit Marokko naar Ivoorkust: QR-gezondheidscode nu verplicht, ook bij overstap</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/reizen-vanuit-marokko-naar-ivoorkust-qr-gezondheidscode-nu-verplicht-ook-bij-ove-1795417357094.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/tiktok-voedt-zwitserland-droom-bij-marokkaanse-jongeren</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T06:38:14.707Z</news:publication_date>
+      <news:title>TikTok voedt Zwitserland-droom bij Marokkaanse jongeren</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tiktok-voedt-zwitserland-droom-bij-marokkaanse-jongeren-1795415557549.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vier-doden-bij-zware-aanrijding-nabij-el-jadida</loc>
     <news:news>
       <news:publication>
@@ -385,113 +493,5 @@
       <news:title>Canadese provincie Ontario wil november Maand van het Marokkaans Erfgoed maken</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/canadese-provincie-ontario-wil-november-maand-van-het-marokkaans-erfgoed-maken-1795271575213.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-trekt-45-3-miljoen-euro-noodgeld-uit-voor-ceuta-door-migratiedruk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T14:37:56.454Z</news:publication_date>
-      <news:title>Spanje trekt 45,3 miljoen euro noodgeld uit voor Ceuta door migratiedruk</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-trekt-45-3-miljoen-euro-noodgeld-uit-voor-ceuta-door-migratiedruk-1795271540712.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/beursgang-laprophan-zwaar-overtekend-15-3-miljard-dirham-aan-vraag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T13:37:57.718Z</news:publication_date>
-      <news:title>Beursgang Laprophan zwaar overtekend: 15,3 miljard dirham aan vraag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/beursgang-laprophan-zwaar-overtekend-15-3-miljard-dirham-aan-vraag-1795267942530.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kamal-kharmach-beschuldigd-van-aanranding-wie-is-de-komiek-uit-borgerhout</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T12:38:07.129Z</news:publication_date>
-      <news:title>Kamal Kharmach beschuldigd van aanranding: wie is de komiek uit Borgerhout?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kamal-kharmach-beschuldigd-van-aanranding-wie-is-de-komiek-uit-borgerhout-1795264344584.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/twee-marokkanen-doodgeschoten-aan-algerijnse-grens-na-dreigende-taal-tebboune</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T12:35:08.024Z</news:publication_date>
-      <news:title>Twee Marokkanen doodgeschoten aan Algerijnse grens na dreigende taal Tebboune</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-marokkanen-doodgeschoten-aan-algerijnse-grens-na-dreigende-taal-tebboune-1795264386014.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tamwilcom-lanceert-goedkope-lening-tegen-2-voor-bedrijven-en-diaspora</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T10:58:22.491Z</news:publication_date>
-      <news:title>Tamwilcom lanceert goedkope lening tegen 2% voor bedrijven en diaspora</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tamwilcom-lanceert-goedkope-lening-tegen-2-voor-bedrijven-en-diaspora-1795257200245.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fransman-39-vanuit-marokko-uitgeleverd-aan-nederland-voor-ontvoering-in-zeist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T10:38:21.366Z</news:publication_date>
-      <news:title>Fransman (39) vanuit Marokko uitgeleverd aan Nederland voor ontvoering in Zeist</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fransman-39-vanuit-marokko-uitgeleverd-aan-nederland-voor-ontvoering-in-zeist-1795257159793.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zorgbedrijf-ayganzorg-failliet-330-marokkaanse-en-turkse-ouderen-moeten-op-zoek-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T08:34:25.424Z</news:publication_date>
-      <news:title>Zorgbedrijf AyganZorg failliet: 330 Marokkaanse en Turkse ouderen moeten op zoek naar andere zorg</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zorgbedrijf-ayganzorg-failliet-330-marokkaanse-en-turkse-ouderen-moeten-op-zoek--1795249944418.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bedrijf-uit-casablanca-haalt-ingenieurs-uit-bangladesh-naar-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T07:08:25.149Z</news:publication_date>
-      <news:title>Bedrijf uit Casablanca haalt ingenieurs uit Bangladesh naar Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bedrijf-uit-casablanca-haalt-ingenieurs-uit-bangladesh-naar-marokko-1795244565062.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dood-van-marokkaans-meisje-uit-1987-voor-franse-rechtbank-ouders-terechtstaan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T06:37:29.234Z</news:publication_date>
-      <news:title>Dood van Marokkaans meisje uit 1987 voor Franse rechtbank: ouders terechtstaan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dood-van-marokkaans-meisje-uit-1987-voor-franse-rechtbank-ouders-terechtstaan-1795242747869.jpg</image:loc></image:image>
   </url>
 </urlset>
