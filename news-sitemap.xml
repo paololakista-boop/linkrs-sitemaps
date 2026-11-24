@@ -3,6 +3,66 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-lanceert-banenplan-voor-bijna-een-miljoen-jongeren-vanaf-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T09:37:33.364Z</news:publication_date>
+      <news:title>Marokko lanceert banenplan voor bijna een miljoen jongeren vanaf 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-lanceert-banenplan-voor-bijna-een-miljoen-jongeren-vanaf-2027-1795512752561.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u17-tegen-spanje-een-punt-genoeg-voor-de-volgende-ronde-op-wk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T07:37:48.877Z</news:publication_date>
+      <news:title>Marokko U17 tegen Spanje: één punt genoeg voor de volgende ronde op WK</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u17-tegen-spanje-een-punt-genoeg-voor-de-volgende-ronde-op-wk-1795505567007.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-pp-wil-speciale-economische-zone-tegen-concurrentie-van-tanger-med</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T07:28:44.196Z</news:publication_date>
+      <news:title>Spaanse PP wil speciale economische zone tegen concurrentie van Tanger Med</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-pp-wil-speciale-economische-zone-tegen-concurrentie-van-tanger-med-1795503822069.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hotels-in-noord-marokko-verlagen-prijzen-om-buitenlandse-toeristen-te-lokken-bui</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T07:08:43.354Z</news:publication_date>
+      <news:title>Hotels in Noord-Marokko verlagen prijzen om buitenlandse toeristen te lokken buiten het hoogseizoen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hotels-in-noord-marokko-verlagen-prijzen-om-buitenlandse-toeristen-te-lokken-bui-1795503774886.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/oranje-kat-steelt-de-show-op-koninklijk-diner-in-marrakech-tussen-hollywoodsterr</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T06:37:16.987Z</news:publication_date>
+      <news:title>Oranje kat steelt de show op koninklijk diner in Marrakech tussen Hollywoodsterren</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oranje-kat-steelt-de-show-op-koninklijk-diner-in-marrakech-tussen-hollywoodsterr-1795501934687.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-restaurant-la-medina-opent-in-franse-wijnstad-gaillac-en-zit-meteen-v</loc>
     <news:news>
       <news:publication>
@@ -385,89 +445,5 @@
       <news:title>Marokko-China op WK onder 17: zege plaatst jonge Atlasleeuwen al door</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-china-op-wk-onder-17-zege-plaatst-jonge-atlasleeuwen-al-door-1795357945300.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-werkneemster-krijgt-na-jaren-vernedering-24-106-euro-van-franse-rech</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T11:58:51.013Z</news:publication_date>
-      <news:title>Marokkaanse werkneemster krijgt na jaren vernedering 24.106 euro van Franse rechter</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-werkneemster-krijgt-na-jaren-vernedering-24-106-euro-van-franse-rech-1795347225474.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/dirham-daalt-licht-tegenover-euro-wat-is-1-euro-nu-in-dirham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T09:37:22.108Z</news:publication_date>
-      <news:title>Dirham daalt licht tegenover euro: wat is 1 euro nu in dirham?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/dirham-daalt-licht-tegenover-euro-wat-is-1-euro-nu-in-dirham-1795339940853.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mobiel-consulaat-helpt-marokkanen-in-de-spaanse-provincie-lleida</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T08:38:00.032Z</news:publication_date>
-      <news:title>Mobiel consulaat helpt Marokkanen in de Spaanse provincie Lleida</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mobiel-consulaat-helpt-marokkanen-in-de-spaanse-provincie-lleida-1795336377934.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kamerleden-willen-regeling-heropenen-terug-naar-marokko-met-nederlandse-uitkerin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T08:34:59.141Z</news:publication_date>
-      <news:title>Kamerleden willen regeling heropenen: terug naar Marokko met Nederlandse uitkering</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kamerleden-willen-regeling-heropenen-terug-naar-marokko-met-nederlandse-uitkerin-1795336354842.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-kinderen-in-eu-top-41-442-kregen-een-eerste-verblijfsvergunning</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T07:07:45.630Z</news:publication_date>
-      <news:title>Marokkaanse kinderen in EU-top: 41.442 kregen een eerste verblijfsvergunning</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-kinderen-in-eu-top-41-442-kregen-een-eerste-verblijfsvergunning-1795330964483.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ondernemer-verliest-75-van-omzet-nadat-hij-zich-uitsprak-tegen-wilders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T06:58:17.734Z</news:publication_date>
-      <news:title>Ondernemer verliest 75% van omzet nadat hij zich uitsprak tegen Wilders</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ondernemer-verliest-75-van-omzet-nadat-hij-zich-uitsprak-tegen-wilders-1795329195528.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/club-brugge-aast-op-marokkaanse-messi-ibrahim-rabbaj-op-wk-u17</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T06:38:16.830Z</news:publication_date>
-      <news:title>Club Brugge aast op &apos;Marokkaanse Messi&apos; Ibrahim Rabbaj op WK U17</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/club-brugge-aast-op-marokkaanse-messi-ibrahim-rabbaj-op-wk-u17-1795329158937.jpg</image:loc></image:image>
   </url>
 </urlset>
