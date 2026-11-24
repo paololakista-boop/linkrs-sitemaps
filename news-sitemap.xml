@@ -3,6 +3,138 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/oogdrama-tanger-tien-patienten-naar-huis-vier-moeten-geopereerd-worden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:58:23.999Z</news:publication_date>
+      <news:title>Oogdrama Tanger: tien patiënten naar huis, vier moeten geopereerd worden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oogdrama-tanger-tien-patienten-naar-huis-vier-moeten-geopereerd-worden-1795552401010.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-moslimcommissie-roept-op-om-te-stemmen-bij-verkiezingen-van-29-november</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:38:23.036Z</news:publication_date>
+      <news:title>Spaanse moslimcommissie roept op om te stemmen bij verkiezingen van 29 november</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-moslimcommissie-roept-op-om-te-stemmen-bij-verkiezingen-van-29-november-1795552370079.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/cas-uitspraak-over-verlaten-speelveld-in-afrika-cup-finale-roept-vragen-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T20:01:50.205Z</news:publication_date>
+      <news:title>CAS-uitspraak over verlaten speelveld in Afrika Cup-finale roept vragen op</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cas-uitspraak-over-verlaten-speelveld-in-afrika-cup-finale-roept-vragen-op-1795547804353.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/automarkt-marokko-op-recordjaar-af-hybride-wint-terrein-chinese-merken-rukken-op</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T19:41:49.437Z</news:publication_date>
+      <news:title>Automarkt Marokko op recordjaar af: hybride wint terrein, Chinese merken rukken op</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/automarkt-marokko-op-recordjaar-af-hybride-wint-terrein-chinese-merken-rukken-op-1795547763986.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rijbewijs-verlengen-in-marokko-kan-nu-online-via-e-rokhsati</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T19:21:48.528Z</news:publication_date>
+      <news:title>Rijbewijs verlengen in Marokko kan nu online via E-ROKHSATI</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rijbewijs-verlengen-in-marokko-kan-nu-online-via-e-rokhsati-1795547733002.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bereidt-verkiezingen-van-2027-voor-minister-en-partijen-zitten-rond-de-t</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T15:37:45.630Z</news:publication_date>
+      <news:title>Marokko bereidt verkiezingen van 2027 voor: minister en partijen zitten rond de tafel</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bereidt-verkiezingen-van-2027-voor-minister-en-partijen-zitten-rond-de-t-1795534363500.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/air-transat-verdubbelt-rechtstreekse-vluchten-montreal-agadir-in-zomer-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T15:29:29.071Z</news:publication_date>
+      <news:title>Air Transat verdubbelt rechtstreekse vluchten Montréal-Agadir in zomer 2027</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/air-transat-verdubbelt-rechtstreekse-vluchten-montreal-agadir-in-zomer-2027-1795532629878.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/onderzoek-naar-cosmeticabedrijf-in-casablanca-5-000-vrouwen-mogelijk-gedupeerd-v</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T15:09:28.128Z</news:publication_date>
+      <news:title>Onderzoek naar cosmeticabedrijf in Casablanca: 5.000 vrouwen mogelijk gedupeerd voor 25 miljoen dirham</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onderzoek-naar-cosmeticabedrijf-in-casablanca-5-000-vrouwen-mogelijk-gedupeerd-v-1795532593873.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/btw-op-elektriciteit-in-marokko-naar-20-maar-je-rekening-stijgt-niet</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T14:58:11.072Z</news:publication_date>
+      <news:title>Btw op elektriciteit in Marokko naar 20%, maar je rekening stijgt niet</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/btw-op-elektriciteit-in-marokko-naar-20-maar-je-rekening-stijgt-niet-1795530788065.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-het-buitenland-kunnen-uittreksel-strafregister-nu-online-aanvragen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T14:38:10.181Z</news:publication_date>
+      <news:title>Marokkanen in het buitenland kunnen uittreksel strafregister nu online aanvragen via E-police</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-in-het-buitenland-kunnen-uittreksel-strafregister-nu-online-aanvragen-1795530757420.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/doodschieten-van-nahel-agent-toch-vervolgd-voor-opzettelijke-doodslag</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T12:58:12.553Z</news:publication_date>
+      <news:title>Doodschieten van Nahel: agent toch vervolgd voor opzettelijke doodslag</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/doodschieten-van-nahel-agent-toch-vervolgd-voor-opzettelijke-doodslag-1795523584990.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-lanceert-banenplan-voor-bijna-een-miljoen-jongeren-vanaf-2027</loc>
     <news:news>
       <news:publication>
@@ -301,149 +433,5 @@
       <news:title>FIFA-verkiezing in Rabat: Infantino koerst af op vierde termijn</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-verkiezing-in-rabat-infantino-koerst-af-op-vierde-termijn-1795388576116.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/ayoub-oufkir-over-zijn-keuze-voor-marokko-een-uitzonderlijke-ervaring</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:38:13.900Z</news:publication_date>
-      <news:title>Ayoub Oufkir over zijn keuze voor Marokko: &quot;Een uitzonderlijke ervaring&quot;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ayoub-oufkir-over-zijn-keuze-voor-marokko-een-uitzonderlijke-ervaring-1795386755378.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/verdachte-van-ontvoering-in-zeist-door-marokko-uitgeleverd-aan-nederland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:35:14.752Z</news:publication_date>
-      <news:title>Verdachte van ontvoering in Zeist door Marokko uitgeleverd aan Nederland</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/verdachte-van-ontvoering-in-zeist-door-marokko-uitgeleverd-aan-nederland-1795386792579.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgie-zette-in-2025-ruim-1-200-marokkanen-gedwongen-uit</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T21:37:48.369Z</news:publication_date>
-      <news:title>België zette in 2025 ruim 1.200 Marokkanen gedwongen uit</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-zette-in-2025-ruim-1-200-marokkanen-gedwongen-uit-1795383166555.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/8-kilo-cocaine-onderschept-in-haven-tanger-marokkaan-uit-spanje-opgepakt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T19:37:48.896Z</news:publication_date>
-      <news:title>8 kilo cocaïne onderschept in haven Tanger, Marokkaan uit Spanje opgepakt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/8-kilo-cocaine-onderschept-in-haven-tanger-marokkaan-uit-spanje-opgepakt-1795375967556.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-koopt-bijna-twee-keer-zoveel-marokkaanse-auto-onderdelen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T16:29:50.827Z</news:publication_date>
-      <news:title>Spanje koopt bijna twee keer zoveel Marokkaanse auto-onderdelen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-koopt-bijna-twee-keer-zoveel-marokkaanse-auto-onderdelen-1795359887544.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/kopen-om-te-verhuren-in-marokko-is-het-nog-rendabel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T16:09:50.209Z</news:publication_date>
-      <news:title>Kopen om te verhuren in Marokko: is het nog rendabel?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kopen-om-te-verhuren-in-marokko-is-het-nog-rendabel-1795359851341.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/twee-marokkanen-doodgeschoten-door-algeriaans-grenswachten-aan-de-westgrens</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:51:41.038Z</news:publication_date>
-      <news:title>Twee Marokkanen doodgeschoten door Algeriaans grenswachten aan de westgrens</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-marokkanen-doodgeschoten-door-algeriaans-grenswachten-aan-de-westgrens-1795362579687.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wint-openingswedstrijd-wk-voetbal-voor-kleine-mensen-met-2-0</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:49:49.621Z</news:publication_date>
-      <news:title>Marokko wint openingswedstrijd WK voetbal voor kleine mensen met 2-0</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wint-openingswedstrijd-wk-voetbal-voor-kleine-mensen-met-2-0-1795359808235.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/selma-ezzine-wint-italiaanse-tv-show-tale-e-quale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:29:48.955Z</news:publication_date>
-      <news:title>Selma Ezzine wint Italiaanse tv-show &apos;Tale e Quale&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/selma-ezzine-wint-italiaanse-tv-show-tale-e-quale-1795359786668.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/duizenden-marokkaanse-vrouwen-gedupeerd-door-piramidespel-met-cosmetica</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T15:09:48.273Z</news:publication_date>
-      <news:title>Duizenden Marokkaanse vrouwen gedupeerd door piramidespel met cosmetica</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/duizenden-marokkaanse-vrouwen-gedupeerd-door-piramidespel-met-cosmetica-1795359754745.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-rechter-wijst-eis-af-koppel-krijgt-201-000-euro-voor-onafgewerkte-woning</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T14:38:10.191Z</news:publication_date>
-      <news:title>Spaanse rechter wijst eis af: koppel krijgt 201.000 euro voor onafgewerkte woning in Saïdia niet terug</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-rechter-wijst-eis-af-koppel-krijgt-201-000-euro-voor-onafgewerkte-woning-1795357988716.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-china-op-wk-onder-17-zege-plaatst-jonge-atlasleeuwen-al-door</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T14:35:09.508Z</news:publication_date>
-      <news:title>Marokko-China op WK onder 17: zege plaatst jonge Atlasleeuwen al door</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-china-op-wk-onder-17-zege-plaatst-jonge-atlasleeuwen-al-door-1795357945300.jpg</image:loc></image:image>
   </url>
 </urlset>
