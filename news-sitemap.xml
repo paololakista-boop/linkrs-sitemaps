@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/taghazout-versus-tamraght-welk-marokkaans-surfdorp-kies-je</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:51:26.756Z</news:publication_date>
+      <news:title>Taghazout versus Tamraght: welk Marokkaans surfdorp kies je?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/taghazout-versus-tamraght-welk-marokkaans-surfdorp-kies-je-1795619175506.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-amputatievoetballers-als-helden-onthaald-na-wk-zilver</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T15:11:21.618Z</news:publication_date>
+      <news:title>Marokkaanse amputatievoetballers als helden onthaald na WK-zilver</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-amputatievoetballers-als-helden-onthaald-na-wk-zilver-1795619104603.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-laat-vrijdag-regengebeden-houden-in-heel-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T12:37:55.402Z</news:publication_date>
+      <news:title>Koning Mohammed VI laat vrijdag regengebeden houden in heel Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-laat-vrijdag-regengebeden-houden-in-heel-marokko-1795609972349.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/rijbewijs-omwisselen-in-frankrijk-te-laat-attest-kost-marokkaanse-haar-rijbewijs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T11:37:49.494Z</news:publication_date>
+      <news:title>Rijbewijs omwisselen in Frankrijk: te laat attest kost Marokkaanse haar rijbewijs</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rijbewijs-omwisselen-in-frankrijk-te-laat-attest-kost-marokkaanse-haar-rijbewijs-1795606367232.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/caf-awards-2026-drie-marokkanen-genomineerd-voor-beste-speler-van-afrika</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T11:13:48.913Z</news:publication_date>
+      <news:title>CAF Awards 2026: drie Marokkanen genomineerd voor beste speler van Afrika</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-awards-2026-drie-marokkanen-genomineerd-voor-beste-speler-van-afrika-1795604925250.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/indrive-schorst-chauffeur-in-marokko-na-klacht-van-passagier</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T07:28:52.124Z</news:publication_date>
+      <news:title>inDrive schorst chauffeur in Marokko na klacht van passagier</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/indrive-schorst-chauffeur-in-marokko-na-klacht-van-passagier-1795590197581.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/iraanse-regisseur-verfilmt-tunesisch-drama-in-marokkaans-darija-op-filmfestival-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T07:08:51.257Z</news:publication_date>
+      <news:title>Iraanse regisseur verfilmt Tunesisch drama in Marokkaans Darija op filmfestival Marrakech</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/iraanse-regisseur-verfilmt-tunesisch-drama-in-marokkaans-darija-op-filmfestival--1795590163949.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/twee-toeristen-gewond-bij-paragliding-ongeluk-in-aglou</loc>
     <news:news>
       <news:publication>
@@ -277,149 +361,5 @@
       <news:title>Rechtbank Den Haag fluit Nederland terug: moeder (85) mag bij verzorgende dochter blijven</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rechtbank-den-haag-fluit-nederland-terug-moeder-85-mag-bij-verzorgende-dochter-b-1795455167867.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-journalist-hicham-na-tien-jaar-vermissing-weer-dakloos-in-rome</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T15:37:36.201Z</news:publication_date>
-      <news:title>Marokkaanse journalist Hicham na tien jaar vermissing weer dakloos in Rome</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-journalist-hicham-na-tien-jaar-vermissing-weer-dakloos-in-rome-1795447954631.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/china-schaft-invoerheffingen-af-voor-marokkaanse-export</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T15:28:44.841Z</news:publication_date>
-      <news:title>China schaft invoerheffingen af voor Marokkaanse export</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/china-schaft-invoerheffingen-af-voor-marokkaanse-export-1795446196468.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-luchthavens-verwerkten-bijna-33-miljoen-reizigers-in-tien-maanden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T15:08:44.032Z</news:publication_date>
-      <news:title>Marokkaanse luchthavens verwerkten bijna 33 miljoen reizigers in tien maanden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-luchthavens-verwerkten-bijna-33-miljoen-reizigers-in-tien-maanden-1795446165025.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hoe-een-simpele-telefoon-dakloze-jongeren-in-barcelona-vooruithelpt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T13:37:28.524Z</news:publication_date>
-      <news:title>Hoe een simpele telefoon dakloze jongeren in Barcelona vooruithelpt</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoe-een-simpele-telefoon-dakloze-jongeren-in-barcelona-vooruithelpt-1795440747623.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/klacht-tegen-kamal-kharmach-in-belgie-wegens-grensoverschrijdend-gedrag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T10:38:17.058Z</news:publication_date>
-      <news:title>Klacht tegen Kamal Kharmach in België wegens grensoverschrijdend gedrag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/klacht-tegen-kamal-kharmach-in-belgie-wegens-grensoverschrijdend-gedrag-1795429994638.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/cas-beslist-dinsdag-over-bezwaar-senegal-verliest-marokko-zijn-afrikaanse-titel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T10:35:16.102Z</news:publication_date>
-      <news:title>CAS beslist dinsdag over bezwaar Senegal: verliest Marokko zijn Afrikaanse titel?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cas-beslist-dinsdag-over-bezwaar-senegal-verliest-marokko-zijn-afrikaanse-titel-1795429958245.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/belgie-wil-gedetineerden-terugsturen-naar-marokko-maar-tientallen-dossiers-ligge</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T09:37:53.617Z</news:publication_date>
-      <news:title>België wil gedetineerden terugsturen naar Marokko, maar tientallen dossiers liggen al meer dan een jaar stil</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/belgie-wil-gedetineerden-terugsturen-naar-marokko-maar-tientallen-dossiers-ligge-1795426341762.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vliegtuigje-met-50-kilo-hasj-neergestort-in-italie-piloot-omgekomen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T08:34:36.354Z</news:publication_date>
-      <news:title>Vliegtuigje met 50 kilo hasj neergestort in Italië, piloot omgekomen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vliegtuigje-met-50-kilo-hasj-neergestort-in-italie-piloot-omgekomen-1795422755556.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/experts-waarschuwen-voor-terreurcorridor-tussen-sahel-marokko-en-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T07:34:15.603Z</news:publication_date>
-      <news:title>Experts waarschuwen voor terreurcorridor tussen Sahel, Marokko en Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/experts-waarschuwen-voor-terreurcorridor-tussen-sahel-marokko-en-spanje-1795419133273.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/lee-murray-brein-achter-securitas-roof-zou-doodziek-zijn-in-marokkaanse-cel</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T07:28:30.381Z</news:publication_date>
-      <news:title>Lee Murray, brein achter Securitas-roof, zou doodziek zijn in Marokkaanse cel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/lee-murray-brein-achter-securitas-roof-zou-doodziek-zijn-in-marokkaanse-cel-1795417407453.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/reizen-vanuit-marokko-naar-ivoorkust-qr-gezondheidscode-nu-verplicht-ook-bij-ove</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T07:08:29.201Z</news:publication_date>
-      <news:title>Reizen vanuit Marokko naar Ivoorkust: QR-gezondheidscode nu verplicht, ook bij overstap</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/reizen-vanuit-marokko-naar-ivoorkust-qr-gezondheidscode-nu-verplicht-ook-bij-ove-1795417357094.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/tiktok-voedt-zwitserland-droom-bij-marokkaanse-jongeren</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T06:38:14.707Z</news:publication_date>
-      <news:title>TikTok voedt Zwitserland-droom bij Marokkaanse jongeren</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tiktok-voedt-zwitserland-droom-bij-marokkaanse-jongeren-1795415557549.jpg</image:loc></image:image>
   </url>
 </urlset>
