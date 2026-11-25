@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/twee-toeristen-gewond-bij-paragliding-ongeluk-in-aglou</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-25T00:34:39.317Z</news:publication_date>
+      <news:title>Twee toeristen gewond bij paragliding-ongeluk in Aglou</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-toeristen-gewond-bij-paragliding-ongeluk-in-aglou-1795566756905.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/oogdrama-tanger-tien-patienten-naar-huis-vier-moeten-geopereerd-worden</loc>
     <news:news>
       <news:publication>
@@ -409,29 +421,5 @@
       <news:title>TikTok voedt Zwitserland-droom bij Marokkaanse jongeren</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/tiktok-voedt-zwitserland-droom-bij-marokkaanse-jongeren-1795415557549.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/vier-doden-bij-zware-aanrijding-nabij-el-jadida</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T00:34:32.248Z</news:publication_date>
-      <news:title>Vier doden bij zware aanrijding nabij El Jadida</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vier-doden-bij-zware-aanrijding-nabij-el-jadida-1795393950854.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/fifa-verkiezing-in-rabat-infantino-koerst-af-op-vierde-termijn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T23:07:57.103Z</news:publication_date>
-      <news:title>FIFA-verkiezing in Rabat: Infantino koerst af op vierde termijn</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fifa-verkiezing-in-rabat-infantino-koerst-af-op-vierde-termijn-1795388576116.jpg</image:loc></image:image>
   </url>
 </urlset>
