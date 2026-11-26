@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/boussama-de-steenmoordenaar-uit-rabat-en-sale-ter-dood-veroordeeld-voor-veertien</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T16:37:48.031Z</news:publication_date>
+      <news:title>Boussama, de &apos;steenmoordenaar&apos; uit Rabat en Salé: ter dood veroordeeld voor veertien moorden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/boussama-de-steenmoordenaar-uit-rabat-en-sale-ter-dood-veroordeeld-voor-veertien-1795710764578.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/hoe-spanje-zelf-de-deur-opende-voor-een-wk-finale-in-casablanca</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T15:08:47.531Z</news:publication_date>
+      <news:title>Hoe Spanje zelf de deur opende voor een WK-finale in Casablanca</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hoe-spanje-zelf-de-deur-opende-voor-een-wk-finale-in-casablanca-1795705388827.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spanjaard-opgepakt-in-chefchaouen-om-geheime-hasjwerkplaatsen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T15:05:48.600Z</news:publication_date>
+      <news:title>Spanjaard opgepakt in Chefchaouen om geheime hasjwerkplaatsen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanjaard-opgepakt-in-chefchaouen-om-geheime-hasjwerkplaatsen-1795705425394.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/regering-afschaffen-offerfeest-2026-nog-niet-aan-de-orde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T14:38:13.079Z</news:publication_date>
+      <news:title>Regering: afschaffen offerfeest 2026 nog niet aan de orde</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/regering-afschaffen-offerfeest-2026-nog-niet-aan-de-orde-1795703564606.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-spanje-op-wk-onder-17-dit-is-de-opstelling-van-de-jonge-leeuwen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T14:35:14.303Z</news:publication_date>
+      <news:title>Marokko-Spanje op WK onder 17: dit is de opstelling van de jonge Leeuwen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-spanje-op-wk-onder-17-dit-is-de-opstelling-van-de-jonge-leeuwen-1795703590609.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-paspoort-blijft-sterkste-van-noord-afrika-in-henley-index</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:59:03.713Z</news:publication_date>
+      <news:title>Marokkaans paspoort blijft sterkste van Noord-Afrika in Henley-index</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-paspoort-blijft-sterkste-van-noord-afrika-in-henley-index-1795700039964.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/werkloosheid-marokko-op-9-5-procent-maar-echte-banencrisis-is-veel-groter</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:39:02.598Z</news:publication_date>
+      <news:title>Werkloosheid Marokko op 9,5 procent, maar echte banencrisis is veel groter</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/werkloosheid-marokko-op-9-5-procent-maar-echte-banencrisis-is-veel-groter-1795700000910.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-nog-in-2026-eigen-aardgas-gaan-produceren-in-tendrara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T12:38:28.546Z</news:publication_date>
+      <news:title>Marokko wil nog in 2026 eigen aardgas gaan produceren in Tendrara</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-nog-in-2026-eigen-aardgas-gaan-produceren-in-tendrara-1795696405036.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/offerfeest-2027-in-marokko-twijfel-of-het-schapenoffer-opnieuw-wordt-afgelast</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T11:38:11.465Z</news:publication_date>
+      <news:title>Offerfeest 2027 in Marokko: twijfel of het schapenoffer opnieuw wordt afgelast</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/offerfeest-2027-in-marokko-twijfel-of-het-schapenoffer-opnieuw-wordt-afgelast-1795692759942.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-moet-marokko-840-000-banen-opleveren-zegt-minister-bensaid</loc>
     <news:news>
       <news:publication>
@@ -25,18 +133,6 @@
       <news:title>Zelfde koffie, hogere prijs voor Marokkaanse klant in Vitoria</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zelfde-koffie-hogere-prijs-voor-marokkaanse-klant-in-vitoria-1795685587094.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-spanje-wk-u17-hoe-laat-en-waar-kun-je-kijken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T09:35:08.808Z</news:publication_date>
-      <news:title>Marokko-Spanje WK U17: hoe laat en waar kun je kijken?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-spanje-wk-u17-hoe-laat-en-waar-kun-je-kijken-1795685548981.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-zakt-naar-zevende-plaats-op-fifa-ranking-na-cas-uitspraak</loc>
@@ -121,42 +217,6 @@
       <news:title>Bondscoach Dguig: Marokkaans zaalvoetbal meet zich nu met de wereldtop</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bondscoach-dguig-marokkaans-zaalvoetbal-meet-zich-nu-met-de-wereldtop-1795674751804.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-richt-defensie-industrie-op-koning-mohammed-vi-lanceert-agentschap-difaa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T00:43:35.660Z</news:publication_date>
-      <news:title>Marokko richt defensie-industrie op: koning Mohammed VI lanceert agentschap DIFAA</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-richt-defensie-industrie-op-koning-mohammed-vi-lanceert-agentschap-difaa-1795653211818.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/mohammed-vi-geeft-startschot-voor-marokkaanse-defensie-industrie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T00:35:34.695Z</news:publication_date>
-      <news:title>Mohammed VI geeft startschot voor Marokkaanse defensie-industrie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/mohammed-vi-geeft-startschot-voor-marokkaanse-defensie-industrie-1795653171669.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/twee-marokkaanse-actrices-mogen-land-niet-uit-in-piramidefraudezaak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T23:05:22.427Z</news:publication_date>
-      <news:title>Twee Marokkaanse actrices mogen land niet uit in piramidefraudezaak</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-marokkaanse-actrices-mogen-land-niet-uit-in-piramidefraudezaak-1795647767319.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/hakimi-passeert-ziyech-als-marokkaan-met-meeste-europese-duels</loc>
@@ -397,113 +457,5 @@
       <news:title>Spaanse moslimcommissie roept op om te stemmen bij verkiezingen van 29 november</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-moslimcommissie-roept-op-om-te-stemmen-bij-verkiezingen-van-29-november-1795552370079.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/cas-uitspraak-over-verlaten-speelveld-in-afrika-cup-finale-roept-vragen-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T20:01:50.205Z</news:publication_date>
-      <news:title>CAS-uitspraak over verlaten speelveld in Afrika Cup-finale roept vragen op</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/cas-uitspraak-over-verlaten-speelveld-in-afrika-cup-finale-roept-vragen-op-1795547804353.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/automarkt-marokko-op-recordjaar-af-hybride-wint-terrein-chinese-merken-rukken-op</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T19:41:49.437Z</news:publication_date>
-      <news:title>Automarkt Marokko op recordjaar af: hybride wint terrein, Chinese merken rukken op</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/automarkt-marokko-op-recordjaar-af-hybride-wint-terrein-chinese-merken-rukken-op-1795547763986.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rijbewijs-verlengen-in-marokko-kan-nu-online-via-e-rokhsati</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T19:21:48.528Z</news:publication_date>
-      <news:title>Rijbewijs verlengen in Marokko kan nu online via E-ROKHSATI</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rijbewijs-verlengen-in-marokko-kan-nu-online-via-e-rokhsati-1795547733002.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-bereidt-verkiezingen-van-2027-voor-minister-en-partijen-zitten-rond-de-t</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T15:37:45.630Z</news:publication_date>
-      <news:title>Marokko bereidt verkiezingen van 2027 voor: minister en partijen zitten rond de tafel</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-bereidt-verkiezingen-van-2027-voor-minister-en-partijen-zitten-rond-de-t-1795534363500.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/air-transat-verdubbelt-rechtstreekse-vluchten-montreal-agadir-in-zomer-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T15:29:29.071Z</news:publication_date>
-      <news:title>Air Transat verdubbelt rechtstreekse vluchten Montréal-Agadir in zomer 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/air-transat-verdubbelt-rechtstreekse-vluchten-montreal-agadir-in-zomer-2027-1795532629878.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/onderzoek-naar-cosmeticabedrijf-in-casablanca-5-000-vrouwen-mogelijk-gedupeerd-v</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T15:09:28.128Z</news:publication_date>
-      <news:title>Onderzoek naar cosmeticabedrijf in Casablanca: 5.000 vrouwen mogelijk gedupeerd voor 25 miljoen dirham</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/onderzoek-naar-cosmeticabedrijf-in-casablanca-5-000-vrouwen-mogelijk-gedupeerd-v-1795532593873.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/btw-op-elektriciteit-in-marokko-naar-20-maar-je-rekening-stijgt-niet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T14:58:11.072Z</news:publication_date>
-      <news:title>Btw op elektriciteit in Marokko naar 20%, maar je rekening stijgt niet</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/btw-op-elektriciteit-in-marokko-naar-20-maar-je-rekening-stijgt-niet-1795530788065.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkanen-in-het-buitenland-kunnen-uittreksel-strafregister-nu-online-aanvragen</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T14:38:10.181Z</news:publication_date>
-      <news:title>Marokkanen in het buitenland kunnen uittreksel strafregister nu online aanvragen via E-police</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkanen-in-het-buitenland-kunnen-uittreksel-strafregister-nu-online-aanvragen-1795530757420.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/doodschieten-van-nahel-agent-toch-vervolgd-voor-opzettelijke-doodslag</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T12:58:12.553Z</news:publication_date>
-      <news:title>Doodschieten van Nahel: agent toch vervolgd voor opzettelijke doodslag</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/doodschieten-van-nahel-agent-toch-vervolgd-voor-opzettelijke-doodslag-1795523584990.jpg</image:loc></image:image>
   </url>
 </urlset>
