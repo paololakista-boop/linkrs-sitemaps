@@ -3,6 +3,126 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-moet-marokko-840-000-banen-opleveren-zegt-minister-bensaid</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T10:58:14.229Z</news:publication_date>
+      <news:title>WK 2030 moet Marokko 840.000 banen opleveren, zegt minister Bensaid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-2030-moet-marokko-840-000-banen-opleveren-zegt-minister-bensaid-1795689187483.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zelfde-koffie-hogere-prijs-voor-marokkaanse-klant-in-vitoria</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:38:09.864Z</news:publication_date>
+      <news:title>Zelfde koffie, hogere prijs voor Marokkaanse klant in Vitoria</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zelfde-koffie-hogere-prijs-voor-marokkaanse-klant-in-vitoria-1795685587094.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-spanje-wk-u17-hoe-laat-en-waar-kun-je-kijken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T09:35:08.808Z</news:publication_date>
+      <news:title>Marokko-Spanje WK U17: hoe laat en waar kun je kijken?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-spanje-wk-u17-hoe-laat-en-waar-kun-je-kijken-1795685548981.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-zakt-naar-zevende-plaats-op-fifa-ranking-na-cas-uitspraak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:40:50.474Z</news:publication_date>
+      <news:title>Marokko zakt naar zevende plaats op FIFA-ranking na CAS-uitspraak</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-zakt-naar-zevende-plaats-op-fifa-ranking-na-tas-uitspraak-1795633256453.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-vecht-cas-uitspraak-over-afrika-cup-finale-aan-maar-kansen-zijn-klein</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:40:50.272Z</news:publication_date>
+      <news:title>Marokko vecht CAS-uitspraak over Afrika Cup-finale aan, maar kansen zijn klein</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-vecht-cas-uitspraak-over-afcon-finale-aan-maar-kansen-zijn-klein-1795633192800.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalbond-vecht-cas-uitspraak-over-afrika-cup-finale-aan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:40:50.073Z</news:publication_date>
+      <news:title>Marokkaanse voetbalbond vecht CAS-uitspraak over Afrika Cup-finale aan</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-voetbalbond-vecht-cas-uitspraak-over-afrika-cup-finale-aan-1795633156881.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/senegal-alsnog-kampioen-sporttribunaal-draait-3-0-zege-van-marokko-terug</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:40:49.861Z</news:publication_date>
+      <news:title>Senegal alsnog kampioen: sporttribunaal draait 3-0-zege van Marokko terug</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/senegal-alsnog-kampioen-sporttribunaal-draait-3-0-zege-van-marokko-terug-1795633130370.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/scheiding-in-marokko-niet-erkend-vrouw-moet-in-nederland-opnieuw-scheiden</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T07:37:32.986Z</news:publication_date>
+      <news:title>Scheiding in Marokko niet erkend: vrouw moet in Nederland opnieuw scheiden</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/scheiding-in-marokko-niet-erkend-vrouw-moet-in-nederland-opnieuw-scheiden-1795678350290.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-rekent-op-480-000-banen-door-voorbereidingen-wk-2030</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:58:08.198Z</news:publication_date>
+      <news:title>Marokko rekent op 480.000 banen door voorbereidingen WK 2030</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-rekent-op-480-000-banen-door-voorbereidingen-wk-2030-1795674784786.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bondscoach-dguig-marokkaans-zaalvoetbal-meet-zich-nu-met-de-wereldtop</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T06:38:07.227Z</news:publication_date>
+      <news:title>Bondscoach Dguig: Marokkaans zaalvoetbal meet zich nu met de wereldtop</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bondscoach-dguig-marokkaans-zaalvoetbal-meet-zich-nu-met-de-wereldtop-1795674751804.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokko-richt-defensie-industrie-op-koning-mohammed-vi-lanceert-agentschap-difaa</loc>
     <news:news>
       <news:publication>
@@ -385,65 +505,5 @@
       <news:title>Doodschieten van Nahel: agent toch vervolgd voor opzettelijke doodslag</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/doodschieten-van-nahel-agent-toch-vervolgd-voor-opzettelijke-doodslag-1795523584990.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-lanceert-banenplan-voor-bijna-een-miljoen-jongeren-vanaf-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T09:37:33.364Z</news:publication_date>
-      <news:title>Marokko lanceert banenplan voor bijna een miljoen jongeren vanaf 2027</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-lanceert-banenplan-voor-bijna-een-miljoen-jongeren-vanaf-2027-1795512752561.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-u17-tegen-spanje-een-punt-genoeg-voor-de-volgende-ronde-op-wk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T07:37:48.877Z</news:publication_date>
-      <news:title>Marokko U17 tegen Spanje: één punt genoeg voor de volgende ronde op WK</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-u17-tegen-spanje-een-punt-genoeg-voor-de-volgende-ronde-op-wk-1795505567007.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-pp-wil-speciale-economische-zone-tegen-concurrentie-van-tanger-med</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T07:28:44.196Z</news:publication_date>
-      <news:title>Spaanse PP wil speciale economische zone tegen concurrentie van Tanger Med</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-pp-wil-speciale-economische-zone-tegen-concurrentie-van-tanger-med-1795503822069.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hotels-in-noord-marokko-verlagen-prijzen-om-buitenlandse-toeristen-te-lokken-bui</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T07:08:43.354Z</news:publication_date>
-      <news:title>Hotels in Noord-Marokko verlagen prijzen om buitenlandse toeristen te lokken buiten het hoogseizoen</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hotels-in-noord-marokko-verlagen-prijzen-om-buitenlandse-toeristen-te-lokken-bui-1795503774886.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/oranje-kat-steelt-de-show-op-koninklijk-diner-in-marrakech-tussen-hollywoodsterr</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T06:37:16.987Z</news:publication_date>
-      <news:title>Oranje kat steelt de show op koninklijk diner in Marrakech tussen Hollywoodsterren</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oranje-kat-steelt-de-show-op-koninklijk-diner-in-marrakech-tussen-hollywoodsterr-1795501934687.jpg</image:loc></image:image>
   </url>
 </urlset>
