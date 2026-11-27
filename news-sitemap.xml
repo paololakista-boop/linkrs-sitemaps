@@ -422,40 +422,4 @@
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/iraanse-regisseur-verfilmt-tunesisch-drama-in-marokkaans-darija-op-filmfestival--1795590163949.jpg</image:loc></image:image>
   </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/twee-toeristen-gewond-bij-paragliding-ongeluk-in-aglou</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T00:34:39.317Z</news:publication_date>
-      <news:title>Twee toeristen gewond bij paragliding-ongeluk in Aglou</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-toeristen-gewond-bij-paragliding-ongeluk-in-aglou-1795566756905.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/oogdrama-tanger-tien-patienten-naar-huis-vier-moeten-geopereerd-worden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T20:58:23.999Z</news:publication_date>
-      <news:title>Oogdrama Tanger: tien patiënten naar huis, vier moeten geopereerd worden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oogdrama-tanger-tien-patienten-naar-huis-vier-moeten-geopereerd-worden-1795552401010.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-moslimcommissie-roept-op-om-te-stemmen-bij-verkiezingen-van-29-november</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-24T20:38:23.036Z</news:publication_date>
-      <news:title>Spaanse moslimcommissie roept op om te stemmen bij verkiezingen van 29 november</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-moslimcommissie-roept-op-om-te-stemmen-bij-verkiezingen-van-29-november-1795552370079.jpg</image:loc></image:image>
-  </url>
 </urlset>
