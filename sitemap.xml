@@ -32,6 +32,62 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vueling-vliegt-vanaf-30-december-rechtstreeks-van-barcelona-naar-errachidia</loc>
+    <lastmod>2026-11-27T12:38:15.831Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vueling-vliegt-vanaf-30-december-rechtstreeks-van-barcelona-naar-errachidia-1795782755280.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ryanair-moet-reclame-aanpassen-dakhla-niet-als-marokkaans-voorstellen</loc>
+    <lastmod>2026-11-27T11:58:37.490Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ryanair-moet-reclame-aanpassen-dakhla-niet-als-marokkaans-voorstellen-1795779213958.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-grootste-leverancier-van-sperziebonen-aan-europa</loc>
+    <lastmod>2026-11-27T11:38:36.576Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-grootste-leverancier-van-sperziebonen-aan-europa-1795779172891.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/parlementslid-stelt-landbouwminister-vragen-over-voorbereidingen-offerfeest</loc>
+    <lastmod>2026-11-27T08:38:05.369Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/parlementslid-stelt-landbouwminister-vragen-over-voorbereidingen-offerfeest-1795768359736.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/eerste-kamer-vraagt-kabinet-of-marokko-het-uitleveringsverdrag-net-zo-uitlegt</loc>
+    <lastmod>2026-11-27T07:28:42.810Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eerste-kamer-vraagt-kabinet-of-marokko-het-uitleveringsverdrag-net-zo-uitlegt-1795763019699.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vastgoed-in-marokko-wordt-duurder-voor-belgische-kopers</loc>
+    <lastmod>2026-11-27T07:08:41.927Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vastgoed-in-marokko-wordt-duurder-voor-belgische-kopers-1795762976655.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/eu-beperkt-invoer-marokkaanse-hybrides-tot-23-954-auto-s-in-200-dagen</loc>
+    <lastmod>2026-11-27T06:58:25.740Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eu-beperkt-invoer-marokkaanse-hybrides-tot-23-954-auto-s-in-200-dagen-1795761198061.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/transavia-toestel-wijkt-twee-woensdagen-op-rij-uit-naar-marrakech-in-plaats-van-</loc>
+    <lastmod>2026-11-27T05:34:27.481Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/transavia-toestel-wijkt-twee-woensdagen-op-rij-uit-naar-marrakech-in-plaats-van--1795757545180.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/boussama-de-steenmoordenaar-uit-rabat-en-sale-ter-dood-veroordeeld-voor-veertien</loc>
     <lastmod>2026-11-26T16:37:48.031Z</lastmod>
     <changefreq>daily</changefreq>
@@ -882,49 +938,49 @@
     <loc>https://www.linkrsmarokko.com/nieuws/inflatie-in-marokko-stijgt-naar-1-9-procent-door-duurdere-groente-vlees-en-brand</loc>
     <lastmod>2026-11-20T12:37:29.065Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/inflatie-in-marokko-stijgt-naar-1-9-procent-door-duurdere-groente-vlees-en-brand-1795177948019.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-studenten-goed-voor-11-9-procent-van-alle-buitenlandse-studenten-in-</loc>
     <lastmod>2026-11-20T11:37:42.457Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-studenten-goed-voor-11-9-procent-van-alle-buitenlandse-studenten-in--1795174360181.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-amputatievoetbal-voor-het-eerst-naar-wk-halve-finale</loc>
     <lastmod>2026-11-20T11:34:41.337Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-amputatievoetbal-voor-het-eerst-naar-wk-halve-finale-1795174329746.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/fatima-zahra-el-maliani-kandidaat-voor-turijnse-van-het-jaar</loc>
     <lastmod>2026-11-20T10:58:22.080Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/fatima-zahra-el-maliani-kandidaat-voor-turijnse-van-het-jaar-1795170800173.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/op-zijn-12e-naar-frankrijk-zonder-frans-nu-succesvol-met-eigen-notenpasta-buenut</loc>
     <lastmod>2026-11-20T10:38:21.041Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/op-zijn-12e-naar-frankrijk-zonder-frans-nu-succesvol-met-eigen-notenpasta-buenut-1795170766897.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/spaanse-bondsbaas-claimt-wk-finale-2030-en-zet-marokko-buitenspel</loc>
     <lastmod>2026-11-20T07:28:52.018Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-bondsbaas-claimt-wk-finale-2030-en-zet-marokko-buitenspel-1795158191345.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.linkrsmarokko.com/nieuws/abdellah-ouazane-kiest-voor-marokko-keiharde-dreun-voor-oranje</loc>
     <lastmod>2026-11-20T07:08:51.116Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/abdellah-ouazane-kiest-voor-marokko-keiharde-dreun-voor-oranje-1795158166875.jpg</image:loc></image:image>
   </url>
   <url>

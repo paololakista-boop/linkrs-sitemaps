@@ -3,6 +3,102 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vueling-vliegt-vanaf-30-december-rechtstreeks-van-barcelona-naar-errachidia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T12:38:15.831Z</news:publication_date>
+      <news:title>Vueling vliegt vanaf 30 december rechtstreeks van Barcelona naar Errachidia</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vueling-vliegt-vanaf-30-december-rechtstreeks-van-barcelona-naar-errachidia-1795782755280.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ryanair-moet-reclame-aanpassen-dakhla-niet-als-marokkaans-voorstellen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T11:58:37.490Z</news:publication_date>
+      <news:title>Ryanair moet reclame aanpassen: Dakhla niet als Marokkaans voorstellen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ryanair-moet-reclame-aanpassen-dakhla-niet-als-marokkaans-voorstellen-1795779213958.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-grootste-leverancier-van-sperziebonen-aan-europa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T11:38:36.576Z</news:publication_date>
+      <news:title>Marokko grootste leverancier van sperziebonen aan Europa</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-grootste-leverancier-van-sperziebonen-aan-europa-1795779172891.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/parlementslid-stelt-landbouwminister-vragen-over-voorbereidingen-offerfeest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T08:38:05.369Z</news:publication_date>
+      <news:title>Parlementslid stelt landbouwminister vragen over voorbereidingen Offerfeest</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/parlementslid-stelt-landbouwminister-vragen-over-voorbereidingen-offerfeest-1795768359736.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/eerste-kamer-vraagt-kabinet-of-marokko-het-uitleveringsverdrag-net-zo-uitlegt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T07:28:42.810Z</news:publication_date>
+      <news:title>Eerste Kamer vraagt kabinet of Marokko het uitleveringsverdrag net zo uitlegt</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eerste-kamer-vraagt-kabinet-of-marokko-het-uitleveringsverdrag-net-zo-uitlegt-1795763019699.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vastgoed-in-marokko-wordt-duurder-voor-belgische-kopers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T07:08:41.927Z</news:publication_date>
+      <news:title>Vastgoed in Marokko wordt duurder voor Belgische kopers</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vastgoed-in-marokko-wordt-duurder-voor-belgische-kopers-1795762976655.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/eu-beperkt-invoer-marokkaanse-hybrides-tot-23-954-auto-s-in-200-dagen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T06:58:25.740Z</news:publication_date>
+      <news:title>EU beperkt invoer Marokkaanse hybrides tot 23.954 auto&apos;s in 200 dagen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/eu-beperkt-invoer-marokkaanse-hybrides-tot-23-954-auto-s-in-200-dagen-1795761198061.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/transavia-toestel-wijkt-twee-woensdagen-op-rij-uit-naar-marrakech-in-plaats-van-</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T05:34:27.481Z</news:publication_date>
+      <news:title>Transavia-toestel wijkt twee woensdagen op rij uit naar Marrakech in plaats van Agadir</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/transavia-toestel-wijkt-twee-woensdagen-op-rij-uit-naar-marrakech-in-plaats-van--1795757545180.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/boussama-de-steenmoordenaar-uit-rabat-en-sale-ter-dood-veroordeeld-voor-veertien</loc>
     <news:news>
       <news:publication>
@@ -361,65 +457,5 @@
       <news:title>Marokkaanse amputatievoetballers als helden onthaald na WK-zilver</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-amputatievoetballers-als-helden-onthaald-na-wk-zilver-1795619104603.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-laat-vrijdag-regengebeden-houden-in-heel-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T12:37:55.402Z</news:publication_date>
-      <news:title>Koning Mohammed VI laat vrijdag regengebeden houden in heel Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-laat-vrijdag-regengebeden-houden-in-heel-marokko-1795609972349.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/rijbewijs-omwisselen-in-frankrijk-te-laat-attest-kost-marokkaanse-haar-rijbewijs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T11:37:49.494Z</news:publication_date>
-      <news:title>Rijbewijs omwisselen in Frankrijk: te laat attest kost Marokkaanse haar rijbewijs</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/rijbewijs-omwisselen-in-frankrijk-te-laat-attest-kost-marokkaanse-haar-rijbewijs-1795606367232.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/caf-awards-2026-drie-marokkanen-genomineerd-voor-beste-speler-van-afrika</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T11:13:48.913Z</news:publication_date>
-      <news:title>CAF Awards 2026: drie Marokkanen genomineerd voor beste speler van Afrika</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/caf-awards-2026-drie-marokkanen-genomineerd-voor-beste-speler-van-afrika-1795604925250.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/indrive-schorst-chauffeur-in-marokko-na-klacht-van-passagier</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T07:28:52.124Z</news:publication_date>
-      <news:title>inDrive schorst chauffeur in Marokko na klacht van passagier</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/indrive-schorst-chauffeur-in-marokko-na-klacht-van-passagier-1795590197581.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/iraanse-regisseur-verfilmt-tunesisch-drama-in-marokkaans-darija-op-filmfestival-</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T07:08:51.257Z</news:publication_date>
-      <news:title>Iraanse regisseur verfilmt Tunesisch drama in Marokkaans Darija op filmfestival Marrakech</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/iraanse-regisseur-verfilmt-tunesisch-drama-in-marokkaans-darija-op-filmfestival--1795590163949.jpg</image:loc></image:image>
   </url>
 </urlset>
