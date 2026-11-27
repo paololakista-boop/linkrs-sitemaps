@@ -3,6 +3,114 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-elftal-voor-mensen-met-dwerggroei-naar-wk-finale-na-7-2-tegen-bolivia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T21:35:08.603Z</news:publication_date>
+      <news:title>Marokkaans elftal voor mensen met dwerggroei naar WK-finale na 7-2 tegen Bolivia</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaans-elftal-voor-mensen-met-dwerggroei-naar-wk-finale-na-7-2-tegen-bolivia-1795815138463.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/parlementslid-hassan-dirham-veroordeeld-tot-twee-jaar-cel-in-laayoune-zaak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T17:48:32.491Z</news:publication_date>
+      <news:title>Parlementslid Hassan Dirham veroordeeld tot twee jaar cel in Laâyoune-zaak</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/parlementslid-hassan-dirham-veroordeeld-tot-twee-jaar-cel-in-laayoune-zaak-1795801586146.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/twee-broers-opgepakt-in-oued-zem-na-dodelijke-aanrijding-van-politieman</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T17:34:53.208Z</news:publication_date>
+      <news:title>Twee broers opgepakt in Oued Zem na dodelijke aanrijding van politieman</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/twee-broers-opgepakt-in-oued-zem-na-dodelijke-aanrijding-van-politieman-1795800770711.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/oeigoerse-activist-idris-hasan-zat-43-maanden-vast-in-marokko-nu-vrij-in-canada</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T16:37:55.925Z</news:publication_date>
+      <news:title>Oeigoerse activist Idris Hasan zat 43 maanden vast in Marokko, nu vrij in Canada</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/oeigoerse-activist-idris-hasan-zat-43-maanden-vast-in-marokko-nu-vrij-in-canada-1795797173788.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/ashraf-sekkaki-opnieuw-veroordeeld-in-belgie-maar-hij-zit-al-in-marokko-vast</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T15:37:44.127Z</news:publication_date>
+      <news:title>Ashraf Sekkaki opnieuw veroordeeld in België, maar hij zit al in Marokko vast</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/ashraf-sekkaki-opnieuw-veroordeeld-in-belgie-maar-hij-zit-al-in-marokko-vast-1795793561933.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-sprong-in-toen-niemand-afrikaanse-toernooien-wilde-organiseren</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T14:58:36.607Z</news:publication_date>
+      <news:title>Marokko sprong in toen niemand Afrikaanse toernooien wilde organiseren</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-sprong-in-toen-niemand-afrikaanse-toernooien-wilde-organiseren-1795790013252.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/spaanse-neonazi-s-opgepakt-na-aanvallen-op-marokkaanse-migranten-in-ceuta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T14:38:35.766Z</news:publication_date>
+      <news:title>Spaanse neonazi&apos;s opgepakt na aanvallen op Marokkaanse migranten in Ceuta</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spaanse-neonazi-s-opgepakt-na-aanvallen-op-marokkaanse-migranten-in-ceuta-1795789967312.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/zweeds-cosmeticamerk-the-untamed-verdacht-van-piramidespel-in-marokko</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T13:58:31.562Z</news:publication_date>
+      <news:title>Zweeds cosmeticamerk The Untamed verdacht van piramidespel in Marokko</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zweeds-cosmeticamerk-the-untamed-verdacht-van-piramidespel-in-marokko-1795786404332.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/china-schrapt-invoerheffingen-op-marokkaanse-producten-wat-dit-betekent-voor-exp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T12:58:16.580Z</news:publication_date>
+      <news:title>China schrapt invoerheffingen op Marokkaanse producten: wat dit betekent voor exporteurs</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/china-schrapt-invoerheffingen-op-marokkaanse-producten-wat-dit-betekent-voor-exp-1795782794081.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/vueling-vliegt-vanaf-30-december-rechtstreeks-van-barcelona-naar-errachidia</loc>
     <news:news>
       <news:publication>
@@ -337,125 +445,5 @@
       <news:title>Paspoorten ingetrokken van artiesten en influencers in Marokkaanse piramidezaak</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/paspoorten-ingetrokken-van-artiesten-en-influencers-in-marokkaanse-piramidezaak-1795646000601.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-strijdt-om-wk-finale-2030-casablanca-verrast-spanje</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T21:41:58.557Z</news:publication_date>
-      <news:title>Marokko strijdt om WK-finale 2030: Casablanca verrast Spanje</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-strijdt-om-wk-finale-2030-casablanca-verrast-spanje-1795641414450.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/spanje-marokko-op-het-wk-onder-17-hoe-laat-en-waar-kun-je-kijken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T21:21:57.707Z</news:publication_date>
-      <news:title>Spanje-Marokko op het WK onder 17: hoe laat en waar kun je kijken?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/spanje-marokko-op-het-wk-onder-17-hoe-laat-en-waar-kun-je-kijken-1795641360844.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/koning-mohammed-vi-steekt-22-miljard-dirham-in-marokkaanse-defensie-industrie</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:58:49.905Z</news:publication_date>
-      <news:title>Koning Mohammed VI steekt 22 miljard dirham in Marokkaanse defensie-industrie</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/koning-mohammed-vi-steekt-22-miljard-dirham-in-marokkaanse-defensie-industrie-1795638826789.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/noord-afrikanen-vaakst-doelwit-van-online-haat-in-spanje-in-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T20:38:48.725Z</news:publication_date>
-      <news:title>Noord-Afrikanen vaakst doelwit van online haat in Spanje in 2025</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/noord-afrikanen-vaakst-doelwit-van-online-haat-in-spanje-in-2025-1795638797414.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/duitsland-zette-dit-jaar-459-mensen-uit-naar-marokko</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:37:57.097Z</news:publication_date>
-      <news:title>Duitsland zette dit jaar 459 mensen uit naar Marokko</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/duitsland-zette-dit-jaar-459-mensen-uit-naar-marokko-1795635149153.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/nederland-en-marokko-zoeken-samenwerking-in-landbouwonderzoek</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T19:07:18.256Z</news:publication_date>
-      <news:title>Nederland en Marokko zoeken samenwerking in landbouwonderzoek</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nederland-en-marokko-zoeken-samenwerking-in-landbouwonderzoek-1795630927372.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/jeff-goldblum-in-marrakech-ik-zou-graag-een-schurk-spelen-in-james-bond</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T18:47:17.401Z</news:publication_date>
-      <news:title>Jeff Goldblum in Marrakech: &apos;Ik zou graag een schurk spelen in James Bond&apos;</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/jeff-goldblum-in-marrakech-ik-zou-graag-een-schurk-spelen-in-james-bond-1795630893136.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-tomaten-onder-druk-prijzen-dalen-en-export-deels-stopgezet</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T17:38:15.820Z</news:publication_date>
-      <news:title>Marokkaanse tomaten onder druk: prijzen dalen en export deels stopgezet</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-tomaten-onder-druk-prijzen-dalen-en-export-deels-stopgezet-1795627991948.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/taghazout-versus-tamraght-welk-marokkaans-surfdorp-kies-je</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T15:51:26.756Z</news:publication_date>
-      <news:title>Taghazout versus Tamraght: welk Marokkaans surfdorp kies je?</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/taghazout-versus-tamraght-welk-marokkaans-surfdorp-kies-je-1795619175506.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-amputatievoetballers-als-helden-onthaald-na-wk-zilver</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T15:11:21.618Z</news:publication_date>
-      <news:title>Marokkaanse amputatievoetballers als helden onthaald na WK-zilver</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-amputatievoetballers-als-helden-onthaald-na-wk-zilver-1795619104603.jpg</image:loc></image:image>
   </url>
 </urlset>
