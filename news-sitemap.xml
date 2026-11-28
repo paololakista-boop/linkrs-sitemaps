@@ -3,6 +3,90 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-chili-hoe-laat-speelt-marokko-u17-op-het-wk-in-qatar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T11:37:58.645Z</news:publication_date>
+      <news:title>Marokko-Chili: hoe laat speelt Marokko U17 op het WK in Qatar?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-chili-hoe-laat-speelt-marokko-u17-op-het-wk-in-qatar-1795865549021.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/bootramp-bij-canarische-eilanden-zeker-14-migranten-omgekomen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T11:34:59.417Z</news:publication_date>
+      <news:title>Bootramp bij Canarische Eilanden: zeker 14 migranten omgekomen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bootramp-bij-canarische-eilanden-zeker-14-migranten-omgekomen-1795865576863.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/kickbokser-jamal-ben-saddik-veroordeeld-tot-4-jaar-cel-voor-cocaine-in-antwerpse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T10:34:38.210Z</news:publication_date>
+      <news:title>Kickbokser Jamal Ben Saddik veroordeeld tot 4 jaar cel voor cocaïne in Antwerpse haven</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/kickbokser-jamal-ben-saddik-veroordeeld-tot-4-jaar-cel-voor-cocaine-in-antwerpse-1795861956566.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/nieuw-medisch-attest-voor-verblijf-in-belgie-wat-marokkanen-moeten-weten</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T09:37:57.059Z</news:publication_date>
+      <news:title>Nieuw medisch attest voor verblijf in België: wat Marokkanen moeten weten</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/nieuw-medisch-attest-voor-verblijf-in-belgie-wat-marokkanen-moeten-weten-1795858374200.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/novemberregen-brengt-marokkaanse-boeren-weer-hoop-zaaigoed-ontkiemt-en-akkers-wo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T07:08:01.197Z</news:publication_date>
+      <news:title>Novemberregen brengt Marokkaanse boeren weer hoop: zaaigoed ontkiemt en akkers worden uitgebreid</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/novemberregen-brengt-marokkaanse-boeren-weer-hoop-zaaigoed-ontkiemt-en-akkers-wo-1795849377744.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-media-gaven-partijen-bijna-349-uur-zendtijd-rond-verkiezingen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T06:58:14.897Z</news:publication_date>
+      <news:title>Marokkaanse media gaven partijen bijna 349 uur zendtijd rond verkiezingen</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-media-gaven-partijen-bijna-349-uur-zendtijd-rond-verkiezingen-1795847592108.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/vogue-reist-naar-atlasgebergte-voor-amazigh-tapijtweefster-malika-oubzou-36</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T06:38:13.877Z</news:publication_date>
+      <news:title>Vogue reist naar Atlasgebergte voor Amazigh-tapijtweefster Malika Oubzou (36)</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/vogue-reist-naar-atlasgebergte-voor-amazigh-tapijtweefster-malika-oubzou-36-1795847555349.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/canada-handhaaft-verbod-op-hoofddoek-voor-leraren-in-quebec</loc>
     <news:news>
       <news:publication>
@@ -313,137 +397,5 @@
       <news:title>Werkloosheid Marokko op 9,5 procent, maar echte banencrisis is veel groter</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/werkloosheid-marokko-op-9-5-procent-maar-echte-banencrisis-is-veel-groter-1795700000910.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-wil-nog-in-2026-eigen-aardgas-gaan-produceren-in-tendrara</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T12:38:28.546Z</news:publication_date>
-      <news:title>Marokko wil nog in 2026 eigen aardgas gaan produceren in Tendrara</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-wil-nog-in-2026-eigen-aardgas-gaan-produceren-in-tendrara-1795696405036.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/offerfeest-2027-in-marokko-twijfel-of-het-schapenoffer-opnieuw-wordt-afgelast</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T11:38:11.465Z</news:publication_date>
-      <news:title>Offerfeest 2027 in Marokko: twijfel of het schapenoffer opnieuw wordt afgelast</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/offerfeest-2027-in-marokko-twijfel-of-het-schapenoffer-opnieuw-wordt-afgelast-1795692759942.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/wk-2030-moet-marokko-840-000-banen-opleveren-zegt-minister-bensaid</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T10:58:14.229Z</news:publication_date>
-      <news:title>WK 2030 moet Marokko 840.000 banen opleveren, zegt minister Bensaid</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/wk-2030-moet-marokko-840-000-banen-opleveren-zegt-minister-bensaid-1795689187483.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/zelfde-koffie-hogere-prijs-voor-marokkaanse-klant-in-vitoria</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T09:38:09.864Z</news:publication_date>
-      <news:title>Zelfde koffie, hogere prijs voor Marokkaanse klant in Vitoria</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/zelfde-koffie-hogere-prijs-voor-marokkaanse-klant-in-vitoria-1795685587094.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-zakt-naar-zevende-plaats-op-fifa-ranking-na-cas-uitspraak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T07:40:50.474Z</news:publication_date>
-      <news:title>Marokko zakt naar zevende plaats op FIFA-ranking na CAS-uitspraak</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-zakt-naar-zevende-plaats-op-fifa-ranking-na-tas-uitspraak-1795633256453.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-vecht-cas-uitspraak-over-afrika-cup-finale-aan-maar-kansen-zijn-klein</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T07:40:50.272Z</news:publication_date>
-      <news:title>Marokko vecht CAS-uitspraak over Afrika Cup-finale aan, maar kansen zijn klein</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-vecht-cas-uitspraak-over-afcon-finale-aan-maar-kansen-zijn-klein-1795633192800.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokkaanse-voetbalbond-vecht-cas-uitspraak-over-afrika-cup-finale-aan</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T07:40:50.073Z</news:publication_date>
-      <news:title>Marokkaanse voetbalbond vecht CAS-uitspraak over Afrika Cup-finale aan</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokkaanse-voetbalbond-vecht-cas-uitspraak-over-afrika-cup-finale-aan-1795633156881.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/senegal-alsnog-kampioen-sporttribunaal-draait-3-0-zege-van-marokko-terug</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T07:40:49.861Z</news:publication_date>
-      <news:title>Senegal alsnog kampioen: sporttribunaal draait 3-0-zege van Marokko terug</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/senegal-alsnog-kampioen-sporttribunaal-draait-3-0-zege-van-marokko-terug-1795633130370.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/scheiding-in-marokko-niet-erkend-vrouw-moet-in-nederland-opnieuw-scheiden</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T07:37:32.986Z</news:publication_date>
-      <news:title>Scheiding in Marokko niet erkend: vrouw moet in Nederland opnieuw scheiden</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/scheiding-in-marokko-niet-erkend-vrouw-moet-in-nederland-opnieuw-scheiden-1795678350290.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/marokko-rekent-op-480-000-banen-door-voorbereidingen-wk-2030</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:58:08.198Z</news:publication_date>
-      <news:title>Marokko rekent op 480.000 banen door voorbereidingen WK 2030</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-rekent-op-480-000-banen-door-voorbereidingen-wk-2030-1795674784786.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/bondscoach-dguig-marokkaans-zaalvoetbal-meet-zich-nu-met-de-wereldtop</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T06:38:07.227Z</news:publication_date>
-      <news:title>Bondscoach Dguig: Marokkaans zaalvoetbal meet zich nu met de wereldtop</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bondscoach-dguig-marokkaans-zaalvoetbal-meet-zich-nu-met-de-wereldtop-1795674751804.jpg</image:loc></image:image>
   </url>
 </urlset>
