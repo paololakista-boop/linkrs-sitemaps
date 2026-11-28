@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/canada-handhaaft-verbod-op-hoofddoek-voor-leraren-in-quebec</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T22:58:00.741Z</news:publication_date>
+      <news:title>Canada handhaaft verbod op hoofddoek voor leraren in Quebec</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/canada-handhaaft-verbod-op-hoofddoek-voor-leraren-in-quebec-1795818778046.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.linkrsmarokko.com/nieuws/marokko-tegen-chili-in-wk-u17-hoe-laat-en-waar-kijken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Linkrs Marokko</news:name>
+        <news:language>nl</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-27T22:37:59.927Z</news:publication_date>
+      <news:title>Marokko tegen Chili in WK U17: hoe laat en waar kijken?</news:title>
+    </news:news>
+    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/marokko-tegen-chili-in-wk-u17-hoe-laat-en-waar-kijken-1795818732817.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.linkrsmarokko.com/nieuws/marokkaans-elftal-voor-mensen-met-dwerggroei-naar-wk-finale-na-7-2-tegen-bolivia</loc>
     <news:news>
       <news:publication>
@@ -421,29 +445,5 @@
       <news:title>Bondscoach Dguig: Marokkaans zaalvoetbal meet zich nu met de wereldtop</news:title>
     </news:news>
     <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/bondscoach-dguig-marokkaans-zaalvoetbal-meet-zich-nu-met-de-wereldtop-1795674751804.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/hakimi-passeert-ziyech-als-marokkaan-met-meeste-europese-duels</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T22:38:22.615Z</news:publication_date>
-      <news:title>Hakimi passeert Ziyech als Marokkaan met meeste Europese duels</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/hakimi-passeert-ziyech-als-marokkaan-met-meeste-europese-duels-1795645968922.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.linkrsmarokko.com/nieuws/paspoorten-ingetrokken-van-artiesten-en-influencers-in-marokkaanse-piramidezaak</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Linkrs Marokko</news:name>
-        <news:language>nl</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-25T22:35:23.609Z</news:publication_date>
-      <news:title>Paspoorten ingetrokken van artiesten en influencers in Marokkaanse piramidezaak</news:title>
-    </news:news>
-    <image:image><image:loc>https://foxajoxeumtlouaaeffz.supabase.co/storage/v1/object/public/blog-images/blog-images/paspoorten-ingetrokken-van-artiesten-en-influencers-in-marokkaanse-piramidezaak-1795646000601.jpg</image:loc></image:image>
   </url>
 </urlset>
